@@ -1,0 +1,36 @@
+name: Vatican Engine Automated
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # S'exécute automatiquement chaque jour à 4h00 UTC
+  workflow_dispatch: # Permet de cliquer sur un bouton pour l'allumer quand on veut
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python environment
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Install required dependencies
+        run: pip install -r requirements.txt
+
+      - name: Trigger Vatican Bot Processing
+        env:
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python vatican_bot.py
+
+      - name: Commit and Push fresh ligues.json
+        run: |
+          git config --global user.name "Vatican-Bot"
+          git config --global user.email "bot@vatican.io"
+          git add ligues.json
+          git commit -m "🔮 Oracle Update: Données flash rafraîchies" || echo "Aucun changement détecté"
+          git push
+          
