@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>VATICIN - Signaux Flash</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <meta name="theme-color" content="#060709">
+    <style>
+        body { background-color: #060709; color: #f3f4f6; }
+        .signal-card { background: #0e111a; border-left: 4px solid; }
+        .border-safe { border-color: #10b981; }
+        .border-warning { border-color: #f59e0b; }
+        .border-risk { border-color: #ef4444; }
+        .rtl { direction: rtl; text-align: right; }
+        .rtl .signal-card { border-left: 0; border-right: 4px solid; }
+    </style>
+</head>
+<body class="font-sans antialiased max-w-md mx-auto px-4 pb-12 select-none">
+
+    <header class="py-5 flex justify-between items-center border-b border-gray-900 sticky top-0 bg-[#060709]/95 backdrop-blur-md z-50">
+        <div>
+            <h1 class="text-xl font-black tracking-widest text-amber-500 font-mono">VATICIN</h1>
+            <p id="sub-header" class="text-[9px] text-gray-500 uppercase font-mono tracking-wider">Instantané • Zéro Blabla</p>
+        </div>
+        <select id="lang-select" onchange="changeLang(this.value)" class="bg-[#0e111a] text-xs font-mono text-gray-400 border border-gray-800 rounded px-1.5 py-0.5 outline-none">
+            <option value="auto">🌐 Auto</option>
+            <option value="en">EN</option>
+            <option value="fr">FR</option>
+            <option value="es">ES</option>
+            <option value="pt">PT</option>
+            <option value="ar">AR</option>
+            <option value="sw">SW</option>
+        </select>
+    </header>
+
+    <section class="mb-6 mt-4">
+        <div id="flash-timeline" class="space-y-2">
+            <div class="animate-pulse h-9 bg-gray-900 rounded border border-gray-800"></div>
+        </div>
+    </section>
+
+    <section class="space-y-3">
+        <div id="signals-container" class="space-y-3">
+            <div class="animate-pulse space-y-2">
+                <div class="h-24 bg-gray-900 rounded-xl"></div>
+                <div class="h-24 bg-gray-900 rounded-xl"></div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        let currentLang = 'en';
+        let globalData = [];
+
+        function detectLanguage() {
+            const userLang = navigator.language || navigator.userLanguage;
+            const shortLang = userLang.substring(0, 2);
+            const supported = ['en', 'fr', 'es', 'pt', 'ar', 'sw'];
+            return supported.includes(shortLang) ? shortLang : 'en';
+        }
+
+        async function init() {
+            currentLang = detectLanguage();
+            document.getElementById('lang-select').value = currentLang;
+            if(currentLang === 'ar') document.body.classList.add('rtl');
+
+            try {
+                const response = await fetch('ligues.json?t=' + new Date().getTime());
+                globalData = await response.json();
+                renderApp();
+            } catch (e) {
+                console.error("En attente de la première génération de données...");
+                document.getElementById('signals-container').innerHTML = 
+                    `<p class="text-xs text-gray-500 text-center py-8 font-mono">🔮 En attente du premier lancement du robot...</p>`;
+            }
+        }
+
+        function changeLang(langValue) {
+            currentLang = langValue === 'auto' ? detectLanguage() : langValue;
+            if (currentLang === 'ar') document.body.classList.add('rtl');
+            else document.body.classList.remove('rtl');
+            renderApp();
+        }
+
+        function renderApp() {
+            const container = document.getElementById('signals-container');
+            const timeline = document.getElementById('flash-timeline');
+            
+            const uiTitles = {
+                fr: "Instantané • Zéro Blabla", en: "Instant • No Blabla", es: "Instantáneo • Sin Blabla",
+                pt: "Instantâneo • Sem Blabla", ar: "فوري • بدون كلام", sw: "Papo Hapo • Bila Blabla"
+            };
+            document.getElementById('sub-header').innerText = uiTitles[currentLang] || uiTitles['en'];
+
+            if(!globalData || globalData.length === 0) return;
+
+            const firstItem = globalData[0];
+            timeline.innerHTML = `
+                <div class="p-2 bg-amber-950/20 text-amber-400 text-xs rounded border border-amber-900/40 font-medium font-mono truncate">
+                    ⚡ <b>NEWS:</b> ${firstItem.impact[currentLang] || firstItem.impact['en']}
+                </div>
+            `;
+
+            container.innerHTML = globalData.map(s => {
+                const colorClass = s.type === 'safe' ? 'border-safe' : (s.type === 'warning' ? 'border-warning' : 'border-risk');
+                const badgeColor = s.type === 'safe' ? 'bg-emerald-500/10 text-emerald-400' : (s.type === 'warning' ? 'bg-amber-500/10 text-amber-400' : 'bg-red-500/10 text-red-400');
+
+                return `
+                    <div class="signal-card ${colorClass} p-3 rounded-r-xl shadow-lg">
+                        <div class="flex justify-between items-center mb-1">
+                            <div class="font-bold text-sm tracking-tight text-gray-200">
+                                ${s.home} <span class="text-gray-600 font-normal text-xs px-0.5">v</span> ${s.away}
+                            </div>
+                            <span class="font-mono text-[10px] text-gray-500">${s.time}</span>
+                        </div>
+                        <div class="flex items-center gap-2 my-1.5">
+                            <span class="text-[9px] font-mono font-black px-1.5 py-0.5 rounded ${badgeColor} tracking-wider uppercase">
+                                ${s.badge[currentLang] || s.badge['en']}
+                            </span>
+                            <span class="text-xs font-bold text-gray-300">
+                                ${s.prediction[currentLang] || s.prediction['en']} • <span class="font-mono text-amber-500">${s.pct}%</span>
+                            </span>
+                        </div>
+                        <p class="text-[11px] text-gray-400 italic mb-2.5">
+                            💡 ${s.impact[currentLang] || s.impact['en']}
+                        </p>
+                        <div class="pt-2 border-t border-gray-900/60 flex flex-wrap gap-1.5">
+                            <span class="inline-flex items-center gap-1 bg-blue-500/10 text-blue-400 font-mono text-[9px] px-2 py-0.5 rounded-full">
+                                📊 ${s.chat_flash.tendence_commu[currentLang] || s.chat_flash.tendence_commu['en']}
+                            </span>
+                            <span class="inline-flex items-center bg-gray-800/50 text-gray-400 font-sans text-[9px] px-2 py-0.5 rounded-full max-w-[180px] truncate">
+                                "${s.chat_flash.last_punchline[currentLang] || s.chat_flash.last_punchline['en']}"
+                            </span>
+                        </div>
+                    </div>
+                `;
+            }).join('');
+        }
+
+        document.addEventListener("DOMContentLoaded", init);
+    </script>
+</body>
+  </html>
+  
