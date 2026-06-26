@@ -2,10 +2,8 @@ name: Vatican Engine Automated
 
 on:
   schedule:
-    # S'exécute automatiquement toutes les nuits à 4h00 UTC
     - cron: '0 4 * * *'
   workflow_dispatch:
-    # Te permet de lancer le robot manuellement depuis l'onglet Actions
 
 permissions:
   contents: write
@@ -32,21 +30,19 @@ jobs:
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
         run: python vatican_bot.py
 
       - name: Commit and Push fresh ligues.json
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
         run: |
           git config --global user.name "Vatican-Bot"
           git config --global user.email "actions@github.com"
           
-          # Vérifie si le fichier ligues.json a été modifié ou créé
-          if git status --porcelain | grep -q "ligues.json"; then
-            echo "Changements détectés dans ligues.json. Sauvegarde en cours..."
-            git add ligues.json
-            git commit -m "Automated data update: fresh ligues.json [skip ci]"
-            git push
-          else
-            echo "Aucune nouvelle donnée ou modification détectée."
-          fi
+          git remote set-url origin https://x-access-token:${{ secrets.MY_GH_TOKEN }}@github.com/${{ github.repository }}.git
+          
+          git add ligues.json
+          git commit -m "Automated data update: fresh ligues.json [skip ci]" || echo "Aucun changement détecté"
+          git push origin main
           
