@@ -1,1 +1,176 @@
-[]
+[
+  {
+    "ligue": "Coupe du Monde 2026",
+    "matchs": [
+      {
+        "domicile": "Norway",
+        "exterieur": "France",
+        "heure": "2026-06-26T19:00:00Z",
+        "score": "VS",
+        "statut": "TIMED",
+        "signal_vatican": "“En France, rien n’est climatisé” : la presse nippone étonnée par les débats liés à la canicule | Le Slip Français va entrer en Bourse le 14 juillet"
+      },
+      {
+        "domicile": "Senegal",
+        "exterieur": "Iraq",
+        "heure": "2026-06-26T19:00:00Z",
+        "score": "VS",
+        "statut": "TIMED",
+        "signal_vatican": "Fiers malgré la déception : l’Irak a “perdu avec honneur” contre la France | Où regarder Argentine - Autriche, France - Iraq et la Coupe du monde en live? Les directs sport de ce lundi 22 juin en Belgique"
+      },
+      {
+        "domicile": "Uruguay",
+        "exterieur": "Spain",
+        "heure": "2026-06-27T00:00:00Z",
+        "score": "VS",
+        "statut": "TIMED",
+        "signal_vatican": "Coupe du Monde – L’homme qui s’est levé à 4h du matin pour regarder Turquie-Paraguay vient de divorcer | Chaleur extrême : le chiffre qui montre que nous avons déjà changé d’époque climatique"
+      },
+      {
+        "domicile": "Cape Verde Islands",
+        "exterieur": "Saudi Arabia",
+        "heure": "2026-06-27T00:00:00Z",
+        "score": "VS",
+        "statut": "TIMED",
+        "signal_vatican": "Should Lamine Yamal start for Spain against Saudi Arabia at World Cup 2026? | Pronostic Uruguay Cape Verde Islands : analyse, cotes et prono Coupe du monde 2026"
+      }
+    ]
+  },
+  {
+    "ligue": "Premier League",
+    "matchs": [
+      {
+        "domicile": "Arsenal FC",
+        "exterieur": "Coventry City FC",
+        "heure": "2026-08-21T19:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Coupe du monde 2026: la liste complète des 1248 joueurs du Mondial | Arsenal : le plus français des clubs anglais"
+      },
+      {
+        "domicile": "Hull City AFC",
+        "exterieur": "Manchester United FC",
+        "heure": "2026-08-22T11:30:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas"
+      },
+      {
+        "domicile": "Ipswich Town FC",
+        "exterieur": "Sunderland AFC",
+        "heure": "2026-08-22T14:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Calme plat dans les coulisses de cette ligue."
+      },
+      {
+        "domicile": "Nottingham Forest FC",
+        "exterieur": "Leeds United FC",
+        "heure": "2026-08-22T14:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Calme plat dans les coulisses de cette ligue."
+      }
+    ]
+  },
+  {
+    "ligue": "Série A",
+    "matchs": [
+      {
+        "domicile": "Udinese Calcio",
+        "exterieur": "Como 1907",
+        "heure": "2026-08-23T16:30:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Amical club : Monaco affrontera Liverpool à Anfield lors des amicaux de pré-saison au mois d’août"
+      },
+      {
+        "domicile": "Bologna FC 1909",
+        "exterieur": "SS Lazio",
+        "heure": "2026-08-23T16:30:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas | Bologne et son coach Vincenzo Italiano se séparent"
+      },
+      {
+        "domicile": "Genoa CFC",
+        "exterieur": "SSC Napoli",
+        "heure": "2026-08-23T16:30:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Coupe du monde 2026: la liste complète des 1248 joueurs du Mondial | Dries Mertens puissance 4 : le Diable rouge revient à Naples et fait le show avec un but magnifique (vidéo)"
+      },
+      {
+        "domicile": "FC Internazionale Milano",
+        "exterieur": "AC Monza",
+        "heure": "2026-08-23T16:30:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Ultima Markets célèbre son 10ᵉ anniversaire et le doublé de l'Inter avec une visite VIP exclusive du San Siro"
+      }
+    ]
+  },
+  {
+    "ligue": "La Liga",
+    "matchs": [
+      {
+        "domicile": "Mercato & Transferts",
+        "exterieur": "Changements Clubs",
+        "heure": "Saison 2026/2027 en préparation",
+        "score": "🔄",
+        "statut": "MERCATO",
+        "signal_vatican": "🔥 Coulisses : Mercato: Kroupi dans la short-list du Barça pour l’après-Lewandowski | Mercato: la volte-face de Bernardo Silva qui va retrouver Kylian Mbappé"
+      }
+    ]
+  },
+  {
+    "ligue": "Ligue 1",
+    "matchs": [
+      {
+        "domicile": "Le Mans FC",
+        "exterieur": "Stade Brestois 29",
+        "heure": "2026-08-22T15:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "\"Kenavo le King\", \"le souvenir d'un homme profondément humain\", \"technicien reconnu par ses pairs\"... Le monde du football rend hommage à Eric Roy | Président de Le Mans FC depuis 2016, Thierry Gomez passe le témoin au nouvel actionnaire"
+      },
+      {
+        "domicile": "Racing Club de Lens",
+        "exterieur": "AJ Auxerre",
+        "heure": "2026-08-22T15:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Coupe du monde : le sélectionneur de l’Allemagne Julian Nagelsmann complimente le nouvel entraîneur de Lens Dino Toppmöller | Football : l'Allemand Dino Toppmöller nommé nouvel entraîneur de Lens"
+      },
+      {
+        "domicile": "Paris Saint-Germain FC",
+        "exterieur": "Stade Rennais FC 1901",
+        "heure": "2026-08-22T15:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas"
+      },
+      {
+        "domicile": "ES Troyes AC",
+        "exterieur": "Paris FC",
+        "heure": "2026-08-22T15:00:00Z",
+        "score": "VS",
+        "statut": "SCHEDULED",
+        "signal_vatican": "Ligue 1 : le Paris FC prêt à lâcher Antoine Kombouaré pour Liam Rosenior ? | France : Alexandre Oukidja, Florentin Pogba, Vincent Koziello… On connaît le casting de la 36e édition du stage de l’UNFP FC"
+      }
+    ]
+  },
+  {
+    "ligue": "Ligue des Champions",
+    "matchs": [
+      {
+        "domicile": "Mercato & Transferts",
+        "exterieur": "Changements Clubs",
+        "heure": "Saison 2026/2027 en préparation",
+        "score": "🔄",
+        "statut": "MERCATO",
+        "signal_vatican": "🔥 Coulisses : Relancer Julian Alvarez malgré la saga espagnole sur son transfert, ou laisser Lautaro Martinez : le dilemme de Scaloni pour l’attaque de l’Argentine | Relancer Julian Alvarez malgré la saga espagnole sur son transfert, ou laisser Lautaro Martinez : le dilemme de Scaloni pour l’attaque de l’Argentine"
+      }
+    ]
+  }
+]
