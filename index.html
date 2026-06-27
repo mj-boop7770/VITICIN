@@ -5,17 +5,17 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>VATICIN - Signaux Flash</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <meta name="apple-mobile-web-app-capable" content="yes">
-    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <meta name="theme-color" content="#060709">
     <style>
         body { background-color: #060709; color: #f3f4f6; }
         .signal-card { background: #0e111a; border-left: 4px solid; }
-        .border-safe { border-color: #10b981; }
-        .border-warning { border-color: #f59e0b; }
-        .border-risk { border-color: #ef4444; }
-        .rtl { direction: rtl; text-align: right; }
-        .rtl .signal-card { border-left: 0; border-right: 4px solid; }
+        .border-wc { border-color: #f59e0b; }
+        .border-pl { border-color: #3b82f6; }
+        .border-sa { border-color: #10b981; }
+        .border-ll { border-color: #ef4444; }
+        .border-l1 { border-color: #8b5cf6; }
+        .border-cl { border-color: #06b6d4; }
+        .border-mercato { border-color: #f97316; }
     </style>
 </head>
 <body class="font-sans antialiased max-w-md mx-auto px-4 pb-12 select-none">
@@ -26,20 +26,17 @@
             <p id="sub-header" class="text-[9px] text-gray-500 uppercase font-mono tracking-wider">Instantané • Zéro Blabla</p>
         </div>
         <select id="lang-select" onchange="changeLang(this.value)" class="bg-[#0e111a] text-xs font-mono text-gray-400 border border-gray-800 rounded px-1.5 py-0.5 outline-none">
-            <option value="auto">🌐 Auto</option>
-            <option value="en">EN</option>
             <option value="fr">FR</option>
-            <option value="es">ES</option>
+            <option value="en">EN</option>
             <option value="pt">PT</option>
+            <option value="es">ES</option>
             <option value="ar">AR</option>
             <option value="sw">SW</option>
         </select>
     </header>
 
-    <section class="mb-6 mt-4">
-        <div id="flash-timeline" class="space-y-2">
-            <div class="animate-pulse h-9 bg-gray-900 rounded border border-gray-800"></div>
-        </div>
+    <section class="mb-4 mt-4">
+        <div id="flash-timeline" class="space-y-2"></div>
     </section>
 
     <section class="space-y-3">
@@ -52,96 +49,128 @@
     </section>
 
     <script>
-        let currentLang = 'en';
+        let currentLang = 'fr';
         let globalData = [];
 
-        function detectLanguage() {
-            const userLang = navigator.language || navigator.userLanguage;
-            const shortLang = userLang.substring(0, 2);
-            const supported = ['en', 'fr', 'es', 'pt', 'ar', 'sw'];
-            return supported.includes(shortLang) ? shortLang : 'en';
+        const ligueColors = {
+            "Coupe du Monde 2026": "border-wc",
+            "Premier League": "border-pl",
+            "Série A": "border-sa",
+            "La Liga": "border-ll",
+            "Ligue 1": "border-l1",
+            "Ligue des Champions": "border-cl"
+        };
+
+        const ligueEmojis = {
+            "Coupe du Monde 2026": "🌍",
+            "Premier League": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+            "Série A": "🇮🇹",
+            "La Liga": "🇪🇸",
+            "Ligue 1": "🇫🇷",
+            "Ligue des Champions": "⭐"
+        };
+
+        const statutLabels = {
+            "LIVE": { fr:"🔴 EN DIRECT", en:"🔴 LIVE", pt:"🔴 AO VIVO", es:"🔴 EN VIVO", ar:"🔴 مباشر", sw:"🔴 MOJA KWA MOJA" },
+            "IN_PLAY": { fr:"🔴 EN COURS", en:"🔴 IN PLAY", pt:"🔴 EM JOGO", es:"🔴 EN JUEGO", ar:"🔴 جاري", sw:"🔴 INAENDELEA" },
+            "TIMED": { fr:"⏰ PRÉVU", en:"⏰ UPCOMING", pt:"⏰ PREVISTO", es:"⏰ PREVISTO", ar:"⏰ مجدول", sw:"⏰ IMEPANGWA" },
+            "SCHEDULED": { fr:"📅 PROGRAMMÉ", en:"📅 SCHEDULED", pt:"📅 AGENDADO", es:"📅 PROGRAMADO", ar:"📅 مجدول", sw:"📅 IMEPANGWA" },
+            "MERCATO": { fr:"🔄 MERCATO", en:"🔄 TRANSFER", pt:"🔄 MERCADO", es:"🔄 MERCADO", ar:"🔄 انتقالات", sw:"🔄 SOKO" }
+        };
+
+        const uiTexts = {
+            fr: { sub: "Instantané • Zéro Blabla", vs: "contre", signal: "Signal", news: "Infos" },
+            en: { sub: "Instant • No Blabla", vs: "vs", signal: "Signal", news: "News" },
+            pt: { sub: "Instantâneo • Sem Blabla", vs: "contra", signal: "Sinal", news: "Notícias" },
+            es: { sub: "Instantáneo • Sin Blabla", vs: "contra", signal: "Señal", news: "Noticias" },
+            ar: { sub: "فوري • بدون كلام", vs: "ضد", signal: "إشارة", news: "أخبار" },
+            sw: { sub: "Papo Hapo • Bila Blabla", vs: "dhidi ya", signal: "Ishara", news: "Habari" }
+        };
+
+        function formatHeure(heure) {
+            if (!heure || heure.includes("préparation")) return heure;
+            try {
+                const d = new Date(heure);
+                return d.toLocaleDateString('fr-FR', {day:'2-digit', month:'short'}) + 
+                       ' ' + d.toLocaleTimeString('fr-FR', {hour:'2-digit', minute:'2-digit'});
+            } catch(e) { return heure; }
         }
 
         async function init() {
-            currentLang = detectLanguage();
-            document.getElementById('lang-select').value = currentLang;
-            if(currentLang === 'ar') document.body.classList.add('rtl');
-
             try {
-                const response = await fetch('ligues.json?t=' + new Date().getTime());
-                globalData = await response.json();
+                const r = await fetch('ligues.json?t=' + Date.now());
+                globalData = await r.json();
                 renderApp();
-            } catch (e) {
-                console.error("En attente de la première génération de données...");
-                document.getElementById('signals-container').innerHTML = 
+            } catch(e) {
+                document.getElementById('signals-container').innerHTML =
                     `<p class="text-xs text-gray-500 text-center py-8 font-mono">🔮 En attente du premier lancement du robot...</p>`;
             }
         }
 
-        function changeLang(langValue) {
-            currentLang = langValue === 'auto' ? detectLanguage() : langValue;
-            if (currentLang === 'ar') document.body.classList.add('rtl');
-            else document.body.classList.remove('rtl');
+        function changeLang(v) {
+            currentLang = v;
+            if (currentLang === 'ar') document.body.style.direction = 'rtl';
+            else document.body.style.direction = 'ltr';
             renderApp();
         }
 
         function renderApp() {
-            const container = document.getElementById('signals-container');
+            const ui = uiTexts[currentLang] || uiTexts['fr'];
+            document.getElementById('sub-header').innerText = ui.sub;
+
             const timeline = document.getElementById('flash-timeline');
-            
-            const uiTitles = {
-                fr: "Instantané • Zéro Blabla", en: "Instant • No Blabla", es: "Instantáneo • Sin Blabla",
-                pt: "Instantâneo • Sem Blabla", ar: "فوري • بدون كلام", sw: "Papo Hapo • Bila Blabla"
-            };
-            document.getElementById('sub-header').innerText = uiTitles[currentLang] || uiTitles['en'];
+            const container = document.getElementById('signals-container');
 
-            if(!globalData || globalData.length === 0) return;
+            // Flash timeline — premier signal
+            const premier = globalData[0]?.matchs[0];
+            if (premier) {
+                timeline.innerHTML = `
+                    <div class="p-2 bg-amber-950/20 text-amber-400 text-xs rounded border border-amber-900/40 font-mono truncate">
+                        ⚡ ${premier.signal_vatican?.substring(0, 80)}...
+                    </div>`;
+            }
 
-            const firstItem = globalData[0];
-            timeline.innerHTML = `
-                <div class="p-2 bg-amber-950/20 text-amber-400 text-xs rounded border border-amber-900/40 font-medium font-mono truncate">
-                    ⚡ <b>NEWS:</b> ${firstItem.impact[currentLang] || firstItem.impact['en']}
-                </div>
-            `;
+            // Rendu des ligues et matchs
+            container.innerHTML = globalData.map(ligue => {
+                const color = ligueColors[ligue.ligue] || 'border-wc';
+                const emoji = ligueEmojis[ligue.ligue] || '⚽';
 
-            container.innerHTML = globalData.map(s => {
-                const colorClass = s.type === 'safe' ? 'border-safe' : (s.type === 'warning' ? 'border-warning' : 'border-risk');
-                const badgeColor = s.type === 'safe' ? 'bg-emerald-500/10 text-emerald-400' : (s.type === 'warning' ? 'bg-amber-500/10 text-amber-400' : 'bg-red-500/10 text-red-400');
+                const matchsHTML = ligue.matchs.map(m => {
+                    const statut = statutLabels[m.statut]?.[currentLang] || m.statut;
+                    const isMercato = m.statut === 'MERCATO';
+                    const isLive = ['LIVE','IN_PLAY'].includes(m.statut);
+
+                    return `
+                        <div class="signal-card ${color} p-3 rounded-r-xl shadow-lg mb-2">
+                            <div class="flex justify-between items-center mb-1">
+                                <div class="font-bold text-sm text-gray-200">
+                                    ${isMercato ? '🔄 Mercato' : `${m.domicile} <span class="text-gray-500 text-xs">${ui.vs}</span> ${m.exterieur}`}
+                                </div>
+                                <span class="font-mono text-[10px] text-gray-500">${formatHeure(m.heure)}</span>
+                            </div>
+                            <div class="flex items-center gap-2 my-1">
+                                <span class="text-[9px] font-mono font-black px-1.5 py-0.5 rounded ${isLive ? 'bg-red-500/10 text-red-400' : 'bg-amber-500/10 text-amber-400'} tracking-wider">
+                                    ${statut}
+                                </span>
+                                ${m.score !== 'VS' && m.score !== '🔄' ? `<span class="font-mono text-amber-500 font-bold">${m.score}</span>` : ''}
+                            </div>
+                            <p class="text-[11px] text-gray-400 italic mt-1.5 leading-relaxed">
+                                💡 ${m.signal_vatican?.substring(0, 120)}...
+                            </p>
+                        </div>`;
+                }).join('');
 
                 return `
-                    <div class="signal-card ${colorClass} p-3 rounded-r-xl shadow-lg">
-                        <div class="flex justify-between items-center mb-1">
-                            <div class="font-bold text-sm tracking-tight text-gray-200">
-                                ${s.home} <span class="text-gray-600 font-normal text-xs px-0.5">v</span> ${s.away}
-                            </div>
-                            <span class="font-mono text-[10px] text-gray-500">${s.time}</span>
+                    <div class="mb-4">
+                        <div class="text-xs font-black font-mono text-gray-400 uppercase tracking-widest mb-2 flex items-center gap-1">
+                            ${emoji} ${ligue.ligue}
                         </div>
-                        <div class="flex items-center gap-2 my-1.5">
-                            <span class="text-[9px] font-mono font-black px-1.5 py-0.5 rounded ${badgeColor} tracking-wider uppercase">
-                                ${s.badge[currentLang] || s.badge['en']}
-                            </span>
-                            <span class="text-xs font-bold text-gray-300">
-                                ${s.prediction[currentLang] || s.prediction['en']} • <span class="font-mono text-amber-500">${s.pct}%</span>
-                            </span>
-                        </div>
-                        <p class="text-[11px] text-gray-400 italic mb-2.5">
-                            💡 ${s.impact[currentLang] || s.impact['en']}
-                        </p>
-                        <div class="pt-2 border-t border-gray-900/60 flex flex-wrap gap-1.5">
-                            <span class="inline-flex items-center gap-1 bg-blue-500/10 text-blue-400 font-mono text-[9px] px-2 py-0.5 rounded-full">
-                                📊 ${s.chat_flash.tendence_commu[currentLang] || s.chat_flash.tendence_commu['en']}
-                            </span>
-                            <span class="inline-flex items-center bg-gray-800/50 text-gray-400 font-sans text-[9px] px-2 py-0.5 rounded-full max-w-[180px] truncate">
-                                "${s.chat_flash.last_punchline[currentLang] || s.chat_flash.last_punchline['en']}"
-                            </span>
-                        </div>
-                    </div>
-                `;
+                        ${matchsHTML}
+                    </div>`;
             }).join('');
         }
 
         document.addEventListener("DOMContentLoaded", init);
     </script>
 </body>
-  </html>
-  
+    </html>
