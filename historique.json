@@ -1,0 +1,72 @@
+{
+  "total_matchs": 3,
+  "matchs": [
+    {
+      "id": 537408,
+      "domicile": "Congo DR",
+      "exterieur": "Uzbekistan",
+      "heure": "2026-06-27T23:30:00Z",
+      "score": "3-1",
+      "statut": "FINISHED",
+      "groupe": "K",
+      "forme_dom": "?????",
+      "forme_ext": "?????",
+      "oracle": {
+        "proba_dom": 54,
+        "proba_nul": 5,
+        "proba_ext": 46,
+        "signal": "RISQUÉ",
+        "favori": "DOM"
+      },
+      "news": "Coupe du monde : 6 activités mieux que la pub à faire pendant les pauses fraîcheurs",
+      "meteo": "21°C couvert",
+      "ligue": "Coupe du Monde 2026",
+      "date": "2026-06-27"
+    },
+    {
+      "id": 537401,
+      "domicile": "Jordan",
+      "exterieur": "Argentina",
+      "heure": "2026-06-28T02:00:00Z",
+      "score": "1-3",
+      "statut": "FINISHED",
+      "groupe": "J",
+      "forme_dom": "?????",
+      "forme_ext": "?????",
+      "oracle": {
+        "proba_dom": 54,
+        "proba_nul": 5,
+        "proba_ext": 46,
+        "signal": "RISQUÉ",
+        "favori": "DOM"
+      },
+      "news": "Les dix immanquables thrillers et polars étrangers à ne pas rater pour bien frissonner cet été 2026",
+      "meteo": "21°C couvert",
+      "ligue": "Coupe du Monde 2026",
+      "date": "2026-06-28"
+    },
+    {
+      "id": 537402,
+      "domicile": "Algeria",
+      "exterieur": "Austria",
+      "heure": "2026-06-28T02:00:00Z",
+      "score": "3-3",
+      "statut": "FINISHED",
+      "groupe": "J",
+      "forme_dom": "?????",
+      "forme_ext": "?????",
+      "oracle": {
+        "proba_dom": 54,
+        "proba_nul": 5,
+        "proba_ext": 46,
+        "signal": "RISQUÉ",
+        "favori": "DOM"
+      },
+      "news": "Chaleur extrême : le chiffre qui montre que nous avons déjà changé d’époque climatique",
+      "meteo": "21°C couvert",
+      "ligue": "Coupe du Monde 2026",
+      "date": "2026-06-28"
+    }
+  ],
+  "derniere_maj": "2026-06-28"
+}
