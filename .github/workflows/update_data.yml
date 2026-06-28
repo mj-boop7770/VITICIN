@@ -2,7 +2,7 @@ name: Vatican Engine Automated
 
 on:
   schedule:
-    - cron: '0 4 * * *'
+    - cron: '0 6,18 * * *'
   workflow_dispatch:
 
 permissions:
@@ -11,38 +11,34 @@ permissions:
 jobs:
   build-and-push:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Setup Python environment
+      - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: '3.10'
 
-      - name: Install required dependencies
+      - name: Install dependencies
         run: |
-          python -m pip install --upgrade pip
-          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+          pip install requests
 
-      - name: Trigger Vatican Bot Processing
+      - name: Run Vatican Bot
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
-          GH_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+          GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
+          RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
+          OPENWEATHER_KEY: ${{ secrets.OPENWEATHER_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
         run: python vatican_bot.py
 
-      - name: Commit and Push fresh ligues.json
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GH_TOKEN }}
+      - name: Commit and Push
         run: |
           git config --global user.name "Vatican-Bot"
-          git config --global user.email "actions@github.com"
-          
-          git remote set-url origin https://x-access-token:${{ secrets.MY_GH_TOKEN }}@github.com/${{ github.repository }}.git
-          
+          git config --global user.email "bot@vaticin.mujos"
+          git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
           git add ligues.json
-          git commit -m "Automated data update: fresh ligues.json [skip ci]" || echo "Aucun changement détecté"
+          git diff --staged --quiet || git commit -m "🤖 Vatican update $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push origin main
-          
