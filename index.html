@@ -14,69 +14,80 @@ h1{font-size:1.3rem;font-weight:900;color:#f59e0b;letter-spacing:3px;font-family
 .sub{font-size:.6rem;color:#6b7280;letter-spacing:.15em;margin-top:.2rem}
 select{background:#0e111a;color:#9ca3af;border:1px solid #1f2937;border-radius:6px;padding:.3rem .5rem;font-size:.7rem;outline:none}
 .update{font-size:.55rem;color:#374151;margin-top:.3rem;font-family:monospace}
+
+/* TABS */
 .tabs{display:flex;gap:.3rem;padding:.6rem 1rem;border-bottom:1px solid #1a1f2e;overflow-x:auto;scrollbar-width:none}
 .tabs::-webkit-scrollbar{display:none}
 .tab{padding:.4rem .8rem;border-radius:20px;font-size:.7rem;font-weight:700;cursor:pointer;white-space:nowrap;border:1px solid #1f2937;background:transparent;color:#6b7280;font-family:monospace;transition:all .2s}
 .tab.active{background:#f59e0b;color:#000;border-color:#f59e0b}
+
+/* LIGUES FILTER */
 .ligues-bar{display:flex;gap:.3rem;padding:.5rem 1rem;overflow-x:auto;scrollbar-width:none}
 .ligues-bar::-webkit-scrollbar{display:none}
 .lbtn{padding:.3rem .7rem;border-radius:12px;font-size:.65rem;cursor:pointer;white-space:nowrap;border:1px solid #1f2937;background:transparent;color:#6b7280;font-family:monospace}
 .lbtn.active{border-color:#f59e0b;color:#f59e0b}
+
 main{padding:.8rem 1rem;max-width:600px;margin:0 auto}
+
+/* CARDS */
 .card{background:#0e111a;border-radius:12px;padding:1rem;margin-bottom:.8rem;border:1px solid #1f2937}
-.card-header{display:flex;justify-content:space-between;align-items:flex-start;margin-bottom:.6rem}
+.card-header{display:flex;justify-content:space-between;align-items:center;margin-bottom:.6rem}
 .teams{font-weight:700;font-size:.9rem;color:#f3f4f6}
 .score{font-family:monospace;font-weight:900;font-size:1.1rem;color:#f59e0b}
-.time{font-size:.6rem;color:#6b7280;font-family:monospace;margin-top:.2rem}
-.statut{font-size:.6rem;font-weight:700;padding:.2rem .5rem;border-radius:6px;font-family:monospace;margin-top:.3rem;display:inline-block}
+.time{font-size:.6rem;color:#6b7280;font-family:monospace}
+.statut{font-size:.6rem;font-weight:700;padding:.2rem .5rem;border-radius:6px;font-family:monospace}
 .statut.live{background:#ef444420;color:#ef4444}
 .statut.scheduled{background:#3b82f620;color:#3b82f6}
 .statut.finished{background:#10b98120;color:#10b981}
 .statut.mercato{background:#f59e0b20;color:#f59e0b}
+
+/* ORACLE */
 .oracle{margin:.6rem 0;padding:.6rem;background:#060709;border-radius:8px;border:1px solid #1f2937}
-.oracle-title{font-size:.6rem;color:#6b7280;font-family:monospace;margin-bottom:.4rem}
-.oracle-bars{display:grid;grid-template-columns:1fr auto 1fr;gap:.5rem;align-items:center}
-.bar-wrap-dom{text-align:left}
-.bar-wrap-ext{text-align:right}
-.bar-label{font-size:.6rem;font-family:monospace;margin-bottom:.2rem}
-.bar-label.dom{color:#3b82f6}
-.bar-label.ext{color:#ef4444}
-.bar-label.nul{color:#6b7280;text-align:center;font-size:.55rem}
-.bar{height:5px;border-radius:3px}
-.bar.dom{background:#3b82f6}
-.bar.ext{background:#ef4444;margin-left:auto}
-.signal{display:inline-block;font-size:.6rem;font-weight:900;padding:.2rem .6rem;border-radius:6px;margin-top:.5rem;letter-spacing:.1em}
-.signal.FORT{background:#10b98120;color:#10b981;border:1px solid #10b98140}
-.signal.MOYEN{background:#f59e0b20;color:#f59e0b;border:1px solid #f59e0b40}
-.signal.RISQUÉ{background:#ef444420;color:#ef4444;border:1px solid #ef444440}
-.analyse{font-size:.72rem;color:#d1d5db;line-height:1.6;margin-top:.5rem;padding:.5rem;background:#060709;border-radius:8px;border-left:3px solid #f59e0b}
-.hors-saison{background:#0e111a;border-radius:12px;padding:1rem;margin-bottom:.8rem;border:1px solid #f59e0b30}
-.hs-title{font-size:.8rem;font-weight:900;color:#f59e0b;font-family:monospace;margin-bottom:.6rem}
-.hs-item{font-size:.75rem;color:#d1d5db;padding:.3rem 0;border-bottom:1px solid #1f2937;line-height:1.5}
-.hs-item:last-child{border:none}
-.news-card{background:#0e111a;border-radius:12px;padding:.8rem 1rem;margin-bottom:.6rem;border:1px solid #1f2937}
-.news-title{font-size:.8rem;font-weight:700;color:#f3f4f6;line-height:1.4;margin-bottom:.3rem}
-.news-meta{font-size:.6rem;color:#6b7280;font-family:monospace}
-.news-source{color:#f59e0b}
-.ligue-header{font-size:.7rem;font-weight:900;color:#f59e0b;font-family:monospace;margin:.8rem 0 .4rem;display:flex;align-items:center;gap:.5rem}
-.meteo-badge{font-size:.6rem;color:#6b7280;font-weight:400}
-table{width:100%;border-collapse:collapse;font-size:.7rem;font-family:monospace}
-th{color:#6b7280;padding:.4rem .3rem;text-align:left;border-bottom:1px solid #1f2937;font-size:.65rem}
-td{padding:.35rem .3rem;border-bottom:1px solid #ffffff05;color:#d1d5db}
-tr:nth-child(1) td{color:#f59e0b;font-weight:700}
-tr:nth-child(2) td{color:#10b981}
-.groupe-label{font-size:.6rem;color:#6b7280;font-family:monospace;margin:.5rem 0 .2rem;font-weight:700}
-.scorer-row{display:flex;justify-content:space-between;align-items:center;padding:.5rem 0;border-bottom:1px solid #1f2937}
-.scorer-row:last-child{border:none}
+.oracle-bars{display:grid;grid-template-columns:1fr auto 1fr;gap:.3rem;align-items:center;margin:.4rem 0}
+.bar-dom{height:6px;background:#3b82f6;border-radius:3px}
+.bar-ext{height:6px;background:#ef4444;border-radius:3px}
+.bar-nul{font-size:.6rem;color:#6b7280;font-family:monospace;text-align:center}
+.probas{display:flex;justify-content:space-between;font-size:.65rem;font-family:monospace}
+.signal{display:inline-block;font-size:.6rem;font-weight:900;padding:.2rem .6rem;border-radius:6px;margin-top:.4rem;letter-spacing:.1em}
+.signal.FORT{background:#10b98120;color:#10b981}
+.signal.MOYEN{background:#f59e0b20;color:#f59e0b}
+.signal.RISQUÉ{background:#ef444420;color:#ef4444}
+
+/* FORME */
+.forme{display:flex;gap:.2rem;margin:.3rem 0}
+.f{width:18px;height:18px;border-radius:4px;font-size:.55rem;font-weight:700;display:flex;align-items:center;justify-content:center}
+.f.V{background:#10b98130;color:#10b981}
+.f.N{background:#f59e0b30;color:#f59e0b}
+.f.D{background:#ef444430;color:#ef4444}
+
+/* METEO */
+.meteo{font-size:.65rem;color:#6b7280;font-family:monospace}
+
+/* NEWS */
+.news{font-size:.7rem;color:#9ca3af;line-height:1.5;margin-top:.5rem;padding-top:.5rem;border-top:1px solid #1f2937;font-style:italic}
+
+/* CLASSEMENT */
+.table-wrap{overflow-x:auto}
+table{width:100%;border-collapse:collapse;font-size:.72rem;font-family:monospace}
+th{color:#6b7280;padding:.4rem .3rem;text-align:left;font-weight:700;border-bottom:1px solid #1f2937}
+td{padding:.4rem .3rem;border-bottom:1px solid #0e111a10;color:#d1d5db}
+tr:first-child td{color:#f59e0b;font-weight:700}
+
+/* BUTEURS */
+.scorer{display:flex;justify-content:space-between;align-items:center;padding:.5rem 0;border-bottom:1px solid #1f2937}
+.scorer:last-child{border:none}
 .scorer-name{font-size:.8rem;font-weight:700}
 .scorer-club{font-size:.6rem;color:#6b7280}
-.scorer-buts{font-family:monospace;font-weight:900;color:#f59e0b}
+.scorer-buts{font-family:monospace;font-weight:900;color:#f59e0b;font-size:1rem}
+
+/* ELO */
+.elo{display:flex;justify-content:space-between;font-size:.65rem;color:#6b7280;font-family:monospace;margin-top:.3rem}
+
 .empty{text-align:center;padding:3rem 1rem;color:#374151;font-family:monospace;font-size:.8rem}
-.badge-live{display:inline-block;width:6px;height:6px;background:#ef4444;border-radius:50%;margin-right:4px;animation:pulse 1.5s infinite}
-@keyframes pulse{0%,100%{opacity:.3}50%{opacity:1}}
 </style>
 </head>
 <body>
+
 <header>
   <div class="header-top">
     <div>
@@ -95,32 +106,33 @@ tr:nth-child(2) td{color:#10b981}
   <p class="update" id="update-time">⏳ Chargement...</p>
 </header>
 
-<div class="tabs" id="tabs-bar">
+<div class="tabs">
   <button class="tab active" onclick="setTab('flash',this)">⚡ FLASH</button>
   <button class="tab" onclick="setTab('oracle',this)">🔮 ORACLE</button>
   <button class="tab" onclick="setTab('stats',this)">📊 STATS</button>
   <button class="tab" onclick="setTab('buteurs',this)">⚽ BUTEURS</button>
   <button class="tab" onclick="setTab('news',this)">📰 NEWS</button>
-  <button class="tab" onclick="setTab('calendrier',this)">🗓️ CALENDRIER</button>
 </div>
 
 <div class="ligues-bar" id="ligues-bar"></div>
-<main id="main-content"><div class="empty">⏳ Chargement...</div></main>
+
+<main id="main-content">
+  <div class="empty">⏳ Chargement des données...</div>
+</main>
 
 <script>
 let DATA = null;
-let NEWS_DATA = [];
 let currentTab = 'flash';
 let currentLigue = 'ALL';
 let currentLang = 'fr';
 
 const LANG = {
-  fr:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Buteurs",news:"📰 News",calendrier:"🗓️ Calendrier",dom:"Dom.",ext:"Ext.",nul:"Nul",signal:"Signal",pts:"Pts",j:"J",g:"G",n:"N",p:"P",bp:"BP",bc:"BC",all:"Toutes",buts:"buts",passes:"passes",reprise:"Reprise",mercato:"Mercato",aucun:"Aucune donnée",chargement:"Chargement...",termine:"Terminé",live:"En direct",prevu:"Prévu",horsSaison:"Hors saison"},
-  en:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Scorers",news:"📰 News",calendrier:"🗓️ Schedule",dom:"Home",ext:"Away",nul:"Draw",signal:"Signal",pts:"Pts",j:"P",g:"W",n:"D",p:"L",bp:"GF",bc:"GA",all:"All",buts:"goals",passes:"assists",reprise:"Start",mercato:"Transfer",aucun:"No data",chargement:"Loading...",termine:"Finished",live:"Live",prevu:"Upcoming",horsSaison:"Off season"},
-  pt:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Artilheiros",news:"📰 Notícias",calendrier:"🗓️ Calendário",dom:"Casa",ext:"Fora",nul:"Empate",signal:"Sinal",pts:"Pts",j:"J",g:"V",n:"E",p:"D",bp:"GM",bc:"GS",all:"Todas",buts:"golos",passes:"assist",reprise:"Início",mercato:"Mercado",aucun:"Sem dados",chargement:"Carregando...",termine:"Concluído",live:"Ao vivo",prevu:"Previsto",horsSaison:"Fora de época"},
-  es:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Goleadores",news:"📰 Noticias",calendrier:"🗓️ Calendario",dom:"Local",ext:"Visitante",nul:"Empate",signal:"Señal",pts:"Pts",j:"J",g:"G",n:"E",p:"P",bp:"GF",bc:"GC",all:"Todas",buts:"goles",passes:"asist",reprise:"Inicio",mercato:"Mercado",aucun:"Sin datos",chargement:"Cargando...",termine:"Finalizado",live:"En vivo",prevu:"Previsto",horsSaison:"Fuera de temporada"},
-  ar:{flash:"⚡ عاجل",oracle:"🔮 أوراكل",stats:"📊 إحصائيات",buteurs:"⚽ هدافون",news:"📰 أخبار",calendrier:"🗓️ جدول",dom:"المضيف",ext:"الضيف",nul:"تعادل",signal:"إشارة",pts:"ن",j:"ل",g:"ف",n:"ت",p:"خ",bp:"له",bc:"عليه",all:"الكل",buts:"أهداف",passes:"تمريرات",reprise:"انطلاق",mercato:"انتقالات",aucun:"لا بيانات",chargement:"تحميل...",termine:"انتهى",live:"مباشر",prevu:"مجدول",horsSaison:"خارج الموسم"},
-  sw:{flash:"⚡ Haraka",oracle:"🔮 Oracle",stats:"📊 Takwimu",buteurs:"⚽ Wachezaji",news:"📰 Habari",calendrier:"🗓️ Ratiba",dom:"Nyumbani",ext:"Mgeni",nul:"Sare",signal:"Ishara",pts:"Pts",j:"M",g:"S",n:"F",p:"K",bp:"MB",bc:"ME",all:"Zote",buts:"magoli",passes:"msaada",reprise:"Kuanza",mercato:"Soko",aucun:"Hakuna data",chargement:"Inapakia...",termine:"Imekwisha",live:"Moja kwa moja",prevu:"Imepangwa",horsSaison:"Nje ya msimu"}
+  fr:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Buteurs",news:"📰 News",dom:"Domicile",ext:"Extérieur",nul:"Nul",signal:"Signal",forme:"Forme",elo:"Force ELO",meteo:"Météo",pts:"Pts",j:"J",g:"G",n:"N",p:"P",bp:"BP",bc:"BC",all:"Toutes",buts:"buts"},
+  en:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Scorers",news:"📰 News",dom:"Home",ext:"Away",nul:"Draw",signal:"Signal",forme:"Form",elo:"ELO",meteo:"Weather",pts:"Pts",j:"P",g:"W",n:"D",p:"L",bp:"GF",bc:"GA",all:"All",buts:"goals"},
+  pt:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Artilheiros",news:"📰 Notícias",dom:"Casa",ext:"Fora",nul:"Empate",signal:"Sinal",forme:"Forma",elo:"Força ELO",meteo:"Tempo",pts:"Pts",j:"J",g:"V",n:"E",p:"D",bp:"GM",bc:"GS",all:"Todas",buts:"golos"},
+  es:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Goleadores",news:"📰 Noticias",dom:"Local",ext:"Visitante",nul:"Empate",signal:"Señal",forme:"Forma",elo:"Fuerza ELO",meteo:"Tiempo",pts:"Pts",j:"J",g:"G",n:"E",p:"P",bp:"GF",bc:"GC",all:"Todas",buts:"goles"},
+  ar:{flash:"⚡ عاجل",oracle:"🔮 أوراكل",stats:"📊 إحصائيات",buteurs:"⚽ هدافون",news:"📰 أخبار",dom:"المضيف",ext:"الضيف",nul:"تعادل",signal:"إشارة",forme:"شكل",elo:"قوة",meteo:"طقس",pts:"ن",j:"ل",g:"ف",n:"ت",p:"خ",bp:"له",bc:"عليه",all:"الكل",buts:"أهداف"},
+  sw:{flash:"⚡ Haraka",oracle:"🔮 Oracle",stats:"📊 Takwimu",buteurs:"⚽ Wachezaji",news:"📰 Habari",dom:"Nyumbani",ext:"Mgeni",nul:"Sare",signal:"Ishara",forme:"Hali",elo:"Nguvu",meteo:"Hali ya Hewa",pts:"Pts",j:"M",g:"S",n:"F",p:"K",bp:"MB",bc:"ME",all:"Zote",buts:"magoli"}
 };
 
 const STATUTS = {
@@ -132,312 +144,245 @@ const STATUTS = {
   MERCATO:{fr:"🔄 MERCATO",en:"🔄 TRANSFER",pt:"🔄 MERCADO",es:"🔄 MERCADO",ar:"🔄 انتقالات",sw:"🔄 SOKO"}
 };
 
-function t(k){return LANG[currentLang]?.[k]||LANG.fr[k]||k}
+function t(key){ return LANG[currentLang]?.[key] || LANG.fr[key] || key; }
 
 function formatDate(str){
-  if(!str||str.includes("préparation"))return str||"";
+  if(!str || str.includes("préparation")) return str || "";
   try{
-    const d=new Date(str);
-    return d.toLocaleDateString('fr-FR',{day:'2-digit',month:'short'})+' '+
+    const d = new Date(str);
+    return d.toLocaleDateString('fr-FR',{day:'2-digit',month:'short'}) + ' ' +
            d.toLocaleTimeString('fr-FR',{hour:'2-digit',minute:'2-digit'});
   }catch(e){return str;}
 }
 
 function statutClass(s){
-  if(['LIVE','IN_PLAY'].includes(s))return 'live';
-  if(['TIMED','SCHEDULED'].includes(s))return 'scheduled';
-  if(s==='FINISHED')return 'finished';
-  return 'mercato';
+  if(['LIVE','IN_PLAY'].includes(s)) return 'live';
+  if(['TIMED','SCHEDULED'].includes(s)) return 'scheduled';
+  if(s==='FINISHED') return 'finished';
+  if(s==='MERCATO') return 'mercato';
+  return 'scheduled';
 }
 
 async function loadData(){
   try{
-    const r=await fetch('ligues.json?t='+Date.now());
-    DATA=await r.json();
-    document.getElementById('update-time').innerText=
-      '🕐 '+(DATA.mise_a_jour?new Date(DATA.mise_a_jour).toLocaleString('fr-FR'):'?');
+    const r = await fetch('ligues.json?t='+Date.now());
+    DATA = await r.json();
+    document.getElementById('update-time').innerText =
+      '🕐 Mis à jour : ' + (DATA.mise_a_jour ? new Date(DATA.mise_a_jour).toLocaleString('fr-FR') : 'inconnu');
     buildLiguesBar();
-    loadNews();
     render();
   }catch(e){
-    document.getElementById('main-content').innerHTML='<div class="empty">❌ Erreur chargement</div>';
+    document.getElementById('main-content').innerHTML =
+      '<div class="empty">❌ Erreur de chargement. Réessaie.</div>';
   }
 }
 
-async function loadNews(){
-  try{
-    const queries=[
-      'football coupe monde 2026',
-      'Premier League transfert 2026',
-      'football mercato 2026'
-    ];
-    const tous=[];
-    for(const q of queries){
-      const r=await fetch(`https://newsapi.org/v2/everything?q=${encodeURIComponent(q)}&language=fr&sortBy=publishedAt&pageSize=5&apiKey=${await getNewsKey()}`);
-      if(r.ok){
-        const d=await r.json();
-        tous.push(...(d.articles||[]));
-      }
-    }
-    const ids=new Set();
-    NEWS_DATA=tous.filter(a=>{
-      if(!a.title||ids.has(a.url))return false;
-      ids.add(a.url);
-      const t=a.title.toLowerCase();
-      return t.includes('foot')||t.includes('soccer')||t.includes('match')||
-             t.includes('but')||t.includes('goal')||t.includes('transfert')||
-             t.includes('mercato')||t.includes('ligue')||t.includes('champion');
-    }).sort((a,b)=>new Date(b.publishedAt)-new Date(a.publishedAt)).slice(0,20);
-  }catch(e){}
-}
-
-async function getNewsKey(){
-  return '';
-}
-
 function buildLiguesBar(){
-  if(!DATA)return;
-  const bar=document.getElementById('ligues-bar');
-  let html=`<button class="lbtn active" onclick="setLigue('ALL',this)">${t('all')}</button>`;
-  (DATA.ligues||[]).forEach(l=>{
-    html+=`<button class="lbtn" onclick="setLigue('${l.code}',this)">${l.nom}</button>`;
+  if(!DATA) return;
+  const bar = document.getElementById('ligues-bar');
+  const ligues = DATA.ligues || [];
+  let html = `<button class="lbtn active" onclick="setLigue('ALL',this)">${t('all')}</button>`;
+  ligues.forEach(l => {
+    html += `<button class="lbtn" onclick="setLigue('${l.code}',this)">${l.nom}</button>`;
   });
-  bar.innerHTML=html;
+  bar.innerHTML = html;
 }
 
-function setTab(tab,btn){
-  currentTab=tab;
+function setTab(tab, btn){
+  currentTab = tab;
   document.querySelectorAll('.tab').forEach(b=>b.classList.remove('active'));
-  if(btn)btn.classList.add('active');
+  if(btn) btn.classList.add('active');
   render();
 }
 
-function setLigue(code,btn){
-  currentLigue=code;
+function setLigue(code, btn){
+  currentLigue = code;
   document.querySelectorAll('.lbtn').forEach(b=>b.classList.remove('active'));
-  if(btn)btn.classList.add('active');
+  if(btn) btn.classList.add('active');
   render();
 }
 
 function changeLang(lang){
-  currentLang=lang;
-  document.documentElement.lang=lang;
-  document.documentElement.dir=lang==='ar'?'rtl':'ltr';
-  buildLiguesBar();
+  currentLang = lang;
+  document.documentElement.lang = lang;
+  document.documentElement.dir = lang==='ar'?'rtl':'ltr';
   render();
 }
 
 function getLigues(){
-  if(!DATA)return[];
-  if(currentLigue==='ALL')return DATA.ligues||[];
-  return(DATA.ligues||[]).filter(l=>l.code===currentLigue);
+  if(!DATA) return [];
+  if(currentLigue==='ALL') return DATA.ligues||[];
+  return (DATA.ligues||[]).filter(l=>l.code===currentLigue);
 }
 
-function renderMatchCard(m,showAnalyse=true){
-  const oracle=m.oracle||{};
-  const statut=STATUTS[m.statut]?.[currentLang]||m.statut||'';
-  const sClass=statutClass(m.statut);
-  const isLive=['LIVE','IN_PLAY'].includes(m.statut);
+function renderMatchCard(m){
+  const oracle = m.oracle || {};
+  const statut = STATUTS[m.statut]?.[currentLang] || m.statut || '';
+  const sClass = statutClass(m.statut);
+  const isMercato = m.statut==='MERCATO';
 
-  let oracleHTML='';
-  if(oracle.proba_dom&&m.statut!=='FINISHED'){
-    oracleHTML=`
-      <div class="oracle">
-        <div class="oracle-title">🔮 ${t('oracle')}</div>
-        <div class="oracle-bars">
-          <div class="bar-wrap-dom">
-            <div class="bar-label dom">${t('dom')} ${oracle.proba_dom}%</div>
-            <div class="bar dom" style="width:${oracle.proba_dom}%"></div>
-          </div>
-          <div>
-            <div class="bar-label nul">${t('nul')}<br>${oracle.proba_nul}%</div>
-          </div>
-          <div class="bar-wrap-ext">
-            <div class="bar-label ext">${oracle.proba_ext}% ${t('ext')}</div>
-            <div class="bar ext" style="width:${oracle.proba_ext}%"></div>
-          </div>
+  let formeHTML = '';
+  if(m.forme_dom || m.forme_ext){
+    formeHTML = `
+      <div style="display:flex;justify-content:space-between;margin:.3rem 0">
+        <div>
+          <div style="font-size:.55rem;color:#6b7280;margin-bottom:.2rem">${m.domicile}</div>
+          <div class="forme">${(m.forme_dom||'').split('').map(f=>`<div class="f ${f}">${f}</div>`).join('')}</div>
         </div>
-        <span class="signal ${oracle.signal}">${t('signal')} : ${oracle.signal}</span>
+        <div style="text-align:right">
+          <div style="font-size:.55rem;color:#6b7280;margin-bottom:.2rem">${m.exterieur}</div>
+          <div class="forme" style="justify-content:flex-end">${(m.forme_ext||'').split('').map(f=>`<div class="f ${f}">${f}</div>`).join('')}</div>
+        </div>
       </div>`;
   }
 
-  let analyseHTML='';
-  if(showAnalyse&&m.analyse){
-    analyseHTML=`<div class="analyse">${m.analyse}</div>`;
+  let oracleHTML = '';
+  if(!isMercato && oracle.proba_dom){
+    oracleHTML = `
+      <div class="oracle">
+        <div class="oracle-bars">
+          <div>
+            <div style="font-size:.6rem;color:#3b82f6;margin-bottom:.2rem">${t('dom')} ${oracle.proba_dom}%</div>
+            <div class="bar-dom" style="width:${oracle.proba_dom}%"></div>
+          </div>
+          <div class="bar-nul">${t('nul')}<br>${oracle.proba_nul}%</div>
+          <div>
+            <div style="font-size:.6rem;color:#ef4444;margin-bottom:.2rem;text-align:right">${t('ext')} ${oracle.proba_ext}%</div>
+            <div class="bar-ext" style="width:${oracle.proba_ext}%;margin-left:auto"></div>
+          </div>
+        </div>
+        <span class="signal ${oracle.signal}">${t('signal')} : ${oracle.signal}</span>
+        ${m.elo_dom||m.elo_ext?`<div class="elo"><span>${t('elo')}: ${m.elo_dom||'?'}</span><span>${m.elo_ext||'?'}</span></div>`:''}
+      </div>`;
   }
 
-  return`
+  return `
     <div class="card">
       <div class="card-header">
-        <div style="flex:1">
-          <div class="teams">
-            ${isLive?'<span class="badge-live"></span>':''}
-            ${m.domicile} <span style="color:#6b7280;font-weight:400;font-size:.8rem">vs</span> ${m.exterieur}
-          </div>
-          <div class="time">${formatDate(m.heure)}${m.meteo?' · '+m.meteo:''}</div>
+        <div>
+          <div class="teams">${isMercato?'🔄 Mercato & Transferts':`${m.domicile} <span style="color:#6b7280;font-size:.8rem">vs</span> ${m.exterieur}`}</div>
+          <div class="time">${formatDate(m.heure)} ${m.meteo?'· '+m.meteo:''}</div>
         </div>
         <div style="text-align:right">
           <div class="score">${m.score||'VS'}</div>
           <span class="statut ${sClass}">${statut}</span>
         </div>
       </div>
+      ${formeHTML}
       ${oracleHTML}
-      ${analyseHTML}
-    </div>`;
-}
-
-function renderHorsSaison(ligue){
-  const infos=ligue.infos_hors_saison||[];
-  if(!infos.length)return'';
-  return`
-    <div class="hors-saison">
-      <div class="hs-title">${ligue.nom} · ${t('horsSaison')}</div>
-      ${infos.map(i=>`<div class="hs-item">${i}</div>`).join('')}
+      ${m.news?`<div class="news">💡 ${m.news.substring(0,150)}${m.news.length>150?'...':''}</div>`:''}
     </div>`;
 }
 
 function renderFlash(){
-  const ligues=getLigues();
-  let html='';
-  ligues.forEach(l=>{
-    if(l.hors_saison){
-      html+=renderHorsSaison(l);
-      return;
-    }
-    const live=l.matchs.filter(m=>['LIVE','IN_PLAY'].includes(m.statut));
-    const termines=l.matchs.filter(m=>m.statut==='FINISHED');
-    const matchs=[...live,...termines];
-    if(!matchs.length)return;
-    html+=`<div class="ligue-header">${l.nom}<span class="meteo-badge">${l.meteo||''}</span></div>`;
-    matchs.forEach(m=>{html+=renderMatchCard(m,false);});
+  const ligues = getLigues();
+  let html = '';
+  ligues.forEach(l => {
+    const live = l.matchs.filter(m=>['LIVE','IN_PLAY'].includes(m.statut));
+    const autres = l.matchs.filter(m=>!['LIVE','IN_PLAY'].includes(m.statut));
+    const matchs = [...live, ...autres];
+    if(!matchs.length) return;
+    html += `<div style="font-size:.7rem;font-weight:900;color:#f59e0b;font-family:monospace;margin:.8rem 0 .4rem">${l.nom} ${l.meteo?'· '+l.meteo:''}</div>`;
+    matchs.forEach(m => { html += renderMatchCard(m); });
   });
-  return html||`<div class="empty">${t('aucun')}</div>`;
+  return html || '<div class="empty">Aucun match disponible</div>';
 }
 
 function renderOracle(){
-  const ligues=getLigues();
-  let html='';
-  ligues.forEach(l=>{
-    if(l.hors_saison)return;
-    const avenir=l.matchs.filter(m=>['TIMED','SCHEDULED'].includes(m.statut));
-    if(!avenir.length)return;
-    html+=`<div class="ligue-header">${l.nom}</div>`;
-    avenir.forEach(m=>{html+=renderMatchCard(m,true);});
+  const ligues = getLigues();
+  let html = '';
+  ligues.forEach(l => {
+    const matchs = l.matchs.filter(m=>m.oracle&&m.oracle.proba_dom);
+    if(!matchs.length) return;
+    html += `<div style="font-size:.7rem;font-weight:900;color:#f59e0b;font-family:monospace;margin:.8rem 0 .4rem">${l.nom}</div>`;
+    const sorted = [...matchs].sort((a,b)=>Math.abs(b.oracle.proba_dom-b.oracle.proba_ext)-Math.abs(a.oracle.proba_dom-a.oracle.proba_ext));
+    sorted.forEach(m => { html += renderMatchCard(m); });
   });
-  return html||`<div class="empty">${t('aucun')}</div>`;
+  return html || '<div class="empty">Aucune prédiction disponible</div>';
 }
 
 function renderStats(){
-  const ligues=getLigues();
-  let html='';
-  ligues.forEach(l=>{
-    if(!l.classement?.length)return;
-    const groupes={};
-    l.classement.forEach(row=>{
-      const g=row.groupe||'';
-      if(!groupes[g])groupes[g]=[];
-      groupes[g].push(row);
-    });
-    html+=`<div class="card">
-      <div class="ligue-header" style="margin:0 0 .5rem">${l.nom}</div>`;
-    Object.entries(groupes).forEach(([g,rows])=>{
-      if(g)html+=`<div class="groupe-label">Groupe ${g}</div>`;
-      html+=`<table>
-        <tr><th>#</th><th>Équipe</th><th>${t('pts')}</th><th>${t('j')}</th><th>${t('g')}</th><th>${t('n')}</th><th>${t('p')}</th><th>${t('bp')}</th><th>${t('bc')}</th></tr>
-        ${rows.map(row=>`<tr>
-          <td>${row.pos}</td><td>${row.equipe}</td>
-          <td><b>${row.pts}</b></td><td>${row.j}</td>
-          <td>${row.g}</td><td>${row.n}</td><td>${row.p}</td>
-          <td>${row.bp}</td><td>${row.bc}</td>
-        </tr>`).join('')}
-      </table>`;
-      if(Object.keys(groupes).length>1)html+=`<br>`;
-    });
-    html+=`</div>`;
-    if(l.hors_saison){html+=renderHorsSaison(l);}
+  const ligues = getLigues();
+  let html = '';
+  ligues.forEach(l => {
+    if(!l.classement?.length) return;
+    html += `
+      <div class="card">
+        <div style="font-size:.75rem;font-weight:900;color:#f59e0b;font-family:monospace;margin-bottom:.6rem">${l.nom}</div>
+        <div class="table-wrap">
+          <table>
+            <tr>
+              <th>#</th><th>Équipe</th>
+              <th>${t('pts')}</th><th>${t('j')}</th>
+              <th>${t('g')}</th><th>${t('n')}</th><th>${t('p')}</th>
+              <th>${t('bp')}</th><th>${t('bc')}</th>
+            </tr>
+            ${l.classement.map(row=>`
+              <tr>
+                <td>${row.pos}</td>
+                <td>${row.equipe}</td>
+                <td><b>${row.pts}</b></td>
+                <td>${row.j}</td>
+                <td>${row.g}</td>
+                <td>${row.n}</td>
+                <td>${row.p}</td>
+                <td>${row.bp}</td>
+                <td>${row.bc}</td>
+              </tr>`).join('')}
+          </table>
+        </div>
+      </div>`;
   });
-  return html||`<div class="empty">${t('aucun')}</div>`;
+  return html || '<div class="empty">Aucun classement disponible</div>';
 }
 
 function renderButeurs(){
-  const ligues=getLigues();
-  let html='';
-  ligues.forEach(l=>{
-    if(!l.buteurs?.length)return;
-    html+=`<div class="card">
-      <div class="ligue-header" style="margin:0 0 .5rem">${l.nom}</div>
-      ${l.buteurs.map((s,i)=>`
-        <div class="scorer-row">
-          <div>
-            <div style="display:flex;align-items:center;gap:.4rem">
-              <span style="font-size:.65rem;color:#6b7280;font-family:monospace">${i+1}.</span>
-              <div>
-                <div class="scorer-name">${s.joueur}</div>
-                <div class="scorer-club">${s.equipe}</div>
-              </div>
+  const ligues = getLigues();
+  let html = '';
+  ligues.forEach(l => {
+    if(!l.buteurs?.length) return;
+    html += `
+      <div class="card">
+        <div style="font-size:.75rem;font-weight:900;color:#f59e0b;font-family:monospace;margin-bottom:.6rem">${l.nom}</div>
+        ${l.buteurs.map((s,i)=>`
+          <div class="scorer">
+            <div>
+              <div class="scorer-name">${i+1}. ${s.joueur}</div>
+              <div class="scorer-club">${s.equipe}</div>
             </div>
-          </div>
-          <div style="text-align:right">
             <div class="scorer-buts">${s.buts} <span style="font-size:.6rem;color:#6b7280">${t('buts')}</span></div>
-            ${s.passes?`<div style="font-size:.6rem;color:#6b7280">${s.passes} ${t('passes')}</div>`:''}
-          </div>
-        </div>`).join('')}
-    </div>`;
+          </div>`).join('')}
+      </div>`;
   });
-  return html||`<div class="empty">${t('aucun')}</div>`;
+  return html || '<div class="empty">Aucun buteur disponible</div>';
 }
 
 function renderNews(){
-  if(!NEWS_DATA.length){
-    return`<div class="empty">📰 ${t('chargement')}</div>`;
-  }
-  return NEWS_DATA.map(a=>`
-    <div class="news-card">
-      <div class="news-title">${a.title}</div>
-      <div class="news-meta">
-        <span class="news-source">${a.source?.name||'?'}</span>
-        · ${a.publishedAt?new Date(a.publishedAt).toLocaleDateString('fr-FR',{day:'2-digit',month:'short',hour:'2-digit',minute:'2-digit'}):''}
-      </div>
-    </div>`).join('');
-}
-
-function renderCalendrier(){
-  const ligues=getLigues();
-  let html='';
-  ligues.forEach(l=>{
-    if(l.hors_saison){
-      html+=renderHorsSaison(l);
-      return;
-    }
-    const avenir=l.matchs.filter(m=>['TIMED','SCHEDULED'].includes(m.statut));
-    if(!avenir.length)return;
-    html+=`<div class="ligue-header">${l.nom}<span class="meteo-badge">${l.meteo||''}</span></div>`;
-    avenir.forEach(m=>{
-      html+=`
-        <div class="card" style="padding:.7rem 1rem">
-          <div style="display:flex;justify-content:space-between;align-items:center">
-            <div>
-              <div class="teams" style="font-size:.85rem">${m.domicile} vs ${m.exterieur}</div>
-              <div class="time">${formatDate(m.heure)}</div>
-              ${m.groupe?`<div style="font-size:.6rem;color:#f59e0b;font-family:monospace">Groupe ${m.groupe}</div>`:''}
-            </div>
-            <span class="statut scheduled">📅</span>
-          </div>
+  const ligues = getLigues();
+  let html = '';
+  ligues.forEach(l => {
+    const avecNews = l.matchs.filter(m=>m.news&&m.news!=='Aucune actualité disponible');
+    if(!avecNews.length) return;
+    html += `<div style="font-size:.7rem;font-weight:900;color:#f59e0b;font-family:monospace;margin:.8rem 0 .4rem">${l.nom}</div>`;
+    avecNews.forEach(m => {
+      html += `
+        <div class="card">
+          <div style="font-size:.8rem;font-weight:700;margin-bottom:.4rem">${m.domicile} vs ${m.exterieur}</div>
+          <div class="news" style="font-style:normal">${m.news}</div>
         </div>`;
     });
   });
-  return html||`<div class="empty">${t('aucun')}</div>`;
+  return html || '<div class="empty">Aucune actualité disponible</div>';
 }
 
 function render(){
-  const c=document.getElementById('main-content');
+  const c = document.getElementById('main-content');
   switch(currentTab){
-    case 'flash':c.innerHTML=renderFlash();break;
-    case 'oracle':c.innerHTML=renderOracle();break;
-    case 'stats':c.innerHTML=renderStats();break;
-    case 'buteurs':c.innerHTML=renderButeurs();break;
-    case 'news':c.innerHTML=renderNews();break;
-    case 'calendrier':c.innerHTML=renderCalendrier();break;
+    case 'flash': c.innerHTML = renderFlash(); break;
+    case 'oracle': c.innerHTML = renderOracle(); break;
+    case 'stats': c.innerHTML = renderStats(); break;
+    case 'buteurs': c.innerHTML = renderButeurs(); break;
+    case 'news': c.innerHTML = renderNews(); break;
   }
 }
 
