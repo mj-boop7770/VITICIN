@@ -1,5 +1,5 @@
 {
-  "total_matchs": 3,
+  "total_matchs": 5,
   "matchs": [
     {
       "id": 537408,
@@ -66,6 +66,34 @@
       "meteo": "21°C couvert",
       "ligue": "Coupe du Monde 2026",
       "date": "2026-06-28"
+    },
+    {
+      "id": 537414,
+      "domicile": "Croatia",
+      "exterieur": "Ghana",
+      "score": "2-1",
+      "date": "2026-06-27",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 53,
+      "oracle_proba_ext": 47,
+      "favori": "DOM",
+      "forme_dom": "DVV",
+      "forme_ext": "VND"
+    },
+    {
+      "id": 537407,
+      "domicile": "Colombia",
+      "exterieur": "Portugal",
+      "score": "0-0",
+      "date": "2026-06-27",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "DOM",
+      "forme_dom": "VVN",
+      "forme_ext": "NVN"
     }
   ],
   "derniere_maj": "2026-06-28"

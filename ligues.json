@@ -1,84 +1,763 @@
 {
-  "mise_a_jour": "2026-06-28T08:43:02Z",
+  "mise_a_jour": "2026-06-28T09:16:11Z",
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "21°C couvert",
+      "meteo": "☁️ 21°C couvert",
       "classement": [
         {
           "pos": 1,
           "equipe": "Mexico",
+          "team_id": 769,
           "pts": 9,
           "j": 3,
           "g": 3,
           "n": 0,
           "p": 0,
           "bp": 6,
-          "bc": 0
+          "bc": 0,
+          "groupe": "Group A"
         },
         {
           "pos": 2,
           "equipe": "South Africa",
+          "team_id": 774,
           "pts": 4,
           "j": 3,
           "g": 1,
           "n": 1,
           "p": 1,
           "bp": 2,
-          "bc": 3
+          "bc": 3,
+          "groupe": "Group A"
         },
         {
           "pos": 3,
           "equipe": "Korea Republic",
+          "team_id": 772,
           "pts": 3,
           "j": 3,
           "g": 1,
           "n": 0,
           "p": 2,
           "bp": 2,
-          "bc": 3
+          "bc": 3,
+          "groupe": "Group A"
         },
         {
           "pos": 4,
           "equipe": "Czechia",
+          "team_id": 798,
           "pts": 1,
           "j": 3,
           "g": 0,
           "n": 1,
           "p": 2,
           "bp": 2,
-          "bc": 6
+          "bc": 6,
+          "groupe": "Group A"
+        },
+        {
+          "pos": 1,
+          "equipe": "Switzerland",
+          "team_id": 788,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 7,
+          "bc": 3,
+          "groupe": "Group B"
+        },
+        {
+          "pos": 2,
+          "equipe": "Canada",
+          "team_id": 828,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 8,
+          "bc": 3,
+          "groupe": "Group B"
+        },
+        {
+          "pos": 3,
+          "equipe": "Bosnia-H.",
+          "team_id": 1060,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 5,
+          "bc": 6,
+          "groupe": "Group B"
+        },
+        {
+          "pos": 4,
+          "equipe": "Qatar",
+          "team_id": 8030,
+          "pts": 1,
+          "j": 3,
+          "g": 0,
+          "n": 1,
+          "p": 2,
+          "bp": 2,
+          "bc": 10,
+          "groupe": "Group B"
+        },
+        {
+          "pos": 1,
+          "equipe": "Brazil",
+          "team_id": 764,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 7,
+          "bc": 1,
+          "groupe": "Group C"
+        },
+        {
+          "pos": 2,
+          "equipe": "Morocco",
+          "team_id": 815,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 6,
+          "bc": 3,
+          "groupe": "Group C"
+        },
+        {
+          "pos": 3,
+          "equipe": "Scotland",
+          "team_id": 8873,
+          "pts": 3,
+          "j": 3,
+          "g": 1,
+          "n": 0,
+          "p": 2,
+          "bp": 1,
+          "bc": 4,
+          "groupe": "Group C"
+        },
+        {
+          "pos": 4,
+          "equipe": "Haiti",
+          "team_id": 836,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 2,
+          "bc": 8,
+          "groupe": "Group C"
+        },
+        {
+          "pos": 1,
+          "equipe": "USA",
+          "team_id": 771,
+          "pts": 6,
+          "j": 3,
+          "g": 2,
+          "n": 0,
+          "p": 1,
+          "bp": 8,
+          "bc": 4,
+          "groupe": "Group D"
+        },
+        {
+          "pos": 2,
+          "equipe": "Australia",
+          "team_id": 779,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 2,
+          "groupe": "Group D"
+        },
+        {
+          "pos": 3,
+          "equipe": "Paraguay",
+          "team_id": 761,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 4,
+          "groupe": "Group D"
+        },
+        {
+          "pos": 4,
+          "equipe": "Turkey",
+          "team_id": 803,
+          "pts": 3,
+          "j": 3,
+          "g": 1,
+          "n": 0,
+          "p": 2,
+          "bp": 3,
+          "bc": 5,
+          "groupe": "Group D"
+        },
+        {
+          "pos": 1,
+          "equipe": "Germany",
+          "team_id": 759,
+          "pts": 6,
+          "j": 3,
+          "g": 2,
+          "n": 0,
+          "p": 1,
+          "bp": 10,
+          "bc": 4,
+          "groupe": "Group E"
+        },
+        {
+          "pos": 2,
+          "equipe": "Ivory Coast",
+          "team_id": 1935,
+          "pts": 6,
+          "j": 3,
+          "g": 2,
+          "n": 0,
+          "p": 1,
+          "bp": 4,
+          "bc": 2,
+          "groupe": "Group E"
+        },
+        {
+          "pos": 3,
+          "equipe": "Ecuador",
+          "team_id": 791,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 2,
+          "groupe": "Group E"
+        },
+        {
+          "pos": 4,
+          "equipe": "Curaçao",
+          "team_id": 9460,
+          "pts": 1,
+          "j": 3,
+          "g": 0,
+          "n": 1,
+          "p": 2,
+          "bp": 1,
+          "bc": 9,
+          "groupe": "Group E"
+        },
+        {
+          "pos": 1,
+          "equipe": "Netherlands",
+          "team_id": 8601,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 10,
+          "bc": 4,
+          "groupe": "Group F"
+        },
+        {
+          "pos": 2,
+          "equipe": "Japan",
+          "team_id": 766,
+          "pts": 5,
+          "j": 3,
+          "g": 1,
+          "n": 2,
+          "p": 0,
+          "bp": 7,
+          "bc": 3,
+          "groupe": "Group F"
+        },
+        {
+          "pos": 3,
+          "equipe": "Sweden",
+          "team_id": 792,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 7,
+          "bc": 7,
+          "groupe": "Group F"
+        },
+        {
+          "pos": 4,
+          "equipe": "Tunisia",
+          "team_id": 802,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 2,
+          "bc": 12,
+          "groupe": "Group F"
+        },
+        {
+          "pos": 1,
+          "equipe": "Belgium",
+          "team_id": 805,
+          "pts": 5,
+          "j": 3,
+          "g": 1,
+          "n": 2,
+          "p": 0,
+          "bp": 6,
+          "bc": 2,
+          "groupe": "Group G"
+        },
+        {
+          "pos": 2,
+          "equipe": "Egypt",
+          "team_id": 825,
+          "pts": 5,
+          "j": 3,
+          "g": 1,
+          "n": 2,
+          "p": 0,
+          "bp": 5,
+          "bc": 3,
+          "groupe": "Group G"
+        },
+        {
+          "pos": 3,
+          "equipe": "Iran",
+          "team_id": 840,
+          "pts": 3,
+          "j": 3,
+          "g": 0,
+          "n": 3,
+          "p": 0,
+          "bp": 3,
+          "bc": 3,
+          "groupe": "Group G"
+        },
+        {
+          "pos": 4,
+          "equipe": "New Zealand",
+          "team_id": 783,
+          "pts": 1,
+          "j": 3,
+          "g": 0,
+          "n": 1,
+          "p": 2,
+          "bp": 4,
+          "bc": 10,
+          "groupe": "Group G"
+        },
+        {
+          "pos": 1,
+          "equipe": "Spain",
+          "team_id": 760,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 5,
+          "bc": 0,
+          "groupe": "Group H"
+        },
+        {
+          "pos": 2,
+          "equipe": "Cape Verde",
+          "team_id": 1930,
+          "pts": 3,
+          "j": 3,
+          "g": 0,
+          "n": 3,
+          "p": 0,
+          "bp": 2,
+          "bc": 2,
+          "groupe": "Group H"
+        },
+        {
+          "pos": 3,
+          "equipe": "Uruguay",
+          "team_id": 758,
+          "pts": 2,
+          "j": 3,
+          "g": 0,
+          "n": 2,
+          "p": 1,
+          "bp": 3,
+          "bc": 4,
+          "groupe": "Group H"
+        },
+        {
+          "pos": 4,
+          "equipe": "Saudi Arabia",
+          "team_id": 801,
+          "pts": 2,
+          "j": 3,
+          "g": 0,
+          "n": 2,
+          "p": 1,
+          "bp": 1,
+          "bc": 5,
+          "groupe": "Group H"
+        },
+        {
+          "pos": 1,
+          "equipe": "France",
+          "team_id": 773,
+          "pts": 9,
+          "j": 3,
+          "g": 3,
+          "n": 0,
+          "p": 0,
+          "bp": 10,
+          "bc": 2,
+          "groupe": "Group I"
+        },
+        {
+          "pos": 2,
+          "equipe": "Norway",
+          "team_id": 8872,
+          "pts": 6,
+          "j": 3,
+          "g": 2,
+          "n": 0,
+          "p": 1,
+          "bp": 8,
+          "bc": 7,
+          "groupe": "Group I"
+        },
+        {
+          "pos": 3,
+          "equipe": "Senegal",
+          "team_id": 804,
+          "pts": 3,
+          "j": 3,
+          "g": 1,
+          "n": 0,
+          "p": 2,
+          "bp": 8,
+          "bc": 6,
+          "groupe": "Group I"
+        },
+        {
+          "pos": 4,
+          "equipe": "Iraq",
+          "team_id": 8062,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 1,
+          "bc": 12,
+          "groupe": "Group I"
+        },
+        {
+          "pos": 1,
+          "equipe": "Argentina",
+          "team_id": 762,
+          "pts": 9,
+          "j": 3,
+          "g": 3,
+          "n": 0,
+          "p": 0,
+          "bp": 8,
+          "bc": 1,
+          "groupe": "Group J"
+        },
+        {
+          "pos": 2,
+          "equipe": "Austria",
+          "team_id": 816,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 6,
+          "bc": 6,
+          "groupe": "Group J"
+        },
+        {
+          "pos": 3,
+          "equipe": "Algeria",
+          "team_id": 778,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 5,
+          "bc": 7,
+          "groupe": "Group J"
+        },
+        {
+          "pos": 4,
+          "equipe": "Jordan",
+          "team_id": 8049,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 3,
+          "bc": 8,
+          "groupe": "Group J"
+        },
+        {
+          "pos": 1,
+          "equipe": "Colombia",
+          "team_id": 818,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 4,
+          "bc": 1,
+          "groupe": "Group K"
+        },
+        {
+          "pos": 2,
+          "equipe": "Portugal",
+          "team_id": 765,
+          "pts": 5,
+          "j": 3,
+          "g": 1,
+          "n": 2,
+          "p": 0,
+          "bp": 6,
+          "bc": 1,
+          "groupe": "Group K"
+        },
+        {
+          "pos": 3,
+          "equipe": "Congo DR",
+          "team_id": 1934,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 4,
+          "bc": 3,
+          "groupe": "Group K"
+        },
+        {
+          "pos": 4,
+          "equipe": "Uzbekistan",
+          "team_id": 8070,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 2,
+          "bc": 11,
+          "groupe": "Group K"
+        },
+        {
+          "pos": 1,
+          "equipe": "England",
+          "team_id": 770,
+          "pts": 7,
+          "j": 3,
+          "g": 2,
+          "n": 1,
+          "p": 0,
+          "bp": 6,
+          "bc": 2,
+          "groupe": "Group L"
+        },
+        {
+          "pos": 2,
+          "equipe": "Croatia",
+          "team_id": 799,
+          "pts": 6,
+          "j": 3,
+          "g": 2,
+          "n": 0,
+          "p": 1,
+          "bp": 5,
+          "bc": 5,
+          "groupe": "Group L"
+        },
+        {
+          "pos": 3,
+          "equipe": "Ghana",
+          "team_id": 763,
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 2,
+          "groupe": "Group L"
+        },
+        {
+          "pos": 4,
+          "equipe": "Panama",
+          "team_id": 1836,
+          "pts": 0,
+          "j": 3,
+          "g": 0,
+          "n": 0,
+          "p": 3,
+          "bp": 0,
+          "bc": 4,
+          "groupe": "Group L"
         }
       ],
       "buteurs": [
         {
           "joueur": "Lionel Messi",
           "equipe": "Argentina",
-          "buts": 6
+          "buts": 6,
+          "passes": 0
         },
         {
           "joueur": "Vinicius Junior",
           "equipe": "Brazil",
-          "buts": 4
+          "buts": 4,
+          "passes": 1
         },
         {
           "joueur": "Kylian Mbappé",
           "equipe": "France",
-          "buts": 4
+          "buts": 4,
+          "passes": 2
         },
         {
           "joueur": "Erling Haaland",
           "equipe": "Norway",
-          "buts": 4
+          "buts": 4,
+          "passes": 0
         },
         {
           "joueur": "Ousmane Dembélé",
           "equipe": "France",
-          "buts": 4
+          "buts": 4,
+          "passes": 1
+        },
+        {
+          "joueur": "Ismael Saibari",
+          "equipe": "Morocco",
+          "buts": 3,
+          "passes": 0
+        },
+        {
+          "joueur": "Deniz Undav",
+          "equipe": "Germany",
+          "buts": 3,
+          "passes": 2
+        },
+        {
+          "joueur": "Elijah Just",
+          "equipe": "New Zealand",
+          "buts": 3,
+          "passes": 0
+        },
+        {
+          "joueur": "Yoane Wissa",
+          "equipe": "Congo DR",
+          "buts": 3,
+          "passes": 0
+        },
+        {
+          "joueur": "Harry Kane",
+          "equipe": "England",
+          "buts": 3,
+          "passes": 0
         }
       ],
       "matchs": [
+        {
+          "id": 537414,
+          "domicile": "Croatia",
+          "exterieur": "Ghana",
+          "heure": "2026-06-27T21:00:00Z",
+          "score": "2-1",
+          "statut": "FINISHED",
+          "groupe": "L",
+          "stats_dom": {
+            "forme": "DVV",
+            "buts_pour": 5,
+            "buts_contre": 5,
+            "matchs": 3
+          },
+          "stats_ext": {
+            "forme": "VND",
+            "buts_pour": 2,
+            "buts_contre": 2,
+            "matchs": 3
+          },
+          "oracle": {
+            "proba_dom": 53,
+            "proba_nul": 5,
+            "proba_ext": 47,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "analyse": "⚽ Groupe L • ⚖️ Match serré — tout est possible ! • 📈 Croatia : DVV | 5 buts marqués • 📉 Ghana : VND | 2 buts marqués • ✅ Score final : 2-1",
+          "meteo": "☁️ 21°C couvert",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-06-27"
+        },
+        {
+          "id": 537407,
+          "domicile": "Colombia",
+          "exterieur": "Portugal",
+          "heure": "2026-06-27T23:30:00Z",
+          "score": "0-0",
+          "statut": "FINISHED",
+          "groupe": "K",
+          "stats_dom": {
+            "forme": "VVN",
+            "buts_pour": 4,
+            "buts_contre": 1,
+            "matchs": 3
+          },
+          "stats_ext": {
+            "forme": "NVN",
+            "buts_pour": 6,
+            "buts_contre": 1,
+            "matchs": 3
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Colombia : VVN | 4 buts marqués • 📉 Portugal : NVN | 6 buts marqués • ✅ Score final : 0-0",
+          "meteo": "☁️ 21°C couvert",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-06-27"
+        },
         {
           "id": 537408,
           "domicile": "Congo DR",
@@ -87,17 +766,27 @@
           "score": "3-1",
           "statut": "FINISHED",
           "groupe": "K",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "NDV",
+            "buts_pour": 4,
+            "buts_contre": 3,
+            "matchs": 3
+          },
+          "stats_ext": {
+            "forme": "DDD",
+            "buts_pour": 2,
+            "buts_contre": 11,
+            "matchs": 3
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 56,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 44,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Coupe du monde : 6 activités mieux que la pub à faire pendant les pauses fraîcheurs",
-          "meteo": "21°C couvert",
+          "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Congo DR : NDV | 4 buts marqués • 📉 Uzbekistan : DDD | 2 buts marqués • ✅ Score final : 3-1",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-27"
         },
@@ -109,17 +798,27 @@
           "score": "1-3",
           "statut": "FINISHED",
           "groupe": "J",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
-          "oracle": {
-            "proba_dom": 54,
-            "proba_nul": 5,
-            "proba_ext": 46,
-            "signal": "RISQUÉ",
-            "favori": "DOM"
+          "stats_dom": {
+            "forme": "DDD",
+            "buts_pour": 3,
+            "buts_contre": 8,
+            "matchs": 3
           },
-          "news": "Les dix immanquables thrillers et polars étrangers à ne pas rater pour bien frissonner cet été 2026",
-          "meteo": "21°C couvert",
+          "stats_ext": {
+            "forme": "VVV",
+            "buts_pour": 8,
+            "buts_contre": 1,
+            "matchs": 3
+          },
+          "oracle": {
+            "proba_dom": 44,
+            "proba_nul": 5,
+            "proba_ext": 56,
+            "signal": "RISQUÉ",
+            "favori": "EXT"
+          },
+          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Jordan : DDD | 3 buts marqués • 📉 Argentina : VVV | 8 buts marqués • ✅ Score final : 1-3",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -131,17 +830,27 @@
           "score": "3-3",
           "statut": "FINISHED",
           "groupe": "J",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Chaleur extrême : le chiffre qui montre que nous avons déjà changé d’époque climatique",
-          "meteo": "21°C couvert",
+          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • ✅ Score final : 3-3",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -153,17 +862,27 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Un Cayenne au service des Black Mambas anti-braconnage",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -175,17 +894,27 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Fractal Appoints Leandro DalleMule as Chief Practice Officer, Financial Services & Insurance",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
         },
@@ -197,17 +926,27 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Conow, un système optimisé par Tuya, fait une entrée remarquée sur la scène européenne lors du salon Intersolar Europe 2026 avec sa gamme de solutions énergétiques domestiques natives de l'IA",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
         },
@@ -219,17 +958,27 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Where is Andrey Medvedev?",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -241,17 +990,27 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Your Premier League club's summer transfer plans",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -263,420 +1022,83 @@
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
-          "forme_dom": "?????",
-          "forme_ext": "?????",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "news": "Le Livret A, c’est terminé : ce Livret à 2,5 % garanti par l’État le remplace",
-          "meteo": "21°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "☁️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         }
-      ]
+      ],
+      "hors_saison": false,
+      "infos_hors_saison": []
     },
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "22°C couvert",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Bournemouth",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Arsenal",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Aston Villa",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Brentford",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Brighton Hove",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Chelsea",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Coventry City",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Crystal Palace",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Everton",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        },
-        {
-          "pos": 1,
-          "equipe": "Fulham",
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0
-        }
-      ],
+      "meteo": "☁️ 23°C couvert",
+      "classement": [],
       "buteurs": [],
-      "matchs": []
+      "matchs": [],
+      "hors_saison": false,
+      "infos_hors_saison": []
     },
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "23°C couvert",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Inter",
-          "pts": 87,
-          "j": 38,
-          "g": 27,
-          "n": 6,
-          "p": 5,
-          "bp": 89,
-          "bc": 35
-        },
-        {
-          "pos": 2,
-          "equipe": "Napoli",
-          "pts": 76,
-          "j": 38,
-          "g": 23,
-          "n": 7,
-          "p": 8,
-          "bp": 58,
-          "bc": 36
-        },
-        {
-          "pos": 3,
-          "equipe": "Roma",
-          "pts": 73,
-          "j": 38,
-          "g": 23,
-          "n": 4,
-          "p": 11,
-          "bp": 59,
-          "bc": 31
-        },
-        {
-          "pos": 4,
-          "equipe": "Como 1907",
-          "pts": 71,
-          "j": 38,
-          "g": 20,
-          "n": 11,
-          "p": 7,
-          "bp": 65,
-          "bc": 29
-        },
-        {
-          "pos": 5,
-          "equipe": "Milan",
-          "pts": 70,
-          "j": 38,
-          "g": 20,
-          "n": 10,
-          "p": 8,
-          "bp": 53,
-          "bc": 35
-        },
-        {
-          "pos": 6,
-          "equipe": "Juventus",
-          "pts": 69,
-          "j": 38,
-          "g": 19,
-          "n": 12,
-          "p": 7,
-          "bp": 61,
-          "bc": 34
-        },
-        {
-          "pos": 7,
-          "equipe": "Atalanta",
-          "pts": 59,
-          "j": 38,
-          "g": 15,
-          "n": 14,
-          "p": 9,
-          "bp": 51,
-          "bc": 36
-        },
-        {
-          "pos": 8,
-          "equipe": "Bologna",
-          "pts": 56,
-          "j": 38,
-          "g": 16,
-          "n": 8,
-          "p": 14,
-          "bp": 49,
-          "bc": 46
-        },
-        {
-          "pos": 9,
-          "equipe": "Lazio",
-          "pts": 54,
-          "j": 38,
-          "g": 14,
-          "n": 12,
-          "p": 12,
-          "bp": 41,
-          "bc": 40
-        },
-        {
-          "pos": 10,
-          "equipe": "Udinese",
-          "pts": 50,
-          "j": 38,
-          "g": 14,
-          "n": 8,
-          "p": 16,
-          "bp": 45,
-          "bc": 48
-        }
-      ],
+      "meteo": "☁️ 22°C couvert",
+      "classement": [],
       "buteurs": [],
-      "matchs": []
+      "matchs": [],
+      "hors_saison": false,
+      "infos_hors_saison": []
     },
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "26°C nuageux",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Barça",
-          "pts": 94,
-          "j": 38,
-          "g": 31,
-          "n": 1,
-          "p": 6,
-          "bp": 95,
-          "bc": 36
-        },
-        {
-          "pos": 2,
-          "equipe": "Real Madrid",
-          "pts": 86,
-          "j": 38,
-          "g": 27,
-          "n": 5,
-          "p": 6,
-          "bp": 77,
-          "bc": 35
-        },
-        {
-          "pos": 3,
-          "equipe": "Villarreal",
-          "pts": 72,
-          "j": 38,
-          "g": 22,
-          "n": 6,
-          "p": 10,
-          "bp": 72,
-          "bc": 46
-        },
-        {
-          "pos": 4,
-          "equipe": "Atleti",
-          "pts": 69,
-          "j": 38,
-          "g": 21,
-          "n": 6,
-          "p": 11,
-          "bp": 62,
-          "bc": 44
-        },
-        {
-          "pos": 5,
-          "equipe": "Real Betis",
-          "pts": 60,
-          "j": 38,
-          "g": 15,
-          "n": 15,
-          "p": 8,
-          "bp": 59,
-          "bc": 48
-        },
-        {
-          "pos": 6,
-          "equipe": "Celta",
-          "pts": 54,
-          "j": 38,
-          "g": 14,
-          "n": 12,
-          "p": 12,
-          "bp": 53,
-          "bc": 48
-        },
-        {
-          "pos": 7,
-          "equipe": "Getafe",
-          "pts": 51,
-          "j": 38,
-          "g": 15,
-          "n": 6,
-          "p": 17,
-          "bp": 32,
-          "bc": 38
-        },
-        {
-          "pos": 8,
-          "equipe": "Rayo Vallecano",
-          "pts": 50,
-          "j": 38,
-          "g": 12,
-          "n": 14,
-          "p": 12,
-          "bp": 41,
-          "bc": 44
-        },
-        {
-          "pos": 9,
-          "equipe": "Valencia",
-          "pts": 49,
-          "j": 38,
-          "g": 13,
-          "n": 10,
-          "p": 15,
-          "bp": 46,
-          "bc": 55
-        },
-        {
-          "pos": 10,
-          "equipe": "Real Sociedad",
-          "pts": 46,
-          "j": 38,
-          "g": 11,
-          "n": 13,
-          "p": 14,
-          "bp": 59,
-          "bc": 61
-        }
-      ],
-      "buteurs": [
-        {
-          "joueur": "Kylian Mbappé",
-          "equipe": "Real Madrid",
-          "buts": 25
-        },
-        {
-          "joueur": "Vedat Muriqi",
-          "equipe": "Mallorca",
-          "buts": 23
-        },
-        {
-          "joueur": "Ante Budimir",
-          "equipe": "Osasuna",
-          "buts": 17
-        },
-        {
-          "joueur": "Ferrán Torres",
-          "equipe": "Barça",
-          "buts": 16
-        },
-        {
-          "joueur": "Lamine Yamal",
-          "equipe": "Barça",
-          "buts": 16
-        }
-      ],
-      "matchs": []
+      "meteo": "⛅ 27°C nuageux",
+      "classement": [],
+      "buteurs": [],
+      "matchs": [],
+      "hors_saison": false,
+      "infos_hors_saison": []
     },
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "25°C couvert",
+      "meteo": "☁️ 25°C couvert",
       "classement": [],
       "buteurs": [],
-      "matchs": []
+      "matchs": [],
+      "hors_saison": false,
+      "infos_hors_saison": []
     },
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "22°C couvert",
+      "meteo": "☁️ 23°C couvert",
       "classement": [],
       "buteurs": [],
-      "matchs": []
+      "matchs": [],
+      "hors_saison": false,
+      "infos_hors_saison": []
     }
   ]
 }
