@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-06-28T17:51:30Z",
+  "mise_a_jour": "2026-06-28T17:53:35Z",
   "ligues": [
     {
       "code": "WC",
@@ -799,25 +799,25 @@
           "statut": "FINISHED",
           "groupe": "J",
           "stats_dom": {
-            "forme": "?????",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DDD",
+            "buts_pour": 3,
+            "buts_contre": 8,
+            "matchs": 3
           },
           "stats_ext": {
-            "forme": "?????",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVV",
+            "buts_pour": 8,
+            "buts_contre": 1,
+            "matchs": 3
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 44,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 56,
             "signal": "RISQUÉ",
             "favori": "EXT"
           },
-          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • ✅ Score final : 1-3",
+          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Jordan : DDD | 3 buts marqués • 📉 Argentina : VVV | 8 buts marqués • ✅ Score final : 1-3",
           "meteo": "☁️ 28°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
@@ -1063,7 +1063,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "⛅ 33°C nuageux",
+      "meteo": "⛅ 32°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
