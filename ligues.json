@@ -1,176 +1,293 @@
-[
-  {
-    "ligue": "Coupe du Monde 2026",
-    "matchs": [
-      {
-        "domicile": "Panama",
-        "exterieur": "England",
-        "heure": "2026-06-27T21:00:00Z",
-        "score": "VS",
-        "statut": "TIMED",
-        "signal_vatican": "Wimbledon – Alexander Blockx hérite d’Alexander Zverev, Collignon et Bergs pas vernis… | Wimbledon passe à 74,3 millions d’euros de prize-money, mais ils continuent de se plaindre : “Les joueurs réclament un accord structurel”"
-      },
-      {
-        "domicile": "Croatia",
-        "exterieur": "Ghana",
-        "heure": "2026-06-27T21:00:00Z",
-        "score": "VS",
-        "statut": "TIMED",
-        "signal_vatican": "Appolonia : l'histoire d'un royaume africain qui a résisté à la traite transatlantique des esclaves | Michael Mando passe de Scorpion à Bane, et ce n’est pas anodin"
-      },
-      {
-        "domicile": "Colombia",
-        "exterieur": "Portugal",
-        "heure": "2026-06-27T23:30:00Z",
-        "score": "VS",
-        "statut": "TIMED",
-        "signal_vatican": "DIGIPAY, la fintech congolaise qui veut révolutionner les transferts vers l'Afrique | Après 17 Coupes du monde, la FIFA récompense un journaliste allemand"
-      },
-      {
-        "domicile": "Congo DR",
-        "exterieur": "Uzbekistan",
-        "heure": "2026-06-27T23:30:00Z",
-        "score": "VS",
-        "statut": "TIMED",
-        "signal_vatican": "Coupe du monde : 6 activités mieux que la pub à faire pendant les pauses fraîcheurs"
-      }
-    ]
-  },
-  {
-    "ligue": "Premier League",
-    "matchs": [
-      {
-        "domicile": "Arsenal FC",
-        "exterieur": "Coventry City FC",
-        "heure": "2026-08-21T19:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Coupe du monde 2026: la liste complète des 1248 joueurs du Mondial | Arsenal : le plus français des clubs anglais"
-      },
-      {
-        "domicile": "Hull City AFC",
-        "exterieur": "Manchester United FC",
-        "heure": "2026-08-22T11:30:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas"
-      },
-      {
-        "domicile": "Ipswich Town FC",
-        "exterieur": "Sunderland AFC",
-        "heure": "2026-08-22T14:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Calme plat dans les coulisses de cette ligue."
-      },
-      {
-        "domicile": "Nottingham Forest FC",
-        "exterieur": "Leeds United FC",
-        "heure": "2026-08-22T14:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Calme plat dans les coulisses de cette ligue."
-      }
-    ]
-  },
-  {
-    "ligue": "Série A",
-    "matchs": [
-      {
-        "domicile": "Udinese Calcio",
-        "exterieur": "Como 1907",
-        "heure": "2026-08-23T16:30:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Mercato: le Real active sa clause de rachat pour Nico Paz, avec l’objectif de le revendre six fois plus cher | Amical club : Monaco affrontera Liverpool à Anfield lors des amicaux de pré-saison au mois d’août"
-      },
-      {
-        "domicile": "Bologna FC 1909",
-        "exterieur": "SS Lazio",
-        "heure": "2026-08-23T16:30:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas | Bologne et son coach Vincenzo Italiano se séparent"
-      },
-      {
-        "domicile": "Genoa CFC",
-        "exterieur": "SSC Napoli",
-        "heure": "2026-08-23T16:30:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Coupe du monde 2026: la liste complète des 1248 joueurs du Mondial | Dries Mertens puissance 4 : le Diable rouge revient à Naples et fait le show avec un but magnifique (vidéo)"
-      },
-      {
-        "domicile": "FC Internazionale Milano",
-        "exterieur": "AC Monza",
-        "heure": "2026-08-23T16:30:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Ultima Markets célèbre son 10ᵉ anniversaire et le doublé de l'Inter avec une visite VIP exclusive du San Siro"
-      }
-    ]
-  },
-  {
-    "ligue": "La Liga",
-    "matchs": [
-      {
-        "domicile": "Mercato & Transferts",
-        "exterieur": "Changements Clubs",
-        "heure": "Saison 2026/2027 en préparation",
-        "score": "🔄",
-        "statut": "MERCATO",
-        "signal_vatican": "🔥 Coulisses : Mercato: Kroupi dans la short-list du Barça pour l’après-Lewandowski | Mercato: la volte-face de Bernardo Silva qui va retrouver Kylian Mbappé"
-      }
-    ]
-  },
-  {
-    "ligue": "Ligue 1",
-    "matchs": [
-      {
-        "domicile": "Le Mans FC",
-        "exterieur": "Stade Brestois 29",
-        "heure": "2026-08-22T15:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "\"Kenavo le King\", \"le souvenir d'un homme profondément humain\", \"technicien reconnu par ses pairs\"... Le monde du football rend hommage à Eric Roy | Président de Le Mans FC depuis 2016, Thierry Gomez passe le témoin au nouvel actionnaire"
-      },
-      {
-        "domicile": "Racing Club de Lens",
-        "exterieur": "AJ Auxerre",
-        "heure": "2026-08-22T15:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Coupe du monde : le sélectionneur de l’Allemagne Julian Nagelsmann complimente le nouvel entraîneur de Lens Dino Toppmöller | Football : l'Allemand Dino Toppmöller nommé nouvel entraîneur de Lens"
-      },
-      {
-        "domicile": "Paris Saint-Germain FC",
-        "exterieur": "Stade Rennais FC 1901",
-        "heure": "2026-08-22T15:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Ajax piraté : un suspect arrêté aux Pays-Bas"
-      },
-      {
-        "domicile": "ES Troyes AC",
-        "exterieur": "Paris FC",
-        "heure": "2026-08-22T15:00:00Z",
-        "score": "VS",
-        "statut": "SCHEDULED",
-        "signal_vatican": "Ligue 1 : le Paris FC prêt à lâcher Antoine Kombouaré pour Liam Rosenior ? | France : Alexandre Oukidja, Florentin Pogba, Vincent Koziello… On connaît le casting de la 36e édition du stage de l’UNFP FC"
-      }
-    ]
-  },
-  {
-    "ligue": "Ligue des Champions",
-    "matchs": [
-      {
-        "domicile": "Mercato & Transferts",
-        "exterieur": "Changements Clubs",
-        "heure": "Saison 2026/2027 en préparation",
-        "score": "🔄",
-        "statut": "MERCATO",
-        "signal_vatican": "🔥 Coulisses : Mercato: Cuisance proche d'un retour en Ligue 1, l'ex-milieu de l'OM fonce vers Lens | Relancer Julian Alvarez malgré la saga espagnole sur son transfert, ou laisser Lautaro Martinez : le dilemme de Scaloni pour l’attaque de l’Argentine"
-      }
-    ]
-  }
-]
+{
+  "mise_a_jour": "2026-06-28T00:11:11Z",
+  "ligues": [
+    {
+      "code": "WC",
+      "nom": "Coupe du Monde 2026",
+      "meteo": "22°C couvert",
+      "classement": [
+        {
+          "pos": 1,
+          "equipe": "Mexico",
+          "pts": 9,
+          "j": 3,
+          "g": 3,
+          "n": 0,
+          "p": 0,
+          "bp": 6,
+          "bc": 0
+        },
+        {
+          "pos": 2,
+          "equipe": "South Africa",
+          "pts": 4,
+          "j": 3,
+          "g": 1,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 3
+        },
+        {
+          "pos": 3,
+          "equipe": "Korea Republic",
+          "pts": 3,
+          "j": 3,
+          "g": 1,
+          "n": 0,
+          "p": 2,
+          "bp": 2,
+          "bc": 3
+        },
+        {
+          "pos": 4,
+          "equipe": "Czechia",
+          "pts": 1,
+          "j": 3,
+          "g": 0,
+          "n": 1,
+          "p": 2,
+          "bp": 2,
+          "bc": 6
+        }
+      ],
+      "buteurs": [
+        {
+          "joueur": "Lionel Messi",
+          "equipe": "Argentina",
+          "buts": 5
+        },
+        {
+          "joueur": "Vinicius Junior",
+          "equipe": "Brazil",
+          "buts": 4
+        },
+        {
+          "joueur": "Kylian Mbappé",
+          "equipe": "France",
+          "buts": 4
+        },
+        {
+          "joueur": "Erling Haaland",
+          "equipe": "Norway",
+          "buts": 4
+        },
+        {
+          "joueur": "Ousmane Dembélé",
+          "equipe": "France",
+          "buts": 4
+        }
+      ],
+      "matchs": [
+        {
+          "domicile": "Mexico",
+          "exterieur": "South Africa",
+          "heure": "2026-06-11T19:00:00Z",
+          "score": "2-0",
+          "statut": "FINISHED",
+          "groupe": "A",
+          "forme_dom": "VVV",
+          "forme_ext": "DNV",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Korea Republic",
+          "exterieur": "Czechia",
+          "heure": "2026-06-12T02:00:00Z",
+          "score": "2-1",
+          "statut": "FINISHED",
+          "groupe": "A",
+          "forme_dom": "VDD",
+          "forme_ext": "DND",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Canada",
+          "exterieur": "Bosnia-H.",
+          "heure": "2026-06-12T19:00:00Z",
+          "score": "1-1",
+          "statut": "FINISHED",
+          "groupe": "B",
+          "forme_dom": "NVD",
+          "forme_ext": "NDV",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "USA",
+          "exterieur": "Paraguay",
+          "heure": "2026-06-13T01:00:00Z",
+          "score": "4-1",
+          "statut": "FINISHED",
+          "groupe": "D",
+          "forme_dom": "VVD",
+          "forme_ext": "DVN",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Qatar",
+          "exterieur": "Switzerland",
+          "heure": "2026-06-13T19:00:00Z",
+          "score": "1-1",
+          "statut": "FINISHED",
+          "groupe": "B",
+          "forme_dom": "?????",
+          "forme_ext": "?????",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Brazil",
+          "exterieur": "Morocco",
+          "heure": "2026-06-13T22:00:00Z",
+          "score": "1-1",
+          "statut": "FINISHED",
+          "groupe": "C",
+          "forme_dom": "?????",
+          "forme_ext": "?????",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Haiti",
+          "exterieur": "Scotland",
+          "heure": "2026-06-14T01:00:00Z",
+          "score": "0-1",
+          "statut": "FINISHED",
+          "groupe": "C",
+          "forme_dom": "?????",
+          "forme_ext": "?????",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        },
+        {
+          "domicile": "Australia",
+          "exterieur": "Turkey",
+          "heure": "2026-06-14T04:00:00Z",
+          "score": "2-0",
+          "statut": "FINISHED",
+          "groupe": "D",
+          "forme_dom": "?????",
+          "forme_ext": "?????",
+          "elo_dom": 1500,
+          "elo_ext": 1500,
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "news": "Coupe du monde 2026 : triple buteur contre la Norvège, Ousmane Dembélé lance enfin sa grande histoire avec l’équipe de France | Le Sénégal va trembler jusqu'au bout: quels scénarios qualifient les Lions de la Teranga pour les 16es de finale de la Coupe du monde 2026?",
+          "meteo": "22°C couvert"
+        }
+      ]
+    },
+    {
+      "code": "PL",
+      "nom": "Premier League",
+      "meteo": "21°C nuageux",
+      "classement": [],
+      "buteurs": [],
+      "matchs": []
+    },
+    {
+      "code": "SA",
+      "nom": "Série A",
+      "meteo": "30°C nuageux",
+      "classement": [],
+      "buteurs": [],
+      "matchs": []
+    },
+    {
+      "code": "PD",
+      "nom": "La Liga",
+      "meteo": "26°C ciel dégagé",
+      "classement": [],
+      "buteurs": [],
+      "matchs": []
+    },
+    {
+      "code": "FL1",
+      "nom": "Ligue 1",
+      "meteo": "23°C nuageux",
+      "classement": [],
+      "buteurs": [],
+      "matchs": []
+    },
+    {
+      "code": "CL",
+      "nom": "Ligue des Champions",
+      "meteo": "22°C peu nuageux",
+      "classement": [],
+      "buteurs": [],
+      "matchs": []
+    }
+  ]
+}
