@@ -1,10 +1,10 @@
 {
-  "mise_a_jour": "2026-06-28T17:53:35Z",
+  "mise_a_jour": "2026-06-28T21:45:14Z",
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "☁️ 28°C couvert",
+      "meteo": "⛅ 27°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -695,38 +695,6 @@
       ],
       "matchs": [
         {
-          "id": 537414,
-          "domicile": "Croatia",
-          "exterieur": "Ghana",
-          "heure": "2026-06-27T21:00:00Z",
-          "score": "2-1",
-          "statut": "FINISHED",
-          "groupe": "L",
-          "stats_dom": {
-            "forme": "DVV",
-            "buts_pour": 5,
-            "buts_contre": 5,
-            "matchs": 3
-          },
-          "stats_ext": {
-            "forme": "VND",
-            "buts_pour": 2,
-            "buts_contre": 2,
-            "matchs": 3
-          },
-          "oracle": {
-            "proba_dom": 53,
-            "proba_nul": 5,
-            "proba_ext": 47,
-            "signal": "RISQUÉ",
-            "favori": "DOM"
-          },
-          "analyse": "⚽ Groupe L • ⚖️ Match serré — tout est possible ! • 📈 Croatia : DVV | 5 buts marqués • 📉 Ghana : VND | 2 buts marqués • ✅ Score final : 2-1",
-          "meteo": "☁️ 28°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-06-27"
-        },
-        {
           "id": 537407,
           "domicile": "Colombia",
           "exterieur": "Portugal",
@@ -754,7 +722,7 @@
             "favori": "DOM"
           },
           "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Colombia : VVN | 4 buts marqués • 📉 Portugal : NVN | 6 buts marqués • ✅ Score final : 0-0",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-27"
         },
@@ -786,7 +754,7 @@
             "favori": "DOM"
           },
           "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Congo DR : NDV | 4 buts marqués • 📉 Uzbekistan : DDD | 2 buts marqués • ✅ Score final : 3-1",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-27"
         },
@@ -818,7 +786,7 @@
             "favori": "EXT"
           },
           "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Jordan : DDD | 3 buts marqués • 📉 Argentina : VVV | 8 buts marqués • ✅ Score final : 1-3",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -831,26 +799,26 @@
           "statut": "FINISHED",
           "groupe": "J",
           "stats_dom": {
-            "forme": "?????",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DVN",
+            "buts_pour": 5,
+            "buts_contre": 7,
+            "matchs": 3
           },
           "stats_ext": {
-            "forme": "?????",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VDN",
+            "buts_pour": 6,
+            "buts_contre": 6,
+            "matchs": 3
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 50,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 50,
             "signal": "RISQUÉ",
-            "favori": "DOM"
+            "favori": "EXT"
           },
-          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • ✅ Score final : 3-3",
-          "meteo": "☁️ 28°C couvert",
+          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Algeria : DVN | 5 buts marqués • 📉 Austria : VDN | 6 buts marqués • ✅ Score final : 3-3",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -859,8 +827,8 @@
           "domicile": "South Africa",
           "exterieur": "Canada",
           "heure": "2026-06-28T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "0-1",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "?????",
@@ -881,8 +849,8 @@
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "analyse": "⚖️ Match serré — tout est possible ! • ✅ Score final : 0-1",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -914,7 +882,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
         },
@@ -946,7 +914,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
         },
@@ -978,7 +946,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -1010,7 +978,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -1042,9 +1010,41 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "☁️ 28°C couvert",
+          "meteo": "⛅ 27°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
+        },
+        {
+          "id": 537425,
+          "domicile": "Mexico",
+          "exterieur": "Ecuador",
+          "heure": "2026-07-01T01:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "?????",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "⛅ 27°C nuageux",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-01"
         }
       ],
       "hors_saison": false,
@@ -1053,7 +1053,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "⛅ 23°C nuageux",
+      "meteo": "⛅ 19°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1063,7 +1063,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "⛅ 32°C nuageux",
+      "meteo": "⛅ 33°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1073,7 +1073,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 31°C ciel dégagé",
+      "meteo": "⛅ 23°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1083,7 +1083,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "⛅ 28°C nuageux",
+      "meteo": "⛅ 23°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1093,7 +1093,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "⛅ 23°C nuageux",
+      "meteo": "⛅ 19°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
