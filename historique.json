@@ -1,5 +1,5 @@
 {
-  "total_matchs": 7,
+  "total_matchs": 8,
   "matchs": [
     {
       "id": 537408,
@@ -114,6 +114,20 @@
       "domicile": "Brazil",
       "exterieur": "Japan",
       "score": "2-1",
+      "date": "2026-06-29",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537415,
+      "domicile": "Germany",
+      "exterieur": "Paraguay",
+      "score": "5-6",
       "date": "2026-06-29",
       "ligue": "Coupe du Monde 2026",
       "oracle_signal": "RISQUÉ",
