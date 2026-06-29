@@ -1,32 +1,32 @@
 {
-  "mise_a_jour": "2026-06-29T17:13:51Z",
+  "mise_a_jour": "2026-06-29T22:18:11Z",
   "news_globales": [
     {
-      "titre": "Coupe du monde 2026: la Fifa réagit à l’accusation de viol visant le capitaine du Cap-Vert",
-      "description": "Si le Cap-Vert vit un rêve éveillé après avoir acquis sa qualification en 16es de finale du Mondial, le capitaine de la sélection Ryan Mendes est dans la tourmente. Le joueur de 36 ans est visé par une plainte pour viol datant de mars 2026. Une accusation à l…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-la-fifa-reagit-a-l-accusation-de-viol-visant-le-capitaine-du-cap-vert_AV-202606280325.html",
-      "date": "2026-06-28"
-    },
-    {
-      "titre": "Coupe du monde 2026: pauses fraîcheur, marques, partenariats de luxe, publicité... le football est en train de se \"prémiumiser\"",
-      "description": "À l’entame de la phase à élimination directe de cette Coupe du Monde 2026, Jean-Philippe Danglade, directeur du Msc Sport à la Kedge Business School nous livre ses impressions sur le Mondial de football au pays du \"soccer\" et de la démesure.",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-pauses-fraicheur-marques-partenariats-de-luxe-publicite-le-football-est-en-train-de-se-premiumiser_AV-202606280316.html",
-      "date": "2026-06-28"
-    },
-    {
-      "titre": "Mondial 2026 – Cap-Vert : La FIFA sort du silence après les accusations de viol contre Ryan Mendes",
-      "description": "La FIFA réagit. Alors que le media brésilien Globo a révélé ces derniers jours que le capitaine du Cap-Vert, Ryan…",
+      "titre": "Mondial 2026 : Le discours inspirant de Jesse Marsch à ses joueurs après la qualification du Canada face à l’Afrique du Sud",
+      "description": "Dans les livres d’histoire. Vainqueur de son premier match de phase finale de Coupe du monde…",
       "source": "SO FOOT",
-      "url": "https://www.sofoot.com/breves/mondial-2026-cap-vert-la-fifa-sort-du-silence-apres-les-accusations-de-viol-contre-ryan-mendes",
+      "url": "https://www.sofoot.com/breves/mondial-2026-le-discours-inspirant-de-jesse-marsch-a-ses-joueurs-apres-la-qualification-du-canada-face-a-lafrique-du-sud",
       "date": "2026-06-28"
     },
     {
-      "titre": "Coupe du monde 2026: \"La meilleure sélection du monde\", l'interview intégrale du légendaire Romário, impressionné par les Bleus",
-      "description": "Invité prestigieux sur RMC, Romário, le grand attaquant du Brésil des années 90, a livré son regard sur la Coupe du monde 2026. Et plus particulièrement sur l’équipe de France et sur Cristiano Ronaldo dont il défend l’envie de poursuivre au plus haut niveau e…",
+      "titre": "Mondial 2026 : Le Canada perce le verrou sud-africain et poursuit son aventure",
+      "description": "Un but pour l'Histoire.",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/mondial-2026-le-canada-perce-le-verrou-sud-africain-et-poursuit-son-aventure",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "Mondial 2026 – RD Congo – Cécile Moutoussamy : « Je revois mon Samuel de 14 ans, heureux de gagner son match de district »",
+      "description": "Une qualification historique à travers les yeux d’une maman.",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/mondial-2026-rd-congo-cecile-moutoussamy-je-revois-mon-samuel-de-14-ans-heureux-de-gagner-son-match-de-district",
+      "date": "2026-06-28"
+    },
+    {
+      "titre": "Coupe du monde 2026: \"Son style de jeu me fait penser à moi à mon apogée\", les éloges de Ronaldo pour Mbappé",
+      "description": "Dans les colonnes de l'Equipe, le Brésilien Ronaldo a complimenté le style de jeu de Kylian Mbappé, un attaquant qui présente des similitudes avec le sien lorsqu'il était au pic de sa forme.",
       "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-la-meilleure-selection-du-monde-l-interview-integrale-du-legendaire-romario-impressionne-par-les-bleus_AV-202606280300.html",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-son-style-de-jeu-me-fait-penser-a-moi-a-mon-apogee-les-eloges-de-ronaldo-pour-mbappe_AV-202606280360.html",
       "date": "2026-06-28"
     },
     {
@@ -62,7 +62,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 31°C partiellement nuageux",
+      "meteo": "🌡️ 30°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -727,6 +727,12 @@
           "passes": 0
         },
         {
+          "joueur": "Kai Havertz",
+          "equipe": "Germany",
+          "buts": 3,
+          "passes": 0
+        },
+        {
           "joueur": "Deniz Undav",
           "equipe": "Germany",
           "buts": 3,
@@ -743,78 +749,40 @@
           "equipe": "Congo DR",
           "buts": 3,
           "passes": 0
-        },
-        {
-          "joueur": "Harry Kane",
-          "equipe": "England",
-          "buts": 3,
-          "passes": 0
         }
       ],
       "matchs": [
         {
-          "id": 537423,
-          "domicile": "Brazil",
-          "exterieur": "Japan",
-          "heure": "2026-06-29T17:00:00Z",
-          "score": "0-0",
+          "id": 537415,
+          "domicile": "Germany",
+          "exterieur": "Paraguay",
+          "heure": "2026-06-29T20:30:00Z",
+          "score": "1-1",
           "statut": "IN_PLAY",
           "groupe": "",
           "stats_dom": {
-            "forme": "NVV",
-            "buts_pour": 7,
-            "buts_contre": 1,
+            "forme": "VVD",
+            "buts_pour": 10,
+            "buts_contre": 4,
             "matchs": 3
           },
           "stats_ext": {
-            "forme": "NVN",
-            "buts_pour": 7,
-            "buts_contre": 3,
+            "forme": "DVN",
+            "buts_pour": 2,
+            "buts_contre": 4,
             "matchs": 3
           },
           "oracle": {
-            "proba_dom": 53,
+            "proba_dom": 55,
             "proba_nul": 5,
-            "proba_ext": 47,
+            "proba_ext": 45,
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "analyse": "⚖️ Match serré — tout est possible ! • 📈 Brazil : NVV | 7 buts • 📉 Japan : NVN | 7 buts",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "analyse": "⚖️ Match serré — tout est possible ! • 📈 Germany : VVD | 10 buts • 📉 Paraguay : DVN | 2 buts",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
-        },
-        {
-          "id": 537407,
-          "domicile": "Colombia",
-          "exterieur": "Portugal",
-          "heure": "2026-06-27T23:30:00Z",
-          "score": "0-0",
-          "statut": "FINISHED",
-          "groupe": "K",
-          "stats_dom": {
-            "forme": "VVN",
-            "buts_pour": 4,
-            "buts_contre": 1,
-            "matchs": 3
-          },
-          "stats_ext": {
-            "forme": "NVN",
-            "buts_pour": 6,
-            "buts_contre": 1,
-            "matchs": 3
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "DOM"
-          },
-          "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Colombia : VVN | 4 buts • 📉 Portugal : NVN | 6 buts • ✅ Score final : 0-0",
-          "meteo": "🌡️ 31°C partiellement nuageux",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-06-27"
         },
         {
           "id": 537408,
@@ -844,7 +812,7 @@
             "favori": "DOM"
           },
           "analyse": "⚽ Groupe K • ⚖️ Match serré — tout est possible ! • 📈 Congo DR : NDV | 4 buts • 📉 Uzbekistan : DDD | 2 buts • ✅ Score final : 3-1",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-27"
         },
@@ -876,7 +844,7 @@
             "favori": "EXT"
           },
           "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Jordan : DDD | 3 buts • 📉 Argentina : VVV | 8 buts • ✅ Score final : 1-3",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -889,26 +857,26 @@
           "statut": "FINISHED",
           "groupe": "J",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DVN",
+            "buts_pour": 5,
+            "buts_contre": 7,
+            "matchs": 3
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VDN",
+            "buts_pour": 6,
+            "buts_contre": 6,
+            "matchs": 3
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 50,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 50,
             "signal": "RISQUÉ",
-            "favori": "DOM"
+            "favori": "EXT"
           },
-          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • ✅ Score final : 3-3",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "analyse": "⚽ Groupe J • ⚖️ Match serré — tout est possible ! • 📈 Algeria : DVN | 5 buts • 📉 Austria : VDN | 6 buts • ✅ Score final : 3-3",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
@@ -940,17 +908,17 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible ! • ✅ Score final : 0-1",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-28"
         },
         {
-          "id": 537415,
-          "domicile": "Germany",
-          "exterieur": "Paraguay",
-          "heure": "2026-06-29T20:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "id": 537423,
+          "domicile": "Brazil",
+          "exterieur": "Japan",
+          "heure": "2026-06-29T17:00:00Z",
+          "score": "2-1",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -971,8 +939,8 @@
             "signal": "RISQUÉ",
             "favori": "DOM"
           },
-          "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "analyse": "⚖️ Match serré — tout est possible ! • ✅ Score final : 2-1",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-29"
         },
@@ -1004,7 +972,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -1036,7 +1004,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -1068,7 +1036,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-06-30"
         },
@@ -1100,7 +1068,7 @@
             "favori": "DOM"
           },
           "analyse": "⚖️ Match serré — tout est possible !",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         },
@@ -1132,7 +1100,39 @@
             "favori": "EXT"
           },
           "analyse": "⚖️ Match serré — tout est possible ! • 📉 Congo DR : NDV | 4 buts",
-          "meteo": "🌡️ 31°C partiellement nuageux",
+          "meteo": "🌡️ 30°C peu nuageux",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-01"
+        },
+        {
+          "id": 537422,
+          "domicile": "Belgium",
+          "exterieur": "Senegal",
+          "heure": "2026-07-01T20:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "DOM"
+          },
+          "analyse": "⚖️ Match serré — tout est possible !",
+          "meteo": "🌡️ 30°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         }
@@ -1143,7 +1143,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1153,7 +1153,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 33°C ciel dégagé",
+      "meteo": "🌡️ 35°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1163,7 +1163,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 34°C ciel dégagé",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1173,7 +1173,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 21°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1183,7 +1183,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
