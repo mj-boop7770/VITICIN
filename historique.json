@@ -1,5 +1,5 @@
 {
-  "total_matchs": 9,
+  "total_matchs": 10,
   "matchs": [
     {
       "id": 537408,
@@ -142,6 +142,20 @@
       "domicile": "Netherlands",
       "exterieur": "Morocco",
       "score": "3-4",
+      "date": "2026-06-30",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537424,
+      "domicile": "Ivory Coast",
+      "exterieur": "Norway",
+      "score": "1-2",
       "date": "2026-06-30",
       "ligue": "Coupe du Monde 2026",
       "oracle_signal": "RISQUÉ",
