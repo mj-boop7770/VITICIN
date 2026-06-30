@@ -105,8 +105,8 @@ def calculer_oracle(stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equi
     score_forme_ext = sum(points.get(r, 1) for r in forme_ext if r in points)
     att_dom = stats_dom.get("buts_pour", 0) * 2 - stats_dom.get("buts_contre", 0)
     att_ext = stats_ext.get("buts_pour", 0) * 2 - stats_ext.get("buts_contre", 0)
-    rang_dom = (total_equipes - (pos_dom or total_equipes//2)) * 3 if pos_dom else 0
-    rang_ext = (total_equipes - (pos_ext or total_equipes//2)) * 3 if pos_ext else 0
+    rang_dom = (total_equipes - (pos_dom or total_equipes//2)) * 2 if pos_dom else 0
+    rang_ext = (total_equipes - (pos_ext or total_equipes//2)) * 2 if pos_ext else 0
     score_dom = 50 + (score_forme_dom * 3) + att_dom + rang_dom + 8
     score_ext = 50 + (score_forme_ext * 3) + att_ext + rang_ext
     total = max(score_dom + score_ext, 1)
@@ -114,8 +114,8 @@ def calculer_oracle(stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equi
     proba_ext = max(15, min(80, round(score_ext / total * 100)))
     proba_nul = max(5, 100 - proba_dom - proba_ext)
     ecart = abs(proba_dom - proba_ext)
-    if ecart > 20: signal = "FORT"
-    elif ecart > 10: signal = "MOYEN"
+    if ecart > 25: signal = "FORT"
+    elif ecart > 12: signal = "MOYEN"
     else: signal = "RISQUÉ"
     return {
         "proba_dom": proba_dom,
@@ -148,38 +148,13 @@ def get_news_globales():
     articles = []
     mots_foot = ["football","foot","soccer","match","but","goal","transfert","mercato",
                  "ligue","champion","coupe","mondial","fifa","uefa","messi","ronaldo",
-                 "mbappé","haaland","neymar","kane","salah","club","stade"]
+                 "mbappé","haaland","premier league","serie a","la liga","bundesliga"]
 
-    if GNEWS_KEY:
-        queries = [
-            "football 2026",
-            "mercato transfert club 2026",
-            "coupe monde 2026"
-        ]
-        for query in queries:
-            try:
-                r = requests.get(
-                    f"https://gnews.io/api/v4/search?q={query}&lang=fr&max=5&apikey={GNEWS_KEY}",
-                    timeout=8
-                )
-                if r.status_code == 200:
-                    for a in r.json().get("articles", []):
-                        titre = (a.get("title","") or "").lower()
-                        if any(m in titre for m in mots_foot):
-                            articles.append({
-                                "titre": a.get("title",""),
-                                "description": a.get("description","") or "",
-                                "source": a.get("source",{}).get("name",""),
-                                "url": a.get("url",""),
-                                "date": (a.get("publishedAt","") or "")[:10]
-                            })
-            except Exception as e:
-                print(f"GNews erreur: {e}")
-
-    if NEWS_KEY and len(articles) < 5:
+    if NEWS_KEY:
         queries = [
             "football coupe monde 2026",
-            "mercato transfert football 2026"
+            "mercato transfert football 2026",
+            "Premier League Serie A Liga 2026"
         ]
         for query in queries:
             try:
@@ -189,26 +164,45 @@ def get_news_globales():
                 )
                 if r.status_code == 200:
                     for a in r.json().get("articles", []):
-                        titre = (a.get("title","") or "").lower()
+                        titre = a.get("title","").lower()
                         if any(m in titre for m in mots_foot):
                             articles.append({
                                 "titre": a.get("title",""),
                                 "description": a.get("description","") or "",
                                 "source": a.get("source",{}).get("name",""),
                                 "url": a.get("url",""),
-                                "date": (a.get("publishedAt","") or "")[:10]
+                                "date": a.get("publishedAt","")[:10]
                             })
             except:
                 pass
 
+    if GNEWS_KEY and len(articles) < 5:
+        try:
+            r = requests.get(
+                f"https://gnews.io/api/v4/search?q=football+2026&lang=fr&max=10&apikey={GNEWS_KEY}",
+                timeout=8
+            )
+            if r.status_code == 200:
+                for a in r.json().get("articles", []):
+                    titre = a.get("title","").lower()
+                    if any(m in titre for m in mots_foot):
+                        articles.append({
+                            "titre": a.get("title",""),
+                            "description": a.get("description","") or "",
+                            "source": a.get("source",{}).get("name",""),
+                            "url": a.get("url",""),
+                            "date": a.get("publishedAt","")[:10]
+                        })
+        except:
+            pass
+
     seen = set()
     unique = []
     for a in articles:
-        if a["titre"] and a["titre"] not in seen:
+        if a["titre"] not in seen and a["titre"]:
             seen.add(a["titre"])
             unique.append(a)
 
-    unique.sort(key=lambda x: x["date"], reverse=True)
     print(f"✅ {len(unique)} articles récupérés")
     return unique[:20]
 
@@ -217,21 +211,7 @@ def get_info_hors_saison(comp_code, comp_nom):
     infos = []
     if debut:
         infos.append(f"📅 Reprise saison : {debut}")
-    if GNEWS_KEY:
-        try:
-            query = f"transfert mercato {comp_nom} 2026"
-            r = requests.get(
-                f"https://gnews.io/api/v4/search?q={query}&lang=fr&max=3&apikey={GNEWS_KEY}",
-                timeout=5
-            )
-            if r.status_code == 200:
-                for a in r.json().get("articles", [])[:3]:
-                    t = a.get("title","")
-                    if t:
-                        infos.append(f"🔄 {t[:120]}")
-        except:
-            pass
-    if NEWS_KEY and len(infos) < 3:
+    if NEWS_KEY:
         try:
             query = f"transfert mercato {comp_nom} 2026"
             r = requests.get(
@@ -257,10 +237,9 @@ def get_classement(comp_code):
         )
         if r.status_code == 200:
             result = []
-            standings = r.json().get("standings", [])
-            for standing in standings:
+            for standing in r.json().get("standings", []):
                 group = standing.get("group", "")
-                for t in standing.get("table", [])[:4 if len(standings) > 1 else 20]:
+                for t in standing.get("table", [])[:4 if len(r.json().get("standings",[])) > 1 else 20]:
                     result.append({
                         "pos": t["position"],
                         "equipe": t["team"]["shortName"] or t["team"]["name"],
@@ -342,6 +321,7 @@ tous_matchs = []
 meteo_cache = {}
 forme_cache = {}
 
+# News globales
 vaticin_data["news_globales"] = get_news_globales()
 
 for comp_code, comp_nom in COMPETITIONS.items():
