@@ -1,5 +1,5 @@
 {
-  "total_matchs": 10,
+  "total_matchs": 12,
   "matchs": [
     {
       "id": 537408,
@@ -164,7 +164,35 @@
       "favori": "DOM",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537416,
+      "domicile": "France",
+      "exterieur": "Sweden",
+      "score": "3-0",
+      "date": "2026-06-30",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 58,
+      "oracle_proba_ext": 42,
+      "favori": "DOM",
+      "forme_dom": "VVVV",
+      "forme_ext": "VDND"
+    },
+    {
+      "id": 537425,
+      "domicile": "Mexico",
+      "exterieur": "Ecuador",
+      "score": "2-0",
+      "date": "2026-07-01",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-06-30"
+  "derniere_maj": "2026-07-01"
 }
