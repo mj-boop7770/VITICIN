@@ -1,5 +1,5 @@
 {
-  "total_matchs": 12,
+  "total_matchs": 13,
   "matchs": [
     {
       "id": 537408,
@@ -184,6 +184,20 @@
       "domicile": "Mexico",
       "exterieur": "Ecuador",
       "score": "2-0",
+      "date": "2026-07-01",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537426,
+      "domicile": "England",
+      "exterieur": "Congo DR",
+      "score": "2-1",
       "date": "2026-07-01",
       "ligue": "Coupe du Monde 2026",
       "oracle_signal": "RISQUÉ",
