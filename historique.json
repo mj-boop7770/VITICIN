@@ -1,5 +1,5 @@
 {
-  "total_matchs": 13,
+  "total_matchs": 15,
   "matchs": [
     {
       "id": 537408,
@@ -206,7 +206,35 @@
       "favori": "DOM",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537422,
+      "domicile": "Belgium",
+      "exterieur": "Senegal",
+      "score": "3-2",
+      "date": "2026-07-01",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 54,
+      "oracle_proba_ext": 46,
+      "favori": "DOM",
+      "forme_dom": "NNVV",
+      "forme_ext": "DDVD"
+    },
+    {
+      "id": 537421,
+      "domicile": "USA",
+      "exterieur": "Bosnia-H.",
+      "score": "2-0",
+      "date": "2026-07-02",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-01"
+  "derniere_maj": "2026-07-02"
 }
