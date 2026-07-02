@@ -97,7 +97,20 @@ def get_forme(team_id):
         pass
     return {"forme": "", "buts_pour": 0, "buts_contre": 0, "matchs": 0}
 
-def calculer_oracle(stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equipes=20):
+def verifier_elimination(pos, pts, j, total_equipes, groupe=None):
+    """Vérifie si une équipe est mathématiquement éliminée"""
+    if groupe:  # Groupe avec qualifiés (2 premiers généralement)
+        places_qualif = 2
+        places_restantes = places_qualif - (pos - 1)  # Combien de places restent
+        matchs_restants = 3 - j  # Généralement 3 matchs par groupe
+        points_max_possible = pts + (matchs_restants * 3)
+        
+        if places_restantes <= 0:
+            return True, "Mathématiquement éliminé"
+        
+    return False, ""
+
+def calculer_oracle_expressif(home, away, stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equipes=20, groupe=None):
     points = {"V": 3, "N": 1, "D": 0}
     forme_dom = stats_dom.get("forme", "")
     forme_ext = stats_ext.get("forme", "")
@@ -117,45 +130,71 @@ def calculer_oracle(stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equi
     if ecart > 20: signal = "FORT"
     elif ecart > 10: signal = "MOYEN"
     else: signal = "RISQUÉ"
+    
+    favori = home if proba_dom > proba_ext else away
+    proba_favori = proba_dom if proba_dom > proba_ext else proba_ext
+
     return {
         "proba_dom": proba_dom,
         "proba_nul": proba_nul,
         "proba_ext": proba_ext,
         "signal": signal,
-        "favori": "DOM" if proba_dom > proba_ext else "EXT"
+        "favori": favori,
+        "proba_favori": proba_favori
     }
 
-def generer_analyse(home, away, oracle, stats_dom, stats_ext, statut, score, groupe=""):
+def generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, statut, score, groupe=""):
     lignes = []
+    
     if groupe:
         lignes.append(f"⚽ Groupe {groupe}")
-    if oracle["signal"] != "RISQUÉ":
-        fav = home if oracle["favori"] == "DOM" else away
-        pct = oracle["proba_dom"] if oracle["favori"] == "DOM" else oracle["proba_ext"]
-        lignes.append(f"🎯 Favori : {fav} ({pct}%)")
+    
+    # Favori expressif
+    favori = oracle["favori"]
+    proba = oracle["proba_favori"]
+    if oracle["signal"] == "FORT":
+        lignes.append(f"🎯 {favori} largement favori ({proba}%)")
+    elif oracle["signal"] == "MOYEN":
+        lignes.append(f"⚡ {favori} favori ({proba}%)")
     else:
-        lignes.append(f"⚖️ Match serré")
+        lignes.append(f"⚖️ Très serré entre {home} et {away}")
+    
+    # Forme détaillée
     if stats_dom.get("forme") and stats_dom["forme"] not in ["?????",""]:
-        lignes.append(f"📈 {home} : {stats_dom['forme']} | {stats_dom['buts_pour']} buts")
+        nb_v = stats_dom["forme"].count("V")
+        lignes.append(f"🔥 {home} : {stats_dom['forme']} ({nb_v} victoires)")
     if stats_ext.get("forme") and stats_ext["forme"] not in ["?????",""]:
-        lignes.append(f"📉 {away} : {stats_ext['forme']} | {stats_ext['buts_pour']} buts")
+        nb_v = stats_ext["forme"].count("V")
+        lignes.append(f"💪 {away} : {stats_ext['forme']} ({nb_v} victoires)")
+    
     if statut == "FINISHED" and score != "VS":
-        lignes.append(f"✅ {score}")
+        lignes.append(f"✅ Score : {score}")
+    
     return " • ".join(lignes) if lignes else ""
 
-def get_news_globales():
-    print("📰 Récupération des news foot...")
+def get_news_enrichies():
+    print("📰 Récupération des news foot enrichies...")
     articles = []
+    
+    # Mots-clés élargis pour news intéressantes
+    queries = [
+        "coupe monde 2026 ambiance stade",
+        "surprise insolite coupe monde 2026",
+        "record but but buteur coupe monde 2026",
+        "histoire anecdote coupe monde 2026",
+        "football 2026 passion",
+        "mercato transfert 2026 choc"
+    ]
+    
     mots_foot = ["football","foot","soccer","match","but","goal","transfert","mercato",
-                 "ligue","champion","coupe","mondial","fifa","uefa","messi","ronaldo",
-                 "mbappé","haaland","neymar","kane","salah","club","stade","ballon"]
+                 "ligue","champion","coupe","mondial","fifa","uefa","ambiance","stade",
+                 "surprise","insolite","record","histoire","anecdote","passion","ballon","drame","joie"]
 
     if GNEWS_KEY:
-        queries = ["football 2026", "mercato transfert club 2026", "coupe monde 2026"]
         for query in queries:
             try:
                 r = requests.get(
-                    f"https://gnews.io/api/v4/search?q={query}&lang=fr&max=5&apikey={GNEWS_KEY}",
+                    f"https://gnews.io/api/v4/search?q={query}&lang=fr&max=3&apikey={GNEWS_KEY}",
                     timeout=8
                 )
                 if r.status_code == 200:
@@ -169,15 +208,14 @@ def get_news_globales():
                                 "url": a.get("url",""),
                                 "date": (a.get("publishedAt","") or "")[:10]
                             })
-            except Exception as e:
-                print(f"GNews erreur: {e}")
+            except:
+                pass
 
     if NEWS_KEY and len(articles) < 5:
-        queries = ["football coupe monde 2026", "mercato transfert football 2026"]
-        for query in queries:
+        for query in ["ambiance stade coupe monde", "surprise insolite football", "record but 2026"]:
             try:
                 r = requests.get(
-                    f"https://newsapi.org/v2/everything?q={query}&language=fr&sortBy=publishedAt&pageSize=5&apiKey={NEWS_KEY}",
+                    f"https://newsapi.org/v2/everything?q={query}&language=fr&sortBy=publishedAt&pageSize=3&apiKey={NEWS_KEY}",
                     timeout=8
                 )
                 if r.status_code == 200:
@@ -201,8 +239,8 @@ def get_news_globales():
             seen.add(a["titre"])
             unique.append(a)
     unique.sort(key=lambda x: x["date"], reverse=True)
-    print(f"✅ {len(unique)} articles récupérés")
-    return unique[:20]
+    print(f"✅ {len(unique)} articles enrichis récupérés")
+    return unique[:25]
 
 def get_info_hors_saison(comp_code, comp_nom):
     debut = DEBUT_SAISON.get(comp_code, "")
@@ -253,6 +291,7 @@ def get_classement(comp_code):
             for standing in standings:
                 group = standing.get("group", "")
                 for t in standing.get("table", [])[:4 if len(standings) > 1 else 20]:
+                    elim, msg = verifier_elimination(t["position"], t["points"], t["playedGames"], len(standing["table"]), group if group else None)
                     result.append({
                         "pos": t["position"],
                         "equipe": t["team"]["shortName"] or t["team"]["name"],
@@ -264,7 +303,9 @@ def get_classement(comp_code):
                         "p": t["lost"],
                         "bp": t["goalsFor"],
                         "bc": t["goalsAgainst"],
-                        "groupe": group.replace("GROUP_","") if group else ""
+                        "groupe": group.replace("GROUP_","") if group else "",
+                        "elim": elim,
+                        "msg_elim": msg
                     })
             return result
     except:
@@ -334,7 +375,7 @@ tous_matchs = []
 meteo_cache = {}
 forme_cache = {}
 
-vaticin_data["news_globales"] = get_news_globales()
+vaticin_data["news_globales"] = get_news_enrichies()
 
 for comp_code, comp_nom in COMPETITIONS.items():
     print(f"📡 {comp_nom}...")
@@ -354,7 +395,6 @@ for comp_code, comp_nom in COMPETITIONS.items():
         meteo_cache[ville] = get_meteo(ville)
     ligue_data["meteo"] = meteo_cache[ville]
 
-    # ✅ Classement et buteurs TOUJOURS récupérés (même hors saison)
     classement = get_classement(comp_code)
     ligue_data["classement"] = classement
     positions = {row["team_id"]: row["pos"] for row in classement}
@@ -375,11 +415,9 @@ for comp_code, comp_nom in COMPETITIONS.items():
             termines = [m for m in all_matchs if m["status"] == "FINISHED"][-5:]
             matchs_selec = live + termines + a_venir
 
-            # ✅ Hors saison : on marque mais on continue quand même
             if not matchs_selec and comp_code != "WC":
                 ligue_data["hors_saison"] = True
                 ligue_data["infos_hors_saison"] = get_info_hors_saison(comp_code, comp_nom)
-                # PAS de continue ici — on sauvegarde classement et buteurs !
             else:
                 for m in matchs_selec:
                     home = m["homeTeam"]["shortName"] or m["homeTeam"]["name"]
@@ -396,13 +434,13 @@ for comp_code, comp_nom in COMPETITIONS.items():
                     stats_ext = forme_cache[away_id]
                     pos_dom = positions.get(home_id)
                     pos_ext = positions.get(away_id)
-                    oracle = calculer_oracle(stats_dom, stats_ext, pos_dom, pos_ext, total_equipes)
+                    groupe = (m.get("group") or "").replace("GROUP_","")
+                    oracle = calculer_oracle_expressif(home, away, stats_dom, stats_ext, pos_dom, pos_ext, total_equipes, groupe)
 
                     sh = m["score"]["fullTime"]["home"]
                     sa = m["score"]["fullTime"]["away"]
                     score_txt = f"{sh}-{sa}" if sh is not None else "VS"
-                    groupe = (m.get("group") or "").replace("GROUP_","")
-                    analyse = generer_analyse(home, away, oracle, stats_dom, stats_ext, m["status"], score_txt, groupe)
+                    analyse = generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, m["status"], score_txt, groupe)
 
                     match_data = {
                         "id": m["id"],
