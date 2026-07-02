@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-02T21:52:15Z",
+  "mise_a_jour": "2026-07-02T23:37:16Z",
   "news_globales": [
     {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
@@ -55,7 +55,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 38°C peu nuageux",
+      "meteo": "🌡️ 37°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -842,6 +842,39 @@
       ],
       "matchs": [
         {
+          "id": 537419,
+          "domicile": "Portugal",
+          "exterieur": "Croatia",
+          "heure": "2026-07-02T23:00:00Z",
+          "score": "0-0",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "NVN",
+            "buts_pour": 6,
+            "buts_contre": 1,
+            "matchs": 3
+          },
+          "stats_ext": {
+            "forme": "DVV",
+            "buts_pour": 5,
+            "buts_contre": 5,
+            "matchs": 3
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Portugal",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Portugal et Croatia • 🔥 Portugal : NVN (1 victoires) • 💪 Croatia : DVV (2 victoires)",
+          "meteo": "🌡️ 37°C peu nuageux",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-02"
+        },
+        {
           "id": 537425,
           "domicile": "Mexico",
           "exterieur": "Ecuador",
@@ -870,7 +903,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Mexico favori (56%) • 🔥 Mexico : VVVV (4 victoires) • 💪 Ecuador : DNVD (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         },
@@ -903,7 +936,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre England et Congo DR • 🔥 England : VNVV (3 victoires) • 💪 Congo DR : NDVD (1 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         },
@@ -936,7 +969,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Belgium et Senegal • 🔥 Belgium : NNVV (2 victoires) • 💪 Senegal : DDVD (1 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         },
@@ -949,27 +982,27 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVDV",
-            "buts_pour": 10,
-            "buts_contre": 4,
-            "matchs": 4
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "stats_ext": {
-            "forme": "NDVD",
-            "buts_pour": 5,
-            "buts_contre": 8,
-            "matchs": 4
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 55,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 45,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "USA",
-            "proba_favori": 55
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre USA et Bosnia-H. • 🔥 USA : VVDV (3 victoires) • 💪 Bosnia-H. : NDVD (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "analyse": "⚖️ Très serré entre USA et Bosnia-H. • ✅ Score : 2-0",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-02"
         },
@@ -1002,40 +1035,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Austria • ✅ Score : 3-0",
-          "meteo": "🌡️ 38°C peu nuageux",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-02"
-        },
-        {
-          "id": 537419,
-          "domicile": "Portugal",
-          "exterieur": "Croatia",
-          "heure": "2026-07-02T23:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 51,
-            "proba_nul": 5,
-            "proba_ext": 49,
-            "signal": "RISQUÉ",
-            "favori": "Portugal",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Portugal et Croatia",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-02"
         },
@@ -1068,7 +1068,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Switzerland et Algeria",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1101,7 +1101,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Australia et Egypt",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1134,7 +1134,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Cape Verde",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1167,7 +1167,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Colombia et Ghana",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1200,7 +1200,40 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Canada et Morocco",
-          "meteo": "🌡️ 38°C peu nuageux",
+          "meteo": "🌡️ 37°C peu nuageux",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-04"
+        },
+        {
+          "id": 537375,
+          "domicile": "Paraguay",
+          "exterieur": "France",
+          "heure": "2026-07-04T21:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 50,
+            "proba_nul": 5,
+            "proba_ext": 50,
+            "signal": "RISQUÉ",
+            "favori": "France",
+            "proba_favori": 50
+          },
+          "analyse": "⚖️ Très serré entre Paraguay et France",
+          "meteo": "🌡️ 37°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         }
@@ -1211,7 +1244,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 16°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1221,7 +1254,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 36°C ciel dégagé",
+      "meteo": "🌡️ 31°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1231,7 +1264,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 24°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1241,7 +1274,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 20°C peu nuageux",
+      "meteo": "🌡️ 18°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1251,7 +1284,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 16°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
