@@ -1,5 +1,5 @@
 {
-  "total_matchs": 15,
+  "total_matchs": 16,
   "matchs": [
     {
       "id": 537408,
@@ -232,6 +232,20 @@
       "oracle_proba_dom": 52,
       "oracle_proba_ext": 48,
       "favori": "DOM",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537420,
+      "domicile": "Spain",
+      "exterieur": "Austria",
+      "score": "3-0",
+      "date": "2026-07-02",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Spain",
       "forme_dom": "",
       "forme_ext": ""
     }
