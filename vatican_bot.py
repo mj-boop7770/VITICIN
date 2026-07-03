@@ -97,18 +97,16 @@ def get_forme(team_id):
         pass
     return {"forme": "", "buts_pour": 0, "buts_contre": 0, "matchs": 0}
 
-def verifier_elimination(pos, pts, j, total_equipes, groupe=None):
-    """Vérifie si une équipe est mathématiquement éliminée"""
-    if groupe:  # Groupe avec qualifiés (2 premiers généralement)
-        places_qualif = 2
-        places_restantes = places_qualif - (pos - 1)  # Combien de places restent
-        matchs_restants = 3 - j  # Généralement 3 matchs par groupe
-        points_max_possible = pts + (matchs_restants * 3)
-        
-        if places_restantes <= 0:
-            return True, "Mathématiquement éliminé"
-        
-    return False, ""
+def verifier_qualification_wc(pos, pts, j, groupe_size=4):
+    """Vérifie si une équipe peut encore se qualifier en Coupe du Monde 2026"""
+    places_qualif = 2
+    places_restantes = places_qualif - (pos - 1)
+    matchs_restants = 3 - j
+    points_max_possible = pts + (matchs_restants * 3)
+    
+    if places_restantes <= 0:
+        return "Mathématiquement éliminé"
+    return ""
 
 def calculer_oracle_expressif(home, away, stats_dom, stats_ext, pos_dom=None, pos_ext=None, total_equipes=20, groupe=None):
     points = {"V": 3, "N": 1, "D": 0}
@@ -149,7 +147,6 @@ def generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, statut, 
     if groupe:
         lignes.append(f"⚽ Groupe {groupe}")
     
-    # Favori expressif
     favori = oracle["favori"]
     proba = oracle["proba_favori"]
     if oracle["signal"] == "FORT":
@@ -159,7 +156,6 @@ def generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, statut, 
     else:
         lignes.append(f"⚖️ Très serré entre {home} et {away}")
     
-    # Forme détaillée
     if stats_dom.get("forme") and stats_dom["forme"] not in ["?????",""]:
         nb_v = stats_dom["forme"].count("V")
         lignes.append(f"🔥 {home} : {stats_dom['forme']} ({nb_v} victoires)")
@@ -176,11 +172,10 @@ def get_news_enrichies():
     print("📰 Récupération des news foot enrichies...")
     articles = []
     
-    # Mots-clés élargis pour news intéressantes
     queries = [
         "coupe monde 2026 ambiance stade",
         "surprise insolite coupe monde 2026",
-        "record but but buteur coupe monde 2026",
+        "record but buteur coupe monde 2026",
         "histoire anecdote coupe monde 2026",
         "football 2026 passion",
         "mercato transfert 2026 choc"
@@ -242,42 +237,79 @@ def get_news_enrichies():
     print(f"✅ {len(unique)} articles enrichis récupérés")
     return unique[:25]
 
-def get_info_hors_saison(comp_code, comp_nom):
-    debut = DEBUT_SAISON.get(comp_code, "")
-    infos = []
-    if debut:
-        infos.append(f"📅 Reprise saison : {debut}")
+def get_mercato_flash(comp_nom):
+    """Transferts d'actualité (FLASH)"""
+    print(f"📰 Mercato flash {comp_nom}...")
+    articles = []
     if GNEWS_KEY:
         try:
-            query = f"transfert mercato {comp_nom} 2026"
             r = requests.get(
-                f"https://gnews.io/api/v4/search?q={query}&lang=fr&max=5&apikey={GNEWS_KEY}",
-                timeout=5
+                f"https://gnews.io/api/v4/search?q=transfert {comp_nom} 2026 signé annoncé&lang=fr&max=5&apikey={GNEWS_KEY}",
+                timeout=8
             )
             if r.status_code == 200:
                 for a in r.json().get("articles", [])[:5]:
-                    t = a.get("title","")
-                    if t:
-                        infos.append(f"🔄 {t[:120]}")
+                    articles.append({
+                        "titre": a.get("title",""),
+                        "source": a.get("source",{}).get("name",""),
+                        "date": (a.get("publishedAt","") or "")[:10]
+                    })
         except:
             pass
-    if NEWS_KEY and len(infos) < 3:
+    return articles[:3]
+
+def get_rumeurs_oracle(comp_nom):
+    """Rumeurs transferts (ORACLE)"""
+    print(f"🔮 Rumeurs {comp_nom}...")
+    articles = []
+    if GNEWS_KEY:
         try:
-            query = f"transfert mercato {comp_nom} 2026"
             r = requests.get(
-                f"https://newsapi.org/v2/everything?q={query}&language=fr&sortBy=publishedAt&pageSize=3&apiKey={NEWS_KEY}",
-                timeout=5
+                f"https://gnews.io/api/v4/search?q=rumeur transfert {comp_nom} 2026 intéresse veut&lang=fr&max=5&apikey={GNEWS_KEY}",
+                timeout=8
             )
             if r.status_code == 200:
-                for a in r.json().get("articles", [])[:3]:
-                    t = a.get("title","")
-                    if t:
-                        infos.append(f"🔄 {t[:120]}")
+                for a in r.json().get("articles", [])[:5]:
+                    articles.append({
+                        "titre": a.get("title",""),
+                        "source": a.get("source",{}).get("name",""),
+                        "date": (a.get("publishedAt","") or "")[:10]
+                    })
         except:
             pass
-    if len(infos) < 2:
-        infos.append(f"🔄 Mercato d'été 2026 en cours")
-    return infos
+    return articles[:3]
+
+def get_preparatifs_stats(comp_nom):
+    """Préparation saison (STATS)"""
+    print(f"📊 Préparatifs {comp_nom}...")
+    articles = []
+    if GNEWS_KEY:
+        try:
+            r = requests.get(
+                f"https://gnews.io/api/v4/search?q=préparation amical stage {comp_nom} 2026&lang=fr&max=5&apikey={GNEWS_KEY}",
+                timeout=8
+            )
+            if r.status_code == 200:
+                for a in r.json().get("articles", [])[:5]:
+                    articles.append({
+                        "titre": a.get("title",""),
+                        "source": a.get("source",{}).get("name",""),
+                        "date": (a.get("publishedAt","") or "")[:10]
+                    })
+        except:
+            pass
+    return articles[:3]
+
+def get_info_hors_saison_complet(comp_code, comp_nom):
+    """Info complète hors saison avec tout"""
+    debut = DEBUT_SAISON.get(comp_code, "")
+    info = {
+        "date_reprise": debut,
+        "flash": get_mercato_flash(comp_nom),
+        "rumeurs": get_rumeurs_oracle(comp_nom),
+        "preparatifs": get_preparatifs_stats(comp_nom)
+    }
+    return info
 
 def get_classement(comp_code):
     try:
@@ -291,7 +323,7 @@ def get_classement(comp_code):
             for standing in standings:
                 group = standing.get("group", "")
                 for t in standing.get("table", [])[:4 if len(standings) > 1 else 20]:
-                    elim, msg = verifier_elimination(t["position"], t["points"], t["playedGames"], len(standing["table"]), group if group else None)
+                    msg_elim = verifier_qualification_wc(t["position"], t["points"], t["playedGames"])
                     result.append({
                         "pos": t["position"],
                         "equipe": t["team"]["shortName"] or t["team"]["name"],
@@ -304,8 +336,8 @@ def get_classement(comp_code):
                         "bp": t["goalsFor"],
                         "bc": t["goalsAgainst"],
                         "groupe": group.replace("GROUP_","") if group else "",
-                        "elim": elim,
-                        "msg_elim": msg
+                        "elim": msg_elim != "",
+                        "msg_elim": msg_elim
                     })
             return result
     except:
@@ -387,7 +419,7 @@ for comp_code, comp_nom in COMPETITIONS.items():
         "buteurs": [],
         "matchs": [],
         "hors_saison": False,
-        "infos_hors_saison": []
+        "info_hors_saison": {}
     }
 
     ville = STADES.get(comp_code, "Paris")
@@ -417,7 +449,7 @@ for comp_code, comp_nom in COMPETITIONS.items():
 
             if not matchs_selec and comp_code != "WC":
                 ligue_data["hors_saison"] = True
-                ligue_data["infos_hors_saison"] = get_info_hors_saison(comp_code, comp_nom)
+                ligue_data["info_hors_saison"] = get_info_hors_saison_complet(comp_code, comp_nom)
             else:
                 for m in matchs_selec:
                     home = m["homeTeam"]["shortName"] or m["homeTeam"]["name"]
@@ -476,3 +508,4 @@ with open("historique.json", "w", encoding="utf-8") as f:
 print("✅ historique.json mis à jour")
 
 print("=== VATICIN ENGINE — TERMINÉ ===")
+    
