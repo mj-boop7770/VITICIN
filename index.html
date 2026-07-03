@@ -46,6 +46,8 @@ main{padding:.8rem 1rem;max-width:600px;margin:0 auto}
 .hs-title{font-size:.8rem;font-weight:900;color:#f59e0b;font-family:monospace;margin-bottom:.6rem}
 .hs-item{font-size:.75rem;color:#d1d5db;padding:.3rem 0;border-bottom:1px solid #1f2937;line-height:1.5}
 .hs-item:last-child{border:none}
+.hs-section{margin-top:.8rem;border-top:1px solid #1f2937;padding-top:.5rem}
+.hs-section-title{font-size:.7rem;font-weight:700;color:#f59e0b;margin-bottom:.3rem}
 .news-card{background:#0e111a;border-radius:12px;padding:.8rem 1rem;margin-bottom:.6rem;border:1px solid #1f2937}
 .news-title{font-size:.8rem;font-weight:700;color:#f3f4f6;line-height:1.4;margin-bottom:.3rem}
 .news-desc{font-size:.7rem;color:#9ca3af;line-height:1.5;margin-bottom:.2rem}
@@ -108,7 +110,7 @@ let currentLigue = 'ALL';
 let currentLang = 'fr';
 
 const LANG = {
-  fr:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Buteurs",news:"📰 News",dom:"Domicile",ext:"Extérieur",nul:"Nul",signal:"Signal",pts:"Pts",j:"J",g:"G",n:"N",p:"P",bp:"BP",bc:"BC",all:"Toutes",buts:"buts",horsSaison:"Hors saison · Mercato",elim:"Éliminé"},
+  fr:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Buteurs",news:"📰 News",dom:"Domicile",ext:"Extérieur",nul:"Nul",signal:"Signal",pts:"Pts",j:"J",g:"G",n:"N",p:"P",bp:"BP",bc:"BC",all:"Toutes",buts:"buts",horsSaison:"Hors saison",elim:"Éliminé"},
   en:{flash:"⚡ Flash",oracle:"🔮 Oracle",stats:"📊 Stats",buteurs:"⚽ Scorers",news:"📰 News",dom:"Home",ext:"Away",nul:"Draw",signal:"Signal",pts:"Pts",j:"P",g:"W",n:"D",p:"L",bp:"GF",bc:"GA",all:"All",buts:"goals",horsSaison:"Off season",elim:"Eliminated"},
   pt:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Artilheiros",news:"📰 Notícias",dom:"Casa",ext:"Fora",nul:"Empate",signal:"Sinal",pts:"Pts",j:"J",g:"V",n:"E",p:"D",bp:"GM",bc:"GS",all:"Todas",buts:"golos",horsSaison:"Fora época",elim:"Eliminado"},
   es:{flash:"⚡ Flash",oracle:"🔮 Oráculo",stats:"📊 Stats",buteurs:"⚽ Goleadores",news:"📰 Noticias",dom:"Local",ext:"Visitante",nul:"Empate",signal:"Señal",pts:"Pts",j:"J",g:"G",n:"E",p:"P",bp:"GF",bc:"GC",all:"Todas",buts:"goles",horsSaison:"Fuera temporada",elim:"Eliminado"},
@@ -218,10 +220,7 @@ function renderMatchCard(m,showAnalyse=false){
     <div class="card">
       <div class="card-header">
         <div>
-          <div class="teams">
-            ${isLive?'<span style="display:inline-block;width:6px;height:6px;background:#ef4444;border-radius:50%;margin-right:4px;animation:pulse 1.5s infinite"></span>':''}
-            ${m.domicile} vs ${m.exterieur}
-          </div>
+          <div class="teams">${isLive?'🔴 ':''} ${m.domicile} vs ${m.exterieur}</div>
           <div class="time">${formatDate(m.heure)}${m.meteo?' · '+m.meteo:''}</div>
           ${m.groupe?`<div style="font-size:.6rem;color:#f59e0b;font-family:monospace">Gr. ${m.groupe}</div>`:''}
         </div>
@@ -235,22 +234,60 @@ function renderMatchCard(m,showAnalyse=false){
     </div>`;
 }
 
-function renderHorsSaison(l){
+function renderHorsSaisonFlash(l){
+  if(!l.hors_saison||!l.info_hors_saison)return'';
+  const info=l.info_hors_saison;
+  let html=`<div class="hs-card"><div class="hs-title">${l.nom} · ${t('horsSaison')}</div>`;
+  if(info.date_reprise)html+=`<div class="hs-item">📅 Reprise : ${info.date_reprise}</div>`;
+  if(info.flash?.length){
+    html+=`<div class="hs-section"><div class="hs-section-title">⚡ Transferts d'actualité</div>`;
+    info.flash.forEach(a=>{
+      html+=`<div class="hs-item">🔴 ${a.titre}<br><span style="color:#6b7280;font-size:.65rem">${a.source} · ${a.date}</span></div>`;
+    });
+    html+=`</div>`;
+  }
+  html+=`</div>`;
+  return html;
+}
+
+function renderHorsSaisonOracle(l){
+  if(!l.hors_saison||!l.info_hors_saison)return'';
+  const info=l.info_hors_saison;
+  if(!info.rumeurs?.length)return'';
+  let html=`<div class="hs-card"><div class="hs-title">${l.nom} · Rumeurs</div>`;
+  info.rumeurs.forEach(a=>{
+    html+=`<div class="hs-item">🔮 ${a.titre}<br><span style="color:#6b7280;font-size:.65rem">${a.source} · ${a.date}</span></div>`;
+  });
+  html+=`</div>`;
+  return html;
+}
+
+function renderHorsSaisonStats(l){
+  if(!l.hors_saison||!l.info_hors_saison)return'';
+  const info=l.info_hors_saison;
+  if(!info.preparatifs?.length)return'';
+  let html=`<div class="hs-card"><div class="hs-title">${l.nom} · Préparatifs</div>`;
+  info.preparatifs.forEach(a=>{
+    html+=`<div class="hs-item">📊 ${a.titre}<br><span style="color:#6b7280;font-size:.65rem">${a.source} · ${a.date}</span></div>`;
+  });
+  html+=`</div>`;
+  return html;
+}
+
+function renderHorsSaisonButeurs(l){
   if(!l.hors_saison)return'';
-  const infos=l.infos_hors_saison||[];
-  if(!infos.length)return'';
-  return`
-    <div class="hs-card">
-      <div class="hs-title">${l.nom} · ${t('horsSaison')}</div>
-      ${infos.map(i=>`<div class="hs-item">${i}</div>`).join('')}
-    </div>`;
+  const info=l.info_hors_saison||{};
+  let html=`<div class="hs-card"><div class="hs-title">${l.nom} · Saison précédente</div>`;
+  html+=`<div class="hs-item">Buteurs top scorer de la saison passée</div>`;
+  html+=`</div>`;
+  return html;
 }
 
 function renderFlash(){
   const ligues=getLigues();
   let html='';
   ligues.forEach(l=>{
-    if(l.hors_saison){html+=renderHorsSaison(l);return;}
+    if(l.hors_saison){html+=renderHorsSaisonFlash(l);return;}
     const live=l.matchs.filter(m=>['LIVE','IN_PLAY'].includes(m.statut));
     const autres=l.matchs.filter(m=>!['LIVE','IN_PLAY'].includes(m.statut));
     const matchs=[...live,...autres];
@@ -265,7 +302,7 @@ function renderOracle(){
   const ligues=getLigues();
   let html='';
   ligues.forEach(l=>{
-    if(l.hors_saison)return;
+    if(l.hors_saison){html+=renderHorsSaisonOracle(l);return;}
     const matchs=l.matchs.filter(m=>m.oracle&&m.oracle.proba_dom);
     if(!matchs.length)return;
     html+=`<div class="ligue-label">${l.nom}</div>`;
@@ -281,7 +318,7 @@ function renderStats(){
   const ligues=getLigues();
   let html='';
   ligues.forEach(l=>{
-    if(l.hors_saison){html+=renderHorsSaison(l);return;}
+    if(l.hors_saison){html+=renderHorsSaisonStats(l);return;}
     if(!l.classement?.length)return;
     const groupes={};
     l.classement.forEach(row=>{
@@ -313,6 +350,7 @@ function renderButeurs(){
   const ligues=getLigues();
   let html='';
   ligues.forEach(l=>{
+    if(l.hors_saison){html+=renderHorsSaisonButeurs(l);return;}
     if(!l.buteurs?.length)return;
     html+=`<div class="card">
       <div style="font-size:.75rem;font-weight:900;color:#f59e0b;font-family:monospace;margin-bottom:.6rem">${l.nom}</div>
@@ -358,4 +396,4 @@ function render(){
 loadData();
 </script>
 </body>
-    </html>
+  </html>
