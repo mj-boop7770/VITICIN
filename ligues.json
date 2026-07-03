@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-03T05:59:43Z",
+  "mise_a_jour": "2026-07-03T07:31:18Z",
   "news_globales": [
     {
       "titre": "Les Diables écrivent l'histoire de la Coupe du Monde et Tielemans s'offre un record : Ce que vous avez loupé cette nuit au Mondial",
@@ -1212,58 +1212,52 @@
           "date": "2026-07-05"
         }
       ],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     },
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 15°C nuageux",
+      "meteo": "🌡️ 17°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     },
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 25°C partiellement nuageux",
+      "meteo": "🌡️ 24°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     },
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     },
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 16°C peu nuageux",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     },
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 15°C nuageux",
+      "meteo": "🌡️ 17°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false,
-      "info_hors_saison": {}
+      "hors_saison": false
     }
   ]
 }
