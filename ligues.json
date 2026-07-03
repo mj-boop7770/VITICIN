@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-03T07:31:18Z",
+  "mise_a_jour": "2026-07-03T15:39:18Z",
   "news_globales": [
     {
       "titre": "Les Diables écrivent l'histoire de la Coupe du Monde et Tielemans s'offre un record : Ce que vous avez loupé cette nuit au Mondial",
@@ -62,7 +62,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 31°C ciel dégagé",
+      "meteo": "🌡️ 36°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -877,7 +877,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Belgium et Senegal • 🔥 Belgium : NNVV (2 victoires) • 💪 Senegal : DDVD (1 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-01"
         },
@@ -910,7 +910,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre USA et Bosnia-H. • 🔥 USA : VVDV (3 victoires) • 💪 Bosnia-H. : NDVD (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-02"
         },
@@ -943,7 +943,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Spain et Austria • 🔥 Spain : NVVV (3 victoires) • 💪 Austria : VDND (1 victoires) • ✅ Score : 3-0",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-02"
         },
@@ -976,7 +976,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Portugal et Croatia • 🔥 Portugal : NVNV (2 victoires) • 💪 Croatia : DVVD (2 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-02"
         },
@@ -1009,7 +1009,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Switzerland et Algeria • ✅ Score : 2-0",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1042,7 +1042,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Australia et Egypt",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1075,7 +1075,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Cape Verde",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -1108,7 +1108,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Colombia et Ghana",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1141,7 +1141,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Canada et Morocco",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1174,7 +1174,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Paraguay et France",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1207,7 +1207,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Brazil et Norway",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 36°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-05"
         }
@@ -1217,7 +1217,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 17°C couvert",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1226,7 +1226,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 24°C partiellement nuageux",
+      "meteo": "🌡️ 31°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1235,7 +1235,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 22°C ciel dégagé",
+      "meteo": "🌡️ 35°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1244,7 +1244,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 19°C couvert",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1253,7 +1253,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 17°C couvert",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
