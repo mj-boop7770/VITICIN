@@ -1,5 +1,5 @@
 {
-  "total_matchs": 16,
+  "total_matchs": 18,
   "matchs": [
     {
       "id": 537408,
@@ -248,7 +248,35 @@
       "favori": "Spain",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537419,
+      "domicile": "Portugal",
+      "exterieur": "Croatia",
+      "score": "2-1",
+      "date": "2026-07-02",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 53,
+      "oracle_proba_ext": 47,
+      "favori": "Portugal",
+      "forme_dom": "NVNV",
+      "forme_ext": "DVVD"
+    },
+    {
+      "id": 537429,
+      "domicile": "Switzerland",
+      "exterieur": "Algeria",
+      "score": "2-0",
+      "date": "2026-07-03",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "Switzerland",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-02"
+  "derniere_maj": "2026-07-03"
 }
