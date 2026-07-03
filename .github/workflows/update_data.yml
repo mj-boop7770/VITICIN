@@ -38,6 +38,6 @@ jobs:
           git config --global user.name "Vatican-Bot"
           git config --global user.email "bot@vaticin.mujos"
           git remote set-url origin https://x-access-token:${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git
-          git add ligues.json historique.json
+          git add 
           git diff --staged --quiet || git commit -m "🤖 Vatican update $(date -u '+%Y-%m-%d %H:%M') UTC"
           git push origin main
