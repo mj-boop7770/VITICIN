@@ -167,7 +167,7 @@ def generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, statut, 
     
     return " • ".join(lignes) if lignes else ""
 
-def get_news_enrichies():
+def get_news_globales():
     print("📰 Récupération des news foot enrichies...")
     articles = []
     
@@ -296,16 +296,6 @@ def get_preparatifs_stats(comp_nom):
             pass
     return articles[:3]
 
-def get_info_hors_saison_complet(comp_code, comp_nom):
-    debut = DEBUT_SAISON.get(comp_code, "")
-    info = {
-        "date_reprise": debut,
-        "flash": get_mercato_flash(comp_nom),
-        "rumeurs": get_rumeurs_oracle(comp_nom),
-        "preparatifs": get_preparatifs_stats(comp_nom)
-    }
-    return info
-
 def get_classement(comp_code):
     try:
         r = requests.get(
@@ -394,12 +384,19 @@ vaticin_data = {
     "ligues": []
 }
 
+news_data = {
+    "mise_a_jour": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "news_globales": [],
+    "hors_saison": {}
+}
+
 historique = charger_historique()
 tous_matchs = []
 meteo_cache = {}
 forme_cache = {}
 
 vaticin_data["news_globales"] = get_news_enrichies()
+news_data["news_globales"] = vaticin_data["news_globales"]
 
 for comp_code, comp_nom in COMPETITIONS.items():
     print(f"📡 {comp_nom}...")
@@ -410,8 +407,7 @@ for comp_code, comp_nom in COMPETITIONS.items():
         "classement": [],
         "buteurs": [],
         "matchs": [],
-        "hors_saison": False,
-        "info_hors_saison": {}
+        "hors_saison": False
     }
 
     ville = STADES.get(comp_code, "Paris")
@@ -441,7 +437,12 @@ for comp_code, comp_nom in COMPETITIONS.items():
 
             if not matchs_selec and comp_code != "WC":
                 ligue_data["hors_saison"] = True
-                ligue_data["info_hors_saison"] = get_info_hors_saison_complet(comp_code, comp_nom)
+                news_data["hors_saison"][comp_nom] = {
+                    "date_reprise": DEBUT_SAISON.get(comp_code, ""),
+                    "flash": get_mercato_flash(comp_nom),
+                    "rumeurs": get_rumeurs_oracle(comp_nom),
+                    "preparatifs": get_preparatifs_stats(comp_nom)
+                }
             else:
                 for m in matchs_selec:
                     home = m["homeTeam"]["shortName"] or m["homeTeam"]["name"]
@@ -493,6 +494,10 @@ for comp_code, comp_nom in COMPETITIONS.items():
 with open("ligues.json", "w", encoding="utf-8") as f:
     json.dump(vaticin_data, f, indent=2, ensure_ascii=False)
 print("✅ ligues.json mis à jour")
+
+with open("news.json", "w", encoding="utf-8") as f:
+    json.dump(news_data, f, indent=2, ensure_ascii=False)
+print("✅ news.json mis à jour")
 
 historique = sauvegarder_historique(historique, tous_matchs)
 with open("historique.json", "w", encoding="utf-8") as f:
