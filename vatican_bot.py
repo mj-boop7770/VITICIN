@@ -98,7 +98,6 @@ def get_forme(team_id):
     return {"forme": "", "buts_pour": 0, "buts_contre": 0, "matchs": 0}
 
 def verifier_qualification_wc(pos, pts, j, groupe_size=4):
-    """Vérifie si une équipe peut encore se qualifier en Coupe du Monde 2026"""
     places_qualif = 2
     places_restantes = places_qualif - (pos - 1)
     matchs_restants = 3 - j
@@ -238,13 +237,12 @@ def get_news_enrichies():
     return unique[:25]
 
 def get_mercato_flash(comp_nom):
-    """Transferts d'actualité (FLASH)"""
     print(f"📰 Mercato flash {comp_nom}...")
     articles = []
     if GNEWS_KEY:
         try:
             r = requests.get(
-                f"https://gnews.io/api/v4/search?q=transfert {comp_nom} 2026 signé annoncé&lang=fr&max=5&apikey={GNEWS_KEY}",
+                f"https://gnews.io/api/v4/search?q={comp_nom} transfert&lang=fr&max=5&apikey={GNEWS_KEY}",
                 timeout=8
             )
             if r.status_code == 200:
@@ -259,13 +257,12 @@ def get_mercato_flash(comp_nom):
     return articles[:3]
 
 def get_rumeurs_oracle(comp_nom):
-    """Rumeurs transferts (ORACLE)"""
     print(f"🔮 Rumeurs {comp_nom}...")
     articles = []
     if GNEWS_KEY:
         try:
             r = requests.get(
-                f"https://gnews.io/api/v4/search?q=rumeur transfert {comp_nom} 2026 intéresse veut&lang=fr&max=5&apikey={GNEWS_KEY}",
+                f"https://gnews.io/api/v4/search?q={comp_nom} mercato rumeur&lang=fr&max=5&apikey={GNEWS_KEY}",
                 timeout=8
             )
             if r.status_code == 200:
@@ -280,13 +277,12 @@ def get_rumeurs_oracle(comp_nom):
     return articles[:3]
 
 def get_preparatifs_stats(comp_nom):
-    """Préparation saison (STATS)"""
     print(f"📊 Préparatifs {comp_nom}...")
     articles = []
     if GNEWS_KEY:
         try:
             r = requests.get(
-                f"https://gnews.io/api/v4/search?q=préparation amical stage {comp_nom} 2026&lang=fr&max=5&apikey={GNEWS_KEY}",
+                f"https://gnews.io/api/v4/search?q={comp_nom} 2026&lang=fr&max=5&apikey={GNEWS_KEY}",
                 timeout=8
             )
             if r.status_code == 200:
@@ -301,7 +297,6 @@ def get_preparatifs_stats(comp_nom):
     return articles[:3]
 
 def get_info_hors_saison_complet(comp_code, comp_nom):
-    """Info complète hors saison avec tout"""
     debut = DEBUT_SAISON.get(comp_code, "")
     info = {
         "date_reprise": debut,
@@ -393,9 +388,6 @@ def sauvegarder_historique(historique, nouveaux_matchs):
     print(f"📚 Historique : {historique['total_matchs']} matchs ({ajoutes} nouveaux)")
     return historique
 
-# ==========================================
-# CORE
-# ==========================================
 vaticin_data = {
     "mise_a_jour": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"),
     "news_globales": [],
@@ -508,4 +500,3 @@ with open("historique.json", "w", encoding="utf-8") as f:
 print("✅ historique.json mis à jour")
 
 print("=== VATICIN ENGINE — TERMINÉ ===")
-    
