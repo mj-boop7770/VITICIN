@@ -395,7 +395,7 @@ tous_matchs = []
 meteo_cache = {}
 forme_cache = {}
 
-vaticin_data["news_globales"] = get_news_enrichies()
+vaticin_data["news_globales"] = get_news_globales()
 news_data["news_globales"] = vaticin_data["news_globales"]
 
 for comp_code, comp_nom in COMPETITIONS.items():
