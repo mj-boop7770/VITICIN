@@ -1,5 +1,5 @@
 {
-  "total_matchs": 18,
+  "total_matchs": 19,
   "matchs": [
     {
       "id": 537408,
@@ -274,6 +274,20 @@
       "oracle_proba_dom": 52,
       "oracle_proba_ext": 48,
       "favori": "Switzerland",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537428,
+      "domicile": "Australia",
+      "exterieur": "Egypt",
+      "score": "3-5",
+      "date": "2026-07-03",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Australia",
       "forme_dom": "",
       "forme_ext": ""
     }
