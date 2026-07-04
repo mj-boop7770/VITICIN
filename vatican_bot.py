@@ -7,8 +7,14 @@ FOOTBALL_KEY = os.environ.get("FOOTBALL_API_KEY")
 NEWS_KEY = os.environ.get("NEWS_API_KEY")
 GNEWS_KEY = os.environ.get("GNEWS_KEY")
 WEATHER_KEY = os.environ.get("OPENWEATHER_KEY")
+RAPIDAPI_KEY = os.environ.get("RAPIDAPI_KEY")
 
 HEADERS = {"X-Auth-Token": FOOTBALL_KEY}
+RAPIDAPI_HEADERS = {
+    "x-rapidapi-key": RAPIDAPI_KEY,
+    "x-rapidapi-host": "api-football-v3.p.rapidapi.com"
+}
+
 NOW = datetime.now(timezone.utc)
 TODAY = NOW.strftime("%Y-%m-%d")
 DANS_7J = (NOW + timedelta(days=7)).strftime("%Y-%m-%d")
@@ -105,6 +111,29 @@ def get_forme(team_id):
         pass
     return {"forme": "", "buts_pour": 0, "buts_contre": 0, "matchs": 0}
 
+def get_stats_rapidapi(club_name):
+    print(f"📊 Stats api-football pour {club_name}...")
+    try:
+        r = requests.get(
+            "https://api-football-v3.p.rapidapi.com/teams",
+            headers=RAPIDAPI_HEADERS,
+            params={"search": club_name},
+            timeout=8
+        )
+        if r.status_code == 200:
+            teams = r.json().get("response", [])
+            if teams:
+                team = teams[0]
+                return {
+                    "nom": team["team"]["name"],
+                    "pays": team["team"].get("country", ""),
+                    "founded": team["team"].get("founded", ""),
+                    "venue": team["venue"].get("name", "") if team.get("venue") else ""
+                }
+    except:
+        pass
+    return {}
+
 def verifier_qualification_wc(pos, pts, j, groupe_size=4):
     places_qualif = 2
     places_restantes = places_qualif - (pos - 1)
@@ -175,7 +204,7 @@ def generer_analyse_expressif(home, away, oracle, stats_dom, stats_ext, statut, 
     
     return " • ".join(lignes) if lignes else ""
 
-def get_news_globales():
+def get_news_enrichies():
     print("📰 Récupération des news foot enrichies...")
     articles = []
     
@@ -398,7 +427,8 @@ vaticin_data = {
 news_data = {
     "mise_a_jour": NOW.strftime("%Y-%m-%dT%H:%M:%SZ"),
     "news_globales": [],
-    "hors_saison": {}
+    "hors_saison": {},
+    "stats_enrichies": {}
 }
 
 historique = charger_historique()
@@ -453,7 +483,8 @@ for comp_code, comp_nom in COMPETITIONS.items():
                     "date_reprise": DEBUT_SAISON.get(comp_code, ""),
                     "flash": get_mercato_flash(comp_code, clubs),
                     "rumeurs": get_rumeurs_oracle(comp_code, clubs),
-                    "preparatifs": get_preparatifs_stats(comp_code, clubs)
+                    "preparatifs": get_preparatifs_stats(comp_code, clubs),
+                    "stats_clubs": [get_stats_rapidapi(club) for club in clubs]
                 }
             else:
                 for m in matchs_selec:
