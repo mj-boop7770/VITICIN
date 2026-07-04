@@ -22,6 +22,14 @@ COMPETITIONS = {
     "CL": "Ligue des Champions"
 }
 
+TOP_CLUBS = {
+    "PL": ["Manchester United", "Liverpool", "Manchester City", "Arsenal", "Chelsea"],
+    "SA": ["Juventus", "Inter Milan", "AC Milan", "Napoli", "Lazio"],
+    "PD": ["Real Madrid", "Barcelona", "Atletico Madrid", "Sevilla", "Valencia"],
+    "FL1": ["Paris Saint-Germain", "Marseille", "Lyon", "Monaco", "Lens"],
+    "CL": ["Bayern Munich", "PSG", "Manchester City", "Real Madrid", "Barcelona"]
+}
+
 STADES = {
     "WC": "New York",
     "PL": "London",
@@ -236,65 +244,68 @@ def get_news_globales():
     print(f"✅ {len(unique)} articles enrichis récupérés")
     return unique[:25]
 
-def get_mercato_flash(comp_nom):
-    print(f"📰 Mercato flash {comp_nom}...")
+def get_mercato_flash(comp_code, clubs):
+    print(f"📰 Mercato flash {comp_code}...")
     articles = []
     if GNEWS_KEY:
-        try:
-            r = requests.get(
-                f"https://gnews.io/api/v4/search?q={comp_nom} transfert&lang=fr&max=5&apikey={GNEWS_KEY}",
-                timeout=8
-            )
-            if r.status_code == 200:
-                for a in r.json().get("articles", [])[:5]:
-                    articles.append({
-                        "titre": a.get("title",""),
-                        "source": a.get("source",{}).get("name",""),
-                        "date": (a.get("publishedAt","") or "")[:10]
-                    })
-        except:
-            pass
-    return articles[:3]
+        for club in clubs:
+            try:
+                r = requests.get(
+                    f"https://gnews.io/api/v4/search?q={club} transfert signé&lang=fr&max=2&apikey={GNEWS_KEY}",
+                    timeout=8
+                )
+                if r.status_code == 200:
+                    for a in r.json().get("articles", [])[:2]:
+                        articles.append({
+                            "titre": a.get("title",""),
+                            "source": a.get("source",{}).get("name",""),
+                            "date": (a.get("publishedAt","") or "")[:10]
+                        })
+            except:
+                pass
+    return articles[:5]
 
-def get_rumeurs_oracle(comp_nom):
-    print(f"🔮 Rumeurs {comp_nom}...")
+def get_rumeurs_oracle(comp_code, clubs):
+    print(f"🔮 Rumeurs {comp_code}...")
     articles = []
     if GNEWS_KEY:
-        try:
-            r = requests.get(
-                f"https://gnews.io/api/v4/search?q={comp_nom} mercato rumeur&lang=fr&max=5&apikey={GNEWS_KEY}",
-                timeout=8
-            )
-            if r.status_code == 200:
-                for a in r.json().get("articles", [])[:5]:
-                    articles.append({
-                        "titre": a.get("title",""),
-                        "source": a.get("source",{}).get("name",""),
-                        "date": (a.get("publishedAt","") or "")[:10]
-                    })
-        except:
-            pass
-    return articles[:3]
+        for club in clubs:
+            try:
+                r = requests.get(
+                    f"https://gnews.io/api/v4/search?q={club} mercato rumeur intéressé&lang=fr&max=2&apikey={GNEWS_KEY}",
+                    timeout=8
+                )
+                if r.status_code == 200:
+                    for a in r.json().get("articles", [])[:2]:
+                        articles.append({
+                            "titre": a.get("title",""),
+                            "source": a.get("source",{}).get("name",""),
+                            "date": (a.get("publishedAt","") or "")[:10]
+                        })
+            except:
+                pass
+    return articles[:5]
 
-def get_preparatifs_stats(comp_nom):
-    print(f"📊 Préparatifs {comp_nom}...")
+def get_preparatifs_stats(comp_code, clubs):
+    print(f"📊 Préparatifs {comp_code}...")
     articles = []
     if GNEWS_KEY:
-        try:
-            r = requests.get(
-                f"https://gnews.io/api/v4/search?q={comp_nom} 2026&lang=fr&max=5&apikey={GNEWS_KEY}",
-                timeout=8
-            )
-            if r.status_code == 200:
-                for a in r.json().get("articles", [])[:5]:
-                    articles.append({
-                        "titre": a.get("title",""),
-                        "source": a.get("source",{}).get("name",""),
-                        "date": (a.get("publishedAt","") or "")[:10]
-                    })
-        except:
-            pass
-    return articles[:3]
+        for club in clubs:
+            try:
+                r = requests.get(
+                    f"https://gnews.io/api/v4/search?q={club} 2026 préparation amical&lang=fr&max=2&apikey={GNEWS_KEY}",
+                    timeout=8
+                )
+                if r.status_code == 200:
+                    for a in r.json().get("articles", [])[:2]:
+                        articles.append({
+                            "titre": a.get("title",""),
+                            "source": a.get("source",{}).get("name",""),
+                            "date": (a.get("publishedAt","") or "")[:10]
+                        })
+            except:
+                pass
+    return articles[:5]
 
 def get_classement(comp_code):
     try:
@@ -395,7 +406,7 @@ tous_matchs = []
 meteo_cache = {}
 forme_cache = {}
 
-vaticin_data["news_globales"] = get_news_globales()
+vaticin_data["news_globales"] = get_news_enrichies()
 news_data["news_globales"] = vaticin_data["news_globales"]
 
 for comp_code, comp_nom in COMPETITIONS.items():
@@ -437,11 +448,12 @@ for comp_code, comp_nom in COMPETITIONS.items():
 
             if not matchs_selec and comp_code != "WC":
                 ligue_data["hors_saison"] = True
+                clubs = TOP_CLUBS.get(comp_code, [])
                 news_data["hors_saison"][comp_nom] = {
                     "date_reprise": DEBUT_SAISON.get(comp_code, ""),
-                    "flash": get_mercato_flash(comp_nom),
-                    "rumeurs": get_rumeurs_oracle(comp_nom),
-                    "preparatifs": get_preparatifs_stats(comp_nom)
+                    "flash": get_mercato_flash(comp_code, clubs),
+                    "rumeurs": get_rumeurs_oracle(comp_code, clubs),
+                    "preparatifs": get_preparatifs_stats(comp_code, clubs)
                 }
             else:
                 for m in matchs_selec:
