@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-04T20:39:51Z",
+  "mise_a_jour": "2026-07-04T22:00:18Z",
   "news_globales": [
     {
       "titre": "Sacha Kljestan (ex-Anderlecht) va couvrir le match de ses anciens équipiers : “À 16 ans, Tielemans avait déjà le courage de prendre un penalty décisif”",
@@ -9,24 +9,17 @@
       "date": "2026-07-03"
     },
     {
-      "titre": "Coupe du monde 2026. L'Égypte ouvre le score face à l'Australie, les Bleus sont arrivés à Philadelphie... Suivez la 23e journée du Mondial",
-      "description": "Suite et fin des seizièmes de finale ce vendredi, avec trois matches au programme dont celui de l'Argentine de Messi face aux néophytes du Cap-Vert (à minuit). Du côté des Bleus, Didier Deschamps et ses hommes doivent prendre la direction de Philadelphie, ava…",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/07/03/adieu-a-modric-hommage-a-jota-messi-de-retour-suivez-la-23-sup-e-sup-journee-du-mondial",
+      "titre": "CSC frappe encore et entre dans l’histoire de la Coupe du monde",
+      "description": "Quel joueur, mais quel joueur… Ce vendredi, le légendaire CSC a encore frappé lors d’Australie-Égypte (1-1, 2-4…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/csc-frappe-encore-et-entre-dans-lhistoire-de-la-coupe-du-monde",
       "date": "2026-07-03"
     },
     {
-      "titre": "Toujours plus haut: même à la Coupe du monde 2026, le PSG bat des records",
-      "description": "Grâce au but de Gonçalo Ramos avec le Portugal, le Paris Saint-Germain a inscrit son nom dans le prestigieux livre des records de la Coupe du monde.",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/toujours-plus-haut-meme-a-la-coupe-du-monde-2026-le-psg-bat-des-records_AV-202607030785.html",
-      "date": "2026-07-03"
-    },
-    {
-      "titre": "Vue par les satellites, la Méditerranée a battu ses records de température",
-      "description": "La dernière canicule a été difficile à supporter pour bon nombre d'entre nous, et la mer Méditerranée aussi a énormément souffert. Des données satellites montrent à quel point sa surface a largement dépassé la température habituelle durant le mois de juin. À …",
-      "source": "Numerama",
-      "url": "https://www.numerama.com/sciences/2290359-vue-par-les-satellites-la-mediterranee-a-battu-ses-records-de-temperature.html",
+      "titre": "L'Egypte s'impose aux tirs au but contre l'Australie et rejoint les 8es de finale de la Coupe du monde",
+      "description": "Après 120 minutes où les deux sélections ont été incapables de se départager, les Pharaons s'en sont remis à leur gestion des émotions, vendredi, pour remporter leur premier match dans une phase à élimination directe d'un Mondial.",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/l-egypte-s-impose-aux-tirs-au-but-contre-l-australie-et-rejoint-les-8es-de-finale-de-la-coupe-du-monde_8092994.html",
       "date": "2026-07-03"
     },
     {
@@ -51,5 +44,6 @@
       "date": "2026-06-14"
     }
   ],
-  "hors_saison": {}
+  "hors_saison": {},
+  "stats_enrichies": {}
 }

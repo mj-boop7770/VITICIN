@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-04T20:39:51Z",
+  "mise_a_jour": "2026-07-04T22:00:18Z",
   "news_globales": [
     {
       "titre": "Sacha Kljestan (ex-Anderlecht) va couvrir le match de ses anciens équipiers : “À 16 ans, Tielemans avait déjà le courage de prendre un penalty décisif”",
@@ -9,24 +9,17 @@
       "date": "2026-07-03"
     },
     {
-      "titre": "Coupe du monde 2026. L'Égypte ouvre le score face à l'Australie, les Bleus sont arrivés à Philadelphie... Suivez la 23e journée du Mondial",
-      "description": "Suite et fin des seizièmes de finale ce vendredi, avec trois matches au programme dont celui de l'Argentine de Messi face aux néophytes du Cap-Vert (à minuit). Du côté des Bleus, Didier Deschamps et ses hommes doivent prendre la direction de Philadelphie, ava…",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/07/03/adieu-a-modric-hommage-a-jota-messi-de-retour-suivez-la-23-sup-e-sup-journee-du-mondial",
+      "titre": "CSC frappe encore et entre dans l’histoire de la Coupe du monde",
+      "description": "Quel joueur, mais quel joueur… Ce vendredi, le légendaire CSC a encore frappé lors d’Australie-Égypte (1-1, 2-4…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/csc-frappe-encore-et-entre-dans-lhistoire-de-la-coupe-du-monde",
       "date": "2026-07-03"
     },
     {
-      "titre": "Toujours plus haut: même à la Coupe du monde 2026, le PSG bat des records",
-      "description": "Grâce au but de Gonçalo Ramos avec le Portugal, le Paris Saint-Germain a inscrit son nom dans le prestigieux livre des records de la Coupe du monde.",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/toujours-plus-haut-meme-a-la-coupe-du-monde-2026-le-psg-bat-des-records_AV-202607030785.html",
-      "date": "2026-07-03"
-    },
-    {
-      "titre": "Vue par les satellites, la Méditerranée a battu ses records de température",
-      "description": "La dernière canicule a été difficile à supporter pour bon nombre d'entre nous, et la mer Méditerranée aussi a énormément souffert. Des données satellites montrent à quel point sa surface a largement dépassé la température habituelle durant le mois de juin. À …",
-      "source": "Numerama",
-      "url": "https://www.numerama.com/sciences/2290359-vue-par-les-satellites-la-mediterranee-a-battu-ses-records-de-temperature.html",
+      "titre": "L'Egypte s'impose aux tirs au but contre l'Australie et rejoint les 8es de finale de la Coupe du monde",
+      "description": "Après 120 minutes où les deux sélections ont été incapables de se départager, les Pharaons s'en sont remis à leur gestion des émotions, vendredi, pour remporter leur premier match dans une phase à élimination directe d'un Mondial.",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/l-egypte-s-impose-aux-tirs-au-but-contre-l-australie-et-rejoint-les-8es-de-finale-de-la-coupe-du-monde_8092994.html",
       "date": "2026-07-03"
     },
     {
@@ -55,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 36°C peu nuageux",
+      "meteo": "🌡️ 36°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -870,7 +863,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Switzerland et Algeria • 🔥 Switzerland : NVVV (3 victoires) • 💪 Algeria : DVND (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -903,7 +896,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Australia et Egypt • 🔥 Australia : VDND (1 victoires) • 💪 Egypt : NVNV (2 victoires) • ✅ Score : 3-5",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -936,7 +929,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Argentina favori (56%) • 🔥 Argentina : VVVV (4 victoires) • 💪 Cape Verde : NNND (0 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-03"
         },
@@ -969,7 +962,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Colombia et Ghana • 🔥 Colombia : VVNV (3 victoires) • 💪 Ghana : VNDD (1 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1002,40 +995,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Canada et Morocco • ✅ Score : 0-3",
-          "meteo": "🌡️ 36°C peu nuageux",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-04"
-        },
-        {
-          "id": 537375,
-          "domicile": "Paraguay",
-          "exterieur": "France",
-          "heure": "2026-07-04T21:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 50,
-            "proba_nul": 5,
-            "proba_ext": 50,
-            "signal": "RISQUÉ",
-            "favori": "France",
-            "proba_favori": 50
-          },
-          "analyse": "⚖️ Très serré entre Paraguay et France",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1068,7 +1028,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Brazil et Norway",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-05"
         },
@@ -1101,7 +1061,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Mexico et England",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -1134,7 +1094,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Portugal et Spain",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -1167,7 +1127,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre USA et Belgium",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1200,7 +1160,40 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVV (4 victoires) • 💪 Egypt : NVNV (2 victoires)",
-          "meteo": "🌡️ 36°C peu nuageux",
+          "meteo": "🌡️ 36°C partiellement nuageux",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-07"
+        },
+        {
+          "id": 537382,
+          "domicile": "Switzerland",
+          "exterieur": "Colombia",
+          "heure": "2026-07-07T20:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "NVVV",
+            "buts_pour": 9,
+            "buts_contre": 3,
+            "matchs": 4
+          },
+          "stats_ext": {
+            "forme": "VVNV",
+            "buts_pour": 5,
+            "buts_contre": 1,
+            "matchs": 4
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Switzerland",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : NVVV (3 victoires) • 💪 Colombia : VVNV (3 victoires)",
+          "meteo": "🌡️ 36°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         }
@@ -1210,7 +1203,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 24°C nuageux",
+      "meteo": "🌡️ 22°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1219,7 +1212,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 34°C couvert",
+      "meteo": "🌡️ 32°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1228,7 +1221,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 31°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1237,7 +1230,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 25°C ciel dégagé",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1246,7 +1239,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 24°C nuageux",
+      "meteo": "🌡️ 22°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
