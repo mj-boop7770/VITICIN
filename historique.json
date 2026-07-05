@@ -1,5 +1,5 @@
 {
-  "total_matchs": 22,
+  "total_matchs": 23,
   "matchs": [
     {
       "id": 537408,
@@ -332,7 +332,21 @@
       "favori": "Canada",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537375,
+      "domicile": "Paraguay",
+      "exterieur": "France",
+      "score": "0-1",
+      "date": "2026-07-04",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 50,
+      "oracle_proba_ext": 50,
+      "favori": "France",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-04"
+  "derniere_maj": "2026-07-05"
 }
