@@ -1,5 +1,5 @@
 {
-  "total_matchs": 25,
+  "total_matchs": 26,
   "matchs": [
     {
       "id": 537408,
@@ -372,6 +372,20 @@
       "oracle_proba_dom": 51,
       "oracle_proba_ext": 49,
       "favori": "Mexico",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537379,
+      "domicile": "Portugal",
+      "exterieur": "Spain",
+      "score": "0-1",
+      "date": "2026-07-06",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Portugal",
       "forme_dom": "",
       "forme_ext": ""
     }
