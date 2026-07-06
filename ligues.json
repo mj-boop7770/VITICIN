@@ -1,32 +1,18 @@
 {
-  "mise_a_jour": "2026-07-05T21:37:28Z",
+  "mise_a_jour": "2026-07-06T17:18:02Z",
   "news_globales": [
+    {
+      "titre": "Coupe du monde 2026. « Du football dégoûtant », « un champ de mines » : la presse critique le Paraguay et salue le calme bleu",
+      "description": "La plupart des médias du monde entier n'ont que très peu goûté le triste spectacle proposé par le Paraguay face à la France, samedi en huitièmes de finale de la Coupe du monde. La prestation de l'arbitre ouzbek, Ilgiz Tantashev, est aussi pointée du doigt.",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/07/05/du-football-degoutant-un-champ-de-mines-la-presse-critique-le-paraguay-et-salue-le-calme-bleu",
+      "date": "2026-07-05"
+    },
     {
       "titre": "Coupe du monde 2026 : Comment la folle équipe cap-verdienne a failli humilier l’Argentine en mondovision",
       "description": "L’Argentine championne du monde en titre s’est fait la peur de sa vie après avoir été poussée en prolongation et remontée deux fois au score par des Cap-Verdiens (67e nation au classement Fifa) formidables de générosité et de grinta",
       "source": "20 Minutes",
       "url": "https://www.20minutes.fr/sport/football/4232793-20260704-coupe-monde-2026-comment-folle-equipe-cap-verdienne-failli-humilier-argentine-mondovision",
-      "date": "2026-07-04"
-    },
-    {
-      "titre": "Streaming Paraguay France : où regarder le match gratuit en direct HD ? ",
-      "description": "La France affronte le Paraguay en huitième de finale de la Coupe du monde 2026, à Philadelphie. En France, tous les matchs des Bleus passent en clair et gratuitement sur M6 et M6+, que beIN Sports propose aussi à ses abonnés. La Belgique et la Suisse retransm…",
-      "source": "01net.com",
-      "url": "https://www.01net.com/bons-plans/streaming-paraguay-france-ou-regarder-le-match-gratuit-en-direct-hd.html",
-      "date": "2026-07-04"
-    },
-    {
-      "titre": "Cris, stress, palpitations : ce qu’un match de foot déclenche vraiment dans votre corps",
-      "description": "Les coupes du monde de football font partie des événements sportifs les plus suivis de la planète, et l'investissement émotionnel des supporters est tel qu'il a de réels effets sur le corps. Des scientifiques ont cherché à comprendre à quel point.",
-      "source": "Futura",
-      "url": "https://www.futura-sciences.com/sante/actualites/coupe-monde-football-cris-stress-palpitations-ce-quun-match-foot-declenche-vraiment-votre-corps-135364/",
-      "date": "2026-07-04"
-    },
-    {
-      "titre": "Le 4 juillet, fête nationale ou festival tricolore ? Le bulletin de la Coupe du Monde de Trump",
-      "description": "La 23ᵉ édition du Mondial est ouverte depuis presque trois semaines au Mexique, au Canada et aux Etats-Unis de Donald Trump, sur fond de politique répressive et de folies écologiques, et d’anniversaire de l’indépendance américaine. Chaque jour jusqu’à la fina…",
-      "source": "L'Obs",
-      "url": "https://www.nouvelobs.com/sport/20260704.OBS116396/le-4-juillet-fete-nationale-ou-festival-tricolore-le-bulletin-de-la-coupe-du-monde-de-trump.html",
       "date": "2026-07-04"
     },
     {
@@ -62,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 28°C couvert",
+      "meteo": "🌡️ 21°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -793,26 +779,38 @@
           "passes": 2
         },
         {
+          "joueur": "Erling Haaland",
+          "equipe": "Norway",
+          "buts": 7,
+          "passes": 0
+        },
+        {
           "joueur": "Lionel Messi",
           "equipe": "Argentina",
           "buts": 7,
           "passes": 0
         },
         {
-          "joueur": "Erling Haaland",
-          "equipe": "Norway",
-          "buts": 5,
-          "passes": 0
-        },
-        {
           "joueur": "Harry Kane",
           "equipe": "England",
-          "buts": 5,
-          "passes": 0
+          "buts": 6,
+          "passes": 1
+        },
+        {
+          "joueur": "Julián Quiñones",
+          "equipe": "Mexico",
+          "buts": 4,
+          "passes": 1
         },
         {
           "joueur": "Vinicius Junior",
           "equipe": "Brazil",
+          "buts": 4,
+          "passes": 1
+        },
+        {
+          "joueur": "Jude Bellingham",
+          "equipe": "England",
           "buts": 4,
           "passes": 1
         },
@@ -833,120 +831,9 @@
           "equipe": "Senegal",
           "buts": 4,
           "passes": 1
-        },
-        {
-          "joueur": "Julián Quiñones",
-          "equipe": "Mexico",
-          "buts": 3,
-          "passes": 1
-        },
-        {
-          "joueur": "Folarin Balogun",
-          "equipe": "USA",
-          "buts": 3,
-          "passes": 0
         }
       ],
       "matchs": [
-        {
-          "id": 537377,
-          "domicile": "Brazil",
-          "exterieur": "Norway",
-          "heure": "2026-07-05T20:00:00Z",
-          "score": "0-0",
-          "statut": "LIVE",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "NVVV",
-            "buts_pour": 9,
-            "buts_contre": 2,
-            "matchs": 4
-          },
-          "stats_ext": {
-            "forme": "VVDV",
-            "buts_pour": 10,
-            "buts_contre": 8,
-            "matchs": 4
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Brazil",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Brazil et Norway • 🔥 Brazil : NVVV (3 victoires) • 💪 Norway : VVDV (3 victoires)",
-          "meteo": "🌡️ 28°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-05"
-        },
-        {
-          "id": 537428,
-          "domicile": "Australia",
-          "exterieur": "Egypt",
-          "heure": "2026-07-03T18:00:00Z",
-          "score": "3-5",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VDND",
-            "buts_pour": 5,
-            "buts_contre": 7,
-            "matchs": 4
-          },
-          "stats_ext": {
-            "forme": "NVNV",
-            "buts_pour": 10,
-            "buts_contre": 6,
-            "matchs": 4
-          },
-          "oracle": {
-            "proba_dom": 48,
-            "proba_nul": 5,
-            "proba_ext": 52,
-            "signal": "RISQUÉ",
-            "favori": "Egypt",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Australia et Egypt • 🔥 Australia : VDND (1 victoires) • 💪 Egypt : NVNV (2 victoires) • ✅ Score : 3-5",
-          "meteo": "🌡️ 28°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-03"
-        },
-        {
-          "id": 537427,
-          "domicile": "Argentina",
-          "exterieur": "Cape Verde",
-          "heure": "2026-07-03T22:00:00Z",
-          "score": "3-2",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVVV",
-            "buts_pour": 11,
-            "buts_contre": 3,
-            "matchs": 4
-          },
-          "stats_ext": {
-            "forme": "NNND",
-            "buts_pour": 4,
-            "buts_contre": 5,
-            "matchs": 4
-          },
-          "oracle": {
-            "proba_dom": 56,
-            "proba_nul": 5,
-            "proba_ext": 44,
-            "signal": "MOYEN",
-            "favori": "Argentina",
-            "proba_favori": 56
-          },
-          "analyse": "⚡ Argentina favori (56%) • 🔥 Argentina : VVVV (4 victoires) • 💪 Cape Verde : NNND (0 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 28°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-03"
-        },
         {
           "id": 537430,
           "domicile": "Colombia",
@@ -976,7 +863,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Colombia et Ghana • 🔥 Colombia : VVNV (3 victoires) • 💪 Ghana : VNDD (1 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 28°C couvert",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -989,27 +876,27 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "NVDVD",
+            "buts_pour": 9,
+            "buts_contre": 6,
+            "matchs": 5
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "NVVVV",
+            "buts_pour": 13,
+            "buts_contre": 6,
+            "matchs": 5
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 48,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 52,
             "signal": "RISQUÉ",
-            "favori": "Canada",
-            "proba_favori": 51
+            "favori": "Morocco",
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Canada et Morocco • ✅ Score : 0-3",
-          "meteo": "🌡️ 28°C couvert",
+          "analyse": "⚖️ Très serré entre Canada et Morocco • 🔥 Canada : NVDVD (2 victoires) • 💪 Morocco : NVVVV (4 victoires) • ✅ Score : 0-3",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -1022,37 +909,70 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DVNVD",
+            "buts_pour": 7,
+            "buts_contre": 9,
+            "matchs": 5
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVVVV",
+            "buts_pour": 14,
+            "buts_contre": 2,
+            "matchs": 5
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 46,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 54,
             "signal": "RISQUÉ",
             "favori": "France",
-            "proba_favori": 50
+            "proba_favori": 54
           },
-          "analyse": "⚖️ Très serré entre Paraguay et France • ✅ Score : 0-1",
-          "meteo": "🌡️ 28°C couvert",
+          "analyse": "⚖️ Très serré entre Paraguay et France • 🔥 Paraguay : DVNVD (2 victoires) • 💪 France : VVVVV (5 victoires) • ✅ Score : 0-1",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
+        },
+        {
+          "id": 537377,
+          "domicile": "Brazil",
+          "exterieur": "Norway",
+          "heure": "2026-07-05T20:00:00Z",
+          "score": "1-2",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "NVVVD",
+            "buts_pour": 10,
+            "buts_contre": 4,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "VVDVV",
+            "buts_pour": 12,
+            "buts_contre": 9,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Brazil",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Brazil et Norway • 🔥 Brazil : NVVVD (3 victoires) • 💪 Norway : VVDVV (4 victoires) • ✅ Score : 1-2",
+          "meteo": "🌡️ 21°C couvert",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-05"
         },
         {
           "id": 537378,
           "domicile": "Mexico",
           "exterieur": "England",
-          "heure": "2026-07-06T00:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "heure": "2026-07-06T01:00:00Z",
+          "score": "2-3",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -1074,8 +994,8 @@
             "favori": "Mexico",
             "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre Mexico et England",
-          "meteo": "🌡️ 28°C couvert",
+          "analyse": "⚖️ Très serré entre Mexico et England • ✅ Score : 2-3",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -1108,7 +1028,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Portugal et Spain",
-          "meteo": "🌡️ 28°C couvert",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -1141,7 +1061,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre USA et Belgium",
-          "meteo": "🌡️ 28°C couvert",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1154,27 +1074,27 @@
           "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVV",
-            "buts_pour": 11,
-            "buts_contre": 3,
-            "matchs": 4
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "stats_ext": {
-            "forme": "NVNV",
-            "buts_pour": 10,
-            "buts_contre": 6,
-            "matchs": 4
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 53,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 47,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
             "favori": "Argentina",
-            "proba_favori": 53
+            "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVV (4 victoires) • 💪 Egypt : NVNV (2 victoires)",
-          "meteo": "🌡️ 28°C couvert",
+          "analyse": "⚖️ Très serré entre Argentina et Egypt",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1207,7 +1127,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • 💪 Colombia : VVNV (3 victoires)",
-          "meteo": "🌡️ 28°C couvert",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1216,6 +1136,39 @@
           "domicile": "France",
           "exterieur": "Morocco",
           "heure": "2026-07-09T20:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VVVVV",
+            "buts_pour": 14,
+            "buts_contre": 2,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "NVVVV",
+            "buts_pour": 13,
+            "buts_contre": 6,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "France",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : NVVVV (4 victoires)",
+          "meteo": "🌡️ 21°C couvert",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-09"
+        },
+        {
+          "id": 537384,
+          "domicile": null,
+          "exterieur": null,
+          "heure": "2026-07-10T19:00:00Z",
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
@@ -1232,17 +1185,17 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
-            "favori": "France",
-            "proba_favori": 51
+            "favori": null,
+            "proba_favori": 54
           },
-          "analyse": "⚖️ Très serré entre France et Morocco",
-          "meteo": "🌡️ 28°C couvert",
+          "analyse": "⚖️ Très serré entre None et None",
+          "meteo": "🌡️ 21°C couvert",
           "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-09"
+          "date": "2026-07-10"
         }
       ],
       "hors_saison": false
@@ -1250,7 +1203,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 31°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1259,7 +1212,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 26°C forte pluie",
+      "meteo": "🌡️ 30°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1268,7 +1221,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 31°C ciel dégagé",
+      "meteo": "🌡️ 36°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1277,7 +1230,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 24°C nuageux",
+      "meteo": "🌡️ 33°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1286,7 +1239,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 31°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],

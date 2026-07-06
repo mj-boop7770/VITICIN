@@ -1,5 +1,5 @@
 {
-  "total_matchs": 23,
+  "total_matchs": 25,
   "matchs": [
     {
       "id": 537408,
@@ -346,7 +346,35 @@
       "favori": "France",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537377,
+      "domicile": "Brazil",
+      "exterieur": "Norway",
+      "score": "1-2",
+      "date": "2026-07-05",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Brazil",
+      "forme_dom": "NVVVD",
+      "forme_ext": "VVDVV"
+    },
+    {
+      "id": 537378,
+      "domicile": "Mexico",
+      "exterieur": "England",
+      "score": "2-3",
+      "date": "2026-07-06",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Mexico",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-05"
+  "derniere_maj": "2026-07-06"
 }
