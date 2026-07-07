@@ -1,5 +1,5 @@
 {
-  "total_matchs": 27,
+  "total_matchs": 29,
   "matchs": [
     {
       "id": 537408,
@@ -400,6 +400,34 @@
       "oracle_proba_dom": 51,
       "oracle_proba_ext": 49,
       "favori": "USA",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537381,
+      "domicile": "Argentina",
+      "exterieur": "Egypt",
+      "score": "3-2",
+      "date": "2026-07-07",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 54,
+      "oracle_proba_ext": 46,
+      "favori": "Argentina",
+      "forme_dom": "VVVVV",
+      "forme_ext": "NVNVD"
+    },
+    {
+      "id": 537382,
+      "domicile": "Switzerland",
+      "exterieur": "Colombia",
+      "score": "0-0",
+      "date": "2026-07-07",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Switzerland",
       "forme_dom": "",
       "forme_ext": ""
     }
