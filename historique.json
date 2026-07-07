@@ -1,5 +1,5 @@
 {
-  "total_matchs": 26,
+  "total_matchs": 27,
   "matchs": [
     {
       "id": 537408,
@@ -388,7 +388,21 @@
       "favori": "Portugal",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537380,
+      "domicile": "USA",
+      "exterieur": "Belgium",
+      "score": "1-4",
+      "date": "2026-07-07",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "USA",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-06"
+  "derniere_maj": "2026-07-07"
 }

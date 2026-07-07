@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-06T22:44:25Z",
+  "mise_a_jour": "2026-07-07T13:55:52Z",
   "news_globales": [
     {
       "titre": "Messi idolâtré, pays \"divisé\" entre le Brésil et l’Argentine... Pourquoi le Bangladesh est-il si passionné par la Coupe du monde?",
@@ -41,7 +41,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 19°C couvert",
+      "meteo": "🌡️ 18°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -828,39 +828,6 @@
       ],
       "matchs": [
         {
-          "id": 537376,
-          "domicile": "Canada",
-          "exterieur": "Morocco",
-          "heure": "2026-07-04T17:00:00Z",
-          "score": "0-3",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "NVDVD",
-            "buts_pour": 9,
-            "buts_contre": 6,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "NVVVV",
-            "buts_pour": 13,
-            "buts_contre": 6,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 48,
-            "proba_nul": 5,
-            "proba_ext": 52,
-            "signal": "RISQUÉ",
-            "favori": "Morocco",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Canada et Morocco • 🔥 Canada : NVDVD (2 victoires) • 💪 Morocco : NVVVV (4 victoires) • ✅ Score : 0-3",
-          "meteo": "🌡️ 19°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-04"
-        },
-        {
           "id": 537375,
           "domicile": "Paraguay",
           "exterieur": "France",
@@ -889,7 +856,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Paraguay et France • 🔥 Paraguay : DVNVD (2 victoires) • 💪 France : VVVVV (5 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-04"
         },
@@ -922,7 +889,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Brazil et Norway • 🔥 Brazil : NVVVD (3 victoires) • 💪 Norway : VVDVV (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-05"
         },
@@ -955,7 +922,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Mexico et England • 🔥 Mexico : VVVVD (4 victoires) • 💪 England : VNVVV (4 victoires) • ✅ Score : 2-3",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -968,27 +935,27 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "NVNVD",
+            "buts_pour": 8,
+            "buts_contre": 3,
+            "matchs": 5
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
+            "forme": "NVVVV",
+            "buts_pour": 9,
             "buts_contre": 0,
-            "matchs": 0
+            "matchs": 5
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 48,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 52,
             "signal": "RISQUÉ",
-            "favori": "Portugal",
-            "proba_favori": 51
+            "favori": "Spain",
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Portugal et Spain • ✅ Score : 0-1",
-          "meteo": "🌡️ 19°C couvert",
+          "analyse": "⚖️ Très serré entre Portugal et Spain • 🔥 Portugal : NVNVD (2 victoires) • 💪 Spain : NVVVV (4 victoires) • ✅ Score : 0-1",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -997,8 +964,8 @@
           "domicile": "USA",
           "exterieur": "Belgium",
           "heure": "2026-07-07T00:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "1-4",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -1020,8 +987,8 @@
             "favori": "USA",
             "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre USA et Belgium",
-          "meteo": "🌡️ 19°C couvert",
+          "analyse": "⚖️ Très serré entre USA et Belgium • ✅ Score : 1-4",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1054,7 +1021,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Egypt",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1087,7 +1054,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1106,37 +1073,37 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "NVVVV",
-            "buts_pour": 13,
-            "buts_contre": 6,
-            "matchs": 5
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 59,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
+            "proba_ext": 41,
+            "signal": "MOYEN",
             "favori": "France",
-            "proba_favori": 52
+            "proba_favori": 59
           },
-          "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : NVVVV (4 victoires)",
-          "meteo": "🌡️ 19°C couvert",
+          "analyse": "⚡ France favori (59%) • 🔥 France : VVVVV (5 victoires)",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
         {
           "id": 537384,
-          "domicile": null,
-          "exterieur": null,
+          "domicile": "Spain",
+          "exterieur": "Belgium",
           "heure": "2026-07-10T19:00:00Z",
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
+            "forme": "NVVVV",
+            "buts_pour": 9,
             "buts_contre": 0,
-            "matchs": 0
+            "matchs": 5
           },
           "stats_ext": {
             "forme": "",
@@ -1145,15 +1112,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 57,
             "proba_nul": 5,
-            "proba_ext": 46,
-            "signal": "RISQUÉ",
-            "favori": null,
-            "proba_favori": 54
+            "proba_ext": 43,
+            "signal": "MOYEN",
+            "favori": "Spain",
+            "proba_favori": 57
           },
-          "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 19°C couvert",
+          "analyse": "⚡ Spain favori (57%) • 🔥 Spain : NVVVV (4 victoires)",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -1186,9 +1153,42 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VVDVV (4 victoires) • 💪 England : VNVVV (4 victoires)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
+        },
+        {
+          "id": 537386,
+          "domicile": null,
+          "exterieur": null,
+          "heure": "2026-07-12T01:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 54,
+            "proba_nul": 5,
+            "proba_ext": 46,
+            "signal": "RISQUÉ",
+            "favori": null,
+            "proba_favori": 54
+          },
+          "analyse": "⚖️ Très serré entre None et None",
+          "meteo": "🌡️ 18°C couvert",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-12"
         }
       ],
       "hors_saison": false
@@ -1196,7 +1196,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 31°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1205,7 +1205,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 30°C partiellement nuageux",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1214,7 +1214,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 31°C nuageux",
+      "meteo": "🌡️ 37°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1223,7 +1223,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 22°C nuageux",
+      "meteo": "🌡️ 36°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1232,7 +1232,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 31°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
