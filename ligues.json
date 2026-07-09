@@ -1,12 +1,26 @@
 {
-  "mise_a_jour": "2026-07-08T21:48:46Z",
+  "mise_a_jour": "2026-07-09T16:13:09Z",
   "news_globales": [
     {
-      "titre": "Messi idolâtré, pays \"divisé\" entre le Brésil et l’Argentine... Pourquoi le Bangladesh est-il si passionné par la Coupe du monde?",
-      "description": "Ces derniers jours, des vidéos de centaines de supporters bangladais célébrant les buts de Lionel Messi et de l’Argentine à la Coupe du monde 2026 on fait le tour des réseaux sociaux. Une passion pour le football qui dure depuis des années, jamais freinée par les mauvais résultats de la sélection du...",
-      "source": "RMC Sport",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/messi-idolatre-pays-divise-entre-le-bresil-et-l-argentine-pourquoi-le-bangladesh-est-il-si-passionne-par-la-coupe-du-monde_AV-202607030797.html",
-      "date": "2026-07-03"
+      "titre": "Coupe du monde 2026: \"Je me suis régalé mais je devais rentrer...\" aux Etats-Unis, les supporters français heureux mais de moins en moins nombreux",
+      "description": "L’équipe de France avance sereinement dans ce Mondial, poussée par ses supporters qui essaient de se faire entendre, par milliers, en tribune. Beaucoup d’entre eux vivent une expérience réjouissante, mais ils sont de moins en moins nombreux sur place, alors q…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-je-me-suis-regale-mais-je-devais-rentrer-aux-etats-unis-les-supporters-francais-heureux-mais-de-moins-en-moins-nombreux_AV-202607080668.html",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Vitinha, Neves, Mendes, Ruiz, Dembélé, Pacho, Marquinhos : En délicatesse avec leur sélection au Mondial 2026, les joueurs du PSG sont-ils des « system players » ?",
+      "description": "Certains sont aussi vides que Paris au mois d'août.",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/vitinha-neves-mendes-ruiz-dembele-pacho-marquinhos-en-delicatesse-avec-leur-selection-au-mondial-2026-les-joueurs-du-psg-sont-ils-des-system-players",
+      "date": "2026-07-08"
+    },
+    {
+      "titre": "Une incroyable audience pour les Diables rouges face aux États-Unis malgré un match en pleine nuit",
+      "description": "Diffusés dans la journée de mardi, les chiffres sur Auvio laissaient entrevoir le succès du match auprès des Belges. Ceux de la télévision enfoncent très largement le clou. ...",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/sports/football/diables/2026/07/08/une-incroyable-audience-pour-les-diables-rouges-face-aux-etats-unis-malgre-un-match-en-pleine-nuit-VGFXD2RIFZC5PHS5F4JATFYJYE/",
+      "date": "2026-07-08"
     },
     {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
@@ -23,25 +37,18 @@
       "date": "2026-06-27"
     },
     {
-      "titre": "Ramenez la coupe à la maison : ce set LEGO collector Coupe du monde 2026 est à prix cassé ce vendredi",
-      "description": "Fans de football et de briques, cette réplique collector LEGO de la Coupe du Monde 2026 vous attend à un tarif imbattable. Ce set vous permet de célébrer le plus grand tournoi de football tout en construisant un objet de collection unique. Une belle occasion de revivre la passion du ballon rond sans vous ruiner.",
-      "source": "Ouest-France",
-      "url": "https://www.ouest-france.fr/shopping/marques/lego/ramenez-la-coupe-a-la-maison-ce-set-lego-collector-coupe-du-monde-2026-est-a-prix-casse-ce-vendredi-5d2f426e-6fab-11f1-b8a9-4a6626afbf8d",
-      "date": "2026-06-26"
-    },
-    {
-      "titre": "Samos TV raconte la Coupe du Monde 2026 différemment dans ses notes vocales",
-      "description": "Si « le football il a changé », comme le déclarait Kilian Mbappé en 2022, il est devenu pour le journaliste français Sami Mouafik un moyen d'expression, d'une époque révolue. Pour la Coupe du Monde 2026, il s'est lancé dans des notes vocales pour partager sa passion différemment, loin des « débats stériles », pour retrouver un narratif disparu.",
-      "source": "Presse-citron",
-      "url": "https://www.presse-citron.net/football-samos-tv-raconte-la-coupe-du-monde-2026-differemment-avec-ses-notes-vocales/",
-      "date": "2026-06-25"
+      "titre": "Coupe du monde 2026. L'Allemagne est surprise : Curaçao égalise... suivez la quatrième journée du Mondial",
+      "description": "La Coupe du monde 2026 se poursuit avec la quatrième journée de la compétition. L'Allemagne et Curaçao s'affrontent actuellement. Suivez toute l’actualité du Mondial.",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/06/14/curacao-affronte-l-allemagne-quatre-rencontres-au-menu-suivez-la-quatrieme-journee-de-competition",
+      "date": "2026-06-14"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 29°C ciel dégagé",
+      "meteo": "🌡️ 29°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -856,7 +863,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Mexico et England • 🔥 Mexico : VVVVD (4 victoires) • 💪 England : VNVVV (4 victoires) • ✅ Score : 2-3",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -889,7 +896,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Portugal et Spain • 🔥 Portugal : NVNVD (2 victoires) • 💪 Spain : NVVVV (4 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -922,7 +929,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre USA et Belgium • 🔥 USA : VVDVD (3 victoires) • 💪 Belgium : NNVVV (3 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -955,7 +962,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVVV (5 victoires) • 💪 Egypt : NVNVD (2 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -988,7 +995,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • ✅ Score : 4-3",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -1021,7 +1028,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Morocco",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -1054,7 +1061,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : NVVVV (4 victoires) • 💪 Belgium : NNVVV (3 victoires)",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -1087,7 +1094,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ England favori (56%) • 💪 England : VNVVV (4 victoires)",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -1120,7 +1127,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Argentina favori (58%) • 🔥 Argentina : VVVVV (5 victoires)",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -1153,7 +1160,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -1186,7 +1193,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 29°C ciel dégagé",
+          "meteo": "🌡️ 29°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         }
@@ -1196,7 +1203,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 26°C partiellement nuageux",
+      "meteo": "🌡️ 35°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1205,7 +1212,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 32°C nuageux",
+      "meteo": "🌡️ 31°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1214,7 +1221,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 30°C nuageux",
+      "meteo": "🌡️ 37°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1223,7 +1230,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 33°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1232,7 +1239,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 26°C partiellement nuageux",
+      "meteo": "🌡️ 35°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
