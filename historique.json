@@ -1,5 +1,5 @@
 {
-  "total_matchs": 29,
+  "total_matchs": 30,
   "matchs": [
     {
       "id": 537408,
@@ -428,6 +428,20 @@
       "oracle_proba_dom": 51,
       "oracle_proba_ext": 49,
       "favori": "Switzerland",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 537383,
+      "domicile": "France",
+      "exterieur": "Morocco",
+      "score": "2-0",
+      "date": "2026-07-09",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "France",
       "forme_dom": "",
       "forme_ext": ""
     }
