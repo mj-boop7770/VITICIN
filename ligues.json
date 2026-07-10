@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-07-09T22:51:11Z",
+  "mise_a_jour": "2026-07-10T09:21:48Z",
   "news_globales": [
+    {
+      "titre": "France - Maroc : « C’est 100 dollars pour se garer »… Le juteux business des places de parking près du stade de Boston",
+      "description": "Venir en voiture au Gillette Stadium, pour voir le quart de finale de la Coupe du monde entre la France et le Maroc ce jeudi, peut coûter très cher",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/sport/football/4233649-20260709-france-maroc-100-dollars-garer-juteux-business-places-parking-pres-stade-boston",
+      "date": "2026-07-09"
+    },
     {
       "titre": "Coupe du monde 2026: \"Je me suis régalé mais je devais rentrer...\" aux Etats-Unis, les supporters français heureux mais de moins en moins nombreux",
       "description": "L’équipe de France avance sereinement dans ce Mondial, poussée par ses supporters qui essaient de se faire entendre, par milliers, en tribune. Beaucoup d’entre eux vivent une expérience réjouissante, mais ils sont de moins en moins nombreux sur place, alors q…",
@@ -13,13 +20,6 @@
       "description": "Certains sont aussi vides que Paris au mois d'août.",
       "source": "SO FOOT",
       "url": "https://www.sofoot.com/articles/vitinha-neves-mendes-ruiz-dembele-pacho-marquinhos-en-delicatesse-avec-leur-selection-au-mondial-2026-les-joueurs-du-psg-sont-ils-des-system-players",
-      "date": "2026-07-08"
-    },
-    {
-      "titre": "Une incroyable audience pour les Diables rouges face aux États-Unis malgré un match en pleine nuit",
-      "description": "Diffusés dans la journée de mardi, les chiffres sur Auvio laissaient entrevoir le succès du match auprès des Belges. Ceux de la télévision enfoncent très largement le clou. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/sports/football/diables/2026/07/08/une-incroyable-audience-pour-les-diables-rouges-face-aux-etats-unis-malgre-un-match-en-pleine-nuit-VGFXD2RIFZC5PHS5F4JATFYJYE/",
       "date": "2026-07-08"
     },
     {
@@ -48,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 23°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -863,7 +863,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Portugal et Spain • 🔥 Portugal : NVNVD (2 victoires) • 💪 Spain : NVVVV (4 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-06"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre USA et Belgium • 🔥 USA : VVDVD (3 victoires) • 💪 Belgium : NNVVV (3 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVVV (5 victoires) • 💪 Egypt : NVNVD (2 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : NVVVV (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Morocco • ✅ Score : 2-0",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -1028,7 +1028,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : NVVVV (4 victoires) • 💪 Belgium : NNVVV (3 victoires)",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -1061,7 +1061,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Norway et England",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -1094,13 +1094,13 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : NVVVV (4 victoires)",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
         {
           "id": 537387,
-          "domicile": null,
+          "domicile": "France",
           "exterieur": null,
           "heure": "2026-07-14T19:00:00Z",
           "score": "VS",
@@ -1119,15 +1119,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 80,
             "proba_nul": 5,
-            "proba_ext": 46,
-            "signal": "RISQUÉ",
-            "favori": null,
-            "proba_favori": 54
+            "proba_ext": 20,
+            "signal": "FORT",
+            "favori": "France",
+            "proba_favori": 80
           },
-          "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 24°C couvert",
+          "analyse": "🎯 France largement favori (80%)",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -1160,7 +1160,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         }
@@ -1170,7 +1170,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 27°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1179,7 +1179,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 30°C nuageux",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1188,7 +1188,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 29°C nuageux",
+      "meteo": "🌡️ 30°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1197,7 +1197,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 29°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1206,7 +1206,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 27°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
