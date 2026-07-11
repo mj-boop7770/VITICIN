@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-11T07:43:06Z",
+  "mise_a_jour": "2026-07-11T18:49:41Z",
   "news_globales": [
     {
       "titre": "Coupe du monde 2026. Près de 2 500 supporters et une folle ambiance à la fan",
@@ -9,32 +9,18 @@
       "date": "2026-07-10"
     },
     {
-      "titre": "Google Search bat des records pendant la Coupe du Monde, l’IA a encore des progrès à faire",
-      "description": "Google annonce que l'activité sur son moteur de recherche a atteint un pic historique pendant la Coupe du Monde. Le web reste plus pertinent que l'IA pour les événements qui se déroulent en direct.",
-      "source": "Phonandroid",
-      "url": "https://www.phonandroid.com/google-search-bat-des-records-pendant-la-coupe-du-monde-lia-a-encore-des-progres-a-faire.html",
-      "date": "2026-07-10"
-    },
-    {
-      "titre": "Coupe du monde 2026. La polémique Quansah, Collina calme le jeu… le récap’ de la nuit américaine",
-      "description": "La France a ouvert les quarts de finale en patron, jeudi soir, en écartant le Maroc (2-0) pour rejoindre le dernier carré de la Coupe du monde. Mais la nuit américaine n’a pas seulement parlé des Bleus : Pierluigi Collina est monté au front pour défendre l’ar…",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/07/10/la-polemique-quansah-collina-calme-le-jeu-le-recap-de-la-nuit-americaine-du-jeudi-9-juillet",
-      "date": "2026-07-10"
-    },
-    {
-      "titre": "France - Maroc : « C’est 100 dollars pour se garer »… Le juteux business des places de parking près du stade de Boston",
-      "description": "Venir en voiture au Gillette Stadium, pour voir le quart de finale de la Coupe du monde entre la France et le Maroc ce jeudi, peut coûter très cher",
-      "source": "20 Minutes",
-      "url": "https://www.20minutes.fr/sport/football/4233649-20260709-france-maroc-100-dollars-garer-juteux-business-places-parking-pres-stade-boston",
+      "titre": "au football club, 120 ans de passion du ballon rond",
+      "description": "De 1906 à 2026, le football n’a jamais cessé de faire vibrer Thann. Trois clubs se sont succédé, des générations de bénévoles se sont engagées et ...",
+      "source": "Dna (Dernières Nouvelles D'Alsace)",
+      "url": "https://www.dna.fr/societe/2026/07/09/1906-2026-au-football-club-120-ans-de-passion-du-ballon-rond",
       "date": "2026-07-09"
     },
     {
-      "titre": "Coupe du monde 2026: \"Je me suis régalé mais je devais rentrer...\" aux Etats-Unis, les supporters français heureux mais de moins en moins nombreux",
-      "description": "L’équipe de France avance sereinement dans ce Mondial, poussée par ses supporters qui essaient de se faire entendre, par milliers, en tribune. Beaucoup d’entre eux vivent une expérience réjouissante, mais ils sont de moins en moins nombreux sur place, alors q…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-je-me-suis-regale-mais-je-devais-rentrer-aux-etats-unis-les-supporters-francais-heureux-mais-de-moins-en-moins-nombreux_AV-202607080668.html",
-      "date": "2026-07-08"
+      "titre": "Messi idolâtré, pays \"divisé\" entre le Brésil et l’Argentine... Pourquoi le Bangladesh est-il si passionné par la Coupe du monde?",
+      "description": "Ces derniers jours, des vidéos de centaines de supporters bangladais célébrant les buts de Lionel Messi et de l’Argentine à la Coupe du monde 2026 on fait le tour des réseaux sociaux. Une passion pour le football qui dure depuis des années, jamais freinée par les mauvais résultats de la sélection du...",
+      "source": "RMC Sport",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/messi-idolatre-pays-divise-entre-le-bresil-et-l-argentine-pourquoi-le-bangladesh-est-il-si-passionne-par-la-coupe-du-monde_AV-202607030797.html",
+      "date": "2026-07-03"
     },
     {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
@@ -42,20 +28,13 @@
       "source": "Le Monde.fr",
       "url": "https://www.lemonde.fr/sport/article/2026/07/01/coupe-du-monde-2026-le-mexique-prolonge-la-fete-dans-son-bastion-du-stade-azteca_6717483_3242.html",
       "date": "2026-07-01"
-    },
-    {
-      "titre": "Coupe du monde 2026. L'Allemagne est surprise : Curaçao égalise... suivez la quatrième journée du Mondial",
-      "description": "La Coupe du monde 2026 se poursuit avec la quatrième journée de la compétition. L'Allemagne et Curaçao s'affrontent actuellement. Suivez toute l’actualité du Mondial.",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/06/14/curacao-affronte-l-allemagne-quatre-rencontres-au-menu-suivez-la-quatrieme-journee-de-competition",
-      "date": "2026-06-14"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 25°C couvert",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -870,7 +849,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre USA et Belgium • 🔥 USA : VVDVD (3 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -903,7 +882,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVVV (5 victoires) • 💪 Egypt : NVNVD (2 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -936,7 +915,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : NVVVV (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -969,7 +948,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : VVVVD (4 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -1002,7 +981,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Spain et Belgium • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -1035,7 +1014,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Norway et England",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -1068,7 +1047,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : NVVVV (4 victoires)",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -1101,7 +1080,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ France favori (58%) • 🔥 France : VVVVV (5 victoires)",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -1134,7 +1113,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -1167,7 +1146,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         }
@@ -1177,7 +1156,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 22°C ciel dégagé",
+      "meteo": "🌡️ 26°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1186,7 +1165,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 23°C peu nuageux",
+      "meteo": "🌡️ 32°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1195,7 +1174,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 24°C ciel dégagé",
+      "meteo": "🌡️ 35°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1204,7 +1183,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 33°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1213,7 +1192,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 22°C ciel dégagé",
+      "meteo": "🌡️ 26°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
