@@ -1,5 +1,5 @@
 {
-  "total_matchs": 30,
+  "total_matchs": 31,
   "matchs": [
     {
       "id": 537408,
@@ -444,7 +444,21 @@
       "favori": "France",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537384,
+      "domicile": "Spain",
+      "exterieur": "Belgium",
+      "score": "2-1",
+      "date": "2026-07-10",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Belgium",
+      "forme_dom": "",
+      "forme_ext": "NVVVD"
     }
   ],
-  "derniere_maj": "2026-07-10"
+  "derniere_maj": "2026-07-11"
 }
