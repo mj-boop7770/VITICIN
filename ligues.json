@@ -1,11 +1,18 @@
 {
-  "mise_a_jour": "2026-07-12T08:04:00Z",
+  "mise_a_jour": "2026-07-12T18:54:40Z",
   "news_globales": [
     {
       "titre": "\"Je volais les posters de mon frère pour faire semblant\": être un homme et ne pas aimer le foot, c'est grave?",
       "description": "On en parle en famille, entre amis, au bureau... Difficile d'échapper aux discussions autour du dernier match des Bleus ou du penalty manqué de Lionel Messi. En période de Coupe du monde, ceux qui ne vibrent pas pour le ballon rond peuvent parfois se sentir m…",
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/je-volais-les-posters-de-mon-frere-pour-faire-semblant-etre-un-homme-et-ne-pas-aimer-le-foot-c-est-grave_AN-202607110062.html",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Coupe du monde : en brisant l’invincibilité d’Unai Simon, Charles De Ketelaere écrit l’histoire de l’Atalanta Bergame",
+      "description": "Unai Simon ne veille plus. Alors qu’il était parvenu à garder sa cage inviolée depuis le début de la Coupe…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/coupe-du-monde-en-brisant-linvincibilite-dunai-simon-charles-de-ketelaere-ecrit-lhistoire-de-latalanta-bergame",
       "date": "2026-07-11"
     },
     {
@@ -30,13 +37,6 @@
       "date": "2026-07-10"
     },
     {
-      "titre": "Coupe du monde 2026 : Les records qui pourraient tomber lors d’Espagne-Belgique",
-      "description": "La bataille des chiffres. Avant le quart de finale entre l’Espagne et la Belgique pour savoir qui affrontera l’équipe de…",
-      "source": "SO FOOT",
-      "url": "https://www.sofoot.com/breves/coupe-du-monde-2026-les-records-qui-pourraient-tomber-lors-despagne-belgique",
-      "date": "2026-07-10"
-    },
-    {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
       "description": "Dans une ambiance indescriptible, El Tri s’est qualifié pour les huitièmes de finale du tournoi, mercredi, en dominant l’Equateur (2-0), dans la mythique enceinte de Mexico.",
       "source": "Le Monde.fr",
@@ -55,7 +55,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 30°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -870,7 +870,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : VVVVD (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -903,7 +903,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : VVVVD (4 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -936,7 +936,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : VVVVV (5 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -969,7 +969,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : NVVVV (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -982,10 +982,10 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVVVV",
+            "buts_pour": 14,
+            "buts_contre": 6,
+            "matchs": 5
           },
           "stats_ext": {
             "forme": "VVVVD",
@@ -994,15 +994,15 @@
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 45,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 55,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
-            "favori": "Switzerland",
-            "proba_favori": 55
+            "favori": "Argentina",
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -1035,7 +1035,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVVV (5 victoires) • 💪 Spain : VVVVV (5 victoires)",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -1054,21 +1054,21 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVVVV",
+            "buts_pour": 14,
+            "buts_contre": 6,
+            "matchs": 5
           },
           "oracle": {
-            "proba_dom": 57,
+            "proba_dom": 49,
             "proba_nul": 5,
-            "proba_ext": 43,
-            "signal": "MOYEN",
-            "favori": "England",
-            "proba_favori": 57
+            "proba_ext": 51,
+            "signal": "RISQUÉ",
+            "favori": "Argentina",
+            "proba_favori": 51
           },
-          "analyse": "⚡ England favori (57%) • 🔥 England : NVVVV (4 victoires)",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : NVVVV (4 victoires) • 💪 Argentina : VVVVV (5 victoires)",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -1101,7 +1101,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -1134,7 +1134,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 30°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1144,8 +1144,309 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C ciel dégagé",
-      "classement": [],
+      "meteo": "🌡️ 25°C ciel dégagé",
+      "classement": [
+        {
+          "pos": 1,
+          "equipe": "Bournemouth",
+          "team_id": 1044,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Arsenal",
+          "team_id": 57,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Aston Villa",
+          "team_id": 58,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Brentford",
+          "team_id": 402,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Brighton Hove",
+          "team_id": 397,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Chelsea",
+          "team_id": 61,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Coventry City",
+          "team_id": 1076,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Crystal Palace",
+          "team_id": 354,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Everton",
+          "team_id": 62,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Fulham",
+          "team_id": 63,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Hull City",
+          "team_id": 322,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Ipswich Town",
+          "team_id": 349,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Leeds United",
+          "team_id": 341,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Liverpool",
+          "team_id": 64,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Man City",
+          "team_id": 65,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Man United",
+          "team_id": 66,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Newcastle",
+          "team_id": 67,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Nottingham",
+          "team_id": 351,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Sunderland",
+          "team_id": 71,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 1,
+          "equipe": "Tottenham",
+          "team_id": 73,
+          "pts": 0,
+          "j": 0,
+          "g": 0,
+          "n": 0,
+          "p": 0,
+          "bp": 0,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        }
+      ],
       "buteurs": [],
       "matchs": [],
       "hors_saison": false
@@ -1153,7 +1454,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1162,7 +1463,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C nuageux",
+      "meteo": "🌡️ 29°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1171,7 +1472,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 27°C couvert",
+      "meteo": "🌡️ 33°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1180,7 +1481,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
