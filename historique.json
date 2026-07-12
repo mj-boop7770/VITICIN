@@ -1,5 +1,5 @@
 {
-  "total_matchs": 31,
+  "total_matchs": 33,
   "matchs": [
     {
       "id": 537408,
@@ -458,7 +458,35 @@
       "favori": "Belgium",
       "forme_dom": "",
       "forme_ext": "NVVVD"
+    },
+    {
+      "id": 537385,
+      "domicile": "Norway",
+      "exterieur": "England",
+      "score": "1-2",
+      "date": "2026-07-11",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "England",
+      "forme_dom": "VDVVD",
+      "forme_ext": "NVVVV"
+    },
+    {
+      "id": 537386,
+      "domicile": "Argentina",
+      "exterieur": "Switzerland",
+      "score": "3-1",
+      "date": "2026-07-12",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Switzerland",
+      "forme_dom": "",
+      "forme_ext": "VVVVD"
     }
   ],
-  "derniere_maj": "2026-07-11"
+  "derniere_maj": "2026-07-12"
 }

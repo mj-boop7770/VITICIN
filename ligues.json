@@ -1,6 +1,20 @@
 {
-  "mise_a_jour": "2026-07-11T18:49:41Z",
+  "mise_a_jour": "2026-07-12T08:04:00Z",
   "news_globales": [
+    {
+      "titre": "\"Je volais les posters de mon frère pour faire semblant\": être un homme et ne pas aimer le foot, c'est grave?",
+      "description": "On en parle en famille, entre amis, au bureau... Difficile d'échapper aux discussions autour du dernier match des Bleus ou du penalty manqué de Lionel Messi. En période de Coupe du monde, ceux qui ne vibrent pas pour le ballon rond peuvent parfois se sentir m…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/je-volais-les-posters-de-mon-frere-pour-faire-semblant-etre-un-homme-et-ne-pas-aimer-le-foot-c-est-grave_AN-202607110062.html",
+      "date": "2026-07-11"
+    },
+    {
+      "titre": "Le coaching de De la Fuente a été payant contre les Diables à la Coupe du monde 2026 : \"Nous analysons ça à l'avance\"",
+      "description": "Luis de la Fuente s'est qualifié vendredi à Los Angeles pour les demi-finales de la Coupe du monde avec l'Espagne, en éliminant les Diables Rouges in extremis (2-1) en quarts de finale. ...",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/sports/football/coupe-du-monde/2026/07/11/le-coaching-de-de-la-fuente-a-ete-payant-contre-les-diables-a-la-coupe-du-monde-2026-nous-analysons-ca-a-lavance-XUHITNHJYFG7PDEABGOP2YYH2I/",
+      "date": "2026-07-11"
+    },
     {
       "titre": "Coupe du monde 2026. Près de 2 500 supporters et une folle ambiance à la fan",
       "description": "Quelle belle ambiance, ce jeudi 9 juillet en soirée, pour la diffusion du match France-Maroc au stade de l’Ill à Mulhouse. Les deux communautés ...",
@@ -9,18 +23,18 @@
       "date": "2026-07-10"
     },
     {
-      "titre": "au football club, 120 ans de passion du ballon rond",
-      "description": "De 1906 à 2026, le football n’a jamais cessé de faire vibrer Thann. Trois clubs se sont succédé, des générations de bénévoles se sont engagées et ...",
-      "source": "Dna (Dernières Nouvelles D'Alsace)",
-      "url": "https://www.dna.fr/societe/2026/07/09/1906-2026-au-football-club-120-ans-de-passion-du-ballon-rond",
-      "date": "2026-07-09"
+      "titre": "La chronique de Deborah Panzokou Meunier : “Les Américains n’y connaissent rien en foot”",
+      "description": "Tout au long du tournoi, la compagne de Thomas Meunier vous livrera son regard sur cette Coupe du monde. Cinquième épisode avec beaucoup de bruit et un peu de sang. ...",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/sports/football/diablesrouges/2026/07/10/la-chronique-de-deborah-panzokou-meunier-les-americains-ny-connaissent-rien-en-foot-JTAGRTKODZGS5N7IDEKWVE7374/",
+      "date": "2026-07-10"
     },
     {
-      "titre": "Messi idolâtré, pays \"divisé\" entre le Brésil et l’Argentine... Pourquoi le Bangladesh est-il si passionné par la Coupe du monde?",
-      "description": "Ces derniers jours, des vidéos de centaines de supporters bangladais célébrant les buts de Lionel Messi et de l’Argentine à la Coupe du monde 2026 on fait le tour des réseaux sociaux. Une passion pour le football qui dure depuis des années, jamais freinée par les mauvais résultats de la sélection du...",
-      "source": "RMC Sport",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/messi-idolatre-pays-divise-entre-le-bresil-et-l-argentine-pourquoi-le-bangladesh-est-il-si-passionne-par-la-coupe-du-monde_AV-202607030797.html",
-      "date": "2026-07-03"
+      "titre": "Coupe du monde 2026 : Les records qui pourraient tomber lors d’Espagne-Belgique",
+      "description": "La bataille des chiffres. Avant le quart de finale entre l’Espagne et la Belgique pour savoir qui affrontera l’équipe de…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/coupe-du-monde-2026-les-records-qui-pourraient-tomber-lors-despagne-belgique",
+      "date": "2026-07-10"
     },
     {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
@@ -28,13 +42,20 @@
       "source": "Le Monde.fr",
       "url": "https://www.lemonde.fr/sport/article/2026/07/01/coupe-du-monde-2026-le-mexique-prolonge-la-fete-dans-son-bastion-du-stade-azteca_6717483_3242.html",
       "date": "2026-07-01"
+    },
+    {
+      "titre": "Coupe du monde 2026. L'Allemagne est surprise : Curaçao égalise... suivez la quatrième journée du Mondial",
+      "description": "La Coupe du monde 2026 se poursuit avec la quatrième journée de la compétition. L'Allemagne et Curaçao s'affrontent actuellement. Suivez toute l’actualité du Mondial.",
+      "source": "Le Dauphiné Libéré",
+      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/06/14/curacao-affronte-l-allemagne-quatre-rencontres-au-menu-suivez-la-quatrieme-journee-de-competition",
+      "date": "2026-06-14"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 27°C couvert",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -768,7 +789,7 @@
           "joueur": "Lionel Messi",
           "equipe": "Argentina",
           "buts": 8,
-          "passes": 1
+          "passes": 2
         },
         {
           "joueur": "Erling Haaland",
@@ -778,6 +799,12 @@
         },
         {
           "joueur": "Harry Kane",
+          "equipe": "England",
+          "buts": 6,
+          "passes": 1
+        },
+        {
+          "joueur": "Jude Bellingham",
           "equipe": "England",
           "buts": 6,
           "passes": 1
@@ -801,12 +828,6 @@
           "passes": 1
         },
         {
-          "joueur": "Jude Bellingham",
-          "equipe": "England",
-          "buts": 4,
-          "passes": 1
-        },
-        {
           "joueur": "Mikel Oyarzabal",
           "equipe": "Spain",
           "buts": 4,
@@ -821,72 +842,6 @@
       ],
       "matchs": [
         {
-          "id": 537380,
-          "domicile": "USA",
-          "exterieur": "Belgium",
-          "heure": "2026-07-07T00:00:00Z",
-          "score": "1-4",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVDVD",
-            "buts_pour": 11,
-            "buts_contre": 8,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "NVVVD",
-            "buts_pour": 13,
-            "buts_contre": 6,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 50,
-            "proba_nul": 5,
-            "proba_ext": 50,
-            "signal": "RISQUÉ",
-            "favori": "Belgium",
-            "proba_favori": 50
-          },
-          "analyse": "⚖️ Très serré entre USA et Belgium • 🔥 USA : VVDVD (3 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 27°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-07"
-        },
-        {
-          "id": 537381,
-          "domicile": "Argentina",
-          "exterieur": "Egypt",
-          "heure": "2026-07-07T16:00:00Z",
-          "score": "3-2",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVVVV",
-            "buts_pour": 14,
-            "buts_contre": 5,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "NVNVD",
-            "buts_pour": 12,
-            "buts_contre": 9,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 54,
-            "proba_nul": 5,
-            "proba_ext": 46,
-            "signal": "RISQUÉ",
-            "favori": "Argentina",
-            "proba_favori": 54
-          },
-          "analyse": "⚖️ Très serré entre Argentina et Egypt • 🔥 Argentina : VVVVV (5 victoires) • 💪 Egypt : NVNVD (2 victoires) • ✅ Score : 3-2",
-          "meteo": "🌡️ 27°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-07"
-        },
-        {
           "id": 537382,
           "domicile": "Switzerland",
           "exterieur": "Colombia",
@@ -895,9 +850,9 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "NVVVV",
+            "forme": "VVVVD",
             "buts_pour": 13,
-            "buts_contre": 6,
+            "buts_contre": 8,
             "matchs": 5
           },
           "stats_ext": {
@@ -907,15 +862,15 @@
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 53,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 47,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "Switzerland",
-            "proba_favori": 53
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : NVVVV (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 27°C couvert",
+          "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : VVVVD (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -948,7 +903,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : VVVVD (4 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 27°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -961,79 +916,13 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVVVV",
+            "buts_pour": 11,
+            "buts_contre": 1,
+            "matchs": 5
           },
           "stats_ext": {
             "forme": "NVVVD",
-            "buts_pour": 13,
-            "buts_contre": 6,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 45,
-            "proba_nul": 5,
-            "proba_ext": 55,
-            "signal": "RISQUÉ",
-            "favori": "Belgium",
-            "proba_favori": 55
-          },
-          "analyse": "⚖️ Très serré entre Spain et Belgium • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 27°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-10"
-        },
-        {
-          "id": 537385,
-          "domicile": "Norway",
-          "exterieur": "England",
-          "heure": "2026-07-11T21:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 51,
-            "proba_nul": 5,
-            "proba_ext": 49,
-            "signal": "RISQUÉ",
-            "favori": "Norway",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Norway et England",
-          "meteo": "🌡️ 27°C couvert",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-11"
-        },
-        {
-          "id": 537386,
-          "domicile": "Argentina",
-          "exterieur": "Switzerland",
-          "heure": "2026-07-12T01:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVVVV",
-            "buts_pour": 14,
-            "buts_contre": 5,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "NVVVV",
             "buts_pour": 13,
             "buts_contre": 6,
             "matchs": 5
@@ -1043,11 +932,77 @@
             "proba_nul": 5,
             "proba_ext": 48,
             "signal": "RISQUÉ",
-            "favori": "Argentina",
+            "favori": "Spain",
             "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : NVVVV (4 victoires)",
-          "meteo": "🌡️ 27°C couvert",
+          "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : VVVVV (5 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
+          "meteo": "🌡️ 23°C ciel dégagé",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-10"
+        },
+        {
+          "id": 537385,
+          "domicile": "Norway",
+          "exterieur": "England",
+          "heure": "2026-07-11T21:00:00Z",
+          "score": "1-2",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VDVVD",
+            "buts_pour": 9,
+            "buts_contre": 10,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "NVVVV",
+            "buts_pour": 9,
+            "buts_contre": 4,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 49,
+            "proba_nul": 5,
+            "proba_ext": 51,
+            "signal": "RISQUÉ",
+            "favori": "England",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : NVVVV (4 victoires) • ✅ Score : 1-2",
+          "meteo": "🌡️ 23°C ciel dégagé",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-11"
+        },
+        {
+          "id": 537386,
+          "domicile": "Argentina",
+          "exterieur": "Switzerland",
+          "heure": "2026-07-12T01:00:00Z",
+          "score": "3-1",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "VVVVD",
+            "buts_pour": 13,
+            "buts_contre": 8,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 45,
+            "proba_nul": 5,
+            "proba_ext": 55,
+            "signal": "RISQUÉ",
+            "favori": "Switzerland",
+            "proba_favori": 55
+          },
+          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -1066,37 +1021,37 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "VVVVV",
+            "buts_pour": 11,
+            "buts_contre": 1,
+            "matchs": 5
           },
           "oracle": {
-            "proba_dom": 58,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 42,
-            "signal": "MOYEN",
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
             "favori": "France",
-            "proba_favori": 58
+            "proba_favori": 51
           },
-          "analyse": "⚡ France favori (58%) • 🔥 France : VVVVV (5 victoires)",
-          "meteo": "🌡️ 27°C couvert",
+          "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVVV (5 victoires) • 💪 Spain : VVVVV (5 victoires)",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
         {
           "id": 537388,
-          "domicile": null,
-          "exterieur": null,
+          "domicile": "England",
+          "exterieur": "Argentina",
           "heure": "2026-07-15T19:00:00Z",
           "score": "VS",
           "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "NVVVV",
+            "buts_pour": 9,
+            "buts_contre": 4,
+            "matchs": 5
           },
           "stats_ext": {
             "forme": "",
@@ -1105,15 +1060,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 57,
             "proba_nul": 5,
-            "proba_ext": 46,
-            "signal": "RISQUÉ",
-            "favori": null,
-            "proba_favori": 54
+            "proba_ext": 43,
+            "signal": "MOYEN",
+            "favori": "England",
+            "proba_favori": 57
           },
-          "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 27°C couvert",
+          "analyse": "⚡ England favori (57%) • 🔥 England : NVVVV (4 victoires)",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -1146,9 +1101,42 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 27°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
+        },
+        {
+          "id": 537390,
+          "domicile": null,
+          "exterieur": null,
+          "heure": "2026-07-19T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 54,
+            "proba_nul": 5,
+            "proba_ext": 46,
+            "signal": "RISQUÉ",
+            "favori": null,
+            "proba_favori": 54
+          },
+          "analyse": "⚖️ Très serré entre None et None",
+          "meteo": "🌡️ 23°C ciel dégagé",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-19"
         }
       ],
       "hors_saison": false
@@ -1156,7 +1144,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 26°C ciel dégagé",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1165,7 +1153,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 32°C peu nuageux",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1174,7 +1162,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 35°C ciel dégagé",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1183,7 +1171,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 33°C ciel dégagé",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1192,7 +1180,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 26°C ciel dégagé",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
