@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-07-13T08:54:25Z",
+  "mise_a_jour": "2026-07-13T19:15:29Z",
   "news_globales": [
+    {
+      "titre": "Argentine-Suisse: Messi a-t-il vraiment battu le record du nombre de passes décisives en Coupe du monde?",
+      "description": "En délivrant une passe décisive pour Alexis Mac Allister lors du quart de finale de Coupe du monde 2026 remporté par l'Argentine face à la Suisse (3-1), Lionel Messi a porté son total à dix devenant le seul à avoir réalisé cette performance. Mais un flou règn…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/argentine-suisse-messi-a-t-il-vraiment-battu-le-record-du-nombre-de-passes-decisives-en-coupe-du-monde_AV-202607120286.html",
+      "date": "2026-07-12"
+    },
     {
       "titre": "\"Je volais les posters de mon frère pour faire semblant\": être un homme et ne pas aimer le foot, c'est grave?",
       "description": "On en parle en famille, entre amis, au bureau... Difficile d'échapper aux discussions autour du dernier match des Bleus ou du penalty manqué de Lionel Messi. En période de Coupe du monde, ceux qui ne vibrent pas pour le ballon rond peuvent parfois se sentir m…",
@@ -51,65 +58,6 @@
       "date": "2026-06-14"
     }
   ],
-  "hors_saison": {
-    "Premier League": {
-      "date_reprise": "2026-08-21",
-      "flash": [],
-      "rumeurs": [],
-      "preparatifs": [],
-      "stats_clubs": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    "Série A": {
-      "date_reprise": "2026-08-23",
-      "flash": [],
-      "rumeurs": [],
-      "preparatifs": [],
-      "stats_clubs": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    "La Liga": {
-      "date_reprise": "2026-08-28",
-      "flash": [
-        {
-          "titre": "Transfert d'Harry Kane : \"Ils se sont trompés\", l'erreur du Real Madrid qui a des répercussions sur Kylian Mbappé ?",
-          "source": "Le10sport.com",
-          "date": "2026-07-03"
-        }
-      ],
-      "rumeurs": [],
-      "preparatifs": [],
-      "stats_clubs": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    },
-    "Ligue 1": {
-      "date_reprise": "2026-08-22",
-      "flash": [],
-      "rumeurs": [],
-      "preparatifs": [],
-      "stats_clubs": [
-        {},
-        {},
-        {},
-        {},
-        {}
-      ]
-    }
-  },
+  "hors_saison": {},
   "stats_enrichies": {}
 }
