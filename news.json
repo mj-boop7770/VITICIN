@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-12T18:54:40Z",
+  "mise_a_jour": "2026-07-13T08:54:25Z",
   "news_globales": [
     {
       "titre": "\"Je volais les posters de mon frère pour faire semblant\": être un homme et ne pas aimer le foot, c'est grave?",
@@ -51,6 +51,65 @@
       "date": "2026-06-14"
     }
   ],
-  "hors_saison": {},
+  "hors_saison": {
+    "Premier League": {
+      "date_reprise": "2026-08-21",
+      "flash": [],
+      "rumeurs": [],
+      "preparatifs": [],
+      "stats_clubs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Série A": {
+      "date_reprise": "2026-08-23",
+      "flash": [],
+      "rumeurs": [],
+      "preparatifs": [],
+      "stats_clubs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "La Liga": {
+      "date_reprise": "2026-08-28",
+      "flash": [
+        {
+          "titre": "Transfert d'Harry Kane : \"Ils se sont trompés\", l'erreur du Real Madrid qui a des répercussions sur Kylian Mbappé ?",
+          "source": "Le10sport.com",
+          "date": "2026-07-03"
+        }
+      ],
+      "rumeurs": [],
+      "preparatifs": [],
+      "stats_clubs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    },
+    "Ligue 1": {
+      "date_reprise": "2026-08-22",
+      "flash": [],
+      "rumeurs": [],
+      "preparatifs": [],
+      "stats_clubs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
   "stats_enrichies": {}
 }

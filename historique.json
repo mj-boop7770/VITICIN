@@ -1,5 +1,5 @@
 {
-  "total_matchs": 33,
+  "total_matchs": 38,
   "matchs": [
     {
       "id": 537408,
@@ -486,7 +486,77 @@
       "favori": "Switzerland",
       "forme_dom": "",
       "forme_ext": "VVVVD"
+    },
+    {
+      "id": 552092,
+      "domicile": "PSG",
+      "exterieur": "Bayern",
+      "score": "5-4",
+      "date": "2026-04-28",
+      "ligue": "Ligue des Champions",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Bayern",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 552093,
+      "domicile": "Atleti",
+      "exterieur": "Arsenal",
+      "score": "1-1",
+      "date": "2026-04-29",
+      "ligue": "Ligue des Champions",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 42,
+      "oracle_proba_ext": 58,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 552095,
+      "domicile": "Arsenal",
+      "exterieur": "Atleti",
+      "score": "1-0",
+      "date": "2026-05-05",
+      "ligue": "Ligue des Champions",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 63,
+      "oracle_proba_ext": 37,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 552094,
+      "domicile": "Bayern",
+      "exterieur": "PSG",
+      "score": "1-1",
+      "date": "2026-05-06",
+      "ligue": "Ligue des Champions",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 59,
+      "oracle_proba_ext": 41,
+      "favori": "Bayern",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 552096,
+      "domicile": "PSG",
+      "exterieur": "Arsenal",
+      "score": "5-4",
+      "date": "2026-05-30",
+      "ligue": "Ligue des Champions",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 44,
+      "oracle_proba_ext": 56,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-07-12"
+  "derniere_maj": "2026-07-13"
 }
