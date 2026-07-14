@@ -1,6 +1,20 @@
 {
-  "mise_a_jour": "2026-07-14T07:50:10Z",
+  "mise_a_jour": "2026-07-14T19:06:45Z",
   "news_globales": [
+    {
+      "titre": "Coupe du monde 2026: Argentine, France, Angleterre et Espagne... qui des quatre demi-finalistes est le meilleur selon les les stats?",
+      "description": "À deux matchs du sacre mondial, la France, l'Espagne, l'Argentine et l'Angleterre présentent des profils statistiques bien distincts. Attaque, défense, efficacité, pressing ou possession: voici les chiffres qui mettent en lumière les forces de chacun des quat…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-argentine-france-angleterre-et-espagne-qui-des-quatre-demi-finalistes-est-le-meilleur-selon-les-les-stats_AV-202607130568.html",
+      "date": "2026-07-13"
+    },
+    {
+      "titre": "Cette application française cartonne pendant la Coupe du monde : \"Je me réveillais la nuit pour voir mon résultat”",
+      "description": "Plus de trois millions de personnes ont rejoint l’aventure de Mon Petit Prono, une application devenue un véritable phénomène lors de cette Coupe du Monde. ...",
+      "source": "Lalibre.be",
+      "url": "https://www.lalibre.be/sports/football/coupe-du-monde/2026/07/13/cette-application-francaise-cartonne-pendant-la-coupe-du-monde-je-me-reveillais-la-nuit-pour-voir-mon-resultat-5CAPV45WQNHBXE3IT6ND3TYJWY/",
+      "date": "2026-07-13"
+    },
     {
       "titre": "Argentine-Suisse: Messi a-t-il vraiment battu le record du nombre de passes décisives en Coupe du monde?",
       "description": "En délivrant une passe décisive pour Alexis Mac Allister lors du quart de finale de Coupe du monde 2026 remporté par l'Argentine face à la Suisse (3-1), Lionel Messi a porté son total à dix devenant le seul à avoir réalisé cette performance. Mais un flou règn…",
@@ -13,20 +27,6 @@
       "description": "On en parle en famille, entre amis, au bureau... Difficile d'échapper aux discussions autour du dernier match des Bleus ou du penalty manqué de Lionel Messi. En période de Coupe du monde, ceux qui ne vibrent pas pour le ballon rond peuvent parfois se sentir m…",
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/je-volais-les-posters-de-mon-frere-pour-faire-semblant-etre-un-homme-et-ne-pas-aimer-le-foot-c-est-grave_AN-202607110062.html",
-      "date": "2026-07-11"
-    },
-    {
-      "titre": "Coupe du monde : en brisant l’invincibilité d’Unai Simon, Charles De Ketelaere écrit l’histoire de l’Atalanta Bergame",
-      "description": "Unai Simon ne veille plus. Alors qu’il était parvenu à garder sa cage inviolée depuis le début de la Coupe…",
-      "source": "SO FOOT",
-      "url": "https://www.sofoot.com/breves/coupe-du-monde-en-brisant-linvincibilite-dunai-simon-charles-de-ketelaere-ecrit-lhistoire-de-latalanta-bergame",
-      "date": "2026-07-11"
-    },
-    {
-      "titre": "Le coaching de De la Fuente a été payant contre les Diables à la Coupe du monde 2026 : \"Nous analysons ça à l'avance\"",
-      "description": "Luis de la Fuente s'est qualifié vendredi à Los Angeles pour les demi-finales de la Coupe du monde avec l'Espagne, en éliminant les Diables Rouges in extremis (2-1) en quarts de finale. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/sports/football/coupe-du-monde/2026/07/11/le-coaching-de-de-la-fuente-a-ete-payant-contre-les-diables-a-la-coupe-du-monde-2026-nous-analysons-ca-a-lavance-XUHITNHJYFG7PDEABGOP2YYH2I/",
       "date": "2026-07-11"
     },
     {
@@ -62,7 +62,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 34°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -849,6 +849,39 @@
       ],
       "matchs": [
         {
+          "id": 537387,
+          "domicile": "France",
+          "exterieur": "Spain",
+          "heure": "2026-07-14T19:00:00Z",
+          "score": "0-0",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VVVVV",
+            "buts_pour": 13,
+            "buts_contre": 1,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "VVVVV",
+            "buts_pour": 11,
+            "buts_contre": 1,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "France",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVVV (5 victoires) • 💪 Spain : VVVVV (5 victoires)",
+          "meteo": "🌡️ 34°C ciel dégagé",
+          "ligue": "Coupe du Monde 2026",
+          "date": "2026-07-14"
+        },
+        {
           "id": 537382,
           "domicile": "Switzerland",
           "exterieur": "Colombia",
@@ -877,7 +910,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Switzerland et Colombia • 🔥 Switzerland : VVVVD (4 victoires) • 💪 Colombia : VVNVD (3 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-07"
         },
@@ -910,7 +943,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre France et Morocco • 🔥 France : VVVVV (5 victoires) • 💪 Morocco : VVVVD (4 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-09"
         },
@@ -943,7 +976,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : VVVVV (5 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-10"
         },
@@ -976,7 +1009,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : NVVVV (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -1009,42 +1042,9 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
-        },
-        {
-          "id": 537387,
-          "domicile": "France",
-          "exterieur": "Spain",
-          "heure": "2026-07-14T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVVVV",
-            "buts_pour": 13,
-            "buts_contre": 1,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "VVVVV",
-            "buts_pour": 11,
-            "buts_contre": 1,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 51,
-            "proba_nul": 5,
-            "proba_ext": 49,
-            "signal": "RISQUÉ",
-            "favori": "France",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVVV (5 victoires) • 💪 Spain : VVVVV (5 victoires)",
-          "meteo": "🌡️ 23°C ciel dégagé",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-14"
         },
         {
           "id": 537388,
@@ -1075,7 +1075,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ England favori (57%) • 🔥 England : NVVVV (4 victoires)",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -1108,7 +1108,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -1141,7 +1141,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre None et None",
-          "meteo": "🌡️ 23°C ciel dégagé",
+          "meteo": "🌡️ 34°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1151,7 +1151,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 27°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1160,7 +1160,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 29°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1169,7 +1169,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C ciel dégagé",
+      "meteo": "🌡️ 32°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1178,7 +1178,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 25°C nuageux",
+      "meteo": "🌡️ 32°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1187,7 +1187,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 27°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
