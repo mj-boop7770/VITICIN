@@ -1,5 +1,5 @@
 {
-  "total_matchs": 38,
+  "total_matchs": 39,
   "matchs": [
     {
       "id": 537408,
@@ -556,7 +556,21 @@
       "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 537387,
+      "domicile": "France",
+      "exterieur": "Spain",
+      "score": "0-2",
+      "date": "2026-07-14",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 50,
+      "oracle_proba_ext": 50,
+      "favori": "Spain",
+      "forme_dom": "VVVVD",
+      "forme_ext": "VVVVV"
     }
   ],
-  "derniere_maj": "2026-07-14"
+  "derniere_maj": "2026-07-15"
 }
