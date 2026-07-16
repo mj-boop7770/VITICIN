@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-07-15T18:58:51Z",
+  "mise_a_jour": "2026-07-16T07:59:29Z",
   "news_globales": [
+    {
+      "titre": "PORTRAIT – Coupe du monde 2026 : Jude Bellingham, la star programmée à la conquête de l’Angleterre",
+      "description": "Et si l’exilé anglais était celui qui offrait la deuxième étoile tant attendue à l’Angleterre ?",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/portrait-coupe-du-monde-2026-jude-bellingham-la-star-programmee-a-la-conquete-de-langleterre",
+      "date": "2026-07-15"
+    },
     {
       "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
       "description": "Dans un communiqué, la Fifa a dévoilé plusieurs informations concernant la cérémonie de clôture de la Coupe du monde 2026 qui se déroulera avant la finale. Un événement \"digne d’une édition historique\".",
@@ -23,13 +30,6 @@
       "date": "2026-07-13"
     },
     {
-      "titre": "Argentine-Suisse: Messi a-t-il vraiment battu le record du nombre de passes décisives en Coupe du monde?",
-      "description": "En délivrant une passe décisive pour Alexis Mac Allister lors du quart de finale de Coupe du monde 2026 remporté par l'Argentine face à la Suisse (3-1), Lionel Messi a porté son total à dix devenant le seul à avoir réalisé cette performance. Mais un flou règn…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/argentine-suisse-messi-a-t-il-vraiment-battu-le-record-du-nombre-de-passes-decisives-en-coupe-du-monde_AV-202607120286.html",
-      "date": "2026-07-12"
-    },
-    {
       "titre": "\"Je volais les posters de mon frère pour faire semblant\": être un homme et ne pas aimer le foot, c'est grave?",
       "description": "On en parle en famille, entre amis, au bureau... Difficile d'échapper aux discussions autour du dernier match des Bleus ou du penalty manqué de Lionel Messi. En période de Coupe du monde, ceux qui ne vibrent pas pour le ballon rond peuvent parfois se sentir m…",
       "source": "BFMTV",
@@ -49,13 +49,6 @@
       "source": "Le Monde.fr",
       "url": "https://www.lemonde.fr/sport/article/2026/07/01/coupe-du-monde-2026-le-mexique-prolonge-la-fete-dans-son-bastion-du-stade-azteca_6717483_3242.html",
       "date": "2026-07-01"
-    },
-    {
-      "titre": "Coupe du monde 2026. L'Allemagne est surprise : Curaçao égalise... suivez la quatrième journée du Mondial",
-      "description": "La Coupe du monde 2026 se poursuit avec la quatrième journée de la compétition. L'Allemagne et Curaçao s'affrontent actuellement. Suivez toute l’actualité du Mondial.",
-      "source": "Le Dauphiné Libéré",
-      "url": "https://www.ledauphine.com/coupe-du-monde-de-football/2026/06/14/curacao-affronte-l-allemagne-quatre-rencontres-au-menu-suivez-la-quatrieme-journee-de-competition",
-      "date": "2026-06-14"
     }
   ],
   "hors_saison": {},

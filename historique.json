@@ -1,5 +1,5 @@
 {
-  "total_matchs": 39,
+  "total_matchs": 40,
   "matchs": [
     {
       "id": 537408,
@@ -570,7 +570,21 @@
       "favori": "Spain",
       "forme_dom": "VVVVD",
       "forme_ext": "VVVVV"
+    },
+    {
+      "id": 537388,
+      "domicile": "England",
+      "exterieur": "Argentina",
+      "score": "1-2",
+      "date": "2026-07-15",
+      "ligue": "Coupe du Monde 2026",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "Argentina",
+      "forme_dom": "VVVVD",
+      "forme_ext": "VVVVV"
     }
   ],
-  "derniere_maj": "2026-07-15"
+  "derniere_maj": "2026-07-16"
 }
