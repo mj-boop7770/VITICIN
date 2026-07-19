@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-18T18:52:07Z",
+  "mise_a_jour": "2026-07-19T08:03:08Z",
   "news_globales": [
     {
       "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
@@ -27,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 22°C légère pluie",
+      "meteo": "🌡️ 24°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -754,8 +754,8 @@
         {
           "joueur": "Kylian Mbappé",
           "equipe": "France",
-          "buts": 8,
-          "passes": 3
+          "buts": 10,
+          "passes": 4
         },
         {
           "joueur": "Lionel Messi",
@@ -770,28 +770,28 @@
           "passes": 0
         },
         {
+          "joueur": "Jude Bellingham",
+          "equipe": "England",
+          "buts": 7,
+          "passes": 1
+        },
+        {
           "joueur": "Harry Kane",
           "equipe": "England",
           "buts": 6,
           "passes": 1
         },
         {
-          "joueur": "Jude Bellingham",
-          "equipe": "England",
+          "joueur": "Ousmane Dembélé",
+          "equipe": "France",
           "buts": 6,
-          "passes": 1
+          "passes": 2
         },
         {
           "joueur": "Mikel Oyarzabal",
           "equipe": "Spain",
           "buts": 5,
           "passes": 1
-        },
-        {
-          "joueur": "Ousmane Dembélé",
-          "equipe": "France",
-          "buts": 5,
-          "passes": 2
         },
         {
           "joueur": "Julián Quiñones",
@@ -814,39 +814,6 @@
       ],
       "matchs": [
         {
-          "id": 537384,
-          "domicile": "Spain",
-          "exterieur": "Belgium",
-          "heure": "2026-07-10T19:00:00Z",
-          "score": "2-1",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VVVVV",
-            "buts_pour": 9,
-            "buts_contre": 1,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "NVVVD",
-            "buts_pour": 13,
-            "buts_contre": 6,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Spain",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Spain et Belgium • 🔥 Spain : VVVVV (5 victoires) • 💪 Belgium : NVVVD (3 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 22°C légère pluie",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-10"
-        },
-        {
           "id": 537385,
           "domicile": "Norway",
           "exterieur": "England",
@@ -861,9 +828,9 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "VVVVD",
-            "buts_pour": 10,
-            "buts_contre": 6,
+            "forme": "VVVDV",
+            "buts_pour": 14,
+            "buts_contre": 10,
             "matchs": 5
           },
           "oracle": {
@@ -874,8 +841,8 @@
             "favori": "England",
             "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : VVVVD (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 22°C légère pluie",
+          "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 1-2",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -908,7 +875,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 22°C légère pluie",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -921,9 +888,9 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVVD",
+            "forme": "VVVDD",
             "buts_pour": 10,
-            "buts_contre": 3,
+            "buts_contre": 8,
             "matchs": 5
           },
           "stats_ext": {
@@ -933,15 +900,15 @@
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 48,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 52,
             "signal": "RISQUÉ",
             "favori": "Spain",
-            "proba_favori": 50
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVVD (4 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 22°C légère pluie",
+          "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -954,9 +921,9 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVVD",
-            "buts_pour": 10,
-            "buts_contre": 6,
+            "forme": "VVVDV",
+            "buts_pour": 14,
+            "buts_contre": 10,
             "matchs": 5
           },
           "stats_ext": {
@@ -966,15 +933,15 @@
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 49,
+            "proba_dom": 50,
             "proba_nul": 5,
-            "proba_ext": 51,
+            "proba_ext": 50,
             "signal": "RISQUÉ",
             "favori": "Argentina",
-            "proba_favori": 51
+            "proba_favori": 50
           },
-          "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVVD (4 victoires) • 💪 Argentina : VVVVV (5 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 22°C légère pluie",
+          "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVV (5 victoires) • ✅ Score : 1-2",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -983,31 +950,31 @@
           "domicile": "France",
           "exterieur": "England",
           "heure": "2026-07-18T21:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "4-6",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVVD",
+            "forme": "VVVDD",
             "buts_pour": 10,
-            "buts_contre": 3,
+            "buts_contre": 8,
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "VVVVD",
-            "buts_pour": 10,
-            "buts_contre": 6,
+            "forme": "VVVDV",
+            "buts_pour": 14,
+            "buts_contre": 10,
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 49,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 51,
             "signal": "RISQUÉ",
-            "favori": "France",
+            "favori": "England",
             "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVVD (4 victoires) • 💪 England : VVVVD (4 victoires)",
-          "meteo": "🌡️ 22°C légère pluie",
+          "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -1040,7 +1007,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVV (5 victoires)",
-          "meteo": "🌡️ 22°C légère pluie",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1050,7 +1017,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 17°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1360,7 +1327,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 33°C partiellement nuageux",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1369,7 +1336,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 32°C couvert",
+      "meteo": "🌡️ 25°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1378,7 +1345,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 25°C couvert",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1387,7 +1354,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 17°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
