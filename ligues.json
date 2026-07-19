@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-07-19T08:03:08Z",
+  "mise_a_jour": "2026-07-19T18:54:52Z",
   "news_globales": [
+    {
+      "titre": "France - Angleterre : « Je ne sais même plus où est ma médaille »… Pourquoi le match pour la 3e place existe encore ?",
+      "description": "Les Bleus vont disputer pour la quatrième fois de leur histoire la petite finale d’une Coupe du monde, ce samedi (23 heures) contre l’Angleterre. Mais hors Jeux olympiques, cette médaille de bronze rime-t-elle vraiment à quelque chose ?",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/sport/football/4234738-20260718-france-angleterre-sais-plus-medaille-pourquoi-match-3e-place-existe-encore",
+      "date": "2026-07-18"
+    },
     {
       "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
       "description": "Dans un communiqué, la Fifa a dévoilé plusieurs informations concernant la cérémonie de clôture de la Coupe du monde 2026 qui se déroulera avant la finale. Un événement \"digne d’une édition historique\".",
@@ -27,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +849,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-11"
         },
@@ -875,7 +882,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -908,7 +915,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -941,7 +948,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVV (5 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -974,7 +981,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -1007,7 +1014,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVV (5 victoires)",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1017,7 +1024,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 17°C partiellement nuageux",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1327,7 +1334,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 35°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1336,7 +1343,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C couvert",
+      "meteo": "🌡️ 34°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1345,7 +1352,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 23°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1354,7 +1361,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 17°C partiellement nuageux",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
