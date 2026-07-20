@@ -1,12 +1,26 @@
 {
-  "mise_a_jour": "2026-07-19T18:54:52Z",
+  "mise_a_jour": "2026-07-20T08:44:34Z",
   "news_globales": [
     {
-      "titre": "France - Angleterre : « Je ne sais même plus où est ma médaille »… Pourquoi le match pour la 3e place existe encore ?",
-      "description": "Les Bleus vont disputer pour la quatrième fois de leur histoire la petite finale d’une Coupe du monde, ce samedi (23 heures) contre l’Angleterre. Mais hors Jeux olympiques, cette médaille de bronze rime-t-elle vraiment à quelque chose ?",
-      "source": "20 Minutes",
-      "url": "https://www.20minutes.fr/sport/football/4234738-20260718-france-angleterre-sais-plus-medaille-pourquoi-match-3e-place-existe-encore",
-      "date": "2026-07-18"
+      "titre": "Mondial 2026 : Michael Olise en larmes après la petite finale France-Angleterre",
+      "description": "Up and down. Avec la défaite de la France en petite finale face à l’Angleterre (4-6), c’est un…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/mondial-2026-michael-olise-en-larmes-apres-la-petite-finale-france-angleterre",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Le lot de consolation de Mbappé malgré la 4e place de la France au Mondial",
+      "description": "Le capitaine de l’équipe de France devient le meilleur buteur en Coupe du monde avec 22 marques. Mais combien de temps ce record va-t-il tenir ?",
+      "source": "Le HuffPost",
+      "url": "https://www.huffingtonpost.fr/sport/article/le-lot-de-consolation-de-mbappe-malgre-la-4e-place-de-la-france-au-mondial_290963.html",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "\"Cela dépasse toute explication raisonnable\" : les liens du sang entre l'Espagne et l'Argentine, finalistes de la Coupe du monde 2026",
+      "description": "Plus encore que celles qui les ont précédées, la Roja de Luis de la Fuente et l'Albiceleste de Lionel Scaloni semblent faites du même bois, regorgeant de similarités et d'histoires qui s'entrelacent.",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/cela-depasse-toute-explication-raisonnable-les-liens-du-sang-entre-l-espagne-et-l-argentine-finalistes-de-la-coupe-du-monde-2026_8113316.html",
+      "date": "2026-07-19"
     },
     {
       "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
@@ -30,6 +44,26 @@
       "date": "2026-07-01"
     }
   ],
-  "hors_saison": {},
+  "hors_saison": {
+    "Premier League": {
+      "date_reprise": "2026-08-21",
+      "flash": [
+        {
+          "titre": "Officiel : Youri Tielemans signe à Manchester United",
+          "source": "Foot01.com",
+          "date": "2026-07-14"
+        }
+      ],
+      "rumeurs": [],
+      "preparatifs": [],
+      "stats_clubs": [
+        {},
+        {},
+        {},
+        {},
+        {}
+      ]
+    }
+  },
   "stats_enrichies": {}
 }

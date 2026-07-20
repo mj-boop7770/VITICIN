@@ -1,12 +1,26 @@
 {
-  "mise_a_jour": "2026-07-19T18:54:52Z",
+  "mise_a_jour": "2026-07-20T08:44:34Z",
   "news_globales": [
     {
-      "titre": "France - Angleterre : « Je ne sais même plus où est ma médaille »… Pourquoi le match pour la 3e place existe encore ?",
-      "description": "Les Bleus vont disputer pour la quatrième fois de leur histoire la petite finale d’une Coupe du monde, ce samedi (23 heures) contre l’Angleterre. Mais hors Jeux olympiques, cette médaille de bronze rime-t-elle vraiment à quelque chose ?",
-      "source": "20 Minutes",
-      "url": "https://www.20minutes.fr/sport/football/4234738-20260718-france-angleterre-sais-plus-medaille-pourquoi-match-3e-place-existe-encore",
-      "date": "2026-07-18"
+      "titre": "Mondial 2026 : Michael Olise en larmes après la petite finale France-Angleterre",
+      "description": "Up and down. Avec la défaite de la France en petite finale face à l’Angleterre (4-6), c’est un…",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/breves/mondial-2026-michael-olise-en-larmes-apres-la-petite-finale-france-angleterre",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "Le lot de consolation de Mbappé malgré la 4e place de la France au Mondial",
+      "description": "Le capitaine de l’équipe de France devient le meilleur buteur en Coupe du monde avec 22 marques. Mais combien de temps ce record va-t-il tenir ?",
+      "source": "Le HuffPost",
+      "url": "https://www.huffingtonpost.fr/sport/article/le-lot-de-consolation-de-mbappe-malgre-la-4e-place-de-la-france-au-mondial_290963.html",
+      "date": "2026-07-19"
+    },
+    {
+      "titre": "\"Cela dépasse toute explication raisonnable\" : les liens du sang entre l'Espagne et l'Argentine, finalistes de la Coupe du monde 2026",
+      "description": "Plus encore que celles qui les ont précédées, la Roja de Luis de la Fuente et l'Albiceleste de Lionel Scaloni semblent faites du même bois, regorgeant de similarités et d'histoires qui s'entrelacent.",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/coupe-du-monde/cela-depasse-toute-explication-raisonnable-les-liens-du-sang-entre-l-espagne-et-l-argentine-finalistes-de-la-coupe-du-monde-2026_8113316.html",
+      "date": "2026-07-19"
     },
     {
       "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
@@ -34,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -821,39 +835,6 @@
       ],
       "matchs": [
         {
-          "id": 537385,
-          "domicile": "Norway",
-          "exterieur": "England",
-          "heure": "2026-07-11T21:00:00Z",
-          "score": "1-2",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VDVVD",
-            "buts_pour": 9,
-            "buts_contre": 10,
-            "matchs": 5
-          },
-          "stats_ext": {
-            "forme": "VVVDV",
-            "buts_pour": 14,
-            "buts_contre": 10,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 49,
-            "proba_nul": 5,
-            "proba_ext": 51,
-            "signal": "RISQUÉ",
-            "favori": "England",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Norway et England • 🔥 Norway : VDVVD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 27°C ciel dégagé",
-          "ligue": "Coupe du Monde 2026",
-          "date": "2026-07-11"
-        },
-        {
           "id": 537386,
           "domicile": "Argentina",
           "exterieur": "Switzerland",
@@ -862,8 +843,8 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVVV",
-            "buts_pour": 14,
+            "forme": "VVVVD",
+            "buts_pour": 11,
             "buts_contre": 7,
             "matchs": 5
           },
@@ -874,15 +855,15 @@
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 48,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
             "favori": "Argentina",
-            "proba_favori": 52
+            "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVV (5 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 27°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVD (4 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -915,7 +896,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 27°C ciel dégagé",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -934,21 +915,21 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "VVVVV",
-            "buts_pour": 14,
+            "forme": "VVVVD",
+            "buts_pour": 11,
             "buts_contre": 7,
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 51,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 49,
             "signal": "RISQUÉ",
-            "favori": "Argentina",
-            "proba_favori": 50
+            "favori": "England",
+            "proba_favori": 51
           },
-          "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVV (5 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 27°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-2",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -981,7 +962,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
-          "meteo": "🌡️ 27°C ciel dégagé",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -990,8 +971,8 @@
           "domicile": "Spain",
           "exterieur": "Argentina",
           "heure": "2026-07-19T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "1-0",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "VVVVV",
@@ -1000,21 +981,21 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "VVVVV",
-            "buts_pour": 14,
+            "forme": "VVVVD",
+            "buts_pour": 11,
             "buts_contre": 7,
             "matchs": 5
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
-            "favori": "Argentina",
-            "proba_favori": 50
+            "favori": "Spain",
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVV (5 victoires)",
-          "meteo": "🌡️ 27°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-0",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1024,7 +1005,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 18°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1329,12 +1310,12 @@
       ],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": false
+      "hors_saison": true
     },
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 35°C couvert",
+      "meteo": "🌡️ 22°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1343,7 +1324,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 34°C ciel dégagé",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1352,7 +1333,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1361,7 +1342,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 18°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
