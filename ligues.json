@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-07-22T19:00:31Z",
+  "mise_a_jour": "2026-07-23T08:15:38Z",
   "news_globales": [
     {
       "titre": "ENTRETIEN. \"Le 12 juillet 1998 reste gravé dans ma mémoire...\" Dans la famille Bonassies, la passion du football coule dans les veines depuis un siècle",
@@ -34,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 31°C couvert",
+      "meteo": "🌡️ 20°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +849,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVD (4 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 31°C couvert",
+          "meteo": "🌡️ 20°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +882,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 31°C couvert",
+          "meteo": "🌡️ 20°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +915,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 31°C couvert",
+          "meteo": "🌡️ 20°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +948,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
-          "meteo": "🌡️ 31°C couvert",
+          "meteo": "🌡️ 20°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +981,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 31°C couvert",
+          "meteo": "🌡️ 20°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +991,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 21°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1301,7 +1301,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 31°C couvert",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1310,7 +1310,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 36°C ciel dégagé",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1319,7 +1319,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1328,7 +1328,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 21°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
