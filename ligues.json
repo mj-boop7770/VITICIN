@@ -1,32 +1,11 @@
 {
-  "mise_a_jour": "2026-07-24T08:11:39Z",
+  "mise_a_jour": "2026-07-24T19:14:57Z",
   "news_globales": [
     {
-      "titre": "DIRECT. Mercato: toutes les infos et rumeurs de transfert du 23 juillet 2026 en live",
-      "description": "Le mercato estival bat son plein et avec la fin de la Coupe du monde 2026, plusieurs dossiers sont débloqués ou vont rapidement l'être. La Premier League a déjà commencé à dépenser des fortunes alors que les clubs de Ligue 1 cherchent d'abord à bien vendre av…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/transferts/direct-mercato-toutes-les-infos-et-rumeurs-de-transfert-du-23-juillet-2026-en-live_LN-202607230095.html",
-      "date": "2026-07-23"
-    },
-    {
-      "titre": "Les buteurs au rendez-vous, l'omniprésence de Donald Trump, les prix exorbitants... Ce qu'on a aimé et moins aimé lors de la Coupe du monde 2026",
-      "description": "La finale entre l'Espagne et l'Argentine a refermé dimanche le plus long Mondial de l'histoire et le premier organisé dans trois pays.",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/les-buteurs-au-rendez-vous-l-omnipresence-de-donald-trump-les-prix-exorbitants-ce-qu-on-a-aime-et-moins-aime-lors-de-la-coupe-du-monde-2026_8110256.html",
-      "date": "2026-07-20"
-    },
-    {
-      "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
-      "description": "Au lendemain de la finale de la Coupe du monde, les médias espagnols ont célébré leur nouvelle étoile sur le maillot, alors que l'Argentine s'est réveillée avec la gueule de bois après la défaite de son équipe, portée par un Lionel Messi méconnaissable dimanc…",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-invincible-pour-les-medias-espagnols-la-fin-du-reve-et-les-larmes-de-messi-en-argentine-la-revue-de-presse-apres-le-sacre-de-la-roja-en-coupe-du-monde_8114765.html",
-      "date": "2026-07-20"
-    },
-    {
-      "titre": "Coupe du monde 2026: Tom Cruise, Laura Pausini, Robbie Williams... Ce que l’on sait de la cérémonie de clôture \"digne d’une édition historique\"",
-      "description": "Dans un communiqué, la Fifa a dévoilé plusieurs informations concernant la cérémonie de clôture de la Coupe du monde 2026 qui se déroulera avant la finale. Un événement \"digne d’une édition historique\".",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/coupe-du-monde/coupe-du-monde-2026-tom-cruise-laura-pausini-robbie-williams-ce-que-l-on-sait-de-la-ceremonie-de-cloture-digne-d-une-edition-historique_AV-202607140509.html",
+      "titre": "ENTRETIEN. \"Le 12 juillet 1998 reste gravé dans ma mémoire...\" Dans la famille Bonassies, la passion du football coule dans les veines depuis un siècle",
+      "description": "De l'entre-deux-guerres à la demi-finale du Mondial 2026, la famille Bonassies raconte un siècle d'amour fou pour le ballon rond, entre souvenirs indélébiles et mutations.",
+      "source": "La Dépêche",
+      "url": "https://www.ladepeche.fr/2026/07/14/entretien-le-12-juillet-1998-reste-grave-dans-ma-memoire-dans-la-famille-bonassies-la-passion-du-football-coule-dans-les-veines-depuis-un-siecle-13467993.php",
       "date": "2026-07-14"
     },
     {
@@ -35,6 +14,13 @@
       "source": "Dna (Dernières Nouvelles D'Alsace)",
       "url": "https://www.dna.fr/coupe-du-monde-de-football/2026/07/10/pres-de-2-500-supporters-et-une-folle-ambiance-a-la-fan-zone-mulhousienne-pour-le-match-france-maroc",
       "date": "2026-07-10"
+    },
+    {
+      "titre": "au football club, 120 ans de passion du ballon rond",
+      "description": "De 1906 à 2026, le football n’a jamais cessé de faire vibrer Thann. Trois clubs se sont succédé, des générations de bénévoles se sont engagées et ...",
+      "source": "Dna (Dernières Nouvelles D'Alsace)",
+      "url": "https://www.dna.fr/societe/2026/07/09/1906-2026-au-football-club-120-ans-de-passion-du-ballon-rond",
+      "date": "2026-07-09"
     },
     {
       "titre": "Coupe du monde 2026 : le Mexique prolonge la fête dans sa forteresse du stade Azteca",
@@ -48,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 28°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -863,7 +849,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVD (4 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 20°C ciel dégagé",
+          "meteo": "🌡️ 28°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -896,7 +882,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 20°C ciel dégagé",
+          "meteo": "🌡️ 28°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -929,7 +915,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 20°C ciel dégagé",
+          "meteo": "🌡️ 28°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -962,7 +948,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
-          "meteo": "🌡️ 20°C ciel dégagé",
+          "meteo": "🌡️ 28°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -995,7 +981,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 20°C ciel dégagé",
+          "meteo": "🌡️ 28°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1005,7 +991,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1315,7 +1301,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 29°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1324,7 +1310,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C nuageux",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1333,7 +1319,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 26°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1342,7 +1328,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
