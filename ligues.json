@@ -1,12 +1,12 @@
 {
-  "mise_a_jour": "2026-07-28T19:11:56Z",
+  "mise_a_jour": "2026-07-29T08:25:40Z",
   "news_globales": [
     {
-      "titre": "Christian Prudhomme tire le bilan du Tour de France 2026 : “Le plus grand coureur de l’histoire, cela reste Eddy Merckx !”",
-      "description": "Le directeur est Tour de France a été impressionné par la manière avec laquelle Remco Evenepoel a bouclé l’épreuve. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/sports/cyclisme/2026/07/27/christian-prudhomme-tire-le-bilan-du-tour-de-france-2026-le-plus-grand-coureur-de-lhistoire-cela-reste-eddy-merckx-EJO377MYORAFXHDBPSEBDBUB34/",
-      "date": "2026-07-27"
+      "titre": "Orange : Orange réalise au 1er semestre une croissance record du chiffre d'affaires à +3,5% et de l'EBITDAaL à +5,0%",
+      "description": "Communiqué de presseParis, le 28 juillet 2026  Information financière au 30 juin 2026  Orange réalise au 1er semestre une croissance record du chiffre...",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3333987/0/fr/Orange-Orange-r%C3%A9alise-au-1er-semestre-une-croissance-record-du-chiffre-d-affaires-%C3%A0-3-5-et-de-l-EBITDAaL-%C3%A0-5-0.html",
+      "date": "2026-07-28"
     },
     {
       "titre": "Ishowspeed, Celine Dept, Michou… Une Coupe du monde 2026 sous influenceurs",
@@ -48,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 21°C légère pluie",
       "classement": [
         {
           "pos": 1,
@@ -863,7 +863,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • 🔥 Argentina : VVVVD (4 victoires) • 💪 Switzerland : VVVVD (4 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 21°C légère pluie",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre France et Spain • 🔥 France : VVVDD (3 victoires) • 💪 Spain : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 21°C légère pluie",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • 🔥 England : VVVDV (4 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 21°C légère pluie",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • 🔥 France : VVVDD (3 victoires) • 💪 England : VVVDV (4 victoires) • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 21°C légère pluie",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • 🔥 Spain : VVVVV (5 victoires) • 💪 Argentina : VVVVD (4 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 21°C légère pluie",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1005,7 +1005,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 27°C nuageux",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1315,7 +1315,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 34°C couvert",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1324,7 +1324,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 35°C ciel dégagé",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1333,7 +1333,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 30°C ciel dégagé",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1342,7 +1342,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 27°C nuageux",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
