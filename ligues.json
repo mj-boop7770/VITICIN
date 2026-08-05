@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-08-05T08:22:59Z",
+  "mise_a_jour": "2026-08-05T19:18:14Z",
   "news_globales": [
+    {
+      "titre": "L’info du midi en 2 minutes : Crise de Ceuta, juillet record et concert géant pour les sinistrés des incendies",
+      "description": "« 20 Minutes » a compilé pour vous les infos de ce jeudi 30 juillet qui vont animer votre repas à la cantine ou votre apéro au camping",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/societe/4237753-20260804-info-midi-2-minutes-crise-ceuta-juillet-record-concert-geant-sinistres-incendies",
+      "date": "2026-08-04"
+    },
     {
       "titre": "Hockey en Brabant wallon | Ancien Red Lion, Alexandre De Saedeleer se réjouit avant le Coupe du monde 2026 : “Le monde entier sera sans doute à Wavre”",
       "description": "Le Brabançon nous livre son sentiment à un peu plus de deux semaines du Mondial de hockey, qui se tiendra du 15 au 30 août prochains. Et, comme beaucoup, il s’attend à une grande fête, peut-être la plus belle qu’ait jamais connue le hockey belge. ...",
@@ -34,7 +41,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 22°C partiellement nuageux",
+      "meteo": "🌡️ 28°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +856,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 22°C partiellement nuageux",
+          "meteo": "🌡️ 28°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +889,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 22°C partiellement nuageux",
+          "meteo": "🌡️ 28°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +922,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 22°C partiellement nuageux",
+          "meteo": "🌡️ 28°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +955,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 22°C partiellement nuageux",
+          "meteo": "🌡️ 28°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +988,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 22°C partiellement nuageux",
+          "meteo": "🌡️ 28°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +998,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1301,7 +1308,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C partiellement nuageux",
+      "meteo": "🌡️ 28°C pluie modérée",
       "classement": [
         {
           "pos": 1,
@@ -1611,7 +1618,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 27°C ciel dégagé",
+      "meteo": "🌡️ 32°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1921,7 +1928,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1930,7 +1937,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
