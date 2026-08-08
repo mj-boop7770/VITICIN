@@ -1,20 +1,6 @@
 {
-  "mise_a_jour": "2026-08-08T06:37:44Z",
+  "mise_a_jour": "2026-08-08T18:24:53Z",
   "news_globales": [
-    {
-      "titre": "Un doublé, un assist, un poteau et un record: Lionel Messi effectue un retour tonitruant avec l'Inter Miami (vidéo)",
-      "description": "Titulaire pour la première fois depuis la finale perdue de la Coupe du monde 2026, Lionel Messi a marqué les esprits avec l'Inter Miami. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/sports/football/2026/08/06/un-double-un-assist-un-poteau-et-un-record-lionel-messi-effectue-un-retour-tonitruant-avec-linter-miami-video-X4WLGEJHAZENTKF3E33IW4SKDM/",
-      "date": "2026-08-06"
-    },
-    {
-      "titre": "Hockey en Brabant wallon | Ancien Red Lion, Alexandre De Saedeleer se réjouit avant le Coupe du monde 2026 : “Le monde entier sera sans doute à Wavre”",
-      "description": "Le Brabançon nous livre son sentiment à un peu plus de deux semaines du Mondial de hockey, qui se tiendra du 15 au 30 août prochains. Et, comme beaucoup, il s’attend à une grande fête, peut-être la plus belle qu’ait jamais connue le hockey belge. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/regions/brabantwallon/sports/2026/07/29/hockey-en-brabant-wallon-ancien-red-lion-alexandre-de-saedeleer-se-rejouit-avant-le-coupe-du-monde-2026-le-monde-entier-sera-sans-doute-a-wavre-6WQELNZ6IZG37OS5XQ636T4E7Q/",
-      "date": "2026-07-29"
-    },
     {
       "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
       "description": "Au lendemain de la finale de la Coupe du monde, les médias espagnols ont célébré leur nouvelle étoile sur le maillot, alors que l'Argentine s'est réveillée avec la gueule de bois après la défaite de son équipe, portée par un Lionel Messi méconnaissable dimanc…",
@@ -34,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 32°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 23°C couvert",
+          "meteo": "🌡️ 32°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 23°C couvert",
+          "meteo": "🌡️ 32°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 23°C couvert",
+          "meteo": "🌡️ 32°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 23°C couvert",
+          "meteo": "🌡️ 32°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 23°C couvert",
+          "meteo": "🌡️ 32°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +977,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 16°C peu nuageux",
+      "meteo": "🌡️ 26°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1301,7 +1287,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C peu nuageux",
+      "meteo": "🌡️ 32°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1611,7 +1597,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C ciel dégagé",
+      "meteo": "🌡️ 36°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1921,7 +1907,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 18°C partiellement nuageux",
+      "meteo": "🌡️ 30°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1930,7 +1916,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 16°C peu nuageux",
+      "meteo": "🌡️ 26°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
