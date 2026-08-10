@@ -1,40 +1,19 @@
 {
-  "mise_a_jour": "2026-08-09T18:28:13Z",
+  "mise_a_jour": "2026-08-10T07:15:38Z",
   "news_globales": [
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
-    },
     {
       "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
       "description": "Au lendemain de la finale de la Coupe du monde, les médias espagnols ont célébré leur nouvelle étoile sur le maillot, alors que l'Argentine s'est réveillée avec la gueule de bois après la défaite de son équipe, portée par un Lionel Messi méconnaissable dimanc…",
       "source": "Franceinfo.fr",
       "url": "https://www.franceinfo.fr/coupe-du-monde/l-espagne-invincible-pour-les-medias-espagnols-la-fin-du-reve-et-les-larmes-de-messi-en-argentine-la-revue-de-presse-apres-le-sacre-de-la-roja-en-coupe-du-monde_8114765.html",
       "date": "2026-07-20"
-    },
-    {
-      "titre": "ENTRETIEN. \"Le 12 juillet 1998 reste gravé dans ma mémoire...\" Dans la famille Bonassies, la passion du football coule dans les veines depuis un siècle",
-      "description": "De l'entre-deux-guerres à la demi-finale du Mondial 2026, la famille Bonassies raconte un siècle d'amour fou pour le ballon rond, entre souvenirs indélébiles et mutations.",
-      "source": "La Dépêche",
-      "url": "https://www.ladepeche.fr/2026/07/14/entretien-le-12-juillet-1998-reste-grave-dans-ma-memoire-dans-la-famille-bonassies-la-passion-du-football-coule-dans-les-veines-depuis-un-siecle-13467993.php",
-      "date": "2026-07-14"
-    },
-    {
-      "titre": "Coupe du monde 2026. Près de 2 500 supporters et une folle ambiance à la fan",
-      "description": "Quelle belle ambiance, ce jeudi 9 juillet en soirée, pour la diffusion du match France-Maroc au stade de l’Ill à Mulhouse. Les deux communautés ...",
-      "source": "Dna (Dernières Nouvelles D'Alsace)",
-      "url": "https://www.dna.fr/coupe-du-monde-de-football/2026/07/10/pres-de-2-500-supporters-et-une-folle-ambiance-a-la-fan-zone-mulhousienne-pour-le-match-france-maroc",
-      "date": "2026-07-10"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 33°C partiellement nuageux",
+      "meteo": "🌡️ 25°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +828,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 33°C partiellement nuageux",
+          "meteo": "🌡️ 25°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +861,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 33°C partiellement nuageux",
+          "meteo": "🌡️ 25°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +894,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 33°C partiellement nuageux",
+          "meteo": "🌡️ 25°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +927,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 33°C partiellement nuageux",
+          "meteo": "🌡️ 25°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +960,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 33°C partiellement nuageux",
+          "meteo": "🌡️ 25°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +970,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 30°C partiellement nuageux",
+      "meteo": "🌡️ 20°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1301,7 +1280,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 30°C légère pluie",
+      "meteo": "🌡️ 23°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1611,7 +1590,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 34°C ciel dégagé",
+      "meteo": "🌡️ 24°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1921,7 +1900,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 31°C ciel dégagé",
+      "meteo": "🌡️ 21°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1930,7 +1909,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 30°C partiellement nuageux",
+      "meteo": "🌡️ 20°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
