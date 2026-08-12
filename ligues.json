@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-08-12T07:12:36Z",
+  "mise_a_jour": "2026-08-12T18:51:56Z",
   "news_globales": [
+    {
+      "titre": "Des parquets de basket au tour de piste, l'itinéraire atypique de Samuel Vessat, recordman de France du 400 m deux ans après ses débuts en compétition",
+      "description": "Quatrième meilleur performeur européen de l'histoire, le Francilien s'entraîne aux Etats-Unis où il bénéficie d'une bourse universitaire. Pendant longtemps, l'athlétisme ne lui servait qu'à préparer sa saison de basketteur.",
+      "source": "Franceinfo.fr",
+      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/des-parquets-de-basket-au-tour-de-piste-l-itineraire-atypique-de-samuel-vessat-recordman-de-france-du-400-m-deux-ans-apres-ses-debuts-en-competition_8142527.html",
+      "date": "2026-08-11"
+    },
     {
       "titre": "Comment Bodø/Glimt est passé en 10 ans de la D2 à une référence scandinave capable d'éliminer l’Inter en Ligue des champions: “Un petit conte de fées”",
       "description": "Longtemps limité à un rôle modeste dans le foot norvégien, le club de Bodø/Glimt a bousculé les grands de son pays pour devenir la nouvelle place forte et briller en C1. Malgré des moyens limités. ...",
@@ -34,7 +41,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 31°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +856,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 31°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +889,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 31°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +922,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 31°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +955,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 31°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +988,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 24°C couvert",
+          "meteo": "🌡️ 31°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +998,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1301,7 +1308,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C pluie modérée",
+      "meteo": "🌡️ 32°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1611,7 +1618,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C ciel dégagé",
+      "meteo": "🌡️ 35°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1921,7 +1928,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C ciel dégagé",
+      "meteo": "🌡️ 32°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1930,7 +1937,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
