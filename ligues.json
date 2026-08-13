@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-12T18:51:56Z",
+  "mise_a_jour": "2026-08-13T07:15:19Z",
   "news_globales": [
     {
       "titre": "Des parquets de basket au tour de piste, l'itinéraire atypique de Samuel Vessat, recordman de France du 400 m deux ans après ses débuts en compétition",
@@ -14,13 +14,6 @@
       "source": "Lavenir.net",
       "url": "https://www.lavenir.net/sports/football/d1a/2026/08/11/comment-bodoglimt-est-passe-en-10-ans-de-la-d2-a-une-reference-scandinave-capable-deliminer-linter-en-ligue-des-champions-un-petit-conte-de-fees-UKXPJHN57NBIFOPDKSUH2RS2GM/",
       "date": "2026-08-11"
-    },
-    {
-      "titre": "Comment Bodø/Glimt est passé en dix ans de la D2 à une équipe qui élimine l’Inter en Ligue des champions : “Un petit conte de fées”",
-      "description": "Longtemps limité à un rôle modeste dans le foot norvégien, le club de Bodø/Glimt a bousculé les grands de son pays pour devenir la nouvelle place forte et briller en C1. Malgré des moyens limités. ...",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/sports/football/division-1a/union-saint-gilloise/2026/08/10/comment-bodoglimt-est-passe-en-dix-ans-de-la-d2-a-une-equipe-qui-elimine-linter-en-ligue-des-champions-un-petit-conte-de-fees-XKIJR52LKRDLROOPHPSXEYNUTU/",
-      "date": "2026-08-10"
     },
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
@@ -41,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 31°C ciel dégagé",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -856,7 +849,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -889,7 +882,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -922,7 +915,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -955,7 +948,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -988,7 +981,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 31°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -998,7 +991,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 28°C ciel dégagé",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1308,7 +1301,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 32°C partiellement nuageux",
+      "meteo": "🌡️ 24°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1618,7 +1611,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 35°C ciel dégagé",
+      "meteo": "🌡️ 26°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1928,7 +1921,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1937,7 +1930,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 28°C ciel dégagé",
+      "meteo": "🌡️ 22°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
