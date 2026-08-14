@@ -1,26 +1,19 @@
 {
-  "mise_a_jour": "2026-08-13T18:52:15Z",
+  "mise_a_jour": "2026-08-14T07:13:08Z",
   "news_globales": [
-    {
-      "titre": "Des parquets de basket au tour de piste, l'itinéraire atypique de Samuel Vessat, recordman de France du 400 m deux ans après ses débuts en compétition",
-      "description": "Quatrième meilleur performeur européen de l'histoire, le Francilien s'entraîne aux Etats-Unis où il bénéficie d'une bourse universitaire. Pendant longtemps, l'athlétisme ne lui servait qu'à préparer sa saison de basketteur.",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/sports/athletisme/championnats-d-europe/des-parquets-de-basket-au-tour-de-piste-l-itineraire-atypique-de-samuel-vessat-recordman-de-france-du-400-m-deux-ans-apres-ses-debuts-en-competition_8142527.html",
-      "date": "2026-08-11"
-    },
-    {
-      "titre": "Comment Bodø/Glimt est passé en 10 ans de la D2 à une référence scandinave capable d'éliminer l’Inter en Ligue des champions: “Un petit conte de fées”",
-      "description": "Longtemps limité à un rôle modeste dans le foot norvégien, le club de Bodø/Glimt a bousculé les grands de son pays pour devenir la nouvelle place forte et briller en C1. Malgré des moyens limités. ...",
-      "source": "Lavenir.net",
-      "url": "https://www.lavenir.net/sports/football/d1a/2026/08/11/comment-bodoglimt-est-passe-en-10-ans-de-la-d2-a-une-reference-scandinave-capable-deliminer-linter-en-ligue-des-champions-un-petit-conte-de-fees-UKXPJHN57NBIFOPDKSUH2RS2GM/",
-      "date": "2026-08-11"
-    },
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
       "description": "Les affrontements sont virtuels, mais la compétition bien réelle. Paris accueille durant l'été la coupe du monde d'esport. Au total, 2 000 joueurs, les meilleurs, ont fait le déplacement, accueillis par des clameurs dignes des plus grands événements sportifs.",
       "source": "Franceinfo.fr",
       "url": "https://www.franceinfo.fr/sports/esport/dans-un-match-il-y-a-vraiment-tout-qui-s-entremele-la-coupe-du-monde-d-esport-fait-vibrer-paris_8141180.html",
       "date": "2026-08-09"
+    },
+    {
+      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
+      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
+      "source": "Le Matin",
+      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
+      "date": "2026-08-07"
     },
     {
       "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
@@ -34,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 30°C couvert",
+      "meteo": "🌡️ 24°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -849,7 +842,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 30°C couvert",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -882,7 +875,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 30°C couvert",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -915,7 +908,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 30°C couvert",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -948,7 +941,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 30°C couvert",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -981,7 +974,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 30°C couvert",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -991,7 +984,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1295,13 +1288,47 @@
         }
       ],
       "buteurs": [],
-      "matchs": [],
-      "hors_saison": true
+      "matchs": [
+        {
+          "id": 560542,
+          "domicile": "Arsenal",
+          "exterieur": "Coventry City",
+          "heure": "2026-08-21T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 70,
+            "proba_nul": 5,
+            "proba_ext": 30,
+            "signal": "FORT",
+            "favori": "Arsenal",
+            "proba_favori": 70
+          },
+          "analyse": "🎯 Arsenal largement favori (70%)",
+          "meteo": "🌡️ 23°C ciel dégagé",
+          "ligue": "Premier League",
+          "date": "2026-08-21"
+        }
+      ],
+      "hors_saison": false
     },
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 34°C couvert",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -1611,309 +1638,8 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 36°C ciel dégagé",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Barça",
-          "team_id": 81,
-          "pts": 94,
-          "j": 38,
-          "g": 31,
-          "n": 1,
-          "p": 6,
-          "bp": 95,
-          "bc": 36,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Real Madrid",
-          "team_id": 86,
-          "pts": 86,
-          "j": 38,
-          "g": 27,
-          "n": 5,
-          "p": 6,
-          "bp": 77,
-          "bc": 35,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Villarreal",
-          "team_id": 94,
-          "pts": 72,
-          "j": 38,
-          "g": 22,
-          "n": 6,
-          "p": 10,
-          "bp": 72,
-          "bc": 46,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Atleti",
-          "team_id": 78,
-          "pts": 69,
-          "j": 38,
-          "g": 21,
-          "n": 6,
-          "p": 11,
-          "bp": 62,
-          "bc": 44,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 5,
-          "equipe": "Real Betis",
-          "team_id": 90,
-          "pts": 60,
-          "j": 38,
-          "g": 15,
-          "n": 15,
-          "p": 8,
-          "bp": 59,
-          "bc": 48,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 6,
-          "equipe": "Celta",
-          "team_id": 558,
-          "pts": 54,
-          "j": 38,
-          "g": 14,
-          "n": 12,
-          "p": 12,
-          "bp": 53,
-          "bc": 48,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 7,
-          "equipe": "Getafe",
-          "team_id": 82,
-          "pts": 51,
-          "j": 38,
-          "g": 15,
-          "n": 6,
-          "p": 17,
-          "bp": 32,
-          "bc": 38,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 8,
-          "equipe": "Rayo Vallecano",
-          "team_id": 87,
-          "pts": 50,
-          "j": 38,
-          "g": 12,
-          "n": 14,
-          "p": 12,
-          "bp": 41,
-          "bc": 44,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 9,
-          "equipe": "Valencia",
-          "team_id": 95,
-          "pts": 49,
-          "j": 38,
-          "g": 13,
-          "n": 10,
-          "p": 15,
-          "bp": 46,
-          "bc": 55,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 10,
-          "equipe": "Real Sociedad",
-          "team_id": 92,
-          "pts": 46,
-          "j": 38,
-          "g": 11,
-          "n": 13,
-          "p": 14,
-          "bp": 59,
-          "bc": 61,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 11,
-          "equipe": "Espanyol",
-          "team_id": 80,
-          "pts": 46,
-          "j": 38,
-          "g": 12,
-          "n": 10,
-          "p": 16,
-          "bp": 43,
-          "bc": 55,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 12,
-          "equipe": "Athletic",
-          "team_id": 77,
-          "pts": 45,
-          "j": 38,
-          "g": 13,
-          "n": 6,
-          "p": 19,
-          "bp": 43,
-          "bc": 58,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 13,
-          "equipe": "Elche",
-          "team_id": 285,
-          "pts": 43,
-          "j": 38,
-          "g": 10,
-          "n": 13,
-          "p": 15,
-          "bp": 49,
-          "bc": 57,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 14,
-          "equipe": "Alavés",
-          "team_id": 263,
-          "pts": 43,
-          "j": 38,
-          "g": 11,
-          "n": 10,
-          "p": 17,
-          "bp": 44,
-          "bc": 56,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 15,
-          "equipe": "Sevilla FC",
-          "team_id": 559,
-          "pts": 43,
-          "j": 38,
-          "g": 12,
-          "n": 7,
-          "p": 19,
-          "bp": 46,
-          "bc": 60,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 16,
-          "equipe": "Osasuna",
-          "team_id": 79,
-          "pts": 42,
-          "j": 38,
-          "g": 11,
-          "n": 9,
-          "p": 18,
-          "bp": 44,
-          "bc": 50,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 17,
-          "equipe": "Mallorca",
-          "team_id": 89,
-          "pts": 42,
-          "j": 38,
-          "g": 11,
-          "n": 9,
-          "p": 18,
-          "bp": 47,
-          "bc": 57,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 18,
-          "equipe": "Levante",
-          "team_id": 88,
-          "pts": 42,
-          "j": 38,
-          "g": 11,
-          "n": 9,
-          "p": 18,
-          "bp": 47,
-          "bc": 61,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 19,
-          "equipe": "Girona",
-          "team_id": 298,
-          "pts": 41,
-          "j": 38,
-          "g": 9,
-          "n": 14,
-          "p": 15,
-          "bp": 39,
-          "bc": 55,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 20,
-          "equipe": "Real Oviedo",
-          "team_id": 1048,
-          "pts": 29,
-          "j": 38,
-          "g": 6,
-          "n": 11,
-          "p": 21,
-          "bp": 26,
-          "bc": 60,
-          "groupe": "",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        }
-      ],
+      "meteo": "🌡️ 26°C nuageux",
+      "classement": [],
       "buteurs": [],
       "matchs": [],
       "hors_saison": false
@@ -1921,7 +1647,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 35°C peu nuageux",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1930,7 +1656,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
