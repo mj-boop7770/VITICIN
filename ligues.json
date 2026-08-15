@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-14T18:42:37Z",
+  "mise_a_jour": "2026-08-15T06:23:42Z",
   "news_globales": [
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
@@ -7,13 +7,6 @@
       "source": "Franceinfo.fr",
       "url": "https://www.franceinfo.fr/sports/esport/dans-un-match-il-y-a-vraiment-tout-qui-s-entremele-la-coupe-du-monde-d-esport-fait-vibrer-paris_8141180.html",
       "date": "2026-08-09"
-    },
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
     },
     {
       "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
@@ -27,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 30°C partiellement nuageux",
+      "meteo": "🌡️ 23°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 30°C partiellement nuageux",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 30°C partiellement nuageux",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 30°C partiellement nuageux",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 30°C partiellement nuageux",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 30°C partiellement nuageux",
+          "meteo": "🌡️ 23°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,7 +977,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 32°C peu nuageux",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1318,9 +1311,174 @@
             "proba_favori": 70
           },
           "analyse": "🎯 Arsenal largement favori (70%)",
-          "meteo": "🌡️ 32°C peu nuageux",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-21"
+        },
+        {
+          "id": 560543,
+          "domicile": "Hull City",
+          "exterieur": "Man United",
+          "heure": "2026-08-22T11:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 36,
+            "proba_nul": 5,
+            "proba_ext": 64,
+            "signal": "FORT",
+            "favori": "Man United",
+            "proba_favori": 64
+          },
+          "analyse": "🎯 Man United largement favori (64%)",
+          "meteo": "🌡️ 20°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560544,
+          "domicile": "Ipswich Town",
+          "exterieur": "Sunderland",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 39,
+            "proba_nul": 5,
+            "proba_ext": 61,
+            "signal": "FORT",
+            "favori": "Sunderland",
+            "proba_favori": 61
+          },
+          "analyse": "🎯 Sunderland largement favori (61%)",
+          "meteo": "🌡️ 20°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560545,
+          "domicile": "Nottingham",
+          "exterieur": "Leeds United",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Nottingham",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
+          "meteo": "🌡️ 20°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560546,
+          "domicile": "Everton",
+          "exterieur": "Crystal Palace",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 55,
+            "proba_nul": 5,
+            "proba_ext": 45,
+            "signal": "RISQUÉ",
+            "favori": "Everton",
+            "proba_favori": 55
+          },
+          "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
+          "meteo": "🌡️ 20°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560547,
+          "domicile": "Brentford",
+          "exterieur": "Tottenham",
+          "heure": "2026-08-22T16:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 61,
+            "proba_nul": 5,
+            "proba_ext": 39,
+            "signal": "FORT",
+            "favori": "Brentford",
+            "proba_favori": 61
+          },
+          "analyse": "🎯 Brentford largement favori (61%)",
+          "meteo": "🌡️ 20°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
         }
       ],
       "hors_saison": false
@@ -1328,317 +1486,16 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 34°C couvert",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Monza",
-          "team_id": 5911,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Torino",
-          "team_id": 586,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Milan",
-          "team_id": 98,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Udinese",
-          "team_id": 115,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Como 1907",
-          "team_id": 7397,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Genoa",
-          "team_id": 107,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Bologna",
-          "team_id": 103,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Parma",
-          "team_id": 112,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Cagliari",
-          "team_id": 104,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Roma",
-          "team_id": 100,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Lecce",
-          "team_id": 5890,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Venezia FC",
-          "team_id": 454,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Sassuolo",
-          "team_id": 471,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Inter",
-          "team_id": 108,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Napoli",
-          "team_id": 113,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Atalanta",
-          "team_id": 102,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Juventus",
-          "team_id": 109,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Frosinone",
-          "team_id": 470,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Lazio",
-          "team_id": 110,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Fiorentina",
-          "team_id": 99,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "",
-          "elim": false,
-          "msg_elim": ""
-        }
-      ],
+      "meteo": "🌡️ 25°C nuageux",
+      "classement": [],
       "buteurs": [],
       "matchs": [],
-      "hors_saison": true
+      "hors_saison": false
     },
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 29°C ciel dégagé",
+      "meteo": "🌡️ 22°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1647,7 +1504,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 36°C couvert",
+      "meteo": "🌡️ 22°C légère pluie",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1656,7 +1513,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 32°C peu nuageux",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
