@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-15T18:17:23Z",
+  "mise_a_jour": "2026-08-16T06:25:49Z",
   "news_globales": [
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
@@ -20,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 28°C ciel dégagé",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -835,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -868,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -901,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -934,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -967,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -977,7 +977,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 25°C couvert",
+      "meteo": "🌡️ 17°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1311,7 +1311,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Arsenal et Coventry City",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-21"
         },
@@ -1344,7 +1344,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Hull City et Man United",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1377,7 +1377,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Sunderland",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1410,7 +1410,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1443,7 +1443,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1476,7 +1476,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brentford et Tottenham",
-          "meteo": "🌡️ 25°C couvert",
+          "meteo": "🌡️ 17°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         }
@@ -1486,7 +1486,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 34°C partiellement nuageux",
+      "meteo": "🌡️ 25°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1495,7 +1495,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 28°C légère pluie",
+      "meteo": "🌡️ 19°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1504,7 +1504,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 30°C couvert",
+      "meteo": "🌡️ 21°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1513,7 +1513,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 25°C couvert",
+      "meteo": "🌡️ 17°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
