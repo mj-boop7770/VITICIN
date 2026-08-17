@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-16T18:17:26Z",
+  "mise_a_jour": "2026-08-17T06:37:17Z",
   "news_globales": [
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
@@ -7,13 +7,6 @@
       "source": "Franceinfo.fr",
       "url": "https://www.franceinfo.fr/sports/esport/dans-un-match-il-y-a-vraiment-tout-qui-s-entremele-la-coupe-du-monde-d-esport-fait-vibrer-paris_8141180.html",
       "date": "2026-08-09"
-    },
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
     },
     {
       "titre": "\"L'Espagne invincible\", pour les médias espagnols, la \"fin du rêve\" et les larmes de Messi en Argentine, la revue de presse après le sacre de la Roja en Coupe du monde",
@@ -27,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C nuageux",
+      "meteo": "🌡️ 21°C pluie modérée",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 21°C pluie modérée",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 21°C pluie modérée",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 21°C pluie modérée",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 21°C pluie modérée",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 21°C pluie modérée",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,7 +977,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -1318,7 +1311,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Arsenal et Coventry City",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-21"
         },
@@ -1351,7 +1344,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Hull City et Man United",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1384,7 +1377,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Sunderland",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1417,7 +1410,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1450,7 +1443,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1483,7 +1476,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brentford et Tottenham",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-22"
         }
@@ -1493,7 +1486,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 35°C peu nuageux",
+      "meteo": "🌡️ 24°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1502,7 +1495,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1511,7 +1504,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 29°C couvert",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1520,7 +1513,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
