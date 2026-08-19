@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-08-19T06:29:50Z",
+  "mise_a_jour": "2026-08-19T18:22:01Z",
   "news_globales": [
+    {
+      "titre": "Mercato: cadres remplacés, milieu remodelé, encore un chantier en défense... comment Lens a confié un effectif compétitif à Toppmöller",
+      "description": "À quatre jours du début de leur saison en Ligue 1, les Lensois sont déjà galvanisés par leur succès face au PSG lors du Trophée des champions (1-0). Le nouveau coach Dino Toppmöller dispose d'un effectif remanié par rapport à l'exercice 2025-2026 après le dép…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/mercato-cadres-remplaces-milieu-remodele-encore-un-chantier-en-defense-comment-lens-a-confie-un-effectif-competitif-a-toppmoller_AV-202608180277.html",
+      "date": "2026-08-18"
+    },
     {
       "titre": "Footings à 6 heures du matin, rillette... Daisuke Matsui se rémémore ses années au Mans avant le grand retour en Ligue 1",
       "description": "Arrivé du Japon en France en 2004, l’offensif international japonais, très discret dans les médias, a disputé 149 matchs de Ligue 1 dont plus de la moitié au Mans où il a débarqué à 19 ans. C’est dans la Sarthe qu’il a vécu la plus grande expérience de sa car…",
@@ -14,13 +21,6 @@
       "source": "SB Nation",
       "url": "https://www.sbnation.com/golf/1125192/scottie-scheffler-fedex-st-jude-win",
       "date": "2026-08-17"
-    },
-    {
-      "titre": "- CAN féminine : Le Cameroun sacré champion ! (3-0)",
-      "description": "Le Cameroun remporte sa première CAN féminine en battant le Malawi\n3-0. Marie Ngah (doublé) et Naomi Eto marquent. Valentine Nguele,\nnommée en juin, offre un ti...",
-      "source": "Camer.be",
-      "url": "https://www.camer.be/94388/7:1/can-feminine-le-cameroun-sacre-champion-3-0.html",
-      "date": "2026-08-16"
     },
     {
       "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
@@ -48,7 +48,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 24°C nuageux",
+      "meteo": "🌡️ 30°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -863,7 +863,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 30°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 30°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 30°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 30°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 30°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1005,7 +1005,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 16°C couvert",
+      "meteo": "🌡️ 23°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1309,522 +1309,221 @@
         }
       ],
       "buteurs": [],
-      "matchs": [],
+      "matchs": [
+        {
+          "id": 560542,
+          "domicile": "Arsenal",
+          "exterieur": "Coventry City",
+          "heure": "2026-08-21T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Arsenal",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Arsenal et Coventry City",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-21"
+        },
+        {
+          "id": 560543,
+          "domicile": "Hull City",
+          "exterieur": "Man United",
+          "heure": "2026-08-22T11:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Hull City",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Hull City et Man United",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560544,
+          "domicile": "Ipswich Town",
+          "exterieur": "Sunderland",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Ipswich Town",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Ipswich Town et Sunderland",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560545,
+          "domicile": "Nottingham",
+          "exterieur": "Leeds United",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Nottingham",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560546,
+          "domicile": "Everton",
+          "exterieur": "Crystal Palace",
+          "heure": "2026-08-22T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Everton",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
+        {
+          "id": 560547,
+          "domicile": "Brentford",
+          "exterieur": "Tottenham",
+          "heure": "2026-08-22T16:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Brentford",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Brentford et Tottenham",
+          "meteo": "🌡️ 23°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        }
+      ],
       "hors_saison": false
     },
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C ciel dégagé",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Milan",
-          "team_id": 98,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Monza",
-          "team_id": 5911,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Fiorentina",
-          "team_id": 99,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Roma",
-          "team_id": 100,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Atalanta",
-          "team_id": 102,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Bologna",
-          "team_id": 103,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Cagliari",
-          "team_id": 104,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Como 1907",
-          "team_id": 7397,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Frosinone",
-          "team_id": 470,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Genoa",
-          "team_id": 107,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Inter",
-          "team_id": 108,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Juventus",
-          "team_id": 109,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Lazio",
-          "team_id": 110,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Parma",
-          "team_id": 112,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Sassuolo",
-          "team_id": 471,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Napoli",
-          "team_id": 113,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Torino",
-          "team_id": 586,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Udinese",
-          "team_id": 115,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Lecce",
-          "team_id": 5890,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
-          "equipe": "Venezia FC",
-          "team_id": 454,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        }
-      ],
+      "meteo": "🌡️ 32°C partiellement nuageux",
+      "classement": [],
       "buteurs": [],
-      "matchs": [
-        {
-          "id": 558629,
-          "domicile": "Udinese",
-          "exterieur": "Como 1907",
-          "heure": "2026-08-22T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Udinese",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Udinese et Como 1907",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-22"
-        },
-        {
-          "id": 558632,
-          "domicile": "Inter",
-          "exterieur": "Monza",
-          "heure": "2026-08-22T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Inter",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Inter et Monza",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-22"
-        },
-        {
-          "id": 558631,
-          "domicile": "Genoa",
-          "exterieur": "Napoli",
-          "heure": "2026-08-22T18:45:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Genoa",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Genoa et Napoli",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-22"
-        },
-        {
-          "id": 558636,
-          "domicile": "Parma",
-          "exterieur": "Cagliari",
-          "heure": "2026-08-22T18:45:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Parma",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Parma et Cagliari",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-22"
-        },
-        {
-          "id": 558635,
-          "domicile": "Frosinone",
-          "exterieur": "Juventus",
-          "heure": "2026-08-23T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Frosinone",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Frosinone et Juventus",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-23"
-        },
-        {
-          "id": 558637,
-          "domicile": "Venezia FC",
-          "exterieur": "Lecce",
-          "heure": "2026-08-23T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Venezia FC",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Venezia FC et Lecce",
-          "meteo": "🌡️ 21°C ciel dégagé",
-          "ligue": "Série A",
-          "date": "2026-08-23"
-        }
-      ],
+      "matchs": [],
       "hors_saison": false
     },
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 26°C ciel dégagé",
+      "meteo": "🌡️ 33°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1833,7 +1532,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 20°C pluie modérée",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1842,7 +1541,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 16°C couvert",
+      "meteo": "🌡️ 23°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
