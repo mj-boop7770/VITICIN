@@ -1,12 +1,12 @@
 {
-  "mise_a_jour": "2026-08-22T06:25:45Z",
+  "mise_a_jour": "2026-08-22T18:17:50Z",
   "news_globales": [
     {
-      "titre": "Mercato: cadres remplacés, milieu remodelé, encore un chantier en défense... comment Lens a confié un effectif compétitif à Toppmöller",
-      "description": "À quatre jours du début de leur saison en Ligue 1, les Lensois sont déjà galvanisés par leur succès face au PSG lors du Trophée des champions (1-0). Le nouveau coach Dino Toppmöller dispose d'un effectif remanié par rapport à l'exercice 2025-2026 après le dép…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/clubs/rc-lens/mercato-cadres-remplaces-milieu-remodele-encore-un-chantier-en-defense-comment-lens-a-confie-un-effectif-competitif-a-toppmoller_AV-202608180277.html",
-      "date": "2026-08-18"
+      "titre": "40 000 km sans toucher le volant : l'incroyable record Tesla qui inquiète",
+      "description": "Le record de plus de 40 000 kilomètres parcourus sans interruption par un propriétaire de Tesla grâce au Full Self-Driving (FSD) soulève des questions. Si cet exploit met en lumière les progrès de la conduite autonome, il expose aussi les dangers de la « gami…",
+      "source": "Génération NT",
+      "url": "https://www.generation-nt.com/actualites/tesla-fsd-record-securite-gamification-2080042",
+      "date": "2026-08-21"
     },
     {
       "titre": "Footings à 6 heures du matin, rillette... Daisuke Matsui se rémémore ses années au Mans avant le grand retour en Ligue 1",
@@ -16,18 +16,18 @@
       "date": "2026-08-17"
     },
     {
-      "titre": "\"Dans un match, il y a vraiment tout qui s'entremêle\" : la coupe du monde d'esport fait vibrer Paris",
-      "description": "Les affrontements sont virtuels, mais la compétition bien réelle. Paris accueille durant l'été la coupe du monde d'esport. Au total, 2 000 joueurs, les meilleurs, ont fait le déplacement, accueillis par des clameurs dignes des plus grands événements sportifs.",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/sports/esport/dans-un-match-il-y-a-vraiment-tout-qui-s-entremele-la-coupe-du-monde-d-esport-fait-vibrer-paris_8141180.html",
-      "date": "2026-08-09"
+      "titre": "Le RC Lens vainqueur du Trophée des champions contre le PSG : la recette maison des Sang et Or",
+      "description": "Deux trophées en trois mois, les supporters lensois sont toujours aux anges.",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/le-rc-lens-vainqueur-du-trophee-des-champions-contre-le-psg-la-recette-maison-des-sang-et-or",
+      "date": "2026-08-17"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 25°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +842,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 25°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +875,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 25°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +908,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 25°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +941,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 25°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +974,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 25°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,7 +984,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 12°C peu nuageux",
+      "meteo": "🌡️ 21°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1002,7 +1002,82 @@
           "msg_elim": ""
         },
         {
-          "pos": 2,
+          "pos": 1,
+          "equipe": "Brentford",
+          "team_id": 402,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 3,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 3,
+          "equipe": "Everton",
+          "team_id": 62,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 2,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 3,
+          "equipe": "Hull City",
+          "team_id": 322,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 2,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 5,
+          "equipe": "Ipswich Town",
+          "team_id": 349,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 2,
+          "bc": 1,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 6,
+          "equipe": "Leeds United",
+          "team_id": 341,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 1,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 7,
           "equipe": "Bournemouth",
           "team_id": 1044,
           "pts": 0,
@@ -1013,11 +1088,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Aston Villa",
           "team_id": 58,
           "pts": 0,
@@ -1028,26 +1103,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Brentford",
-          "team_id": 402,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Brighton Hove",
           "team_id": 397,
           "pts": 0,
@@ -1058,11 +1118,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Chelsea",
           "team_id": 61,
           "pts": 0,
@@ -1073,41 +1133,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Crystal Palace",
-          "team_id": 354,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Everton",
-          "team_id": 62,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Fulham",
           "team_id": 63,
           "pts": 0,
@@ -1118,56 +1148,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Hull City",
-          "team_id": 322,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Ipswich Town",
-          "team_id": 349,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Leeds United",
-          "team_id": 341,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Liverpool",
           "team_id": 64,
           "pts": 0,
@@ -1178,11 +1163,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Man City",
           "team_id": 65,
           "pts": 0,
@@ -1193,26 +1178,11 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Man United",
-          "team_id": 66,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
+          "pos": 7,
           "equipe": "Newcastle",
           "team_id": 67,
           "pts": 0,
@@ -1223,58 +1193,88 @@
           "bp": 0,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Nottingham",
-          "team_id": 351,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
+          "pos": 15,
           "equipe": "Sunderland",
           "team_id": 71,
           "pts": 0,
-          "j": 0,
+          "j": 1,
           "g": 0,
           "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
+          "p": 1,
+          "bp": 1,
+          "bc": 2,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 2,
-          "equipe": "Tottenham",
-          "team_id": 73,
+          "pos": 16,
+          "equipe": "Nottingham",
+          "team_id": 351,
           "pts": 0,
-          "j": 0,
+          "j": 1,
           "g": 0,
           "n": 0,
-          "p": 0,
+          "p": 1,
           "bp": 0,
-          "bc": 0,
+          "bc": 1,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 20,
+          "pos": 17,
+          "equipe": "Crystal Palace",
+          "team_id": 354,
+          "pts": 0,
+          "j": 1,
+          "g": 0,
+          "n": 0,
+          "p": 1,
+          "bp": 0,
+          "bc": 2,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 17,
+          "equipe": "Man United",
+          "team_id": 66,
+          "pts": 0,
+          "j": 1,
+          "g": 0,
+          "n": 0,
+          "p": 1,
+          "bp": 0,
+          "bc": 2,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 19,
           "equipe": "Coventry City",
           "team_id": 1076,
+          "pts": 0,
+          "j": 1,
+          "g": 0,
+          "n": 0,
+          "p": 1,
+          "bp": 0,
+          "bc": 3,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 19,
+          "equipe": "Tottenham",
+          "team_id": 73,
           "pts": 0,
           "j": 1,
           "g": 0,
@@ -1305,9 +1305,84 @@
           "equipe": "Arsenal",
           "buts": 1,
           "passes": 0
+        },
+        {
+          "joueur": "Semi Ajayi",
+          "equipe": "Hull City",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Nobel Mendy",
+          "equipe": "Hull City",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Emersonn",
+          "equipe": "Ipswich Town",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Nilson Angulo",
+          "equipe": "Sunderland",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Jack Clarke",
+          "equipe": "Ipswich Town",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Anton Stach",
+          "equipe": "Leeds United",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Kiernan Dewsbury Hall",
+          "equipe": "Everton",
+          "buts": 1,
+          "passes": 0
         }
       ],
       "matchs": [
+        {
+          "id": 560547,
+          "domicile": "Brentford",
+          "exterieur": "Tottenham",
+          "heure": "2026-08-22T16:30:00Z",
+          "score": "3-0",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 68,
+            "proba_nul": 5,
+            "proba_ext": 32,
+            "signal": "FORT",
+            "favori": "Brentford",
+            "proba_favori": 68
+          },
+          "analyse": "🎯 Brentford largement favori (68%)",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-22"
+        },
         {
           "id": 560542,
           "domicile": "Arsenal",
@@ -1329,15 +1404,15 @@
             "matchs": 1
           },
           "oracle": {
-            "proba_dom": 73,
+            "proba_dom": 72,
             "proba_nul": 5,
-            "proba_ext": 27,
+            "proba_ext": 28,
             "signal": "FORT",
             "favori": "Arsenal",
-            "proba_favori": 73
+            "proba_favori": 72
           },
-          "analyse": "🎯 Arsenal largement favori (73%) • 🔥 Arsenal : V (1 victoires) • 💪 Coventry City : D (0 victoires) • ✅ Score : 3-0",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "analyse": "🎯 Arsenal largement favori (72%) • 🔥 Arsenal : V (1 victoires) • 💪 Coventry City : D (0 victoires) • ✅ Score : 3-0",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-21"
         },
@@ -1346,14 +1421,14 @@
           "domicile": "Hull City",
           "exterieur": "Man United",
           "heure": "2026-08-22T11:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "2-0",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
+            "forme": "V",
+            "buts_pour": 2,
             "buts_contre": 0,
-            "matchs": 0
+            "matchs": 1
           },
           "stats_ext": {
             "forme": "",
@@ -1362,15 +1437,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 67,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
+            "proba_ext": 33,
+            "signal": "FORT",
             "favori": "Hull City",
-            "proba_favori": 52
+            "proba_favori": 67
           },
-          "analyse": "⚖️ Très serré entre Hull City et Man United",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "analyse": "🎯 Hull City largement favori (67%) • 🔥 Hull City : V (1 victoires) • ✅ Score : 2-0",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1379,8 +1454,8 @@
           "domicile": "Ipswich Town",
           "exterieur": "Sunderland",
           "heure": "2026-08-22T14:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "2-1",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -1395,15 +1470,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 61,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
+            "proba_ext": 39,
+            "signal": "FORT",
             "favori": "Ipswich Town",
-            "proba_favori": 52
+            "proba_favori": 61
           },
-          "analyse": "⚖️ Très serré entre Ipswich Town et Sunderland",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "analyse": "🎯 Ipswich Town largement favori (61%) • ✅ Score : 2-1",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1412,8 +1487,8 @@
           "domicile": "Nottingham",
           "exterieur": "Leeds United",
           "heure": "2026-08-22T14:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "0-1",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -1428,15 +1503,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 43,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Nottingham",
-            "proba_favori": 52
+            "proba_ext": 57,
+            "signal": "MOYEN",
+            "favori": "Leeds United",
+            "proba_favori": 57
           },
-          "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "analyse": "⚡ Leeds United favori (57%) • ✅ Score : 0-1",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1445,8 +1520,8 @@
           "domicile": "Everton",
           "exterieur": "Crystal Palace",
           "heure": "2026-08-22T14:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "2-0",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -1461,48 +1536,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 65,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
+            "proba_ext": 35,
+            "signal": "FORT",
             "favori": "Everton",
-            "proba_favori": 52
+            "proba_favori": 65
           },
-          "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
-          "meteo": "🌡️ 12°C peu nuageux",
-          "ligue": "Premier League",
-          "date": "2026-08-22"
-        },
-        {
-          "id": 560547,
-          "domicile": "Brentford",
-          "exterieur": "Tottenham",
-          "heure": "2026-08-22T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Brentford",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Brentford et Tottenham",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "analyse": "🎯 Everton largement favori (65%) • ✅ Score : 2-0",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1535,9 +1577,174 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Man City et Bournemouth",
-          "meteo": "🌡️ 12°C peu nuageux",
+          "meteo": "🌡️ 21°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
+        },
+        {
+          "id": 560549,
+          "domicile": "Brighton Hove",
+          "exterieur": "Aston Villa",
+          "heure": "2026-08-23T13:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Brighton Hove",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Brighton Hove et Aston Villa",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
+        },
+        {
+          "id": 560550,
+          "domicile": "Newcastle",
+          "exterieur": "Liverpool",
+          "heure": "2026-08-23T15:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Newcastle",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Newcastle et Liverpool",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
+        },
+        {
+          "id": 560551,
+          "domicile": "Fulham",
+          "exterieur": "Chelsea",
+          "heure": "2026-08-24T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Fulham",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Fulham et Chelsea",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-24"
+        },
+        {
+          "id": 560555,
+          "domicile": "Crystal Palace",
+          "exterieur": "Man City",
+          "heure": "2026-08-28T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 43,
+            "proba_nul": 5,
+            "proba_ext": 57,
+            "signal": "MOYEN",
+            "favori": "Man City",
+            "proba_favori": 57
+          },
+          "analyse": "⚡ Man City favori (57%)",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-28"
+        },
+        {
+          "id": 560552,
+          "domicile": "Liverpool",
+          "exterieur": "Nottingham",
+          "heure": "2026-08-29T11:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 61,
+            "proba_nul": 5,
+            "proba_ext": 39,
+            "signal": "FORT",
+            "favori": "Liverpool",
+            "proba_favori": 61
+          },
+          "analyse": "🎯 Liverpool largement favori (61%)",
+          "meteo": "🌡️ 21°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-29"
         }
       ],
       "hors_saison": false
@@ -1545,7 +1752,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 23°C nuageux",
+      "meteo": "🌡️ 31°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1554,7 +1761,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 31°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1563,7 +1770,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 14°C peu nuageux",
+      "meteo": "🌡️ 22°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1572,7 +1779,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 12°C peu nuageux",
+      "meteo": "🌡️ 21°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],

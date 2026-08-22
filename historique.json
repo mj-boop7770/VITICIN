@@ -1,5 +1,5 @@
 {
-  "total_matchs": 43,
+  "total_matchs": 47,
   "matchs": [
     {
       "id": 537408,
@@ -626,6 +626,62 @@
       "favori": "Arsenal",
       "forme_dom": "V",
       "forme_ext": "D"
+    },
+    {
+      "id": 560543,
+      "domicile": "Hull City",
+      "exterieur": "Man United",
+      "score": "2-0",
+      "date": "2026-08-22",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 67,
+      "oracle_proba_ext": 33,
+      "favori": "Hull City",
+      "forme_dom": "V",
+      "forme_ext": ""
+    },
+    {
+      "id": 560544,
+      "domicile": "Ipswich Town",
+      "exterieur": "Sunderland",
+      "score": "2-1",
+      "date": "2026-08-22",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Ipswich Town",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560545,
+      "domicile": "Nottingham",
+      "exterieur": "Leeds United",
+      "score": "0-1",
+      "date": "2026-08-22",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 43,
+      "oracle_proba_ext": 57,
+      "favori": "Leeds United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560546,
+      "domicile": "Everton",
+      "exterieur": "Crystal Palace",
+      "score": "2-0",
+      "date": "2026-08-22",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 65,
+      "oracle_proba_ext": 35,
+      "favori": "Everton",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
   "derniere_maj": "2026-08-22"
