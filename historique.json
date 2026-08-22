@@ -1,5 +1,5 @@
 {
-  "total_matchs": 42,
+  "total_matchs": 43,
   "matchs": [
     {
       "id": 537408,
@@ -612,7 +612,21 @@
       "favori": "Spain",
       "forme_dom": "VVVVV",
       "forme_ext": "VVVVD"
+    },
+    {
+      "id": 560542,
+      "domicile": "Arsenal",
+      "exterieur": "Coventry City",
+      "score": "3-0",
+      "date": "2026-08-21",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 73,
+      "oracle_proba_ext": 27,
+      "favori": "Arsenal",
+      "forme_dom": "V",
+      "forme_ext": "D"
     }
   ],
-  "derniere_maj": "2026-08-21"
+  "derniere_maj": "2026-08-22"
 }

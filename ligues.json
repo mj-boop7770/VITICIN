@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-21T18:24:56Z",
+  "mise_a_jour": "2026-08-22T06:25:45Z",
   "news_globales": [
     {
       "titre": "Mercato: cadres remplacés, milieu remodelé, encore un chantier en défense... comment Lens a confié un effectif compétitif à Toppmöller",
@@ -27,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C partiellement nuageux",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +842,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C partiellement nuageux",
+          "meteo": "🌡️ 22°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +875,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C partiellement nuageux",
+          "meteo": "🌡️ 22°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +908,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C partiellement nuageux",
+          "meteo": "🌡️ 22°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +941,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C partiellement nuageux",
+          "meteo": "🌡️ 22°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +974,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C partiellement nuageux",
+          "meteo": "🌡️ 22°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,10 +984,25 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C couvert",
+      "meteo": "🌡️ 12°C peu nuageux",
       "classement": [
         {
           "pos": 1,
+          "equipe": "Arsenal",
+          "team_id": 57,
+          "pts": 3,
+          "j": 1,
+          "g": 1,
+          "n": 0,
+          "p": 0,
+          "bp": 3,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 2,
           "equipe": "Bournemouth",
           "team_id": 1044,
           "pts": 0,
@@ -1002,22 +1017,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
-          "equipe": "Arsenal",
-          "team_id": 57,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Aston Villa",
           "team_id": 58,
           "pts": 0,
@@ -1032,7 +1032,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Brentford",
           "team_id": 402,
           "pts": 0,
@@ -1047,7 +1047,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Brighton Hove",
           "team_id": 397,
           "pts": 0,
@@ -1062,7 +1062,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Chelsea",
           "team_id": 61,
           "pts": 0,
@@ -1077,22 +1077,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
-          "equipe": "Coventry City",
-          "team_id": 1076,
-          "pts": 0,
-          "j": 0,
-          "g": 0,
-          "n": 0,
-          "p": 0,
-          "bp": 0,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Crystal Palace",
           "team_id": 354,
           "pts": 0,
@@ -1107,7 +1092,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Everton",
           "team_id": 62,
           "pts": 0,
@@ -1122,7 +1107,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Fulham",
           "team_id": 63,
           "pts": 0,
@@ -1137,7 +1122,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Hull City",
           "team_id": 322,
           "pts": 0,
@@ -1152,7 +1137,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Ipswich Town",
           "team_id": 349,
           "pts": 0,
@@ -1167,7 +1152,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Leeds United",
           "team_id": 341,
           "pts": 0,
@@ -1182,7 +1167,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Liverpool",
           "team_id": 64,
           "pts": 0,
@@ -1197,7 +1182,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Man City",
           "team_id": 65,
           "pts": 0,
@@ -1212,7 +1197,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Man United",
           "team_id": 66,
           "pts": 0,
@@ -1227,7 +1212,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Newcastle",
           "team_id": 67,
           "pts": 0,
@@ -1242,7 +1227,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Nottingham",
           "team_id": 351,
           "pts": 0,
@@ -1257,7 +1242,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Sunderland",
           "team_id": 71,
           "pts": 0,
@@ -1272,7 +1257,7 @@
           "msg_elim": ""
         },
         {
-          "pos": 1,
+          "pos": 2,
           "equipe": "Tottenham",
           "team_id": 73,
           "pts": 0,
@@ -1285,40 +1270,74 @@
           "groupe": "Matchday",
           "elim": false,
           "msg_elim": ""
+        },
+        {
+          "pos": 20,
+          "equipe": "Coventry City",
+          "team_id": 1076,
+          "pts": 0,
+          "j": 1,
+          "g": 0,
+          "n": 0,
+          "p": 1,
+          "bp": 0,
+          "bc": 3,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         }
       ],
-      "buteurs": [],
+      "buteurs": [
+        {
+          "joueur": "Kai Havertz",
+          "equipe": "Arsenal",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Bukayo Saka",
+          "equipe": "Arsenal",
+          "buts": 1,
+          "passes": 0
+        },
+        {
+          "joueur": "Martin Ødegaard",
+          "equipe": "Arsenal",
+          "buts": 1,
+          "passes": 0
+        }
+      ],
       "matchs": [
         {
           "id": 560542,
           "domicile": "Arsenal",
           "exterieur": "Coventry City",
           "heure": "2026-08-21T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "3-0",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
+            "forme": "V",
+            "buts_pour": 3,
             "buts_contre": 0,
-            "matchs": 0
+            "matchs": 1
           },
           "stats_ext": {
-            "forme": "",
+            "forme": "D",
             "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "buts_contre": 3,
+            "matchs": 1
           },
           "oracle": {
-            "proba_dom": 52,
+            "proba_dom": 73,
             "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
+            "proba_ext": 27,
+            "signal": "FORT",
             "favori": "Arsenal",
-            "proba_favori": 52
+            "proba_favori": 73
           },
-          "analyse": "⚖️ Très serré entre Arsenal et Coventry City",
-          "meteo": "🌡️ 20°C couvert",
+          "analyse": "🎯 Arsenal largement favori (73%) • 🔥 Arsenal : V (1 victoires) • 💪 Coventry City : D (0 victoires) • ✅ Score : 3-0",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-21"
         },
@@ -1351,7 +1370,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Hull City et Man United",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1384,7 +1403,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Sunderland",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1417,7 +1436,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Nottingham et Leeds United",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1450,7 +1469,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Everton et Crystal Palace",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1483,9 +1502,42 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brentford et Tottenham",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 12°C peu nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
+        },
+        {
+          "id": 560548,
+          "domicile": "Man City",
+          "exterieur": "Bournemouth",
+          "heure": "2026-08-23T13:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Man City",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Man City et Bournemouth",
+          "meteo": "🌡️ 12°C peu nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
         }
       ],
       "hors_saison": false
@@ -1493,7 +1545,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 32°C nuageux",
+      "meteo": "🌡️ 23°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1502,7 +1554,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 29°C ciel dégagé",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1511,7 +1563,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 14°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1520,7 +1572,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C couvert",
+      "meteo": "🌡️ 12°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
