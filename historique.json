@@ -1,5 +1,5 @@
 {
-  "total_matchs": 47,
+  "total_matchs": 48,
   "matchs": [
     {
       "id": 537408,
@@ -682,7 +682,21 @@
       "favori": "Everton",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560547,
+      "domicile": "Brentford",
+      "exterieur": "Tottenham",
+      "score": "3-0",
+      "date": "2026-08-22",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 68,
+      "oracle_proba_ext": 32,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-08-22"
+  "derniere_maj": "2026-08-23"
 }
