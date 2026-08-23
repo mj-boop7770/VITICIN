@@ -1,5 +1,5 @@
 {
-  "total_matchs": 48,
+  "total_matchs": 51,
   "matchs": [
     {
       "id": 537408,
@@ -694,6 +694,48 @@
       "oracle_proba_dom": 68,
       "oracle_proba_ext": 32,
       "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560548,
+      "domicile": "Man City",
+      "exterieur": "Bournemouth",
+      "score": "2-1",
+      "date": "2026-08-23",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Man City",
+      "forme_dom": "V",
+      "forme_ext": ""
+    },
+    {
+      "id": 560549,
+      "domicile": "Brighton Hove",
+      "exterieur": "Aston Villa",
+      "score": "4-0",
+      "date": "2026-08-23",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 70,
+      "oracle_proba_ext": 30,
+      "favori": "Brighton Hove",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560550,
+      "domicile": "Newcastle",
+      "exterieur": "Liverpool",
+      "score": "2-2",
+      "date": "2026-08-23",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "Newcastle",
       "forme_dom": "",
       "forme_ext": ""
     }
