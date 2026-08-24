@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-08-24T06:40:05Z",
+  "mise_a_jour": "2026-08-24T18:28:10Z",
   "news_globales": [
+    {
+      "titre": "Ligue 1 : Le Stade rennais et l’éternelle quête de la saison hors normes",
+      "description": "La voilà la saison du titre de champion de France pour Rennes !",
+      "source": "SO FOOT",
+      "url": "https://www.sofoot.com/articles/ligue-1-le-stade-rennais-et-leternelle-quete-de-la-saison-hors-normes",
+      "date": "2026-08-23"
+    },
     {
       "titre": "40 000 km sans toucher le volant : l'incroyable record Tesla qui inquiète",
       "description": "Le record de plus de 40 000 kilomètres parcourus sans interruption par un propriétaire de Tesla grâce au Full Self-Driving (FSD) soulève des questions. Si cet exploit met en lumière les progrès de la conduite autonome, il expose aussi les dangers de la « gami…",
@@ -27,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 21°C ciel dégagé",
+      "meteo": "🌡️ 27°C peu nuageux",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +849,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 21°C ciel dégagé",
+          "meteo": "🌡️ 27°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +882,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 21°C ciel dégagé",
+          "meteo": "🌡️ 27°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +915,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 21°C ciel dégagé",
+          "meteo": "🌡️ 27°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +948,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 21°C ciel dégagé",
+          "meteo": "🌡️ 27°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +981,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 21°C ciel dégagé",
+          "meteo": "🌡️ 27°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,7 +991,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 14°C ciel dégagé",
+      "meteo": "🌡️ 19°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1379,7 +1386,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Everton largement favori (66%) • 🔥 Everton : V (1 victoires) • 💪 Crystal Palace : D (0 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1412,7 +1419,7 @@
             "proba_favori": 71
           },
           "analyse": "🎯 Brentford largement favori (71%) • 🔥 Brentford : V (1 victoires) • 💪 Tottenham : D (0 victoires) • ✅ Score : 3-0",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1445,7 +1452,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Man City largement favori (61%) • 🔥 Man City : V (1 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1478,7 +1485,7 @@
             "proba_favori": 70
           },
           "analyse": "🎯 Brighton Hove largement favori (70%) • ✅ Score : 4-0",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1511,7 +1518,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Newcastle et Liverpool • ✅ Score : 2-2",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1544,7 +1551,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Fulham et Chelsea",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-24"
         },
@@ -1577,7 +1584,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Man City favori (60%) • 🔥 Crystal Palace : D (0 victoires) • 💪 Man City : V (1 victoires)",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-28"
         },
@@ -1610,7 +1617,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Liverpool favori (58%)",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1643,7 +1650,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Everton favori (58%) • 💪 Everton : V (1 victoires)",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1676,7 +1683,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Hull City favori (60%)",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1709,7 +1716,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Newcastle favori (58%) • 🔥 Tottenham : D (0 victoires)",
-          "meteo": "🌡️ 14°C ciel dégagé",
+          "meteo": "🌡️ 19°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         }
@@ -1719,7 +1726,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 20°C couvert",
+      "meteo": "🌡️ 31°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1728,7 +1735,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 19°C partiellement nuageux",
+      "meteo": "🌡️ 24°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1737,7 +1744,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 17°C couvert",
+      "meteo": "🌡️ 24°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1746,7 +1753,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 14°C ciel dégagé",
+      "meteo": "🌡️ 19°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
