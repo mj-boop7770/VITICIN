@@ -1,5 +1,5 @@
 {
-  "total_matchs": 51,
+  "total_matchs": 52,
   "matchs": [
     {
       "id": 537408,
@@ -738,7 +738,21 @@
       "favori": "Newcastle",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560551,
+      "domicile": "Fulham",
+      "exterieur": "Chelsea",
+      "score": "2-3",
+      "date": "2026-08-24",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 47,
+      "oracle_proba_ext": 53,
+      "favori": "Chelsea",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-08-24"
+  "derniere_maj": "2026-08-25"
 }
