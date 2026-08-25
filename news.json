@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-25T06:33:03Z",
+  "mise_a_jour": "2026-08-25T18:27:25Z",
   "news_globales": [
     {
       "titre": "Ligue 1 : Le Stade rennais et l’éternelle quête de la saison hors normes",
@@ -21,6 +21,13 @@
       "source": "SO FOOT",
       "url": "https://www.sofoot.com/articles/le-rc-lens-vainqueur-du-trophee-des-champions-contre-le-psg-la-recette-maison-des-sang-et-or",
       "date": "2026-08-17"
+    },
+    {
+      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
+      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
+      "source": "Le Matin",
+      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
+      "date": "2026-08-07"
     }
   ],
   "hors_saison": {},
