@@ -1,13 +1,6 @@
 {
-  "mise_a_jour": "2026-08-26T06:34:12Z",
+  "mise_a_jour": "2026-08-26T19:39:03Z",
   "news_globales": [
-    {
-      "titre": "Ligue 1 : Le Stade rennais et l’éternelle quête de la saison hors normes",
-      "description": "La voilà la saison du titre de champion de France pour Rennes !",
-      "source": "SO FOOT",
-      "url": "https://www.sofoot.com/articles/ligue-1-le-stade-rennais-et-leternelle-quete-de-la-saison-hors-normes",
-      "date": "2026-08-23"
-    },
     {
       "titre": "Footings à 6 heures du matin, rillette... Daisuke Matsui se rémémore ses années au Mans avant le grand retour en Ligue 1",
       "description": "Arrivé du Japon en France en 2004, l’offensif international japonais, très discret dans les médias, a disputé 149 matchs de Ligue 1 dont plus de la moitié au Mans où il a débarqué à 19 ans. C’est dans la Sarthe qu’il a vécu la plus grande expérience de sa car…",
@@ -21,6 +14,13 @@
       "source": "SO FOOT",
       "url": "https://www.sofoot.com/articles/le-rc-lens-vainqueur-du-trophee-des-champions-contre-le-psg-la-recette-maison-des-sang-et-or",
       "date": "2026-08-17"
+    },
+    {
+      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
+      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
+      "source": "Le Matin",
+      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
+      "date": "2026-08-07"
     }
   ],
   "hors_saison": {},
