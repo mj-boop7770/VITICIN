@@ -1,33 +1,26 @@
 {
-  "mise_a_jour": "2026-08-26T19:39:03Z",
+  "mise_a_jour": "2026-08-27T17:10:19Z",
   "news_globales": [
+    {
+      "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
+      "description": "De 1977 à 2026, 50 ans d’histoire du Mémorial Van Damme en mémoire d’Ivo, double médaillé d’argent aux Jeux de Montréal. ...",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/sports/omnisports/athletisme/2026/08/26/les-50-grands-moments-du-memorial-ivo-van-damme-1977-1986-sebastian-coe-offre-le-premier-record-du-monde-15-RAVDVV4QSZAVXMNVLXTI7MLBZM/",
+      "date": "2026-08-26"
+    },
     {
       "titre": "Footings à 6 heures du matin, rillette... Daisuke Matsui se rémémore ses années au Mans avant le grand retour en Ligue 1",
       "description": "Arrivé du Japon en France en 2004, l’offensif international japonais, très discret dans les médias, a disputé 149 matchs de Ligue 1 dont plus de la moitié au Mans où il a débarqué à 19 ans. C’est dans la Sarthe qu’il a vécu la plus grande expérience de sa car…",
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/footings-a-6-heures-du-matin-rillette-daisuke-matsui-se-rememore-ses-annees-au-mans-avant-le-grand-retour-en-ligue-1_AN-202608170003.html",
       "date": "2026-08-17"
-    },
-    {
-      "titre": "Le RC Lens vainqueur du Trophée des champions contre le PSG : la recette maison des Sang et Or",
-      "description": "Deux trophées en trois mois, les supporters lensois sont toujours aux anges.",
-      "source": "SO FOOT",
-      "url": "https://www.sofoot.com/articles/le-rc-lens-vainqueur-du-trophee-des-champions-contre-le-psg-la-recette-maison-des-sang-et-or",
-      "date": "2026-08-17"
-    },
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 28°C ciel dégagé",
+      "meteo": "🌡️ 25°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -842,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -875,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -908,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -941,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -974,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 28°C ciel dégagé",
+          "meteo": "🌡️ 25°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -984,7 +977,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 24°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -1379,7 +1372,7 @@
             "proba_favori": 71
           },
           "analyse": "🎯 Brentford largement favori (71%) • 🔥 Brentford : V (1 victoires) • 💪 Tottenham : D (0 victoires) • ✅ Score : 3-0",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-22"
         },
@@ -1412,7 +1405,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Man City largement favori (61%) • 🔥 Man City : V (1 victoires) • 💪 Bournemouth : D (0 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1445,7 +1438,7 @@
             "proba_favori": 73
           },
           "analyse": "🎯 Brighton Hove largement favori (73%) • 🔥 Brighton Hove : V (1 victoires) • ✅ Score : 4-0",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1478,7 +1471,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Newcastle et Liverpool • ✅ Score : 2-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-23"
         },
@@ -1511,7 +1504,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Fulham et Chelsea • ✅ Score : 2-3",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-24"
         },
@@ -1544,7 +1537,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Man City favori (59%) • 💪 Man City : V (1 victoires)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-28"
         },
@@ -1577,7 +1570,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Liverpool favori (58%)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1610,7 +1603,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Bournemouth et Everton • 🔥 Bournemouth : D (0 victoires)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1643,7 +1636,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Hull City favori (60%)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1676,7 +1669,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Newcastle favori (57%) • 🔥 Tottenham : D (0 victoires)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1709,7 +1702,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Sunderland et Fulham",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 24°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
         }
@@ -1719,7 +1712,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 33°C partiellement nuageux",
+      "meteo": "🌡️ 30°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1728,7 +1721,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 24°C couvert",
+      "meteo": "🌡️ 21°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1737,7 +1730,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 21°C légère pluie",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1746,7 +1739,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 24°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
