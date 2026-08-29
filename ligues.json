@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-29T01:27:36Z",
+  "mise_a_jour": "2026-08-29T12:02:28Z",
   "news_globales": [
     {
       "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
@@ -20,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C couvert",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -835,7 +835,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -868,7 +868,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -901,7 +901,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -934,7 +934,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -967,7 +967,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C couvert",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -1116,21 +1116,21 @@
         },
         {
           "pos": 10,
-          "equipe": "Liverpool",
-          "team_id": 64,
-          "pts": 1,
-          "j": 1,
-          "g": 0,
-          "n": 1,
-          "p": 0,
-          "bp": 2,
-          "bc": 2,
+          "equipe": "Nottingham",
+          "team_id": 351,
+          "pts": 3,
+          "j": 2,
+          "g": 1,
+          "n": 0,
+          "p": 1,
+          "bp": 1,
+          "bc": 1,
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 10,
+          "pos": 11,
           "equipe": "Newcastle",
           "team_id": 67,
           "pts": 1,
@@ -1146,6 +1146,21 @@
         },
         {
           "pos": 12,
+          "equipe": "Liverpool",
+          "team_id": 64,
+          "pts": 1,
+          "j": 2,
+          "g": 0,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 3,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 13,
           "equipe": "Fulham",
           "team_id": 63,
           "pts": 0,
@@ -1160,7 +1175,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 13,
+          "pos": 14,
           "equipe": "Bournemouth",
           "team_id": 1044,
           "pts": 0,
@@ -1175,7 +1190,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 13,
+          "pos": 14,
           "equipe": "Sunderland",
           "team_id": 71,
           "pts": 0,
@@ -1185,21 +1200,6 @@
           "p": 1,
           "bp": 1,
           "bc": 2,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 15,
-          "equipe": "Nottingham",
-          "team_id": 351,
-          "pts": 0,
-          "j": 1,
-          "g": 0,
-          "n": 0,
-          "p": 1,
-          "bp": 0,
-          "bc": 1,
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
@@ -1344,6 +1344,39 @@
       ],
       "matchs": [
         {
+          "id": 560552,
+          "domicile": "Liverpool",
+          "exterieur": "Nottingham",
+          "heure": "2026-08-29T11:30:00Z",
+          "score": "0-1",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "N",
+            "buts_pour": 2,
+            "buts_contre": 2,
+            "matchs": 1
+          },
+          "stats_ext": {
+            "forme": "D",
+            "buts_pour": 0,
+            "buts_contre": 1,
+            "matchs": 1
+          },
+          "oracle": {
+            "proba_dom": 52,
+            "proba_nul": 5,
+            "proba_ext": 48,
+            "signal": "RISQUÉ",
+            "favori": "Liverpool",
+            "proba_favori": 52
+          },
+          "analyse": "⚖️ Très serré entre Liverpool et Nottingham • 🔥 Liverpool : N (0 victoires) • 💪 Nottingham : D (0 victoires)",
+          "meteo": "🌡️ 18°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-29"
+        },
+        {
           "id": 560548,
           "domicile": "Man City",
           "exterieur": "Bournemouth",
@@ -1364,14 +1397,14 @@
             "matchs": 1
           },
           "oracle": {
-            "proba_dom": 67,
+            "proba_dom": 68,
             "proba_nul": 5,
-            "proba_ext": 33,
+            "proba_ext": 32,
             "signal": "FORT",
             "favori": "Man City",
-            "proba_favori": 67
+            "proba_favori": 68
           },
-          "analyse": "🎯 Man City largement favori (67%) • 🔥 Man City : VV (2 victoires) • 💪 Bournemouth : D (0 victoires) • ✅ Score : 2-1",
+          "analyse": "🎯 Man City largement favori (68%) • 🔥 Man City : VV (2 victoires) • 💪 Bournemouth : D (0 victoires) • ✅ Score : 2-1",
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-23"
@@ -1391,20 +1424,20 @@
             "matchs": 1
           },
           "stats_ext": {
-            "forme": "D",
+            "forme": "",
             "buts_pour": 0,
-            "buts_contre": 4,
-            "matchs": 1
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 72,
+            "proba_dom": 71,
             "proba_nul": 5,
-            "proba_ext": 28,
+            "proba_ext": 29,
             "signal": "FORT",
             "favori": "Brighton Hove",
-            "proba_favori": 72
+            "proba_favori": 71
           },
-          "analyse": "🎯 Brighton Hove largement favori (72%) • 🔥 Brighton Hove : V (1 victoires) • 💪 Aston Villa : D (0 victoires) • ✅ Score : 4-0",
+          "analyse": "🎯 Brighton Hove largement favori (71%) • 🔥 Brighton Hove : V (1 victoires) • ✅ Score : 4-0",
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-23"
@@ -1418,26 +1451,26 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "N",
-            "buts_pour": 2,
-            "buts_contre": 2,
-            "matchs": 1
-          },
-          "stats_ext": {
             "forme": "",
             "buts_pour": 0,
             "buts_contre": 0,
             "matchs": 0
           },
+          "stats_ext": {
+            "forme": "N",
+            "buts_pour": 2,
+            "buts_contre": 2,
+            "matchs": 1
+          },
           "oracle": {
-            "proba_dom": 54,
+            "proba_dom": 52,
             "proba_nul": 5,
-            "proba_ext": 46,
+            "proba_ext": 48,
             "signal": "RISQUÉ",
             "favori": "Newcastle",
-            "proba_favori": 54
+            "proba_favori": 52
           },
-          "analyse": "⚖️ Très serré entre Newcastle et Liverpool • 🔥 Newcastle : N (0 victoires) • ✅ Score : 2-2",
+          "analyse": "⚖️ Très serré entre Newcastle et Liverpool • 💪 Liverpool : N (0 victoires) • ✅ Score : 2-2",
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-23"
@@ -1463,12 +1496,12 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 48,
+            "proba_dom": 47,
             "proba_nul": 5,
-            "proba_ext": 52,
+            "proba_ext": 53,
             "signal": "RISQUÉ",
             "favori": "Chelsea",
-            "proba_favori": 52
+            "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Fulham et Chelsea • ✅ Score : 2-3",
           "meteo": "🌡️ 18°C couvert",
@@ -1509,39 +1542,6 @@
           "date": "2026-08-28"
         },
         {
-          "id": 560552,
-          "domicile": "Liverpool",
-          "exterieur": "Nottingham",
-          "heure": "2026-08-29T11:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 58,
-            "proba_nul": 5,
-            "proba_ext": 42,
-            "signal": "MOYEN",
-            "favori": "Liverpool",
-            "proba_favori": 58
-          },
-          "analyse": "⚡ Liverpool favori (58%)",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-29"
-        },
-        {
           "id": 560560,
           "domicile": "Bournemouth",
           "exterieur": "Everton",
@@ -1562,14 +1562,14 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 45,
+            "proba_dom": 44,
             "proba_nul": 5,
-            "proba_ext": 55,
-            "signal": "RISQUÉ",
+            "proba_ext": 56,
+            "signal": "MOYEN",
             "favori": "Everton",
-            "proba_favori": 55
+            "proba_favori": 56
           },
-          "analyse": "⚖️ Très serré entre Bournemouth et Everton • 🔥 Bournemouth : D (0 victoires)",
+          "analyse": "⚡ Everton favori (56%) • 🔥 Bournemouth : D (0 victoires)",
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-29"
@@ -1622,20 +1622,20 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "N",
-            "buts_pour": 2,
-            "buts_contre": 2,
-            "matchs": 1
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 44,
+            "proba_dom": 47,
             "proba_nul": 5,
-            "proba_ext": 56,
-            "signal": "MOYEN",
+            "proba_ext": 53,
+            "signal": "RISQUÉ",
             "favori": "Newcastle",
-            "proba_favori": 56
+            "proba_favori": 53
           },
-          "analyse": "⚡ Newcastle favori (56%) • 💪 Newcastle : N (0 victoires)",
+          "analyse": "⚖️ Très serré entre Tottenham et Newcastle",
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-29"
@@ -1705,6 +1705,39 @@
           "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
+        },
+        {
+          "id": 560559,
+          "domicile": "Leeds United",
+          "exterieur": "Brentford",
+          "heure": "2026-08-30T13:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 47,
+            "proba_nul": 5,
+            "proba_ext": 53,
+            "signal": "RISQUÉ",
+            "favori": "Brentford",
+            "proba_favori": 53
+          },
+          "analyse": "⚖️ Très serré entre Leeds United et Brentford",
+          "meteo": "🌡️ 18°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-08-30"
         }
       ],
       "hors_saison": false
@@ -1712,7 +1745,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 26°C nuageux",
+      "meteo": "🌡️ 21°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1721,7 +1754,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 26°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1730,7 +1763,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 17°C ciel dégagé",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
