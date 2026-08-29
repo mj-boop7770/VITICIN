@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-29T12:02:28Z",
+  "mise_a_jour": "2026-08-29T20:14:29Z",
   "news_globales": [
     {
       "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
@@ -14,735 +14,21 @@
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/footings-a-6-heures-du-matin-rillette-daisuke-matsui-se-rememore-ses-annees-au-mans-avant-le-grand-retour-en-ligue-1_AN-202608170003.html",
       "date": "2026-08-17"
+    },
+    {
+      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
+      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
+      "source": "Le Matin",
+      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
+      "date": "2026-08-07"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 18°C ciel dégagé",
-      "classement": [
-        {
-          "pos": 1,
-          "equipe": "Mexico",
-          "team_id": 769,
-          "pts": 9,
-          "j": 3,
-          "g": 3,
-          "n": 0,
-          "p": 0,
-          "bp": 6,
-          "bc": 0,
-          "groupe": "Group A",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "South Africa",
-          "team_id": 774,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 2,
-          "bc": 3,
-          "groupe": "Group A",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Korea Republic",
-          "team_id": 772,
-          "pts": 3,
-          "j": 3,
-          "g": 1,
-          "n": 0,
-          "p": 2,
-          "bp": 2,
-          "bc": 3,
-          "groupe": "Group A",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Czechia",
-          "team_id": 798,
-          "pts": 1,
-          "j": 3,
-          "g": 0,
-          "n": 1,
-          "p": 2,
-          "bp": 2,
-          "bc": 6,
-          "groupe": "Group A",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Switzerland",
-          "team_id": 788,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 7,
-          "bc": 3,
-          "groupe": "Group B",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Canada",
-          "team_id": 828,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 8,
-          "bc": 3,
-          "groupe": "Group B",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Bosnia-H.",
-          "team_id": 1060,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 5,
-          "bc": 6,
-          "groupe": "Group B",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Qatar",
-          "team_id": 8030,
-          "pts": 1,
-          "j": 3,
-          "g": 0,
-          "n": 1,
-          "p": 2,
-          "bp": 2,
-          "bc": 10,
-          "groupe": "Group B",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Brazil",
-          "team_id": 764,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 7,
-          "bc": 1,
-          "groupe": "Group C",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Morocco",
-          "team_id": 815,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 6,
-          "bc": 3,
-          "groupe": "Group C",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Scotland",
-          "team_id": 8873,
-          "pts": 3,
-          "j": 3,
-          "g": 1,
-          "n": 0,
-          "p": 2,
-          "bp": 1,
-          "bc": 4,
-          "groupe": "Group C",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Haiti",
-          "team_id": 836,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 2,
-          "bc": 8,
-          "groupe": "Group C",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "USA",
-          "team_id": 771,
-          "pts": 6,
-          "j": 3,
-          "g": 2,
-          "n": 0,
-          "p": 1,
-          "bp": 8,
-          "bc": 4,
-          "groupe": "Group D",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Australia",
-          "team_id": 779,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 2,
-          "bc": 2,
-          "groupe": "Group D",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Paraguay",
-          "team_id": 761,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 2,
-          "bc": 4,
-          "groupe": "Group D",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Turkey",
-          "team_id": 803,
-          "pts": 3,
-          "j": 3,
-          "g": 1,
-          "n": 0,
-          "p": 2,
-          "bp": 3,
-          "bc": 5,
-          "groupe": "Group D",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Germany",
-          "team_id": 759,
-          "pts": 6,
-          "j": 3,
-          "g": 2,
-          "n": 0,
-          "p": 1,
-          "bp": 10,
-          "bc": 4,
-          "groupe": "Group E",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Ivory Coast",
-          "team_id": 1935,
-          "pts": 6,
-          "j": 3,
-          "g": 2,
-          "n": 0,
-          "p": 1,
-          "bp": 4,
-          "bc": 2,
-          "groupe": "Group E",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Ecuador",
-          "team_id": 791,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 2,
-          "bc": 2,
-          "groupe": "Group E",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Curaçao",
-          "team_id": 9460,
-          "pts": 1,
-          "j": 3,
-          "g": 0,
-          "n": 1,
-          "p": 2,
-          "bp": 1,
-          "bc": 9,
-          "groupe": "Group E",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Netherlands",
-          "team_id": 8601,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 10,
-          "bc": 4,
-          "groupe": "Group F",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Japan",
-          "team_id": 766,
-          "pts": 5,
-          "j": 3,
-          "g": 1,
-          "n": 2,
-          "p": 0,
-          "bp": 7,
-          "bc": 3,
-          "groupe": "Group F",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Sweden",
-          "team_id": 792,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 7,
-          "bc": 7,
-          "groupe": "Group F",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Tunisia",
-          "team_id": 802,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 2,
-          "bc": 12,
-          "groupe": "Group F",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Belgium",
-          "team_id": 805,
-          "pts": 5,
-          "j": 3,
-          "g": 1,
-          "n": 2,
-          "p": 0,
-          "bp": 6,
-          "bc": 2,
-          "groupe": "Group G",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Egypt",
-          "team_id": 825,
-          "pts": 5,
-          "j": 3,
-          "g": 1,
-          "n": 2,
-          "p": 0,
-          "bp": 5,
-          "bc": 3,
-          "groupe": "Group G",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Iran",
-          "team_id": 840,
-          "pts": 3,
-          "j": 3,
-          "g": 0,
-          "n": 3,
-          "p": 0,
-          "bp": 3,
-          "bc": 3,
-          "groupe": "Group G",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "New Zealand",
-          "team_id": 783,
-          "pts": 1,
-          "j": 3,
-          "g": 0,
-          "n": 1,
-          "p": 2,
-          "bp": 4,
-          "bc": 10,
-          "groupe": "Group G",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Spain",
-          "team_id": 760,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 5,
-          "bc": 0,
-          "groupe": "Group H",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Cape Verde",
-          "team_id": 1930,
-          "pts": 3,
-          "j": 3,
-          "g": 0,
-          "n": 3,
-          "p": 0,
-          "bp": 2,
-          "bc": 2,
-          "groupe": "Group H",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Uruguay",
-          "team_id": 758,
-          "pts": 2,
-          "j": 3,
-          "g": 0,
-          "n": 2,
-          "p": 1,
-          "bp": 3,
-          "bc": 4,
-          "groupe": "Group H",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Saudi Arabia",
-          "team_id": 801,
-          "pts": 2,
-          "j": 3,
-          "g": 0,
-          "n": 2,
-          "p": 1,
-          "bp": 1,
-          "bc": 5,
-          "groupe": "Group H",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "France",
-          "team_id": 773,
-          "pts": 9,
-          "j": 3,
-          "g": 3,
-          "n": 0,
-          "p": 0,
-          "bp": 10,
-          "bc": 2,
-          "groupe": "Group I",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Norway",
-          "team_id": 8872,
-          "pts": 6,
-          "j": 3,
-          "g": 2,
-          "n": 0,
-          "p": 1,
-          "bp": 8,
-          "bc": 7,
-          "groupe": "Group I",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Senegal",
-          "team_id": 804,
-          "pts": 3,
-          "j": 3,
-          "g": 1,
-          "n": 0,
-          "p": 2,
-          "bp": 8,
-          "bc": 6,
-          "groupe": "Group I",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Iraq",
-          "team_id": 8062,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 1,
-          "bc": 12,
-          "groupe": "Group I",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Argentina",
-          "team_id": 762,
-          "pts": 9,
-          "j": 3,
-          "g": 3,
-          "n": 0,
-          "p": 0,
-          "bp": 8,
-          "bc": 1,
-          "groupe": "Group J",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Austria",
-          "team_id": 816,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 6,
-          "bc": 6,
-          "groupe": "Group J",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Algeria",
-          "team_id": 778,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 5,
-          "bc": 7,
-          "groupe": "Group J",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Jordan",
-          "team_id": 8049,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 3,
-          "bc": 8,
-          "groupe": "Group J",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "Colombia",
-          "team_id": 818,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 4,
-          "bc": 1,
-          "groupe": "Group K",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Portugal",
-          "team_id": 765,
-          "pts": 5,
-          "j": 3,
-          "g": 1,
-          "n": 2,
-          "p": 0,
-          "bp": 6,
-          "bc": 1,
-          "groupe": "Group K",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Congo DR",
-          "team_id": 1934,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 4,
-          "bc": 3,
-          "groupe": "Group K",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Uzbekistan",
-          "team_id": 8070,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 2,
-          "bc": 11,
-          "groupe": "Group K",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 1,
-          "equipe": "England",
-          "team_id": 770,
-          "pts": 7,
-          "j": 3,
-          "g": 2,
-          "n": 1,
-          "p": 0,
-          "bp": 6,
-          "bc": 2,
-          "groupe": "Group L",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Croatia",
-          "team_id": 799,
-          "pts": 6,
-          "j": 3,
-          "g": 2,
-          "n": 0,
-          "p": 1,
-          "bp": 5,
-          "bc": 5,
-          "groupe": "Group L",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 3,
-          "equipe": "Ghana",
-          "team_id": 763,
-          "pts": 4,
-          "j": 3,
-          "g": 1,
-          "n": 1,
-          "p": 1,
-          "bp": 2,
-          "bc": 2,
-          "groupe": "Group L",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 4,
-          "equipe": "Panama",
-          "team_id": 1836,
-          "pts": 0,
-          "j": 3,
-          "g": 0,
-          "n": 0,
-          "p": 3,
-          "bp": 0,
-          "bc": 4,
-          "groupe": "Group L",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        }
-      ],
+      "meteo": "🌡️ 26°C peu nuageux",
+      "classement": [],
       "buteurs": [
         {
           "joueur": "Kylian Mbappé",
@@ -827,15 +113,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
             "favori": "Argentina",
-            "proba_favori": 51
+            "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 18°C ciel dégagé",
+          "meteo": "🌡️ 26°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -860,15 +146,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
             "favori": "France",
-            "proba_favori": 51
+            "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 18°C ciel dégagé",
+          "meteo": "🌡️ 26°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -893,15 +179,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
             "favori": "England",
-            "proba_favori": 51
+            "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 18°C ciel dégagé",
+          "meteo": "🌡️ 26°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -926,15 +212,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
             "favori": "France",
-            "proba_favori": 51
+            "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 18°C ciel dégagé",
+          "meteo": "🌡️ 26°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -959,15 +245,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 51,
+            "proba_dom": 54,
             "proba_nul": 5,
-            "proba_ext": 49,
+            "proba_ext": 46,
             "signal": "RISQUÉ",
             "favori": "Spain",
-            "proba_favori": 51
+            "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 18°C ciel dégagé",
+          "meteo": "🌡️ 26°C peu nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -977,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 18°C couvert",
+      "meteo": "🌡️ 19°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -996,6 +282,51 @@
         },
         {
           "pos": 2,
+          "equipe": "Hull City",
+          "team_id": 322,
+          "pts": 6,
+          "j": 2,
+          "g": 2,
+          "n": 0,
+          "p": 0,
+          "bp": 3,
+          "bc": 0,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 3,
+          "equipe": "Newcastle",
+          "team_id": 67,
+          "pts": 4,
+          "j": 2,
+          "g": 1,
+          "n": 1,
+          "p": 0,
+          "bp": 4,
+          "bc": 2,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 4,
+          "equipe": "Everton",
+          "team_id": 62,
+          "pts": 4,
+          "j": 2,
+          "g": 1,
+          "n": 1,
+          "p": 0,
+          "bp": 3,
+          "bc": 1,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 5,
           "equipe": "Brighton Hove",
           "team_id": 397,
           "pts": 3,
@@ -1006,11 +337,11 @@
           "bp": 4,
           "bc": 0,
           "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 3,
+          "pos": 6,
           "equipe": "Arsenal",
           "team_id": 57,
           "pts": 3,
@@ -1025,7 +356,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 3,
+          "pos": 6,
           "equipe": "Brentford",
           "team_id": 402,
           "pts": 3,
@@ -1040,37 +371,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 5,
-          "equipe": "Everton",
-          "team_id": 62,
-          "pts": 3,
-          "j": 1,
-          "g": 1,
-          "n": 0,
-          "p": 0,
-          "bp": 2,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 5,
-          "equipe": "Hull City",
-          "team_id": 322,
-          "pts": 3,
-          "j": 1,
-          "g": 1,
-          "n": 0,
-          "p": 0,
-          "bp": 2,
-          "bc": 0,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 7,
+          "pos": 8,
           "equipe": "Chelsea",
           "team_id": 61,
           "pts": 3,
@@ -1085,7 +386,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 8,
+          "pos": 9,
           "equipe": "Ipswich Town",
           "team_id": 349,
           "pts": 3,
@@ -1100,7 +401,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 9,
+          "pos": 10,
           "equipe": "Leeds United",
           "team_id": 341,
           "pts": 3,
@@ -1115,39 +416,24 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 10,
-          "equipe": "Nottingham",
-          "team_id": 351,
-          "pts": 3,
-          "j": 2,
-          "g": 1,
-          "n": 0,
-          "p": 1,
-          "bp": 1,
-          "bc": 1,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
           "pos": 11,
-          "equipe": "Newcastle",
-          "team_id": 67,
-          "pts": 1,
-          "j": 1,
+          "equipe": "Liverpool",
+          "team_id": 64,
+          "pts": 2,
+          "j": 2,
           "g": 0,
-          "n": 1,
+          "n": 2,
           "p": 0,
-          "bp": 2,
-          "bc": 2,
+          "bp": 4,
+          "bc": 4,
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
         },
         {
           "pos": 12,
-          "equipe": "Liverpool",
-          "team_id": 64,
+          "equipe": "Bournemouth",
+          "team_id": 1044,
           "pts": 1,
           "j": 2,
           "g": 0,
@@ -1160,7 +446,22 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 13,
+          "pos": 12,
+          "equipe": "Nottingham",
+          "team_id": 351,
+          "pts": 1,
+          "j": 2,
+          "g": 0,
+          "n": 1,
+          "p": 1,
+          "bp": 2,
+          "bc": 3,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 14,
           "equipe": "Fulham",
           "team_id": 63,
           "pts": 0,
@@ -1175,22 +476,7 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 14,
-          "equipe": "Bournemouth",
-          "team_id": 1044,
-          "pts": 0,
-          "j": 1,
-          "g": 0,
-          "n": 0,
-          "p": 1,
-          "bp": 1,
-          "bc": 2,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 14,
+          "pos": 15,
           "equipe": "Sunderland",
           "team_id": 71,
           "pts": 0,
@@ -1221,36 +507,6 @@
         },
         {
           "pos": 17,
-          "equipe": "Coventry City",
-          "team_id": 1076,
-          "pts": 0,
-          "j": 1,
-          "g": 0,
-          "n": 0,
-          "p": 1,
-          "bp": 0,
-          "bc": 3,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 17,
-          "equipe": "Tottenham",
-          "team_id": 73,
-          "pts": 0,
-          "j": 1,
-          "g": 0,
-          "n": 0,
-          "p": 1,
-          "bp": 0,
-          "bc": 3,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 19,
           "equipe": "Aston Villa",
           "team_id": 58,
           "pts": 0,
@@ -1265,7 +521,22 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 20,
+          "pos": 17,
+          "equipe": "Coventry City",
+          "team_id": 1076,
+          "pts": 0,
+          "j": 2,
+          "g": 0,
+          "n": 0,
+          "p": 2,
+          "bp": 0,
+          "bc": 4,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 19,
           "equipe": "Crystal Palace",
           "team_id": 354,
           "pts": 0,
@@ -1278,12 +549,33 @@
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 20,
+          "equipe": "Tottenham",
+          "team_id": 73,
+          "pts": 0,
+          "j": 2,
+          "g": 0,
+          "n": 0,
+          "p": 2,
+          "bp": 0,
+          "bc": 5,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
         }
       ],
       "buteurs": [
         {
           "joueur": "Jack Hinshelwood",
           "equipe": "Brighton Hove",
+          "buts": 2,
+          "passes": 0
+        },
+        {
+          "joueur": "Anthony Elanga",
+          "equipe": "Newcastle",
           "buts": 2,
           "passes": 0
         },
@@ -1334,180 +626,9 @@
           "equipe": "Ipswich Town",
           "buts": 1,
           "passes": 0
-        },
-        {
-          "joueur": "Nilson Angulo",
-          "equipe": "Sunderland",
-          "buts": 1,
-          "passes": 0
         }
       ],
       "matchs": [
-        {
-          "id": 560552,
-          "domicile": "Liverpool",
-          "exterieur": "Nottingham",
-          "heure": "2026-08-29T11:30:00Z",
-          "score": "0-1",
-          "statut": "IN_PLAY",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "N",
-            "buts_pour": 2,
-            "buts_contre": 2,
-            "matchs": 1
-          },
-          "stats_ext": {
-            "forme": "D",
-            "buts_pour": 0,
-            "buts_contre": 1,
-            "matchs": 1
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Liverpool",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Liverpool et Nottingham • 🔥 Liverpool : N (0 victoires) • 💪 Nottingham : D (0 victoires)",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-29"
-        },
-        {
-          "id": 560548,
-          "domicile": "Man City",
-          "exterieur": "Bournemouth",
-          "heure": "2026-08-23T13:00:00Z",
-          "score": "2-1",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "VV",
-            "buts_pour": 6,
-            "buts_contre": 2,
-            "matchs": 2
-          },
-          "stats_ext": {
-            "forme": "D",
-            "buts_pour": 1,
-            "buts_contre": 2,
-            "matchs": 1
-          },
-          "oracle": {
-            "proba_dom": 68,
-            "proba_nul": 5,
-            "proba_ext": 32,
-            "signal": "FORT",
-            "favori": "Man City",
-            "proba_favori": 68
-          },
-          "analyse": "🎯 Man City largement favori (68%) • 🔥 Man City : VV (2 victoires) • 💪 Bournemouth : D (0 victoires) • ✅ Score : 2-1",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-23"
-        },
-        {
-          "id": 560549,
-          "domicile": "Brighton Hove",
-          "exterieur": "Aston Villa",
-          "heure": "2026-08-23T13:00:00Z",
-          "score": "4-0",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "V",
-            "buts_pour": 4,
-            "buts_contre": 0,
-            "matchs": 1
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 71,
-            "proba_nul": 5,
-            "proba_ext": 29,
-            "signal": "FORT",
-            "favori": "Brighton Hove",
-            "proba_favori": 71
-          },
-          "analyse": "🎯 Brighton Hove largement favori (71%) • 🔥 Brighton Hove : V (1 victoires) • ✅ Score : 4-0",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-23"
-        },
-        {
-          "id": 560550,
-          "domicile": "Newcastle",
-          "exterieur": "Liverpool",
-          "heure": "2026-08-23T15:30:00Z",
-          "score": "2-2",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "N",
-            "buts_pour": 2,
-            "buts_contre": 2,
-            "matchs": 1
-          },
-          "oracle": {
-            "proba_dom": 52,
-            "proba_nul": 5,
-            "proba_ext": 48,
-            "signal": "RISQUÉ",
-            "favori": "Newcastle",
-            "proba_favori": 52
-          },
-          "analyse": "⚖️ Très serré entre Newcastle et Liverpool • 💪 Liverpool : N (0 victoires) • ✅ Score : 2-2",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-23"
-        },
-        {
-          "id": 560551,
-          "domicile": "Fulham",
-          "exterieur": "Chelsea",
-          "heure": "2026-08-24T19:00:00Z",
-          "score": "2-3",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 47,
-            "proba_nul": 5,
-            "proba_ext": 53,
-            "signal": "RISQUÉ",
-            "favori": "Chelsea",
-            "proba_favori": 53
-          },
-          "analyse": "⚖️ Très serré entre Fulham et Chelsea • ✅ Score : 2-3",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-24"
-        },
         {
           "id": 560555,
           "domicile": "Crystal Palace",
@@ -1517,10 +638,10 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DD",
+            "buts_pour": 1,
+            "buts_contre": 6,
+            "matchs": 2
           },
           "stats_ext": {
             "forme": "VV",
@@ -1536,90 +657,57 @@
             "favori": "Man City",
             "proba_favori": 70
           },
-          "analyse": "🎯 Man City largement favori (70%) • 💪 Man City : VV (2 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 18°C couvert",
+          "analyse": "🎯 Man City largement favori (70%) • 🔥 Crystal Palace : DD (0 victoires) • 💪 Man City : VV (2 victoires) • ✅ Score : 1-4",
+          "meteo": "🌡️ 19°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-08-28"
+        },
+        {
+          "id": 560552,
+          "domicile": "Liverpool",
+          "exterieur": "Nottingham",
+          "heure": "2026-08-29T11:30:00Z",
+          "score": "2-2",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "NN",
+            "buts_pour": 4,
+            "buts_contre": 4,
+            "matchs": 2
+          },
+          "stats_ext": {
+            "forme": "DN",
+            "buts_pour": 2,
+            "buts_contre": 3,
+            "matchs": 2
+          },
+          "oracle": {
+            "proba_dom": 55,
+            "proba_nul": 5,
+            "proba_ext": 45,
+            "signal": "RISQUÉ",
+            "favori": "Liverpool",
+            "proba_favori": 55
+          },
+          "analyse": "⚖️ Très serré entre Liverpool et Nottingham • 🔥 Liverpool : NN (0 victoires) • 💪 Nottingham : DN (0 victoires) • ✅ Score : 2-2",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-29"
         },
         {
           "id": 560560,
           "domicile": "Bournemouth",
           "exterieur": "Everton",
           "heure": "2026-08-29T14:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
+          "score": "1-1",
+          "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "D",
-            "buts_pour": 1,
-            "buts_contre": 2,
-            "matchs": 1
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 44,
-            "proba_nul": 5,
-            "proba_ext": 56,
-            "signal": "MOYEN",
-            "favori": "Everton",
-            "proba_favori": 56
-          },
-          "analyse": "⚡ Everton favori (56%) • 🔥 Bournemouth : D (0 victoires)",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-29"
-        },
-        {
-          "id": 560561,
-          "domicile": "Coventry City",
-          "exterieur": "Hull City",
-          "heure": "2026-08-29T14:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 41,
-            "proba_nul": 5,
-            "proba_ext": 59,
-            "signal": "MOYEN",
-            "favori": "Hull City",
-            "proba_favori": 59
-          },
-          "analyse": "⚡ Hull City favori (59%)",
-          "meteo": "🌡️ 18°C couvert",
-          "ligue": "Premier League",
-          "date": "2026-08-29"
-        },
-        {
-          "id": 560558,
-          "domicile": "Tottenham",
-          "exterieur": "Newcastle",
-          "heure": "2026-08-29T16:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "DN",
+            "buts_pour": 2,
+            "buts_contre": 3,
+            "matchs": 2
           },
           "stats_ext": {
             "forme": "",
@@ -1632,11 +720,77 @@
             "proba_nul": 5,
             "proba_ext": 53,
             "signal": "RISQUÉ",
-            "favori": "Newcastle",
+            "favori": "Everton",
             "proba_favori": 53
           },
-          "analyse": "⚖️ Très serré entre Tottenham et Newcastle",
-          "meteo": "🌡️ 18°C couvert",
+          "analyse": "⚖️ Très serré entre Bournemouth et Everton • 🔥 Bournemouth : DN (0 victoires) • ✅ Score : 1-1",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-29"
+        },
+        {
+          "id": 560561,
+          "domicile": "Coventry City",
+          "exterieur": "Hull City",
+          "heure": "2026-08-29T14:00:00Z",
+          "score": "0-1",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 39,
+            "proba_nul": 5,
+            "proba_ext": 61,
+            "signal": "FORT",
+            "favori": "Hull City",
+            "proba_favori": 61
+          },
+          "analyse": "🎯 Hull City largement favori (61%) • ✅ Score : 0-1",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-29"
+        },
+        {
+          "id": 560558,
+          "domicile": "Tottenham",
+          "exterieur": "Newcastle",
+          "heure": "2026-08-29T16:30:00Z",
+          "score": "0-2",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 36,
+            "proba_nul": 5,
+            "proba_ext": 64,
+            "signal": "FORT",
+            "favori": "Newcastle",
+            "proba_favori": 64
+          },
+          "analyse": "🎯 Newcastle largement favori (64%) • ✅ Score : 0-2",
+          "meteo": "🌡️ 19°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -1669,7 +823,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Sunderland et Fulham",
-          "meteo": "🌡️ 18°C couvert",
+          "meteo": "🌡️ 19°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -1688,21 +842,21 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "V",
-            "buts_pour": 4,
+            "forme": "",
+            "buts_pour": 0,
             "buts_contre": 0,
-            "matchs": 1
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 44,
+            "proba_dom": 50,
             "proba_nul": 5,
-            "proba_ext": 56,
-            "signal": "MOYEN",
+            "proba_ext": 50,
+            "signal": "RISQUÉ",
             "favori": "Brighton Hove",
-            "proba_favori": 56
+            "proba_favori": 50
           },
-          "analyse": "⚡ Brighton Hove favori (56%) • 💪 Brighton Hove : V (1 victoires)",
-          "meteo": "🌡️ 18°C couvert",
+          "analyse": "⚖️ Très serré entre Chelsea et Brighton Hove",
+          "meteo": "🌡️ 19°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -1727,17 +881,116 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 47,
+            "proba_dom": 49,
             "proba_nul": 5,
-            "proba_ext": 53,
+            "proba_ext": 51,
             "signal": "RISQUÉ",
             "favori": "Brentford",
-            "proba_favori": 53
+            "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Leeds United et Brentford",
-          "meteo": "🌡️ 18°C couvert",
+          "meteo": "🌡️ 19°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
+        },
+        {
+          "id": 560553,
+          "domicile": "Man United",
+          "exterieur": "Ipswich Town",
+          "heure": "2026-08-30T15:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 46,
+            "proba_nul": 5,
+            "proba_ext": 54,
+            "signal": "RISQUÉ",
+            "favori": "Ipswich Town",
+            "proba_favori": 54
+          },
+          "analyse": "⚖️ Très serré entre Man United et Ipswich Town",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-30"
+        },
+        {
+          "id": 560557,
+          "domicile": "Aston Villa",
+          "exterieur": "Arsenal",
+          "heure": "2026-08-31T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 42,
+            "proba_nul": 5,
+            "proba_ext": 58,
+            "signal": "MOYEN",
+            "favori": "Arsenal",
+            "proba_favori": 58
+          },
+          "analyse": "⚡ Arsenal favori (58%)",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-31"
+        },
+        {
+          "id": 560566,
+          "domicile": "Ipswich Town",
+          "exterieur": "Liverpool",
+          "heure": "2026-09-04T19:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "NN",
+            "buts_pour": 4,
+            "buts_contre": 4,
+            "matchs": 2
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Ipswich Town",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Ipswich Town et Liverpool • 💪 Liverpool : NN (0 victoires)",
+          "meteo": "🌡️ 19°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-09-04"
         }
       ],
       "hors_saison": false
@@ -1745,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C ciel dégagé",
+      "meteo": "🌡️ 32°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1754,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 26°C ciel dégagé",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1763,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 20°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1772,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 18°C couvert",
+      "meteo": "🌡️ 19°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],

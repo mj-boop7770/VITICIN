@@ -1,5 +1,5 @@
 {
-  "total_matchs": 53,
+  "total_matchs": 57,
   "matchs": [
     {
       "id": 537408,
@@ -766,6 +766,62 @@
       "favori": "Man City",
       "forme_dom": "",
       "forme_ext": "VV"
+    },
+    {
+      "id": 560552,
+      "domicile": "Liverpool",
+      "exterieur": "Nottingham",
+      "score": "2-2",
+      "date": "2026-08-29",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Liverpool",
+      "forme_dom": "NN",
+      "forme_ext": "DN"
+    },
+    {
+      "id": 560560,
+      "domicile": "Bournemouth",
+      "exterieur": "Everton",
+      "score": "1-1",
+      "date": "2026-08-29",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 47,
+      "oracle_proba_ext": 53,
+      "favori": "Everton",
+      "forme_dom": "DN",
+      "forme_ext": ""
+    },
+    {
+      "id": 560561,
+      "domicile": "Coventry City",
+      "exterieur": "Hull City",
+      "score": "0-1",
+      "date": "2026-08-29",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 39,
+      "oracle_proba_ext": 61,
+      "favori": "Hull City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560558,
+      "domicile": "Tottenham",
+      "exterieur": "Newcastle",
+      "score": "0-2",
+      "date": "2026-08-29",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 36,
+      "oracle_proba_ext": 64,
+      "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
   "derniere_maj": "2026-08-29"
