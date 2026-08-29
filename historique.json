@@ -1,5 +1,5 @@
 {
-  "total_matchs": 52,
+  "total_matchs": 53,
   "matchs": [
     {
       "id": 537408,
@@ -752,7 +752,21 @@
       "favori": "Chelsea",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560555,
+      "domicile": "Crystal Palace",
+      "exterieur": "Man City",
+      "score": "1-4",
+      "date": "2026-08-28",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 30,
+      "oracle_proba_ext": 70,
+      "favori": "Man City",
+      "forme_dom": "",
+      "forme_ext": "VV"
     }
   ],
-  "derniere_maj": "2026-08-28"
+  "derniere_maj": "2026-08-29"
 }
