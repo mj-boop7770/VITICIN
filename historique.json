@@ -1,5 +1,5 @@
 {
-  "total_matchs": 57,
+  "total_matchs": 61,
   "matchs": [
     {
       "id": 537408,
@@ -820,6 +820,62 @@
       "oracle_proba_dom": 36,
       "oracle_proba_ext": 64,
       "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560554,
+      "domicile": "Sunderland",
+      "exterieur": "Fulham",
+      "score": "1-0",
+      "date": "2026-08-30",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Sunderland",
+      "forme_dom": "DV",
+      "forme_ext": "DD"
+    },
+    {
+      "id": 560556,
+      "domicile": "Chelsea",
+      "exterieur": "Brighton Hove",
+      "score": "4-3",
+      "date": "2026-08-30",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Chelsea",
+      "forme_dom": "VV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560559,
+      "domicile": "Leeds United",
+      "exterieur": "Brentford",
+      "score": "1-1",
+      "date": "2026-08-30",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 50,
+      "oracle_proba_ext": 50,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560553,
+      "domicile": "Man United",
+      "exterieur": "Ipswich Town",
+      "score": "5-2",
+      "date": "2026-08-30",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 54,
+      "oracle_proba_ext": 46,
+      "favori": "Man United",
       "forme_dom": "",
       "forme_ext": ""
     }
