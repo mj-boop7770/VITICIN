@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-08-29T20:14:29Z",
+  "mise_a_jour": "2026-08-30T10:58:41Z",
   "news_globales": [
     {
       "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
@@ -14,20 +14,13 @@
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/ligue-1/footings-a-6-heures-du-matin-rillette-daisuke-matsui-se-rememore-ses-annees-au-mans-avant-le-grand-retour-en-ligue-1_AN-202608170003.html",
       "date": "2026-08-17"
-    },
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C peu nuageux",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +114,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C peu nuageux",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +147,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C peu nuageux",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +180,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C peu nuageux",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +213,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C peu nuageux",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +246,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C peu nuageux",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +256,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 19°C partiellement nuageux",
+      "meteo": "🌡️ 21°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -630,50 +623,17 @@
       ],
       "matchs": [
         {
-          "id": 560555,
-          "domicile": "Crystal Palace",
-          "exterieur": "Man City",
-          "heure": "2026-08-28T19:00:00Z",
-          "score": "1-4",
+          "id": 560548,
+          "domicile": "Man City",
+          "exterieur": "Bournemouth",
+          "heure": "2026-08-23T13:00:00Z",
+          "score": "2-1",
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "DD",
-            "buts_pour": 1,
-            "buts_contre": 6,
-            "matchs": 2
-          },
-          "stats_ext": {
             "forme": "VV",
             "buts_pour": 6,
             "buts_contre": 2,
-            "matchs": 2
-          },
-          "oracle": {
-            "proba_dom": 30,
-            "proba_nul": 5,
-            "proba_ext": 70,
-            "signal": "FORT",
-            "favori": "Man City",
-            "proba_favori": 70
-          },
-          "analyse": "🎯 Man City largement favori (70%) • 🔥 Crystal Palace : DD (0 victoires) • 💪 Man City : VV (2 victoires) • ✅ Score : 1-4",
-          "meteo": "🌡️ 19°C partiellement nuageux",
-          "ligue": "Premier League",
-          "date": "2026-08-28"
-        },
-        {
-          "id": 560552,
-          "domicile": "Liverpool",
-          "exterieur": "Nottingham",
-          "heure": "2026-08-29T11:30:00Z",
-          "score": "2-2",
-          "statut": "FINISHED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "NN",
-            "buts_pour": 4,
-            "buts_contre": 4,
             "matchs": 2
           },
           "stats_ext": {
@@ -683,15 +643,180 @@
             "matchs": 2
           },
           "oracle": {
-            "proba_dom": 55,
+            "proba_dom": 65,
             "proba_nul": 5,
-            "proba_ext": 45,
+            "proba_ext": 35,
+            "signal": "FORT",
+            "favori": "Man City",
+            "proba_favori": 65
+          },
+          "analyse": "🎯 Man City largement favori (65%) • 🔥 Man City : VV (2 victoires) • 💪 Bournemouth : DN (0 victoires) • ✅ Score : 2-1",
+          "meteo": "🌡️ 21°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
+        },
+        {
+          "id": 560549,
+          "domicile": "Brighton Hove",
+          "exterieur": "Aston Villa",
+          "heure": "2026-08-23T13:00:00Z",
+          "score": "4-0",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "V",
+            "buts_pour": 4,
+            "buts_contre": 0,
+            "matchs": 1
+          },
+          "stats_ext": {
+            "forme": "D",
+            "buts_pour": 0,
+            "buts_contre": 4,
+            "matchs": 1
+          },
+          "oracle": {
+            "proba_dom": 69,
+            "proba_nul": 5,
+            "proba_ext": 31,
+            "signal": "FORT",
+            "favori": "Brighton Hove",
+            "proba_favori": 69
+          },
+          "analyse": "🎯 Brighton Hove largement favori (69%) • 🔥 Brighton Hove : V (1 victoires) • 💪 Aston Villa : D (0 victoires) • ✅ Score : 4-0",
+          "meteo": "🌡️ 21°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
+        },
+        {
+          "id": 560550,
+          "domicile": "Newcastle",
+          "exterieur": "Liverpool",
+          "heure": "2026-08-23T15:30:00Z",
+          "score": "2-2",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "NV",
+            "buts_pour": 4,
+            "buts_contre": 2,
+            "matchs": 2
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 62,
+            "proba_nul": 5,
+            "proba_ext": 38,
+            "signal": "FORT",
+            "favori": "Newcastle",
+            "proba_favori": 62
+          },
+          "analyse": "🎯 Newcastle largement favori (62%) • 🔥 Newcastle : NV (1 victoires) • ✅ Score : 2-2",
+          "meteo": "🌡️ 21°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-23"
+        },
+        {
+          "id": 560551,
+          "domicile": "Fulham",
+          "exterieur": "Chelsea",
+          "heure": "2026-08-24T19:00:00Z",
+          "score": "2-3",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 47,
+            "proba_nul": 5,
+            "proba_ext": 53,
+            "signal": "RISQUÉ",
+            "favori": "Chelsea",
+            "proba_favori": 53
+          },
+          "analyse": "⚖️ Très serré entre Fulham et Chelsea • ✅ Score : 2-3",
+          "meteo": "🌡️ 21°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-24"
+        },
+        {
+          "id": 560555,
+          "domicile": "Crystal Palace",
+          "exterieur": "Man City",
+          "heure": "2026-08-28T19:00:00Z",
+          "score": "1-4",
+          "statut": "FINISHED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "VV",
+            "buts_pour": 6,
+            "buts_contre": 2,
+            "matchs": 2
+          },
+          "oracle": {
+            "proba_dom": 31,
+            "proba_nul": 5,
+            "proba_ext": 69,
+            "signal": "FORT",
+            "favori": "Man City",
+            "proba_favori": 69
+          },
+          "analyse": "🎯 Man City largement favori (69%) • 💪 Man City : VV (2 victoires) • ✅ Score : 1-4",
+          "meteo": "🌡️ 21°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-08-28"
+        },
+        {
+          "id": 560552,
+          "domicile": "Liverpool",
+          "exterieur": "Nottingham",
+          "heure": "2026-08-29T11:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 53,
+            "proba_nul": 5,
+            "proba_ext": 47,
             "signal": "RISQUÉ",
             "favori": "Liverpool",
-            "proba_favori": 55
+            "proba_favori": 53
           },
-          "analyse": "⚖️ Très serré entre Liverpool et Nottingham • 🔥 Liverpool : NN (0 victoires) • 💪 Nottingham : DN (0 victoires) • ✅ Score : 2-2",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "analyse": "⚖️ Très serré entre Liverpool et Nottingham",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -700,8 +825,8 @@
           "domicile": "Bournemouth",
           "exterieur": "Everton",
           "heure": "2026-08-29T14:00:00Z",
-          "score": "1-1",
-          "statut": "FINISHED",
+          "score": "VS",
+          "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
             "forme": "DN",
@@ -723,8 +848,8 @@
             "favori": "Everton",
             "proba_favori": 53
           },
-          "analyse": "⚖️ Très serré entre Bournemouth et Everton • 🔥 Bournemouth : DN (0 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "analyse": "⚖️ Très serré entre Bournemouth et Everton • 🔥 Bournemouth : DN (0 victoires)",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -733,8 +858,8 @@
           "domicile": "Coventry City",
           "exterieur": "Hull City",
           "heure": "2026-08-29T14:00:00Z",
-          "score": "0-1",
-          "statut": "FINISHED",
+          "score": "VS",
+          "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -756,8 +881,8 @@
             "favori": "Hull City",
             "proba_favori": 61
           },
-          "analyse": "🎯 Hull City largement favori (61%) • ✅ Score : 0-1",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "analyse": "🎯 Hull City largement favori (61%)",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -766,8 +891,8 @@
           "domicile": "Tottenham",
           "exterieur": "Newcastle",
           "heure": "2026-08-29T16:30:00Z",
-          "score": "0-2",
-          "statut": "FINISHED",
+          "score": "VS",
+          "statut": "TIMED",
           "groupe": "",
           "stats_dom": {
             "forme": "",
@@ -776,21 +901,21 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "forme": "NV",
+            "buts_pour": 4,
+            "buts_contre": 2,
+            "matchs": 2
           },
           "oracle": {
-            "proba_dom": 36,
+            "proba_dom": 33,
             "proba_nul": 5,
-            "proba_ext": 64,
+            "proba_ext": 67,
             "signal": "FORT",
             "favori": "Newcastle",
-            "proba_favori": 64
+            "proba_favori": 67
           },
-          "analyse": "🎯 Newcastle largement favori (64%) • ✅ Score : 0-2",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "analyse": "🎯 Newcastle largement favori (67%) • 💪 Newcastle : NV (1 victoires)",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-29"
         },
@@ -823,7 +948,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Sunderland et Fulham",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -842,155 +967,23 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
+            "forme": "V",
+            "buts_pour": 4,
             "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 50,
-            "proba_nul": 5,
-            "proba_ext": 50,
-            "signal": "RISQUÉ",
-            "favori": "Brighton Hove",
-            "proba_favori": 50
-          },
-          "analyse": "⚖️ Très serré entre Chelsea et Brighton Hove",
-          "meteo": "🌡️ 19°C partiellement nuageux",
-          "ligue": "Premier League",
-          "date": "2026-08-30"
-        },
-        {
-          "id": 560559,
-          "domicile": "Leeds United",
-          "exterieur": "Brentford",
-          "heure": "2026-08-30T13:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 49,
-            "proba_nul": 5,
-            "proba_ext": 51,
-            "signal": "RISQUÉ",
-            "favori": "Brentford",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Leeds United et Brentford",
-          "meteo": "🌡️ 19°C partiellement nuageux",
-          "ligue": "Premier League",
-          "date": "2026-08-30"
-        },
-        {
-          "id": 560553,
-          "domicile": "Man United",
-          "exterieur": "Ipswich Town",
-          "heure": "2026-08-30T15:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
+            "matchs": 1
           },
           "oracle": {
             "proba_dom": 46,
             "proba_nul": 5,
             "proba_ext": 54,
             "signal": "RISQUÉ",
-            "favori": "Ipswich Town",
+            "favori": "Brighton Hove",
             "proba_favori": 54
           },
-          "analyse": "⚖️ Très serré entre Man United et Ipswich Town",
-          "meteo": "🌡️ 19°C partiellement nuageux",
+          "analyse": "⚖️ Très serré entre Chelsea et Brighton Hove • 💪 Brighton Hove : V (1 victoires)",
+          "meteo": "🌡️ 21°C nuageux",
           "ligue": "Premier League",
           "date": "2026-08-30"
-        },
-        {
-          "id": 560557,
-          "domicile": "Aston Villa",
-          "exterieur": "Arsenal",
-          "heure": "2026-08-31T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 42,
-            "proba_nul": 5,
-            "proba_ext": 58,
-            "signal": "MOYEN",
-            "favori": "Arsenal",
-            "proba_favori": 58
-          },
-          "analyse": "⚡ Arsenal favori (58%)",
-          "meteo": "🌡️ 19°C partiellement nuageux",
-          "ligue": "Premier League",
-          "date": "2026-08-31"
-        },
-        {
-          "id": 560566,
-          "domicile": "Ipswich Town",
-          "exterieur": "Liverpool",
-          "heure": "2026-09-04T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "NN",
-            "buts_pour": 4,
-            "buts_contre": 4,
-            "matchs": 2
-          },
-          "oracle": {
-            "proba_dom": 51,
-            "proba_nul": 5,
-            "proba_ext": 49,
-            "signal": "RISQUÉ",
-            "favori": "Ipswich Town",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Ipswich Town et Liverpool • 💪 Liverpool : NN (0 victoires)",
-          "meteo": "🌡️ 19°C partiellement nuageux",
-          "ligue": "Premier League",
-          "date": "2026-09-04"
         }
       ],
       "hors_saison": false
@@ -998,7 +991,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 32°C couvert",
+      "meteo": "🌡️ 22°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1000,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 25°C ciel dégagé",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1009,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 20°C nuageux",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1018,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 19°C partiellement nuageux",
+      "meteo": "🌡️ 21°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
