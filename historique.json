@@ -1,5 +1,5 @@
 {
-  "total_matchs": 61,
+  "total_matchs": 62,
   "matchs": [
     {
       "id": 537408,
@@ -876,6 +876,20 @@
       "oracle_proba_dom": 54,
       "oracle_proba_ext": 46,
       "favori": "Man United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560557,
+      "domicile": "Aston Villa",
+      "exterieur": "Arsenal",
+      "score": "0-1",
+      "date": "2026-08-31",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 37,
+      "oracle_proba_ext": 63,
+      "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
     }
