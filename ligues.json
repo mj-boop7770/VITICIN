@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-02T20:20:45Z",
+  "mise_a_jour": "2026-09-03T10:28:15Z",
   "news_globales": [
     {
       "titre": "La Coupe du monde de la Grézienne Camille Belis: \"Un rêve de petite fille qui s’est réalisé\"",
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 19°C couvert",
+      "meteo": "🌡️ 23°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +658,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Sunderland largement favori (61%) • 🔥 Sunderland : DV (1 victoires) • 💪 Fulham : DD (0 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -691,7 +691,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Chelsea favori (57%) • 🔥 Chelsea : VV (2 victoires) • 💪 Brighton Hove : VD (1 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -724,7 +724,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Leeds United et Brentford • 🔥 Leeds United : VN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -757,7 +757,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Man United et Ipswich Town • ✅ Score : 5-2",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -790,7 +790,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Arsenal largement favori (63%) • ✅ Score : 0-1",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-31"
         },
@@ -823,7 +823,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Liverpool",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-04"
         },
@@ -856,7 +856,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Newcastle favori (60%)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -889,7 +889,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Nottingham favori (59%)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -922,7 +922,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Man City largement favori (66%)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -955,7 +955,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brighton Hove et Leeds United • 🔥 Brighton Hove : VD (1 victoires) • 💪 Leeds United : VN (1 victoires)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -988,7 +988,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Brentford et Sunderland • 💪 Sunderland : DV (1 victoires)",
-          "meteo": "🌡️ 19°C couvert",
+          "meteo": "🌡️ 23°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         }
@@ -998,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 36°C peu nuageux",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 29°C ciel dégagé",
+      "meteo": "🌡️ 30°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 24°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 19°C couvert",
+      "meteo": "🌡️ 23°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
