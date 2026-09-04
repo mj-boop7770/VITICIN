@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-03T20:20:38Z",
+  "mise_a_jour": "2026-09-04T10:16:10Z",
   "news_globales": [
     {
       "titre": "La Coupe du monde de la Grézienne Camille Belis: \"Un rêve de petite fille qui s’est réalisé\"",
@@ -9,32 +9,18 @@
       "date": "2026-08-31"
     },
     {
-      "titre": "La chute de Pogacar, les sacres de Dhiman et L'Hirondel sur l'UTMB, le début de l'US Open... Le récap sport du week-end",
-      "description": "L'événement le plus marquant s'est produit samedi, avec l'abandon de Tadej Pogacar sur les routes de la Vuelta.",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/sports/la-chute-de-pogacar-les-sacres-de-dhiman-et-l-hirondel-sur-l-utmb-le-debut-de-l-us-open-le-recap-sport-du-week-end_8169332.html",
-      "date": "2026-08-31"
-    },
-    {
       "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
       "description": "De 1977 à 2026, 50 ans d’histoire du Mémorial Van Damme en mémoire d’Ivo, double médaillé d’argent aux Jeux de Montréal. ...",
       "source": "dh.be",
       "url": "https://www.dhnet.be/sports/omnisports/athletisme/2026/08/26/les-50-grands-moments-du-memorial-ivo-van-damme-1977-1986-sebastian-coe-offre-le-premier-record-du-monde-15-RAVDVV4QSZAVXMNVLXTI7MLBZM/",
       "date": "2026-08-26"
-    },
-    {
-      "titre": "Football: L'équipe de Suisse manque à Yann Sommer",
-      "description": "L'ancien gardien de la Nati a suivi avec une passion débordante le parcours des hommes de Murat Yakin durant la Coupe du monde 2026.",
-      "source": "Le Matin",
-      "url": "https://www.lematin.ch/story/football-yann-sommer-l-avoue-l-equipe-de-suisse-lui-manque-103614104",
-      "date": "2026-08-07"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 31°C peu nuageux",
+      "meteo": "🌡️ 24°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -128,7 +114,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 31°C peu nuageux",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -161,7 +147,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 31°C peu nuageux",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -194,7 +180,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 31°C peu nuageux",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -227,7 +213,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 31°C peu nuageux",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -260,7 +246,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 31°C peu nuageux",
+          "meteo": "🌡️ 24°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -270,7 +256,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -665,7 +651,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Sunderland largement favori (61%) • 🔥 Sunderland : DV (1 victoires) • 💪 Fulham : DD (0 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -698,7 +684,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Chelsea favori (57%) • 🔥 Chelsea : VV (2 victoires) • 💪 Brighton Hove : VD (1 victoires) • ✅ Score : 4-3",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -731,7 +717,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Leeds United et Brentford • 🔥 Leeds United : VN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -764,7 +750,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Man United et Ipswich Town • ✅ Score : 5-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-30"
         },
@@ -797,7 +783,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Arsenal largement favori (63%) • ✅ Score : 0-1",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-08-31"
         },
@@ -830,7 +816,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Liverpool",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-04"
         },
@@ -863,7 +849,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Newcastle favori (60%)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -896,7 +882,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Nottingham favori (59%)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -929,7 +915,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Man City largement favori (66%)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -962,7 +948,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brighton Hove et Leeds United • 🔥 Brighton Hove : VD (1 victoires) • 💪 Leeds United : VN (1 victoires)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -995,7 +981,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Brentford et Sunderland • 💪 Sunderland : DV (1 victoires)",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 20°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         }
@@ -1005,7 +991,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 36°C couvert",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1014,7 +1000,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 32°C ciel dégagé",
+      "meteo": "🌡️ 31°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1023,7 +1009,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C partiellement nuageux",
+      "meteo": "🌡️ 26°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1032,7 +1018,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
