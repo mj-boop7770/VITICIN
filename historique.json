@@ -1,5 +1,5 @@
 {
-  "total_matchs": 63,
+  "total_matchs": 68,
   "matchs": [
     {
       "id": 537408,
@@ -904,6 +904,76 @@
       "oracle_proba_dom": 45,
       "oracle_proba_ext": 55,
       "favori": "Liverpool",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560563,
+      "domicile": "Man City",
+      "exterieur": "Coventry City",
+      "score": "1-0",
+      "date": "2026-09-05",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 77,
+      "oracle_proba_ext": 23,
+      "favori": "Man City",
+      "forme_dom": "VVV",
+      "forme_ext": "DDD"
+    },
+    {
+      "id": 560564,
+      "domicile": "Brighton Hove",
+      "exterieur": "Leeds United",
+      "score": "1-1",
+      "date": "2026-09-05",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "Brighton Hove",
+      "forme_dom": "VDN",
+      "forme_ext": "VNN"
+    },
+    {
+      "id": 560565,
+      "domicile": "Brentford",
+      "exterieur": "Sunderland",
+      "score": "1-1",
+      "date": "2026-09-05",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 62,
+      "oracle_proba_ext": 38,
+      "favori": "Brentford",
+      "forme_dom": "VNN",
+      "forme_ext": ""
+    },
+    {
+      "id": 560568,
+      "domicile": "Fulham",
+      "exterieur": "Crystal Palace",
+      "score": "2-3",
+      "date": "2026-09-05",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 46,
+      "oracle_proba_ext": 54,
+      "favori": "Crystal Palace",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560569,
+      "domicile": "Hull City",
+      "exterieur": "Aston Villa",
+      "score": "0-0",
+      "date": "2026-09-05",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 65,
+      "oracle_proba_ext": 35,
+      "favori": "Hull City",
       "forme_dom": "",
       "forme_ext": ""
     }
