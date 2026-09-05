@@ -1,5 +1,5 @@
 {
-  "total_matchs": 62,
+  "total_matchs": 63,
   "matchs": [
     {
       "id": 537408,
@@ -892,7 +892,21 @@
       "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560566,
+      "domicile": "Ipswich Town",
+      "exterieur": "Liverpool",
+      "score": "0-2",
+      "date": "2026-09-04",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Liverpool",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-09-04"
+  "derniere_maj": "2026-09-05"
 }
