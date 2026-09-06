@@ -1,5 +1,5 @@
 {
-  "total_matchs": 68,
+  "total_matchs": 70,
   "matchs": [
     {
       "id": 537408,
@@ -974,6 +974,34 @@
       "oracle_proba_dom": 65,
       "oracle_proba_ext": 35,
       "favori": "Hull City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560567,
+      "domicile": "Everton",
+      "exterieur": "Man United",
+      "score": "2-2",
+      "date": "2026-09-06",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Everton",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560570,
+      "domicile": "Arsenal",
+      "exterieur": "Chelsea",
+      "score": "2-1",
+      "date": "2026-09-06",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 53,
+      "oracle_proba_ext": 47,
+      "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
     }
