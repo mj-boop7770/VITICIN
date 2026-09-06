@@ -1,89 +1,28 @@
 {
-  "mise_a_jour": "2026-09-05T19:45:49Z",
+  "mise_a_jour": "2026-09-06T09:59:58Z",
   "news_globales": [
+    {
+      "titre": "Ambiance, déception, chambrage, surprise, kermesse... L'été 2026 du football verviétois de A à Z, dans nos \"Lettres recommandées\"",
+      "description": "Cinquième volet de notre rendez-vous dans les colonnes de l’Avenir Verviers avec \"Les lettres recommandées du football régional\". On revient cette fois sur les mois d’été de juin, juillet et août 2026. ...",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/verviers/sports/2026/09/05/ambiance-deception-chambrage-surprise-kermesse-lete-2026-du-football-vervietois-de-a-a-z-dans-nos-lettres-recommandees-W6U6PUFQPJADHCFIL3XU4EKFGA/",
+      "date": "2026-09-05"
+    },
     {
       "titre": "La Coupe du monde de la Grézienne Camille Belis: \"Un rêve de petite fille qui s’est réalisé\"",
       "description": "Camille Belis et les Red Panthers ont disputé une énorme Coupe du monde, soutenues par un public présent en nombre pour les soutenir. ...",
       "source": "Lavenir.net",
       "url": "https://www.lavenir.net/regions/brabantwallon/sports/2026/08/31/la-coupe-du-monde-de-la-grezienne-camille-belis-un-reve-de-petite-fille-qui-sest-realise-YD2V64RE4NFUFPBD6ZE5KXF7DY/",
       "date": "2026-08-31"
-    },
-    {
-      "titre": "Les 50 grands moments du Mémorial Ivo Van Damme (1977-1986) : Sebastian Coe offre le premier record du monde (1/5)",
-      "description": "De 1977 à 2026, 50 ans d’histoire du Mémorial Van Damme en mémoire d’Ivo, double médaillé d’argent aux Jeux de Montréal. ...",
-      "source": "dh.be",
-      "url": "https://www.dhnet.be/sports/omnisports/athletisme/2026/08/26/les-50-grands-moments-du-memorial-ivo-van-damme-1977-1986-sebastian-coe-offre-le-premier-record-du-monde-15-RAVDVV4QSZAVXMNVLXTI7MLBZM/",
-      "date": "2026-08-26"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 26°C nuageux",
+      "meteo": "🌡️ 19°C ciel dégagé",
       "classement": [],
-      "buteurs": [
-        {
-          "joueur": "Kylian Mbappé",
-          "equipe": "France",
-          "buts": 10,
-          "passes": 4
-        },
-        {
-          "joueur": "Lionel Messi",
-          "equipe": "Argentina",
-          "buts": 8,
-          "passes": 4
-        },
-        {
-          "joueur": "Erling Haaland",
-          "equipe": "Norway",
-          "buts": 7,
-          "passes": 0
-        },
-        {
-          "joueur": "Jude Bellingham",
-          "equipe": "England",
-          "buts": 7,
-          "passes": 1
-        },
-        {
-          "joueur": "Harry Kane",
-          "equipe": "England",
-          "buts": 6,
-          "passes": 1
-        },
-        {
-          "joueur": "Ousmane Dembélé",
-          "equipe": "France",
-          "buts": 6,
-          "passes": 2
-        },
-        {
-          "joueur": "Mikel Oyarzabal",
-          "equipe": "Spain",
-          "buts": 5,
-          "passes": 1
-        },
-        {
-          "joueur": "Julián Quiñones",
-          "equipe": "Mexico",
-          "buts": 4,
-          "passes": 1
-        },
-        {
-          "joueur": "Vinicius Junior",
-          "equipe": "Brazil",
-          "buts": 4,
-          "passes": 1
-        },
-        {
-          "joueur": "Ismaïla Sarr",
-          "equipe": "Senegal",
-          "buts": 4,
-          "passes": 1
-        }
-      ],
+      "buteurs": [],
       "matchs": [
         {
           "id": 537386,
@@ -114,7 +53,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 19°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -147,7 +86,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 19°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -180,7 +119,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 19°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -213,7 +152,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 19°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -246,7 +185,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 26°C nuageux",
+          "meteo": "🌡️ 19°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -256,7 +195,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 22°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -651,7 +590,7 @@
             "proba_favori": 77
           },
           "analyse": "🎯 Man City largement favori (77%) • 🔥 Man City : VVV (3 victoires) • 💪 Coventry City : DDD (0 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -684,7 +623,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Brighton Hove et Leeds United • 🔥 Brighton Hove : VDN (1 victoires) • 💪 Leeds United : VNN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -717,7 +656,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Brentford largement favori (62%) • 🔥 Brentford : VNN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -750,7 +689,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Fulham et Crystal Palace • ✅ Score : 2-3",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -783,7 +722,7 @@
             "proba_favori": 65
           },
           "analyse": "🎯 Hull City largement favori (65%) • ✅ Score : 0-0",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -816,7 +755,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Everton et Man United",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -849,7 +788,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Arsenal et Chelsea",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -882,7 +821,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Crystal Palace et Ipswich Town",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -915,7 +854,7 @@
             "proba_favori": 65
           },
           "analyse": "🎯 Liverpool largement favori (65%)",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -948,7 +887,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Aston Villa et Nottingham",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -981,7 +920,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Brentford largement favori (62%) • 💪 Brentford : VNN (1 victoires)",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 22°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         }
@@ -991,7 +930,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 37°C partiellement nuageux",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1000,7 +939,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 29°C couvert",
+      "meteo": "🌡️ 30°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1009,7 +948,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 21°C partiellement nuageux",
+      "meteo": "🌡️ 23°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1018,7 +957,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 22°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
