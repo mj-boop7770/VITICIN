@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-09-08T10:21:44Z",
+  "mise_a_jour": "2026-09-08T20:32:22Z",
   "news_globales": [
+    {
+      "titre": "La Maison Blanche lance des jeux anti-immigration, arriverez vous à battre notre record de Mexicains arrêtés ?",
+      "description": "Jamais à court d'idées pour creuser dans la fosse à purin, le site de la Maison Blanche a récemment mis en ligne Arcade.gov, un site regroupant plusieurs jeux d'arcade dont le but est surtout d'expulser des immigrés façon Tetris. La société propriétaire n'a p…",
+      "source": "Journal du geek",
+      "url": "https://www.journaldugeek.com/2026/09/07/la-maison-blanche-lance-des-jeux-anti-immigration-arriverez-vous-a-battre-notre-record-de-mexicains-arretes/",
+      "date": "2026-09-07"
+    },
     {
       "titre": "Ambiance, déception, chambrage, surprise, kermesse... L'été 2026 du football verviétois de A à Z, dans nos \"Lettres recommandées\"",
       "description": "Cinquième volet de notre rendez-vous dans les colonnes de l’Avenir Verviers avec \"Les lettres recommandées du football régional\". On revient cette fois sur les mois d’été de juin, juillet et août 2026. ...",
@@ -20,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 27°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -114,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -147,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -180,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -213,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -246,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 19°C nuageux",
+          "meteo": "🌡️ 27°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -256,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 15°C pluie modérée",
+      "meteo": "🌡️ 14°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -651,7 +658,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Brentford favori (59%) • 🔥 Brentford : VNN (1 victoires) • 💪 Sunderland : DVN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -684,7 +691,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Crystal Palace favori (56%) • 🔥 Fulham : DDD (0 victoires) • 💪 Crystal Palace : DDV (1 victoires) • ✅ Score : 2-3",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -717,7 +724,7 @@
             "proba_favori": 70
           },
           "analyse": "🎯 Hull City largement favori (70%) • 🔥 Hull City : VVN (2 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -750,7 +757,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Everton et Man United • ✅ Score : 2-2",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -783,7 +790,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Arsenal et Chelsea • ✅ Score : 2-1",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -816,7 +823,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Crystal Palace et Ipswich Town • 🔥 Crystal Palace : DDV (1 victoires)",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -849,7 +856,7 @@
             "proba_favori": 65
           },
           "analyse": "🎯 Liverpool largement favori (65%) • 💪 Fulham : DDD (0 victoires)",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -882,7 +889,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Aston Villa et Nottingham",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -915,7 +922,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Brentford largement favori (62%) • 💪 Brentford : VNN (1 victoires)",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -948,7 +955,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Chelsea et Hull City • 💪 Hull City : VVN (2 victoires)",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -981,7 +988,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Everton favori (56%)",
-          "meteo": "🌡️ 15°C pluie modérée",
+          "meteo": "🌡️ 14°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-09-12"
         }
@@ -991,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 31°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1000,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 30°C ciel dégagé",
+      "meteo": "🌡️ 27°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1009,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C couvert",
+      "meteo": "🌡️ 17°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1018,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 15°C pluie modérée",
+      "meteo": "🌡️ 14°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
