@@ -1,18 +1,18 @@
 {
-  "mise_a_jour": "2026-09-11T10:20:29Z",
+  "mise_a_jour": "2026-09-11T20:16:08Z",
   "news_globales": [
+    {
+      "titre": "Plus jeune capitaine du Barça, premier coup-franc... la soirée historique de Lamine Yamal, que Flick voit remporter le Ballon d'or 2026",
+      "description": "Encore brillant lors de la large victoire du Barça contre le Feyenoord (5-1) mercredi en Ligue des champions, Lamine Yamal a vécu deux grandes premières symboliques et reçu de précieux soutiens dans la course au Ballon d'or 2026.",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/ballon-d-or/plus-jeune-capitaine-du-barca-premier-coup-franc-la-soiree-historique-de-lamine-yamal-que-flick-voit-remporter-le-ballon-d-or-2026_AV-202609100462.html",
+      "date": "2026-09-10"
+    },
     {
       "titre": "Ligue des champions : Le pétage de câble de Mourinho, Guendouzi expulsé avant le coup d’envoi… Nos paris les plus barrés",
       "description": "Alors que la nouvelle saison de Ligue des champions démarre ce mardi, « 20 Minutes » vous propose six questions centrales, et légèrement « WTF », autour de la compétition",
       "source": "20 Minutes",
       "url": "https://www.20minutes.fr/sport/football/ligue_des_champions/4243562-20260908-ligue-champions-petage-cable-mourinho-guendouzi-expulse-avant-coup-envoi-paris-plus-barres",
-      "date": "2026-09-08"
-    },
-    {
-      "titre": "Ligue des champions: PSG, Arsenal, Bayern, Barça… qui sont les favoris de cette édition 2026-2027?",
-      "description": "La Ligue des champions est de retour cette semaine pour une nouvelle saison, avec une grande question: le PSG parviendra-t-il à réaliser le triplé? Après leur back-to-back, les joueurs de Luis Enrique vont faire face à une concurrence féroce, emmenée par Arse…",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/ligue-des-champions/ligue-des-champions-psg-arsenal-bayern-barca-qui-sont-les-favoris-de-cette-edition-2026-2027_AV-202609080500.html",
       "date": "2026-09-08"
     },
     {
@@ -34,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 27°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -128,7 +128,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -161,7 +161,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -194,7 +194,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -227,7 +227,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -260,7 +260,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 22°C couvert",
+          "meteo": "🌡️ 27°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -270,7 +270,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C peu nuageux",
+      "meteo": "🌡️ 18°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -665,7 +665,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Brentford favori (59%) • 🔥 Brentford : VNN (1 victoires) • 💪 Sunderland : DVN (1 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -698,7 +698,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Crystal Palace favori (56%) • 🔥 Fulham : DDD (0 victoires) • 💪 Crystal Palace : DDV (1 victoires) • ✅ Score : 2-3",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -731,7 +731,7 @@
             "proba_favori": 70
           },
           "analyse": "🎯 Hull City largement favori (70%) • 🔥 Hull City : VVN (2 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-05"
         },
@@ -764,7 +764,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Everton et Man United • ✅ Score : 2-2",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -797,7 +797,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Arsenal et Chelsea • ✅ Score : 2-1",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-06"
         },
@@ -830,7 +830,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Crystal Palace et Ipswich Town • 🔥 Crystal Palace : DDV (1 victoires)",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -863,7 +863,7 @@
             "proba_favori": 65
           },
           "analyse": "🎯 Liverpool largement favori (65%) • 💪 Fulham : DDD (0 victoires)",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Aston Villa et Nottingham",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Brentford largement favori (62%) • 💪 Brentford : VNN (1 victoires)",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Chelsea et Hull City • 💪 Hull City : VVN (2 victoires)",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Everton favori (56%)",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 18°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-12"
         }
@@ -1005,7 +1005,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 21°C ciel dégagé",
+      "meteo": "🌡️ 30°C forte pluie",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1014,7 +1014,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 24°C ciel dégagé",
+      "meteo": "🌡️ 25°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1023,7 +1023,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 23°C partiellement nuageux",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1032,7 +1032,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C peu nuageux",
+      "meteo": "🌡️ 18°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
