@@ -1,5 +1,5 @@
 {
-  "total_matchs": 70,
+  "total_matchs": 75,
   "matchs": [
     {
       "id": 537408,
@@ -1002,6 +1002,76 @@
       "oracle_proba_dom": 53,
       "oracle_proba_ext": 47,
       "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560573,
+      "domicile": "Liverpool",
+      "exterieur": "Fulham",
+      "score": "0-0",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 70,
+      "oracle_proba_ext": 30,
+      "favori": "Liverpool",
+      "forme_dom": "NNVVN",
+      "forme_ext": "DDDN"
+    },
+    {
+      "id": 560574,
+      "domicile": "Aston Villa",
+      "exterieur": "Nottingham",
+      "score": "1-2",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 48,
+      "oracle_proba_ext": 52,
+      "favori": "Nottingham",
+      "forme_dom": "DDNVD",
+      "forme_ext": ""
+    },
+    {
+      "id": 560576,
+      "domicile": "Bournemouth",
+      "exterieur": "Brentford",
+      "score": "2-2",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 43,
+      "oracle_proba_ext": 57,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560581,
+      "domicile": "Chelsea",
+      "exterieur": "Hull City",
+      "score": "2-2",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Chelsea",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560575,
+      "domicile": "Tottenham",
+      "exterieur": "Everton",
+      "score": "0-0",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 43,
+      "oracle_proba_ext": 57,
+      "favori": "Everton",
       "forme_dom": "",
       "forme_ext": ""
     }
