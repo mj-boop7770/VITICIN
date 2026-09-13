@@ -1,5 +1,5 @@
 {
-  "total_matchs": 75,
+  "total_matchs": 76,
   "matchs": [
     {
       "id": 537408,
@@ -1074,7 +1074,21 @@
       "favori": "Everton",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560577,
+      "domicile": "Sunderland",
+      "exterieur": "Arsenal",
+      "score": "0-2",
+      "date": "2026-09-12",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 42,
+      "oracle_proba_ext": 58,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-09-12"
+  "derniere_maj": "2026-09-13"
 }
