@@ -1,5 +1,5 @@
 {
-  "total_matchs": 76,
+  "total_matchs": 78,
   "matchs": [
     {
       "id": 537408,
@@ -1086,6 +1086,34 @@
       "oracle_proba_dom": 42,
       "oracle_proba_ext": 58,
       "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560578,
+      "domicile": "Coventry City",
+      "exterieur": "Brighton Hove",
+      "score": "0-5",
+      "date": "2026-09-13",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 37,
+      "oracle_proba_ext": 63,
+      "favori": "Brighton Hove",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560580,
+      "domicile": "Man United",
+      "exterieur": "Man City",
+      "score": "0-1",
+      "date": "2026-09-13",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 43,
+      "oracle_proba_ext": 57,
+      "favori": "Man City",
       "forme_dom": "",
       "forme_ext": ""
     }
