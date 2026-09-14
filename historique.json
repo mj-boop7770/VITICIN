@@ -1,5 +1,5 @@
 {
-  "total_matchs": 78,
+  "total_matchs": 79,
   "matchs": [
     {
       "id": 537408,
@@ -1114,6 +1114,20 @@
       "oracle_proba_dom": 43,
       "oracle_proba_ext": 57,
       "favori": "Man City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560579,
+      "domicile": "Leeds United",
+      "exterieur": "Newcastle",
+      "score": "4-1",
+      "date": "2026-09-14",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 60,
+      "oracle_proba_ext": 40,
+      "favori": "Leeds United",
       "forme_dom": "",
       "forme_ext": ""
     }
