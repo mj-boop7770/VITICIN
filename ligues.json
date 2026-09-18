@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-09-18T10:19:34Z",
+  "mise_a_jour": "2026-09-18T20:12:56Z",
   "news_globales": [
     {
       "titre": "\"Sans aucun doute\", Simeone voit Messi remporter un neuvième Ballon d’or \"après le Mondial qu’il a fait\" avec l’Argentine",
@@ -27,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 24°C nuageux",
+      "meteo": "🌡️ 28°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 28°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 28°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 28°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 28°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 24°C nuageux",
+          "meteo": "🌡️ 28°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 18°C nuageux",
+      "meteo": "🌡️ 17°C nuageux",
       "classement": [
         {
           "pos": 1,
@@ -327,6 +327,21 @@
         },
         {
           "pos": 5,
+          "equipe": "Chelsea",
+          "team_id": 61,
+          "pts": 8,
+          "j": 5,
+          "g": 2,
+          "n": 2,
+          "p": 1,
+          "bp": 10,
+          "bc": 9,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 6,
           "equipe": "Brighton Hove",
           "team_id": 397,
           "pts": 7,
@@ -341,28 +356,13 @@
           "msg_elim": "Mathématiquement éliminé"
         },
         {
-          "pos": 6,
-          "equipe": "Chelsea",
-          "team_id": 61,
-          "pts": 7,
-          "j": 4,
-          "g": 2,
-          "n": 1,
-          "p": 1,
-          "bp": 10,
-          "bc": 9,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
           "pos": 7,
           "equipe": "Brentford",
           "team_id": 402,
-          "pts": 6,
-          "j": 4,
+          "pts": 7,
+          "j": 5,
           "g": 1,
-          "n": 3,
+          "n": 4,
           "p": 0,
           "bp": 7,
           "bc": 4,
@@ -630,6 +630,39 @@
       ],
       "matchs": [
         {
+          "id": 560591,
+          "domicile": "Brentford",
+          "exterieur": "Chelsea",
+          "heure": "2026-09-18T19:00:00Z",
+          "score": "0-0",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VNNN",
+            "buts_pour": 7,
+            "buts_contre": 4,
+            "matchs": 4
+          },
+          "stats_ext": {
+            "forme": "VVDN",
+            "buts_pour": 10,
+            "buts_contre": 9,
+            "matchs": 4
+          },
+          "oracle": {
+            "proba_dom": 50,
+            "proba_nul": 5,
+            "proba_ext": 50,
+            "signal": "RISQUÉ",
+            "favori": "Chelsea",
+            "proba_favori": 50
+          },
+          "analyse": "⚖️ Très serré entre Brentford et Chelsea • 🔥 Brentford : VNNN (1 victoires) • 💪 Chelsea : VVDN (2 victoires)",
+          "meteo": "🌡️ 17°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-09-18"
+        },
+        {
           "id": 560575,
           "domicile": "Tottenham",
           "exterieur": "Everton",
@@ -658,7 +691,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Everton largement favori (61%) • 🔥 Tottenham : DDNN (0 victoires) • 💪 Everton : VNNN (1 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -677,21 +710,21 @@
             "matchs": 4
           },
           "stats_ext": {
-            "forme": "VVVVV",
-            "buts_pour": 9,
-            "buts_contre": 1,
-            "matchs": 5
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 34,
+            "proba_dom": 45,
             "proba_nul": 5,
-            "proba_ext": 66,
-            "signal": "FORT",
+            "proba_ext": 55,
+            "signal": "RISQUÉ",
             "favori": "Arsenal",
-            "proba_favori": 66
+            "proba_favori": 55
           },
-          "analyse": "🎯 Arsenal largement favori (66%) • 🔥 Sunderland : DVND (1 victoires) • 💪 Arsenal : VVVVV (5 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 18°C nuageux",
+          "analyse": "⚖️ Très serré entre Sunderland et Arsenal • 🔥 Sunderland : DVND (1 victoires) • ✅ Score : 0-2",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-12"
         },
@@ -704,10 +737,10 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "DDDD",
+            "forme": "",
             "buts_pour": 0,
-            "buts_contre": 10,
-            "matchs": 4
+            "buts_contre": 0,
+            "matchs": 0
           },
           "stats_ext": {
             "forme": "",
@@ -716,15 +749,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 34,
+            "proba_dom": 39,
             "proba_nul": 5,
-            "proba_ext": 66,
+            "proba_ext": 61,
             "signal": "FORT",
             "favori": "Brighton Hove",
-            "proba_favori": 66
+            "proba_favori": 61
           },
-          "analyse": "🎯 Brighton Hove largement favori (66%) • 🔥 Coventry City : DDDD (0 victoires) • ✅ Score : 0-5",
-          "meteo": "🌡️ 18°C nuageux",
+          "analyse": "🎯 Brighton Hove largement favori (61%) • ✅ Score : 0-5",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-13"
         },
@@ -757,7 +790,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Man City favori (57%) • ✅ Score : 0-1",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-13"
         },
@@ -790,42 +823,9 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Leeds United favori (60%) • ✅ Score : 4-1",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-14"
-        },
-        {
-          "id": 560591,
-          "domicile": "Brentford",
-          "exterieur": "Chelsea",
-          "heure": "2026-09-18T19:00:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "oracle": {
-            "proba_dom": 51,
-            "proba_nul": 5,
-            "proba_ext": 49,
-            "signal": "RISQUÉ",
-            "favori": "Brentford",
-            "proba_favori": 51
-          },
-          "analyse": "⚖️ Très serré entre Brentford et Chelsea",
-          "meteo": "🌡️ 18°C nuageux",
-          "ligue": "Premier League",
-          "date": "2026-09-18"
         },
         {
           "id": 560587,
@@ -856,7 +856,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Tottenham favori (56%) • 🔥 Tottenham : DDNN (0 victoires)",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -889,7 +889,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Everton favori (59%) • 🔥 Everton : VNNN (1 victoires)",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -908,21 +908,21 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "VVVVV",
-            "buts_pour": 9,
-            "buts_contre": 1,
-            "matchs": 5
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 38,
+            "proba_dom": 48,
             "proba_nul": 5,
-            "proba_ext": 62,
-            "signal": "FORT",
+            "proba_ext": 52,
+            "signal": "RISQUÉ",
             "favori": "Arsenal",
-            "proba_favori": 62
+            "proba_favori": 52
           },
-          "analyse": "🎯 Arsenal largement favori (62%) • 💪 Arsenal : VVVVV (5 victoires)",
-          "meteo": "🌡️ 18°C nuageux",
+          "analyse": "⚖️ Très serré entre Brighton Hove et Arsenal",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -955,7 +955,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Newcastle et Hull City",
-          "meteo": "🌡️ 18°C nuageux",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -974,23 +974,56 @@
             "matchs": 0
           },
           "stats_ext": {
-            "forme": "DDDD",
+            "forme": "",
             "buts_pour": 0,
-            "buts_contre": 10,
-            "matchs": 4
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 68,
+            "proba_dom": 63,
             "proba_nul": 5,
-            "proba_ext": 32,
+            "proba_ext": 37,
             "signal": "FORT",
             "favori": "Nottingham",
-            "proba_favori": 68
+            "proba_favori": 63
           },
-          "analyse": "🎯 Nottingham largement favori (68%) • 💪 Coventry City : DDDD (0 victoires)",
-          "meteo": "🌡️ 18°C nuageux",
+          "analyse": "🎯 Nottingham largement favori (63%)",
+          "meteo": "🌡️ 17°C nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
+        },
+        {
+          "id": 560582,
+          "domicile": "Bournemouth",
+          "exterieur": "Liverpool",
+          "heure": "2026-09-20T13:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 46,
+            "proba_nul": 5,
+            "proba_ext": 54,
+            "signal": "RISQUÉ",
+            "favori": "Liverpool",
+            "proba_favori": 54
+          },
+          "analyse": "⚖️ Très serré entre Bournemouth et Liverpool",
+          "meteo": "🌡️ 17°C nuageux",
+          "ligue": "Premier League",
+          "date": "2026-09-20"
         }
       ],
       "hors_saison": false
@@ -998,7 +1031,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 20°C ciel dégagé",
+      "meteo": "🌡️ 36°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1040,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 21°C ciel dégagé",
+      "meteo": "🌡️ 23°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1049,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 20°C couvert",
+      "meteo": "🌡️ 18°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1058,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 18°C nuageux",
+      "meteo": "🌡️ 17°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
