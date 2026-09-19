@@ -1,5 +1,5 @@
 {
-  "total_matchs": 79,
+  "total_matchs": 80,
   "matchs": [
     {
       "id": 537408,
@@ -1130,7 +1130,21 @@
       "favori": "Leeds United",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560591,
+      "domicile": "Brentford",
+      "exterieur": "Chelsea",
+      "score": "3-0",
+      "date": "2026-09-18",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-09-18"
+  "derniere_maj": "2026-09-19"
 }
