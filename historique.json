@@ -1,5 +1,5 @@
 {
-  "total_matchs": 80,
+  "total_matchs": 85,
   "matchs": [
     {
       "id": 537408,
@@ -1142,6 +1142,76 @@
       "oracle_proba_dom": 55,
       "oracle_proba_ext": 45,
       "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560587,
+      "domicile": "Tottenham",
+      "exterieur": "Aston Villa",
+      "score": "2-3",
+      "date": "2026-09-19",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 40,
+      "oracle_proba_ext": 60,
+      "favori": "Aston Villa",
+      "forme_dom": "DDNND",
+      "forme_ext": "DNVDV"
+    },
+    {
+      "id": 560584,
+      "domicile": "Everton",
+      "exterieur": "Ipswich Town",
+      "score": "1-0",
+      "date": "2026-09-19",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 59,
+      "oracle_proba_ext": 41,
+      "favori": "Everton",
+      "forme_dom": "VNNNV",
+      "forme_ext": "VDDVD"
+    },
+    {
+      "id": 560586,
+      "domicile": "Brighton Hove",
+      "exterieur": "Arsenal",
+      "score": "3-0",
+      "date": "2026-09-19",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Brighton Hove",
+      "forme_dom": "VDNVV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560588,
+      "domicile": "Newcastle",
+      "exterieur": "Hull City",
+      "score": "2-1",
+      "date": "2026-09-19",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560589,
+      "domicile": "Nottingham",
+      "exterieur": "Coventry City",
+      "score": "0-1",
+      "date": "2026-09-19",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 59,
+      "oracle_proba_ext": 41,
+      "favori": "Nottingham",
       "forme_dom": "",
       "forme_ext": ""
     }
