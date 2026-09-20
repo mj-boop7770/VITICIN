@@ -1,5 +1,5 @@
 {
-  "total_matchs": 85,
+  "total_matchs": 89,
   "matchs": [
     {
       "id": 537408,
@@ -1212,6 +1212,62 @@
       "oracle_proba_dom": 59,
       "oracle_proba_ext": 41,
       "favori": "Nottingham",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560582,
+      "domicile": "Bournemouth",
+      "exterieur": "Liverpool",
+      "score": "0-1",
+      "date": "2026-09-20",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 37,
+      "oracle_proba_ext": 63,
+      "favori": "Liverpool",
+      "forme_dom": "DNNND",
+      "forme_ext": "NVVNV"
+    },
+    {
+      "id": 560585,
+      "domicile": "Leeds United",
+      "exterieur": "Crystal Palace",
+      "score": "0-0",
+      "date": "2026-09-20",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 68,
+      "oracle_proba_ext": 32,
+      "favori": "Leeds United",
+      "forme_dom": "VNNVN",
+      "forme_ext": ""
+    },
+    {
+      "id": 560590,
+      "domicile": "Man City",
+      "exterieur": "Sunderland",
+      "score": "5-3",
+      "date": "2026-09-20",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 63,
+      "oracle_proba_ext": 37,
+      "favori": "Man City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560583,
+      "domicile": "Fulham",
+      "exterieur": "Man United",
+      "score": "1-1",
+      "date": "2026-09-20",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Man United",
       "forme_dom": "",
       "forme_ext": ""
     }
