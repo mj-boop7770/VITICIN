@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-09-22T20:42:12Z",
+  "mise_a_jour": "2026-09-23T10:32:56Z",
   "news_globales": [
+    {
+      "titre": "\"Tout le monde ne m’a parlé que de ça\": Kylian Mbappé estime que son record de buts à la Coupe du monde doit peser pour le Ballon d'or",
+      "description": "Dans une interview à RFI ce mardi, Kylian Mbappé a encore fermement défendu son ambition de remporter le Ballon d'or 2026 en insistant sur l'impact auprès des gens de son record de buts inscrits à la Coupe du monde.",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/ballon-d-or/tout-le-monde-ne-m-a-parle-que-de-ca-kylian-mbappe-estime-que-son-record-de-buts-a-la-coupe-du-monde-doit-peser-pour-le-ballon-d-or_AV-202609220275.html",
+      "date": "2026-09-22"
+    },
     {
       "titre": "Ambiance, déception, chambrage, surprise, kermesse... L'été 2026 du football verviétois de A à Z, dans nos \"Lettres recommandées\"",
       "description": "Cinquième volet de notre rendez-vous dans les colonnes de l’Avenir Verviers avec \"Les lettres recommandées du football régional\". On revient cette fois sur les mois d’été de juin, juillet et août 2026. ...",
@@ -20,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 20°C couvert",
+      "meteo": "🌡️ 14°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -114,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -147,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -180,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -213,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -246,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 20°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -256,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 20°C peu nuageux",
+      "meteo": "🌡️ 21°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -651,7 +658,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Nottingham largement favori (63%) • 🔥 Nottingham : DNNVD (1 victoires) • 💪 Coventry City : DDDDV (1 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 21°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -684,7 +691,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Liverpool largement favori (63%) • 🔥 Bournemouth : DNNND (0 victoires) • 💪 Liverpool : NVVNV (3 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 21°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -717,7 +724,7 @@
             "proba_favori": 68
           },
           "analyse": "🎯 Leeds United largement favori (68%) • 🔥 Leeds United : VNNVN (2 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 21°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -750,7 +757,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%) • ✅ Score : 5-3",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 21°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -783,7 +790,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Fulham et Man United • ✅ Score : 1-1",
-          "meteo": "🌡️ 20°C peu nuageux",
+          "meteo": "🌡️ 21°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         }
@@ -793,7 +800,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 31°C couvert",
+      "meteo": "🌡️ 20°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -811,7 +818,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 23°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -820,7 +827,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 20°C peu nuageux",
+      "meteo": "🌡️ 21°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
