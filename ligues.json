@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-02T21:39:04Z",
+  "mise_a_jour": "2026-10-03T10:54:02Z",
   "news_globales": [
     {
       "titre": "\"Une date à inscrire dans l’Histoire\": ces supporters qui traversent la France et le monde pour ne pas rater la première de Zidane à domicile",
@@ -27,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 28°C nuageux",
+      "meteo": "🌡️ 16°C nuageux",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 28°C nuageux",
+          "meteo": "🌡️ 16°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 28°C nuageux",
+          "meteo": "🌡️ 16°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 28°C nuageux",
+          "meteo": "🌡️ 16°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 28°C nuageux",
+          "meteo": "🌡️ 16°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 28°C nuageux",
+          "meteo": "🌡️ 16°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 15°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +658,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Nottingham largement favori (63%) • 🔥 Nottingham : DNNVD (1 victoires) • 💪 Coventry City : DDDDV (1 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 15°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -691,7 +691,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Liverpool largement favori (63%) • 🔥 Bournemouth : DNNND (0 victoires) • 💪 Liverpool : NVVNV (3 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 15°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -724,7 +724,7 @@
             "proba_favori": 68
           },
           "analyse": "🎯 Leeds United largement favori (68%) • 🔥 Leeds United : VNNVN (2 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 15°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -757,7 +757,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%) • ✅ Score : 5-3",
-          "meteo": "🌡️ 15°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -790,9 +790,207 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Fulham et Man United • ✅ Score : 1-1",
-          "meteo": "🌡️ 15°C couvert",
+          "meteo": "🌡️ 19°C couvert",
           "ligue": "Premier League",
           "date": "2026-09-20"
+        },
+        {
+          "id": 560593,
+          "domicile": "Arsenal",
+          "exterieur": "Leeds United",
+          "heure": "2026-10-10T11:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "VNNVN",
+            "buts_pour": 7,
+            "buts_contre": 3,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 46,
+            "proba_nul": 5,
+            "proba_ext": 54,
+            "signal": "RISQUÉ",
+            "favori": "Leeds United",
+            "proba_favori": 54
+          },
+          "analyse": "⚖️ Très serré entre Arsenal et Leeds United • 💪 Leeds United : VNNVN (2 victoires)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
+          "id": 560592,
+          "domicile": "Sunderland",
+          "exterieur": "Brighton Hove",
+          "heure": "2026-10-10T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 43,
+            "proba_nul": 5,
+            "proba_ext": 57,
+            "signal": "MOYEN",
+            "favori": "Brighton Hove",
+            "proba_favori": 57
+          },
+          "analyse": "⚡ Brighton Hove favori (57%)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
+          "id": 560595,
+          "domicile": "Chelsea",
+          "exterieur": "Bournemouth",
+          "heure": "2026-10-10T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "DNNND",
+            "buts_pour": 6,
+            "buts_contre": 8,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 55,
+            "proba_nul": 5,
+            "proba_ext": 45,
+            "signal": "RISQUÉ",
+            "favori": "Chelsea",
+            "proba_favori": 55
+          },
+          "analyse": "⚖️ Très serré entre Chelsea et Bournemouth • 💪 Bournemouth : DNNND (0 victoires)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
+          "id": 560599,
+          "domicile": "Ipswich Town",
+          "exterieur": "Fulham",
+          "heure": "2026-10-10T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 62,
+            "proba_nul": 5,
+            "proba_ext": 38,
+            "signal": "FORT",
+            "favori": "Ipswich Town",
+            "proba_favori": 62
+          },
+          "analyse": "🎯 Ipswich Town largement favori (62%)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
+          "id": 560601,
+          "domicile": "Aston Villa",
+          "exterieur": "Brentford",
+          "heure": "2026-10-10T14:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 42,
+            "proba_nul": 5,
+            "proba_ext": 58,
+            "signal": "MOYEN",
+            "favori": "Brentford",
+            "proba_favori": 58
+          },
+          "analyse": "⚡ Brentford favori (58%)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
+          "id": 560600,
+          "domicile": "Man United",
+          "exterieur": "Tottenham",
+          "heure": "2026-10-10T16:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 62,
+            "proba_nul": 5,
+            "proba_ext": 38,
+            "signal": "FORT",
+            "favori": "Man United",
+            "proba_favori": 62
+          },
+          "analyse": "🎯 Man United largement favori (62%)",
+          "meteo": "🌡️ 19°C couvert",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
         }
       ],
       "hors_saison": false
@@ -800,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 30°C couvert",
+      "meteo": "🌡️ 21°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -809,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 19°C couvert",
+      "meteo": "🌡️ 18°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -818,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 16°C partiellement nuageux",
+      "meteo": "🌡️ 21°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -827,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 15°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
