@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-10-09T22:04:20Z",
+  "mise_a_jour": "2026-10-10T11:40:18Z",
   "news_globales": [
+    {
+      "titre": "Repos, amicaux, bilans et prépa physique: comment les clubs de Ligue 1 ont géré les trois longues semaines de trêve",
+      "description": "Après trois semaines de coupure dédiées aux matchs internationaux, la Ligue 1 est de retour ce vendredi soir avec l'affiche opposant Lens et Lyon (20h45). Entre repos, réunion bilan sur le début de saison, travail tactique ou remise sur pied bienvenue des ble…",
+      "source": "BFMTV",
+      "url": "https://rmcsport.bfmtv.com/football/ligue-1/repos-amicaux-bilans-et-prepa-physique-comment-les-clubs-de-ligue-1-ont-gere-les-trois-longues-semaines-de-treve_AV-202610090295.html",
+      "date": "2026-10-09"
+    },
     {
       "titre": "ENTRETIEN – John Patrick, joueur du Stade de Reims : « Être au Real Madrid à 9 ans ne garantit pas d’y arriver »",
       "description": "Le plus chevelu des milieux de Ligue 2 se confie sur ses choix difficiles.",
@@ -14,20 +21,13 @@
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/equipe-argentine/on-aurait-pu-remplir-cinq-stades-a-quoi-faut-il-s-attendre-pour-le-dernier-match-de-messi-avec-l-argentine_AV-202610050285.html",
       "date": "2026-10-05"
-    },
-    {
-      "titre": "\"Une date à inscrire dans l’Histoire\": ces supporters qui traversent la France et le monde pour ne pas rater la première de Zidane à domicile",
-      "description": "Dans une enceinte à guichets fermés, le premier match de Zinédine Zidane au Stade de France comme sélectionneur des Bleus était immanquable pour ses plus grands supporters. Et certains sont venus de très, très loin pour l’occasion.",
-      "source": "BFMTV",
-      "url": "https://rmcsport.bfmtv.com/football/equipe-de-france/une-date-a-inscrire-dans-l-histoire-ces-supporters-qui-traversent-la-france-et-le-monde-pour-ne-pas-rater-la-premiere-de-zidane-a-domicile_AV-202610010743.html",
-      "date": "2026-10-01"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 21°C couvert",
+      "meteo": "🌡️ 14°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 21°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 21°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 21°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 21°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 21°C couvert",
+          "meteo": "🌡️ 14°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 13°C ciel dégagé",
+      "meteo": "🌡️ 15°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -284,10 +284,10 @@
           "pos": 2,
           "equipe": "Arsenal",
           "team_id": 57,
-          "pts": 12,
-          "j": 5,
+          "pts": 13,
+          "j": 6,
           "g": 4,
-          "n": 0,
+          "n": 1,
           "p": 1,
           "bp": 8,
           "bc": 4,
@@ -312,6 +312,21 @@
         },
         {
           "pos": 4,
+          "equipe": "Leeds United",
+          "team_id": 341,
+          "pts": 10,
+          "j": 6,
+          "g": 2,
+          "n": 4,
+          "p": 0,
+          "bp": 7,
+          "bc": 3,
+          "groupe": "Matchday",
+          "elim": true,
+          "msg_elim": "Mathématiquement éliminé"
+        },
+        {
+          "pos": 5,
           "equipe": "Brentford",
           "team_id": 402,
           "pts": 9,
@@ -321,21 +336,6 @@
           "p": 0,
           "bp": 10,
           "bc": 4,
-          "groupe": "Matchday",
-          "elim": true,
-          "msg_elim": "Mathématiquement éliminé"
-        },
-        {
-          "pos": 5,
-          "equipe": "Leeds United",
-          "team_id": 341,
-          "pts": 9,
-          "j": 5,
-          "g": 2,
-          "n": 3,
-          "p": 0,
-          "bp": 7,
-          "bc": 3,
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
@@ -630,6 +630,39 @@
       ],
       "matchs": [
         {
+          "id": 560593,
+          "domicile": "Arsenal",
+          "exterieur": "Leeds United",
+          "heure": "2026-10-10T11:30:00Z",
+          "score": "0-0",
+          "statut": "IN_PLAY",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VVVVD",
+            "buts_pour": 6,
+            "buts_contre": 4,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "VNNVN",
+            "buts_pour": 7,
+            "buts_contre": 3,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 53,
+            "proba_nul": 5,
+            "proba_ext": 47,
+            "signal": "RISQUÉ",
+            "favori": "Arsenal",
+            "proba_favori": 53
+          },
+          "analyse": "⚖️ Très serré entre Arsenal et Leeds United • 🔥 Arsenal : VVVVD (4 victoires) • 💪 Leeds United : VNNVN (2 victoires)",
+          "meteo": "🌡️ 15°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-10-10"
+        },
+        {
           "id": 560589,
           "domicile": "Nottingham",
           "exterieur": "Coventry City",
@@ -658,7 +691,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Nottingham largement favori (63%) • 🔥 Nottingham : DNNVD (1 victoires) • 💪 Coventry City : DDDDV (1 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-19"
         },
@@ -677,21 +710,21 @@
             "matchs": 5
           },
           "stats_ext": {
-            "forme": "NVVNV",
-            "buts_pour": 7,
-            "buts_contre": 3,
-            "matchs": 5
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
           },
           "oracle": {
-            "proba_dom": 37,
+            "proba_dom": 47,
             "proba_nul": 5,
-            "proba_ext": 63,
-            "signal": "FORT",
+            "proba_ext": 53,
+            "signal": "RISQUÉ",
             "favori": "Liverpool",
-            "proba_favori": 63
+            "proba_favori": 53
           },
-          "analyse": "🎯 Liverpool largement favori (63%) • 🔥 Bournemouth : DNNND (0 victoires) • 💪 Liverpool : NVVNV (3 victoires) • ✅ Score : 0-1",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "analyse": "⚖️ Très serré entre Bournemouth et Liverpool • 🔥 Bournemouth : DNNND (0 victoires) • ✅ Score : 0-1",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -716,15 +749,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 68,
+            "proba_dom": 69,
             "proba_nul": 5,
-            "proba_ext": 32,
+            "proba_ext": 31,
             "signal": "FORT",
             "favori": "Leeds United",
-            "proba_favori": 68
+            "proba_favori": 69
           },
-          "analyse": "🎯 Leeds United largement favori (68%) • 🔥 Leeds United : VNNVN (2 victoires) • ✅ Score : 0-0",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "analyse": "🎯 Leeds United largement favori (69%) • 🔥 Leeds United : VNNVN (2 victoires) • ✅ Score : 0-0",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -757,7 +790,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%) • ✅ Score : 5-3",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
         },
@@ -790,42 +823,9 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Fulham et Man United • ✅ Score : 1-1",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-09-20"
-        },
-        {
-          "id": 560593,
-          "domicile": "Arsenal",
-          "exterieur": "Leeds United",
-          "heure": "2026-10-10T11:30:00Z",
-          "score": "VS",
-          "statut": "TIMED",
-          "groupe": "",
-          "stats_dom": {
-            "forme": "",
-            "buts_pour": 0,
-            "buts_contre": 0,
-            "matchs": 0
-          },
-          "stats_ext": {
-            "forme": "VNNVN",
-            "buts_pour": 7,
-            "buts_contre": 3,
-            "matchs": 5
-          },
-          "oracle": {
-            "proba_dom": 46,
-            "proba_nul": 5,
-            "proba_ext": 54,
-            "signal": "RISQUÉ",
-            "favori": "Leeds United",
-            "proba_favori": 54
-          },
-          "analyse": "⚖️ Très serré entre Arsenal et Leeds United • 💪 Leeds United : VNNVN (2 victoires)",
-          "meteo": "🌡️ 13°C ciel dégagé",
-          "ligue": "Premier League",
-          "date": "2026-10-10"
         },
         {
           "id": 560592,
@@ -856,7 +856,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Brighton Hove favori (57%)",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-10-10"
         },
@@ -889,7 +889,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Chelsea et Bournemouth • 💪 Bournemouth : DNNND (0 victoires)",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-10-10"
         },
@@ -922,7 +922,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Ipswich Town largement favori (62%)",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-10-10"
         },
@@ -955,7 +955,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Brentford favori (58%)",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-10-10"
         },
@@ -988,9 +988,42 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Man United largement favori (62%)",
-          "meteo": "🌡️ 13°C ciel dégagé",
+          "meteo": "🌡️ 15°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-10-10"
+        },
+        {
+          "id": 560594,
+          "domicile": "Hull City",
+          "exterieur": "Everton",
+          "heure": "2026-10-11T13:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 51,
+            "proba_nul": 5,
+            "proba_ext": 49,
+            "signal": "RISQUÉ",
+            "favori": "Hull City",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Hull City et Everton",
+          "meteo": "🌡️ 15°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-10-11"
         }
       ],
       "hors_saison": false
@@ -998,7 +1031,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 22°C couvert",
+      "meteo": "🌡️ 16°C pluie modérée",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1040,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 15°C nuageux",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1049,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 16°C couvert",
+      "meteo": "🌡️ 17°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1058,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 13°C ciel dégagé",
+      "meteo": "🌡️ 15°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
