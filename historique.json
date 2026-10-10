@@ -1,5 +1,5 @@
 {
-  "total_matchs": 89,
+  "total_matchs": 94,
   "matchs": [
     {
       "id": 537408,
@@ -1267,6 +1267,76 @@
       "oracle_signal": "RISQUÉ",
       "oracle_proba_dom": 45,
       "oracle_proba_ext": 55,
+      "favori": "Man United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560592,
+      "domicile": "Sunderland",
+      "exterieur": "Brighton Hove",
+      "score": "0-2",
+      "date": "2026-10-10",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 35,
+      "oracle_proba_ext": 65,
+      "favori": "Brighton Hove",
+      "forme_dom": "VNDDD",
+      "forme_ext": "DNVVV"
+    },
+    {
+      "id": 560595,
+      "domicile": "Chelsea",
+      "exterieur": "Bournemouth",
+      "score": "5-1",
+      "date": "2026-10-10",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 67,
+      "oracle_proba_ext": 33,
+      "favori": "Chelsea",
+      "forme_dom": "VDNDV",
+      "forme_ext": "NNNDD"
+    },
+    {
+      "id": 560599,
+      "domicile": "Ipswich Town",
+      "exterieur": "Fulham",
+      "score": "2-1",
+      "date": "2026-10-10",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 69,
+      "oracle_proba_ext": 31,
+      "favori": "Ipswich Town",
+      "forme_dom": "DDVDV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560601,
+      "domicile": "Aston Villa",
+      "exterieur": "Brentford",
+      "score": "2-2",
+      "date": "2026-10-10",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 44,
+      "oracle_proba_ext": 56,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560600,
+      "domicile": "Man United",
+      "exterieur": "Tottenham",
+      "score": "1-1",
+      "date": "2026-10-10",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 59,
+      "oracle_proba_ext": 41,
       "favori": "Man United",
       "forme_dom": "",
       "forme_ext": ""
