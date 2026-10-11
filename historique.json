@@ -1,5 +1,5 @@
 {
-  "total_matchs": 94,
+  "total_matchs": 97,
   "matchs": [
     {
       "id": 537408,
@@ -1338,6 +1338,48 @@
       "oracle_proba_dom": 59,
       "oracle_proba_ext": 41,
       "favori": "Man United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560594,
+      "domicile": "Hull City",
+      "exterieur": "Everton",
+      "score": "2-2",
+      "date": "2026-10-11",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Hull City",
+      "forme_dom": "VNNDN",
+      "forme_ext": ""
+    },
+    {
+      "id": 560596,
+      "domicile": "Crystal Palace",
+      "exterieur": "Nottingham",
+      "score": "3-1",
+      "date": "2026-10-11",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Crystal Palace",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560598,
+      "domicile": "Liverpool",
+      "exterieur": "Man City",
+      "score": "0-3",
+      "date": "2026-10-11",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 46,
+      "oracle_proba_ext": 54,
+      "favori": "Man City",
       "forme_dom": "",
       "forme_ext": ""
     }
