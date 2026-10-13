@@ -1,5 +1,5 @@
 {
-  "total_matchs": 97,
+  "total_matchs": 98,
   "matchs": [
     {
       "id": 537408,
@@ -1380,6 +1380,20 @@
       "oracle_proba_dom": 46,
       "oracle_proba_ext": 54,
       "favori": "Man City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560597,
+      "domicile": "Coventry City",
+      "exterieur": "Newcastle",
+      "score": "4-1",
+      "date": "2026-10-12",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 50,
+      "oracle_proba_ext": 50,
+      "favori": "Newcastle",
       "forme_dom": "",
       "forme_ext": ""
     }
