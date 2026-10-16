@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-10-16T10:24:33Z",
+  "mise_a_jour": "2026-10-16T20:20:22Z",
   "news_globales": [
     {
       "titre": "En 1990, un match de Coupe du monde a provoqué un pic de consommation électrique jamais égalé depuis",
@@ -34,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 17°C couvert",
+      "meteo": "🌡️ 23°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -128,7 +128,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 17°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -161,7 +161,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 17°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -194,7 +194,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 17°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -227,7 +227,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 17°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -260,7 +260,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 17°C couvert",
+          "meteo": "🌡️ 23°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -270,7 +270,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 12°C couvert",
+      "meteo": "🌡️ 11°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -665,7 +665,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Man United largement favori (62%) • 🔥 Man United : VDNND (1 victoires) • 💪 Tottenham : DNNDN (0 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-10"
         },
@@ -698,7 +698,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Hull City et Everton • 🔥 Hull City : VNNDN (1 victoires) • 💪 Everton : NNNVN (1 victoires) • ✅ Score : 2-2",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-11"
         },
@@ -731,7 +731,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Crystal Palace largement favori (63%) • 🔥 Crystal Palace : DVDNV (2 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-11"
         },
@@ -764,7 +764,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Liverpool et Man City • ✅ Score : 0-3",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-11"
         },
@@ -797,7 +797,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Coventry City et Newcastle • ✅ Score : 4-1",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-12"
         },
@@ -830,7 +830,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Everton favori (59%) • 🔥 Everton : NNNVN (1 victoires)",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-17"
         },
@@ -863,7 +863,7 @@
             "proba_favori": 65
           },
           "analyse": "🎯 Hull City largement favori (65%) • 💪 Hull City : VNNDN (1 victoires)",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-17"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Man City favori (59%)",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-17"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Brentford favori (56%)",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-17"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Newcastle favori (58%)",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-17"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Bournemouth et Sunderland",
-          "meteo": "🌡️ 12°C couvert",
+          "meteo": "🌡️ 11°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-18"
         }
@@ -1005,7 +1005,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 16°C ciel dégagé",
+      "meteo": "🌡️ 29°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1014,7 +1014,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 21°C partiellement nuageux",
+      "meteo": "🌡️ 20°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1023,7 +1023,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 19°C partiellement nuageux",
+      "meteo": "🌡️ 13°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1032,7 +1032,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 12°C couvert",
+      "meteo": "🌡️ 11°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
