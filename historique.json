@@ -1,5 +1,5 @@
 {
-  "total_matchs": 98,
+  "total_matchs": 103,
   "matchs": [
     {
       "id": 537408,
@@ -1393,6 +1393,76 @@
       "oracle_signal": "RISQUÉ",
       "oracle_proba_dom": 50,
       "oracle_proba_ext": 50,
+      "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560603,
+      "domicile": "Everton",
+      "exterieur": "Chelsea",
+      "score": "0-2",
+      "date": "2026-10-17",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 48,
+      "oracle_proba_ext": 52,
+      "favori": "Chelsea",
+      "forme_dom": "NNVND",
+      "forme_ext": "DNDVV"
+    },
+    {
+      "id": 560602,
+      "domicile": "Fulham",
+      "exterieur": "Hull City",
+      "score": "1-0",
+      "date": "2026-10-17",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 48,
+      "oracle_proba_ext": 52,
+      "favori": "Hull City",
+      "forme_dom": "DNNDV",
+      "forme_ext": "NNDND"
+    },
+    {
+      "id": 560610,
+      "domicile": "Man City",
+      "exterieur": "Ipswich Town",
+      "score": "3-2",
+      "date": "2026-10-17",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 68,
+      "oracle_proba_ext": 32,
+      "favori": "Man City",
+      "forme_dom": "VVVDV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560611,
+      "domicile": "Brentford",
+      "exterieur": "Liverpool",
+      "score": "1-2",
+      "date": "2026-10-17",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 51,
+      "oracle_proba_ext": 49,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560607,
+      "domicile": "Newcastle",
+      "exterieur": "Aston Villa",
+      "score": "0-1",
+      "date": "2026-10-17",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 53,
+      "oracle_proba_ext": 47,
       "favori": "Newcastle",
       "forme_dom": "",
       "forme_ext": ""
