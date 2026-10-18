@@ -1,5 +1,5 @@
 {
-  "total_matchs": 103,
+  "total_matchs": 106,
   "matchs": [
     {
       "id": 537408,
@@ -1464,6 +1464,48 @@
       "oracle_proba_dom": 53,
       "oracle_proba_ext": 47,
       "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560604,
+      "domicile": "Bournemouth",
+      "exterieur": "Sunderland",
+      "score": "2-0",
+      "date": "2026-10-18",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 58,
+      "oracle_proba_ext": 42,
+      "favori": "Bournemouth",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560605,
+      "domicile": "Leeds United",
+      "exterieur": "Man United",
+      "score": "1-1",
+      "date": "2026-10-18",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 58,
+      "oracle_proba_ext": 42,
+      "favori": "Leeds United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560609,
+      "domicile": "Brighton Hove",
+      "exterieur": "Crystal Palace",
+      "score": "5-0",
+      "date": "2026-10-18",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 62,
+      "oracle_proba_ext": 38,
+      "favori": "Brighton Hove",
       "forme_dom": "",
       "forme_ext": ""
     }
