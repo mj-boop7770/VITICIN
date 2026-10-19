@@ -1,5 +1,5 @@
 {
-  "total_matchs": 106,
+  "total_matchs": 107,
   "matchs": [
     {
       "id": 537408,
@@ -1508,7 +1508,21 @@
       "favori": "Brighton Hove",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560608,
+      "domicile": "Nottingham",
+      "exterieur": "Arsenal",
+      "score": "0-1",
+      "date": "2026-10-18",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 38,
+      "oracle_proba_ext": 62,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-10-18"
+  "derniere_maj": "2026-10-19"
 }
