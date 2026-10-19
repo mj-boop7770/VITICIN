@@ -1,5 +1,5 @@
 {
-  "total_matchs": 107,
+  "total_matchs": 108,
   "matchs": [
     {
       "id": 537408,
@@ -1520,6 +1520,20 @@
       "oracle_proba_dom": 38,
       "oracle_proba_ext": 62,
       "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560606,
+      "domicile": "Tottenham",
+      "exterieur": "Coventry City",
+      "score": "3-1",
+      "date": "2026-10-19",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 54,
+      "oracle_proba_ext": 46,
+      "favori": "Tottenham",
       "forme_dom": "",
       "forme_ext": ""
     }
