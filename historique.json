@@ -1,5 +1,5 @@
 {
-  "total_matchs": 109,
+  "total_matchs": 114,
   "matchs": [
     {
       "id": 537408,
@@ -1550,6 +1550,76 @@
       "favori": "Ipswich Town",
       "forme_dom": "",
       "forme_ext": "VDDDN"
+    },
+    {
+      "id": 560612,
+      "domicile": "Liverpool",
+      "exterieur": "Brighton Hove",
+      "score": "2-0",
+      "date": "2026-10-25",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "Brighton Hove",
+      "forme_dom": "DVVVV",
+      "forme_ext": "VVVVD"
+    },
+    {
+      "id": 560613,
+      "domicile": "Crystal Palace",
+      "exterieur": "Newcastle",
+      "score": "0-2",
+      "date": "2026-10-25",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 42,
+      "oracle_proba_ext": 58,
+      "favori": "Newcastle",
+      "forme_dom": "DNVDD",
+      "forme_ext": "DVDDV"
+    },
+    {
+      "id": 560615,
+      "domicile": "Man United",
+      "exterieur": "Bournemouth",
+      "score": "0-3",
+      "date": "2026-10-25",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 50,
+      "oracle_proba_ext": 50,
+      "favori": "Bournemouth",
+      "forme_dom": "NDNDD",
+      "forme_ext": ""
+    },
+    {
+      "id": 560619,
+      "domicile": "Hull City",
+      "exterieur": "Brentford",
+      "score": "1-1",
+      "date": "2026-10-25",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560621,
+      "domicile": "Sunderland",
+      "exterieur": "Leeds United",
+      "score": "0-0",
+      "date": "2026-10-25",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 39,
+      "oracle_proba_ext": 61,
+      "favori": "Leeds United",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
   "derniere_maj": "2026-10-25"
