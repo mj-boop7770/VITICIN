@@ -1,18 +1,11 @@
 {
-  "mise_a_jour": "2026-10-27T11:20:18Z",
+  "mise_a_jour": "2026-10-27T21:38:53Z",
   "news_globales": [
     {
       "titre": "Ballon d'or 2026: quels sont les autres trophées remis lors de la cérémonie?",
       "description": "Alors que le suspense reste entier concernant le futur Ballon d'or 2026, d'autres récompenses seront distribuées lors de la cérémonie de remise du trophée au théâtre du London Palladium de Londres ce lundi 26 octobre. Joueurs, joueuses, entraîneurs et clubs r…",
       "source": "BFMTV",
       "url": "https://rmcsport.bfmtv.com/football/ballon-d-or/ballon-d-or-2026-quels-sont-les-autres-trophees-remis-lors-de-la-ceremonie_AV-202610260038.html",
-      "date": "2026-10-26"
-    },
-    {
-      "titre": "Ballon d'or 2026 : Kylian Mbappé, Lamine Yamal, Harry Kane... Les arguments des principaux favoris",
-      "description": "La 70e édition du trophée récompensant le meilleur joueur de football de la saison passée se tient, lundi, à Londres.",
-      "source": "Franceinfo.fr",
-      "url": "https://www.franceinfo.fr/sports/foot/ballon-d-or/ballon-d-or-2026-kylian-mbappe-lamine-yamal-harry-kane-les-arguments-des-principaux-favoris_8244049.html",
       "date": "2026-10-26"
     },
     {
@@ -27,7 +20,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 12°C ciel dégagé",
+      "meteo": "🌡️ 15°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +114,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 12°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +147,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 12°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +180,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 12°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +213,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 12°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +246,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 12°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +256,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 15°C peu nuageux",
+      "meteo": "🌡️ 10°C ciel dégagé",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +651,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Liverpool et Brighton Hove • 🔥 Liverpool : DVVVV (4 victoires) • 💪 Brighton Hove : VVVVD (4 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-25"
         },
@@ -691,7 +684,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Newcastle favori (58%) • 🔥 Crystal Palace : DNVDD (1 victoires) • 💪 Newcastle : DVDDV (2 victoires) • ✅ Score : 0-2",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-25"
         },
@@ -724,7 +717,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Man United et Bournemouth • 🔥 Man United : NDNDD (0 victoires) • ✅ Score : 0-3",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-25"
         },
@@ -757,7 +750,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Hull City et Brentford • ✅ Score : 1-1",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-25"
         },
@@ -790,7 +783,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Leeds United largement favori (61%) • ✅ Score : 0-0",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-25"
         },
@@ -823,7 +816,7 @@
             "proba_favori": 62
           },
           "analyse": "🎯 Chelsea largement favori (62%) • 💪 Man United : NDNDD (0 victoires)",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -856,7 +849,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Brighton Hove favori (59%) • 💪 Brighton Hove : VVVVD (4 victoires)",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -889,7 +882,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Bournemouth et Leeds United",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -922,7 +915,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Coventry City et Sunderland",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -955,7 +948,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Hull City et Ipswich Town",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -988,7 +981,7 @@
             "proba_favori": 64
           },
           "analyse": "🎯 Brentford largement favori (64%)",
-          "meteo": "🌡️ 15°C peu nuageux",
+          "meteo": "🌡️ 10°C ciel dégagé",
           "ligue": "Premier League",
           "date": "2026-10-31"
         }
@@ -998,7 +991,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 9°C ciel dégagé",
+      "meteo": "🌡️ 24°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1000,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 14°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1009,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 15°C couvert",
+      "meteo": "🌡️ 10°C peu nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1018,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 15°C peu nuageux",
+      "meteo": "🌡️ 10°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
