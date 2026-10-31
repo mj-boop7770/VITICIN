@@ -1,5 +1,5 @@
 {
-  "total_matchs": 114,
+  "total_matchs": 119,
   "matchs": [
     {
       "id": 537408,
@@ -1618,6 +1618,76 @@
       "oracle_proba_dom": 39,
       "oracle_proba_ext": 61,
       "favori": "Leeds United",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560624,
+      "domicile": "Bournemouth",
+      "exterieur": "Leeds United",
+      "score": "2-0",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Bournemouth",
+      "forme_dom": "DDVVV",
+      "forme_ext": "NDNND"
+    },
+    {
+      "id": 560625,
+      "domicile": "Coventry City",
+      "exterieur": "Sunderland",
+      "score": "3-1",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 69,
+      "oracle_proba_ext": 31,
+      "favori": "Coventry City",
+      "forme_dom": "VVDDV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560629,
+      "domicile": "Hull City",
+      "exterieur": "Ipswich Town",
+      "score": "2-2",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Hull City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560630,
+      "domicile": "Brentford",
+      "exterieur": "Nottingham",
+      "score": "2-0",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 65,
+      "oracle_proba_ext": 35,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560627,
+      "domicile": "Tottenham",
+      "exterieur": "Crystal Palace",
+      "score": "2-0",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 62,
+      "oracle_proba_ext": 38,
+      "favori": "Tottenham",
       "forme_dom": "",
       "forme_ext": ""
     }
