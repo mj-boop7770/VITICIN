@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-11-01T12:26:07Z",
+  "mise_a_jour": "2026-11-01T21:32:21Z",
   "news_globales": [
     {
       "titre": "Ils joueront pour Hyron Andrews : le match entre le Stade Rochelais et les Lions, maintenu en mémoire du Sud-Africain mort la veille, sera à nul autre pareil",
@@ -7,20 +7,13 @@
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/sport/rugby/stade-rochelais/ils-joueront-pour-hyron-andrews-le-match-entre-le-stade-rochelais-et-les-lions-maintenu-en-memoire-du-sud-africain-mort-la-veille-sera-a-nul-autre-pareil-31101948.php",
       "date": "2026-10-16"
-    },
-    {
-      "titre": "Véritable monument du rugby français, le Football Club Lourdais XV fête 115 ans de passion et de légende les 16 et 17 octobre 2026",
-      "description": "Le Football Club Lourdais XV célèbre ses 115 ans les 16 et 17 octobre à Lourdes. Ce week-end festif réunira joueurs, supporters et partenaires autour d'hommages, d'un maillot...",
-      "source": "La Nouvelle Republique Des Pyrénées",
-      "url": "https://www.nrpyrenees.fr/2026/10/06/veritable-monument-du-rugby-francais-le-football-club-lourdais-xv-fete-115-ans-de-passion-et-de-legende-les-16-et-17-octobre-2026-13587329.php",
-      "date": "2026-10-06"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 9°C ciel dégagé",
+      "meteo": "🌡️ 15°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -114,7 +107,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 9°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -147,7 +140,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 9°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -180,7 +173,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 9°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -213,7 +206,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 9°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -246,7 +239,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 9°C ciel dégagé",
+          "meteo": "🌡️ 15°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -256,10 +249,25 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 11°C couvert",
+      "meteo": "🌡️ 10°C couvert",
       "classement": [
         {
           "pos": 1,
+          "equipe": "Arsenal",
+          "team_id": 57,
+          "pts": 24,
+          "j": 9,
+          "g": 8,
+          "n": 0,
+          "p": 1,
+          "bp": 14,
+          "bc": 5,
+          "groupe": "Matchday",
+          "elim": false,
+          "msg_elim": ""
+        },
+        {
+          "pos": 2,
           "equipe": "Man City",
           "team_id": 65,
           "pts": 21,
@@ -269,21 +277,6 @@
           "p": 2,
           "bp": 20,
           "bc": 10,
-          "groupe": "Matchday",
-          "elim": false,
-          "msg_elim": ""
-        },
-        {
-          "pos": 2,
-          "equipe": "Arsenal",
-          "team_id": 57,
-          "pts": 21,
-          "j": 8,
-          "g": 7,
-          "n": 0,
-          "p": 1,
-          "bp": 13,
-          "bc": 5,
           "groupe": "Matchday",
           "elim": false,
           "msg_elim": ""
@@ -323,12 +316,12 @@
           "equipe": "Liverpool",
           "team_id": 64,
           "pts": 15,
-          "j": 8,
+          "j": 9,
           "g": 4,
           "n": 3,
-          "p": 1,
+          "p": 2,
           "bp": 11,
-          "bc": 8,
+          "bc": 9,
           "groupe": "Matchday",
           "elim": true,
           "msg_elim": "Mathématiquement éliminé"
@@ -615,7 +608,7 @@
           "passes": 4
         },
         {
-          "joueur": "Bukayo Saka",
+          "joueur": "Kai Havertz",
           "equipe": "Arsenal",
           "buts": 3,
           "passes": 0
@@ -651,7 +644,7 @@
             "proba_favori": 69
           },
           "analyse": "🎯 Coventry City largement favori (69%) • 🔥 Coventry City : VVDDV (3 victoires) • 💪 Sunderland : DDDND (0 victoires) • ✅ Score : 3-1",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -684,7 +677,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Hull City et Ipswich Town • 🔥 Hull City : DNDNN (0 victoires) • 💪 Ipswich Town : DVDNN (1 victoires) • ✅ Score : 2-2",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -717,7 +710,7 @@
             "proba_favori": 72
           },
           "analyse": "🎯 Brentford largement favori (72%) • 🔥 Brentford : VNDNV (2 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -750,7 +743,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Tottenham largement favori (63%) • ✅ Score : 2-0",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -783,7 +776,7 @@
             "proba_favori": 58
           },
           "analyse": "⚡ Aston Villa favori (58%) • ✅ Score : 1-1",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -808,15 +801,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 50,
+            "proba_dom": 49,
             "proba_nul": 5,
-            "proba_ext": 50,
+            "proba_ext": 51,
             "signal": "RISQUÉ",
             "favori": "Arsenal",
-            "proba_favori": 50
+            "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Liverpool et Arsenal",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-01"
         },
@@ -849,7 +842,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Newcastle et Everton",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-02"
         },
@@ -882,7 +875,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Coventry City favori (57%) • 💪 Coventry City : VVDDV (3 victoires)",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-06"
         },
@@ -915,7 +908,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Leeds United et Tottenham",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -948,7 +941,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Arsenal et Hull City • 💪 Hull City : DNDNN (0 victoires)",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -981,7 +974,7 @@
             "proba_favori": 50
           },
           "analyse": "⚖️ Très serré entre Fulham et Newcastle",
-          "meteo": "🌡️ 11°C couvert",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         }
@@ -991,7 +984,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 14°C couvert",
+      "meteo": "🌡️ 19°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1000,7 +993,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 18°C ciel dégagé",
+      "meteo": "🌡️ 14°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1009,7 +1002,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 13°C ciel dégagé",
+      "meteo": "🌡️ 9°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1018,7 +1011,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 11°C couvert",
+      "meteo": "🌡️ 10°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
