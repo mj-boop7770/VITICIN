@@ -1,5 +1,5 @@
 {
-  "total_matchs": 119,
+  "total_matchs": 120,
   "matchs": [
     {
       "id": 537408,
@@ -1690,7 +1690,21 @@
       "favori": "Tottenham",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560628,
+      "domicile": "Aston Villa",
+      "exterieur": "Fulham",
+      "score": "1-1",
+      "date": "2026-10-31",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 58,
+      "oracle_proba_ext": 42,
+      "favori": "Aston Villa",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-10-31"
+  "derniere_maj": "2026-11-01"
 }
