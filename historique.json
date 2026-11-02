@@ -1,5 +1,5 @@
 {
-  "total_matchs": 120,
+  "total_matchs": 121,
   "matchs": [
     {
       "id": 537408,
@@ -1704,7 +1704,21 @@
       "favori": "Aston Villa",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560631,
+      "domicile": "Liverpool",
+      "exterieur": "Arsenal",
+      "score": "0-1",
+      "date": "2026-11-01",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-11-01"
+  "derniere_maj": "2026-11-02"
 }
