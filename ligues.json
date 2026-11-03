@@ -1,5 +1,5 @@
 {
-  "mise_a_jour": "2026-11-03T13:22:18Z",
+  "mise_a_jour": "2026-11-03T22:44:06Z",
   "news_globales": [
     {
       "titre": "Ligue 1 : « C’est un coach extraordinaire »… L’OL saborde-t-il sa saison en laissant partir Paulo Fonseca ?",
@@ -27,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 13°C partiellement nuageux",
+      "meteo": "🌡️ 18°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 13°C partiellement nuageux",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 13°C partiellement nuageux",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 13°C partiellement nuageux",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 13°C partiellement nuageux",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 13°C partiellement nuageux",
+          "meteo": "🌡️ 18°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 12°C légère pluie",
+      "meteo": "🌡️ 9°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +658,7 @@
             "proba_favori": 72
           },
           "analyse": "🎯 Brentford largement favori (72%) • 🔥 Brentford : VNDNV (2 victoires) • 💪 Nottingham : DDDND (0 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -691,7 +691,7 @@
             "proba_favori": 68
           },
           "analyse": "🎯 Tottenham largement favori (68%) • 🔥 Tottenham : DNVVV (3 victoires) • 💪 Crystal Palace : NVDDD (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -704,9 +704,9 @@
           "statut": "FINISHED",
           "groupe": "",
           "stats_dom": {
-            "forme": "VVVVN",
-            "buts_pour": 13,
-            "buts_contre": 3,
+            "forme": "VVVND",
+            "buts_pour": 7,
+            "buts_contre": 6,
             "matchs": 5
           },
           "stats_ext": {
@@ -716,15 +716,15 @@
             "matchs": 0
           },
           "oracle": {
-            "proba_dom": 70,
+            "proba_dom": 66,
             "proba_nul": 5,
-            "proba_ext": 30,
+            "proba_ext": 34,
             "signal": "FORT",
             "favori": "Aston Villa",
-            "proba_favori": 70
+            "proba_favori": 66
           },
-          "analyse": "🎯 Aston Villa largement favori (70%) • 🔥 Aston Villa : VVVVN (4 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 12°C légère pluie",
+          "analyse": "🎯 Aston Villa largement favori (66%) • 🔥 Aston Villa : VVVND (3 victoires) • ✅ Score : 1-1",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -757,7 +757,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Liverpool et Arsenal • ✅ Score : 0-1",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-01"
         },
@@ -790,7 +790,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Newcastle et Everton • ✅ Score : 0-1",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-02"
         },
@@ -823,7 +823,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Everton largement favori (61%)",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-06"
         },
@@ -856,7 +856,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Tottenham largement favori (61%) • 💪 Tottenham : DNVVV (3 victoires)",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -889,7 +889,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Arsenal favori (60%)",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -922,7 +922,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Fulham et Newcastle",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -955,7 +955,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%) • 🔥 Nottingham : DDDND (0 victoires)",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -988,7 +988,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Liverpool favori (57%) • 🔥 Crystal Palace : NVDDD (1 victoires)",
-          "meteo": "🌡️ 12°C légère pluie",
+          "meteo": "🌡️ 9°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         }
@@ -998,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 16°C ciel dégagé",
+      "meteo": "🌡️ 22°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 13°C ciel dégagé",
+      "meteo": "🌡️ 8°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 9°C nuageux",
+      "meteo": "🌡️ 7°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 12°C légère pluie",
+      "meteo": "🌡️ 9°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
