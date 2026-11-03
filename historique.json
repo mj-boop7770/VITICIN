@@ -1,5 +1,5 @@
 {
-  "total_matchs": 121,
+  "total_matchs": 122,
   "matchs": [
     {
       "id": 537408,
@@ -1718,7 +1718,21 @@
       "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560622,
+      "domicile": "Newcastle",
+      "exterieur": "Everton",
+      "score": "0-1",
+      "date": "2026-11-02",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 47,
+      "oracle_proba_ext": 53,
+      "favori": "Everton",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-11-02"
+  "derniere_maj": "2026-11-03"
 }
