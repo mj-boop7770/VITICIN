@@ -1,12 +1,19 @@
 {
-  "mise_a_jour": "2026-11-03T00:14:29Z",
+  "mise_a_jour": "2026-11-03T13:22:18Z",
   "news_globales": [
     {
-      "titre": "Actualité : Porsche lui a repris son record en le battant de seulement 9 secondes, Xiaomi revient au Nürburgring avec une SU7 Ultra beaucoup plus agressive pour reprendre l’avantage",
-      "description": "C’est le retour de Xiaomi au Nürburgring, avec comme objectif de reprendre son record que Porsche détient dans la catégorie des berlines électriques haut de gamme, avec seulement 9,424 secondes d’avance. Pour cela, le constructeur chinois mise sur une nouvell…",
-      "source": "Les Numériques",
-      "url": "https://www.lesnumeriques.com/voiture-electrique/porsche-lui-a-repris-son-record-en-le-battant-de-seulement-9-secondes-xiaomi-revient-au-nuerburgring-avec-une-su7-ultra-beaucoup-plus-agressive-pour-reprendre-l-avantage-n266618.html",
-      "date": "2026-11-01"
+      "titre": "Ligue 1 : « C’est un coach extraordinaire »… L’OL saborde-t-il sa saison en laissant partir Paulo Fonseca ?",
+      "description": "Après quasiment deux années mitigées sur le banc lyonnais, l’entraîneur de 53 ans devrait s’engager dans les prochains jours avec le Sporting. Un départ inattendu, avant tout pour des raisons économiques, qui place l’OL dans un intrigant nouveau flou",
+      "source": "20 Minutes",
+      "url": "https://www.20minutes.fr/sport/football/ligue-1/4259600-20261102-ligue-1-coach-extraordinaire-ol-saborde-saison-laissant-partir-paulo-fonseca",
+      "date": "2026-11-02"
+    },
+    {
+      "titre": "Super Mario Bros. : un speedrunner bat le record du monde et s’approche à deux images de la perfection",
+      "description": "En terminant Super Mario Bros. en 4 min 54 s 299, le speedrunner Niftski a établi un nouveau record du monde. Mais surtout, il ne lui manque désormais que deux images pour égaler le temps de référence d’une partie programmée image par image sur ordinateur. La…",
+      "source": "Numerama",
+      "url": "https://www.numerama.com/pop-culture/2365387-super-mario-bros-un-speedrunner-bat-le-record-du-monde-et-sapproche-a-deux-images-de-la-perfection.html",
+      "date": "2026-11-02"
     },
     {
       "titre": "Ils joueront pour Hyron Andrews : le match entre le Stade Rochelais et les Lions, maintenu en mémoire du Sud-Africain mort la veille, sera à nul autre pareil",
@@ -14,20 +21,13 @@
       "source": "Sud Ouest",
       "url": "https://www.sudouest.fr/sport/rugby/stade-rochelais/ils-joueront-pour-hyron-andrews-le-match-entre-le-stade-rochelais-et-les-lions-maintenu-en-memoire-du-sud-africain-mort-la-veille-sera-a-nul-autre-pareil-31101948.php",
       "date": "2026-10-16"
-    },
-    {
-      "titre": "Véritable monument du rugby français, le Football Club Lourdais XV fête 115 ans de passion et de légende les 16 et 17 octobre 2026",
-      "description": "Le Football Club Lourdais XV célèbre ses 115 ans les 16 et 17 octobre à Lourdes. Ce week-end festif réunira joueurs, supporters et partenaires autour d'hommages, d'un maillot...",
-      "source": "La Nouvelle Republique Des Pyrénées",
-      "url": "https://www.nrpyrenees.fr/2026/10/06/veritable-monument-du-rugby-francais-le-football-club-lourdais-xv-fete-115-ans-de-passion-et-de-legende-les-16-et-17-octobre-2026-13587329.php",
-      "date": "2026-10-06"
     }
   ],
   "ligues": [
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 16°C ciel dégagé",
+      "meteo": "🌡️ 13°C partiellement nuageux",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 16°C ciel dégagé",
+          "meteo": "🌡️ 13°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 16°C ciel dégagé",
+          "meteo": "🌡️ 13°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 16°C ciel dégagé",
+          "meteo": "🌡️ 13°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 16°C ciel dégagé",
+          "meteo": "🌡️ 13°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 16°C ciel dégagé",
+          "meteo": "🌡️ 13°C partiellement nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 9°C peu nuageux",
+      "meteo": "🌡️ 12°C légère pluie",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +658,7 @@
             "proba_favori": 72
           },
           "analyse": "🎯 Brentford largement favori (72%) • 🔥 Brentford : VNDNV (2 victoires) • 💪 Nottingham : DDDND (0 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -691,7 +691,7 @@
             "proba_favori": 68
           },
           "analyse": "🎯 Tottenham largement favori (68%) • 🔥 Tottenham : DNVVV (3 victoires) • 💪 Crystal Palace : NVDDD (1 victoires) • ✅ Score : 2-0",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -724,7 +724,7 @@
             "proba_favori": 70
           },
           "analyse": "🎯 Aston Villa largement favori (70%) • 🔥 Aston Villa : VVVVN (4 victoires) • ✅ Score : 1-1",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-10-31"
         },
@@ -757,7 +757,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Liverpool et Arsenal • ✅ Score : 0-1",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-01"
         },
@@ -790,7 +790,7 @@
             "proba_favori": 53
           },
           "analyse": "⚖️ Très serré entre Newcastle et Everton • ✅ Score : 0-1",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-02"
         },
@@ -823,7 +823,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Everton largement favori (61%)",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-06"
         },
@@ -856,7 +856,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Tottenham largement favori (61%) • 💪 Tottenham : DNVVV (3 victoires)",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -889,7 +889,7 @@
             "proba_favori": 60
           },
           "analyse": "⚡ Arsenal favori (60%)",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -922,7 +922,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Fulham et Newcastle",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -955,7 +955,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%) • 🔥 Nottingham : DDDND (0 victoires)",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-07"
         },
@@ -988,7 +988,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Liverpool favori (57%) • 🔥 Crystal Palace : NVDDD (1 victoires)",
-          "meteo": "🌡️ 9°C peu nuageux",
+          "meteo": "🌡️ 12°C légère pluie",
           "ligue": "Premier League",
           "date": "2026-11-08"
         }
@@ -998,7 +998,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 19°C nuageux",
+      "meteo": "🌡️ 16°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1007,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 11°C ciel dégagé",
+      "meteo": "🌡️ 13°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1016,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 10°C couvert",
+      "meteo": "🌡️ 9°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1025,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 9°C peu nuageux",
+      "meteo": "🌡️ 12°C légère pluie",
       "classement": [],
       "buteurs": [],
       "matchs": [],
