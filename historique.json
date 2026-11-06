@@ -1,5 +1,5 @@
 {
-  "total_matchs": 122,
+  "total_matchs": 123,
   "matchs": [
     {
       "id": 537408,
@@ -1729,6 +1729,20 @@
       "oracle_signal": "RISQUÉ",
       "oracle_proba_dom": 47,
       "oracle_proba_ext": 53,
+      "favori": "Everton",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560634,
+      "domicile": "Everton",
+      "exterieur": "Coventry City",
+      "score": "3-1",
+      "date": "2026-11-06",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 62,
+      "oracle_proba_ext": 38,
       "favori": "Everton",
       "forme_dom": "",
       "forme_ext": ""
