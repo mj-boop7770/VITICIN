@@ -1,5 +1,5 @@
 {
-  "total_matchs": 123,
+  "total_matchs": 127,
   "matchs": [
     {
       "id": 537408,
@@ -1744,6 +1744,62 @@
       "oracle_proba_dom": 62,
       "oracle_proba_ext": 38,
       "favori": "Everton",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560632,
+      "domicile": "Leeds United",
+      "exterieur": "Tottenham",
+      "score": "1-0",
+      "date": "2026-11-07",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 47,
+      "oracle_proba_ext": 53,
+      "favori": "Tottenham",
+      "forme_dom": "DNNDV",
+      "forme_ext": "NVVVD"
+    },
+    {
+      "id": 560640,
+      "domicile": "Arsenal",
+      "exterieur": "Hull City",
+      "score": "1-0",
+      "date": "2026-11-07",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 70,
+      "oracle_proba_ext": 30,
+      "favori": "Arsenal",
+      "forme_dom": "NVVVV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560633,
+      "domicile": "Fulham",
+      "exterieur": "Newcastle",
+      "score": "1-1",
+      "date": "2026-11-07",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 49,
+      "oracle_proba_ext": 51,
+      "favori": "Newcastle",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560641,
+      "domicile": "Nottingham",
+      "exterieur": "Man City",
+      "score": "3-1",
+      "date": "2026-11-07",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 40,
+      "oracle_proba_ext": 60,
+      "favori": "Man City",
       "forme_dom": "",
       "forme_ext": ""
     }
