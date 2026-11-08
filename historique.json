@@ -1,5 +1,5 @@
 {
-  "total_matchs": 127,
+  "total_matchs": 132,
   "matchs": [
     {
       "id": 537408,
@@ -1800,6 +1800,76 @@
       "oracle_proba_dom": 40,
       "oracle_proba_ext": 60,
       "favori": "Man City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560635,
+      "domicile": "Crystal Palace",
+      "exterieur": "Liverpool",
+      "score": "1-3",
+      "date": "2026-11-08",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 31,
+      "oracle_proba_ext": 69,
+      "favori": "Liverpool",
+      "forme_dom": "VDDDD",
+      "forme_ext": "VVDDV"
+    },
+    {
+      "id": 560636,
+      "domicile": "Sunderland",
+      "exterieur": "Chelsea",
+      "score": "1-0",
+      "date": "2026-11-08",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 34,
+      "oracle_proba_ext": 66,
+      "favori": "Chelsea",
+      "forme_dom": "DDNDV",
+      "forme_ext": "VVDVD"
+    },
+    {
+      "id": 560637,
+      "domicile": "Ipswich Town",
+      "exterieur": "Bournemouth",
+      "score": "1-2",
+      "date": "2026-11-08",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 52,
+      "oracle_proba_ext": 48,
+      "favori": "Ipswich Town",
+      "forme_dom": "VDNND",
+      "forme_ext": ""
+    },
+    {
+      "id": 560638,
+      "domicile": "Brighton Hove",
+      "exterieur": "Brentford",
+      "score": "2-0",
+      "date": "2026-11-08",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 57,
+      "oracle_proba_ext": 43,
+      "favori": "Brighton Hove",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560639,
+      "domicile": "Man United",
+      "exterieur": "Aston Villa",
+      "score": "4-4",
+      "date": "2026-11-08",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 44,
+      "oracle_proba_ext": 56,
+      "favori": "Aston Villa",
       "forme_dom": "",
       "forme_ext": ""
     }
