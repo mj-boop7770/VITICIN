@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-11-13T23:04:45Z",
+  "mise_a_jour": "2026-11-14T12:47:05Z",
   "news_globales": [
+    {
+      "titre": "Charles De Ketelaere fête son 10e but et est le meilleur buteur des Diables rouges en 2026, pas mal pour “le pire joueur de l’histoire”",
+      "description": "Meilleur buteur des Diables en 2026, Charles De Ketelaere vient d’atteindre la barre symbolique de dix buts en sélection. ...",
+      "source": "dh.be",
+      "url": "https://www.dhnet.be/sports/football/diablesrouges/2026/11/13/charles-de-ketelaere-fete-son-10e-but-et-est-le-meilleur-buteur-des-diables-rouges-en-2026-pas-mal-pour-le-pire-joueur-de-lhistoire-QETKFBCWUJGDVGPZ2KQSENCTWQ/",
+      "date": "2026-11-13"
+    },
     {
       "titre": "\"C'est juste incroyable\" : la navigatrice Alexia Barrier, première femme à terminer sa Route du Rhum en Ultim, entre dans l'histoire",
       "description": "La navigatrice qui a grandi à Nice vient d'achever sa Route du Rhum mercredi 11 novembre en arrivant à Pointe-à-Pitre, en Guadeloupe. Elle est la première femme à terminer cette mythique course dans la catégorie Ultim.",
@@ -27,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 5°C légère pluie",
+      "meteo": "🌡️ 4°C couvert",
       "classement": [],
       "buteurs": [
         {
@@ -121,7 +128,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 5°C légère pluie",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -154,7 +161,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 5°C légère pluie",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -187,7 +194,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 5°C légère pluie",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -220,7 +227,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 5°C légère pluie",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -253,7 +260,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 5°C légère pluie",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -263,7 +270,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 2°C partiellement nuageux",
+      "meteo": "🌡️ 10°C partiellement nuageux",
       "classement": [
         {
           "pos": 1,
@@ -658,7 +665,7 @@
             "proba_favori": 69
           },
           "analyse": "🎯 Liverpool largement favori (69%) • 🔥 Crystal Palace : VDDDD (1 victoires) • 💪 Liverpool : VVDDV (3 victoires) • ✅ Score : 1-3",
-          "meteo": "🌡️ 2°C partiellement nuageux",
+          "meteo": "🌡️ 10°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -691,7 +698,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Chelsea largement favori (66%) • 🔥 Sunderland : DDNDV (1 victoires) • 💪 Chelsea : VVDVD (3 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 2°C partiellement nuageux",
+          "meteo": "🌡️ 10°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -724,7 +731,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Bournemouth • 🔥 Ipswich Town : VDNND (1 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 2°C partiellement nuageux",
+          "meteo": "🌡️ 10°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -757,7 +764,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Brighton Hove favori (57%) • ✅ Score : 2-0",
-          "meteo": "🌡️ 2°C partiellement nuageux",
+          "meteo": "🌡️ 10°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -790,9 +797,207 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Aston Villa favori (56%) • ✅ Score : 4-4",
-          "meteo": "🌡️ 2°C partiellement nuageux",
+          "meteo": "🌡️ 10°C partiellement nuageux",
           "ligue": "Premier League",
           "date": "2026-11-08"
+        },
+        {
+          "id": 560643,
+          "domicile": "Man City",
+          "exterieur": "Fulham",
+          "heure": "2026-11-21T12:30:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 63,
+            "proba_nul": 5,
+            "proba_ext": 37,
+            "signal": "FORT",
+            "favori": "Man City",
+            "proba_favori": 63
+          },
+          "analyse": "🎯 Man City largement favori (63%)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
+        },
+        {
+          "id": 560642,
+          "domicile": "Chelsea",
+          "exterieur": "Leeds United",
+          "heure": "2026-11-21T15:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "VVDVD",
+            "buts_pour": 9,
+            "buts_contre": 4,
+            "matchs": 5
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 63,
+            "proba_nul": 5,
+            "proba_ext": 37,
+            "signal": "FORT",
+            "favori": "Chelsea",
+            "proba_favori": 63
+          },
+          "analyse": "🎯 Chelsea largement favori (63%) • 🔥 Chelsea : VVDVD (3 victoires)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
+        },
+        {
+          "id": 560644,
+          "domicile": "Aston Villa",
+          "exterieur": "Sunderland",
+          "heure": "2026-11-21T15:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "DDNDV",
+            "buts_pour": 2,
+            "buts_contre": 7,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 59,
+            "proba_nul": 5,
+            "proba_ext": 41,
+            "signal": "MOYEN",
+            "favori": "Aston Villa",
+            "proba_favori": 59
+          },
+          "analyse": "⚡ Aston Villa favori (59%) • 💪 Sunderland : DDNDV (1 victoires)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
+        },
+        {
+          "id": 560647,
+          "domicile": "Bournemouth",
+          "exterieur": "Nottingham",
+          "heure": "2026-11-21T15:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "oracle": {
+            "proba_dom": 61,
+            "proba_nul": 5,
+            "proba_ext": 39,
+            "signal": "FORT",
+            "favori": "Bournemouth",
+            "proba_favori": 61
+          },
+          "analyse": "🎯 Bournemouth largement favori (61%)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
+        },
+        {
+          "id": 560648,
+          "domicile": "Tottenham",
+          "exterieur": "Ipswich Town",
+          "heure": "2026-11-21T15:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "VDNND",
+            "buts_pour": 8,
+            "buts_contre": 9,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 49,
+            "proba_nul": 5,
+            "proba_ext": 51,
+            "signal": "RISQUÉ",
+            "favori": "Ipswich Town",
+            "proba_favori": 51
+          },
+          "analyse": "⚖️ Très serré entre Tottenham et Ipswich Town • 💪 Ipswich Town : VDNND (1 victoires)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
+        },
+        {
+          "id": 560650,
+          "domicile": "Coventry City",
+          "exterieur": "Crystal Palace",
+          "heure": "2026-11-21T15:00:00Z",
+          "score": "VS",
+          "statut": "TIMED",
+          "groupe": "",
+          "stats_dom": {
+            "forme": "",
+            "buts_pour": 0,
+            "buts_contre": 0,
+            "matchs": 0
+          },
+          "stats_ext": {
+            "forme": "VDDDD",
+            "buts_pour": 4,
+            "buts_contre": 13,
+            "matchs": 5
+          },
+          "oracle": {
+            "proba_dom": 55,
+            "proba_nul": 5,
+            "proba_ext": 45,
+            "signal": "RISQUÉ",
+            "favori": "Coventry City",
+            "proba_favori": 55
+          },
+          "analyse": "⚖️ Très serré entre Coventry City et Crystal Palace • 💪 Crystal Palace : VDDDD (1 victoires)",
+          "meteo": "🌡️ 10°C partiellement nuageux",
+          "ligue": "Premier League",
+          "date": "2026-11-21"
         }
       ],
       "hors_saison": false
@@ -800,7 +1005,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 8°C peu nuageux",
+      "meteo": "🌡️ 0°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -809,7 +1014,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 13°C nuageux",
+      "meteo": "🌡️ 12°C nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -818,7 +1023,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 5°C ciel dégagé",
+      "meteo": "🌡️ 10°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -827,7 +1032,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 2°C partiellement nuageux",
+      "meteo": "🌡️ 10°C partiellement nuageux",
       "classement": [],
       "buteurs": [],
       "matchs": [],
