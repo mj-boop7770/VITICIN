@@ -1,19 +1,19 @@
 {
-  "mise_a_jour": "2026-11-14T12:47:05Z",
+  "mise_a_jour": "2026-11-14T21:51:25Z",
   "news_globales": [
+    {
+      "titre": "Buteurs luxembourgeois en D3 : derrière Copette, le désert",
+      "description": "Nathan Copette et ses huits buts font exception dans une Division 3 FFA où les attaquants des équipes luxembourgeoises ne sont guère en verve cette saison. ...",
+      "source": "Lavenir.net",
+      "url": "https://www.lavenir.net/regions/luxembourg/sports/2026/11/13/buteurs-luxembourgeois-en-d3-derriere-copette-le-desert-PDP5DTJWQFGTPMIGELJ7NWDVXE/",
+      "date": "2026-11-13"
+    },
     {
       "titre": "Charles De Ketelaere fête son 10e but et est le meilleur buteur des Diables rouges en 2026, pas mal pour “le pire joueur de l’histoire”",
       "description": "Meilleur buteur des Diables en 2026, Charles De Ketelaere vient d’atteindre la barre symbolique de dix buts en sélection. ...",
       "source": "dh.be",
       "url": "https://www.dhnet.be/sports/football/diablesrouges/2026/11/13/charles-de-ketelaere-fete-son-10e-but-et-est-le-meilleur-buteur-des-diables-rouges-en-2026-pas-mal-pour-le-pire-joueur-de-lhistoire-QETKFBCWUJGDVGPZ2KQSENCTWQ/",
       "date": "2026-11-13"
-    },
-    {
-      "titre": "\"C'est juste incroyable\" : la navigatrice Alexia Barrier, première femme à terminer sa Route du Rhum en Ultim, entre dans l'histoire",
-      "description": "La navigatrice qui a grandi à Nice vient d'achever sa Route du Rhum mercredi 11 novembre en arrivant à Pointe-à-Pitre, en Guadeloupe. Elle est la première femme à terminer cette mythique course dans la catégorie Ultim.",
-      "source": "Franceinfo.fr",
-      "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/antibes/c-est-juste-incroyable-la-navigatrice-alexia-barrier-devient-la-premiere-femme-a-terminer-sa-route-du-rhum-en-ultim-3448062.html",
-      "date": "2026-11-12"
     },
     {
       "titre": "Ross Sykes évoque ses envies de départ, sa blessure, l’ambition et la belle ambiance du noyau unioniste : “Le groupe plus soudé en quatre ans”",
@@ -34,7 +34,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 4°C couvert",
+      "meteo": "🌡️ 7°C nuageux",
       "classement": [],
       "buteurs": [
         {
@@ -128,7 +128,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 4°C couvert",
+          "meteo": "🌡️ 7°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -161,7 +161,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 4°C couvert",
+          "meteo": "🌡️ 7°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -194,7 +194,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 4°C couvert",
+          "meteo": "🌡️ 7°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -227,7 +227,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 4°C couvert",
+          "meteo": "🌡️ 7°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -260,7 +260,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 4°C couvert",
+          "meteo": "🌡️ 7°C nuageux",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -270,7 +270,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 10°C partiellement nuageux",
+      "meteo": "🌡️ 4°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -665,7 +665,7 @@
             "proba_favori": 69
           },
           "analyse": "🎯 Liverpool largement favori (69%) • 🔥 Crystal Palace : VDDDD (1 victoires) • 💪 Liverpool : VVDDV (3 victoires) • ✅ Score : 1-3",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -698,7 +698,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Chelsea largement favori (66%) • 🔥 Sunderland : DDNDV (1 victoires) • 💪 Chelsea : VVDVD (3 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -731,7 +731,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Bournemouth • 🔥 Ipswich Town : VDNND (1 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -764,7 +764,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Brighton Hove favori (57%) • ✅ Score : 2-0",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -797,7 +797,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Aston Villa favori (56%) • ✅ Score : 4-4",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -830,7 +830,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -863,7 +863,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Chelsea largement favori (63%) • 🔥 Chelsea : VVDVD (3 victoires)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -896,7 +896,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Aston Villa favori (59%) • 💪 Sunderland : DDNDV (1 victoires)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -929,7 +929,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Bournemouth largement favori (61%)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -962,7 +962,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Tottenham et Ipswich Town • 💪 Ipswich Town : VDNND (1 victoires)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -995,7 +995,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Coventry City et Crystal Palace • 💪 Crystal Palace : VDDDD (1 victoires)",
-          "meteo": "🌡️ 10°C partiellement nuageux",
+          "meteo": "🌡️ 4°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         }
@@ -1005,7 +1005,7 @@
     {
       "code": "SA",
       "nom": "Série A",
-      "meteo": "🌡️ 0°C ciel dégagé",
+      "meteo": "🌡️ 12°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1014,7 +1014,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 12°C nuageux",
+      "meteo": "🌡️ 12°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1023,7 +1023,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 10°C ciel dégagé",
+      "meteo": "🌡️ 5°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1032,7 +1032,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 10°C partiellement nuageux",
+      "meteo": "🌡️ 4°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
