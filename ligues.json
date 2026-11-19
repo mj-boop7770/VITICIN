@@ -1,6 +1,13 @@
 {
-  "mise_a_jour": "2026-11-18T23:44:38Z",
+  "mise_a_jour": "2026-11-19T14:58:47Z",
   "news_globales": [
+    {
+      "titre": "Le vortex polaire décroche avec une avance record : pourquoi cela ne devrait pas changer la météo en France",
+      "description": "L’événement était envisagé par les météorologues depuis fin octobre et il s’est finalement produit la semaine dernière : le vortex polaire s’est affaissé ! Quelles seront ses conséquences en France ? La réponse risque de vous étonner.",
+      "source": "Futura",
+      "url": "https://www.futura-sciences.com/planete/actualites/meteorologie-vortex-polaire-decroche-avance-record-cela-ne-devrait-pas-changer-meteo-france-139375/",
+      "date": "2026-11-18"
+    },
     {
       "titre": "Buteurs luxembourgeois en D3 : derrière Copette, le désert",
       "description": "Nathan Copette et ses huits buts font exception dans une Division 3 FFA où les attaquants des équipes luxembourgeoises ne sont guère en verve cette saison. ...",
@@ -20,7 +27,7 @@
     {
       "code": "WC",
       "nom": "Coupe du Monde 2026",
-      "meteo": "🌡️ 14°C peu nuageux",
+      "meteo": "🌡️ 13°C ciel dégagé",
       "classement": [],
       "buteurs": [
         {
@@ -114,7 +121,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Argentina et Switzerland • ✅ Score : 3-1",
-          "meteo": "🌡️ 14°C peu nuageux",
+          "meteo": "🌡️ 13°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-12"
         },
@@ -147,7 +154,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et Spain • ✅ Score : 0-2",
-          "meteo": "🌡️ 14°C peu nuageux",
+          "meteo": "🌡️ 13°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-14"
         },
@@ -180,7 +187,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre England et Argentina • ✅ Score : 1-2",
-          "meteo": "🌡️ 14°C peu nuageux",
+          "meteo": "🌡️ 13°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-15"
         },
@@ -213,7 +220,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre France et England • ✅ Score : 4-6",
-          "meteo": "🌡️ 14°C peu nuageux",
+          "meteo": "🌡️ 13°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-18"
         },
@@ -246,7 +253,7 @@
             "proba_favori": 54
           },
           "analyse": "⚖️ Très serré entre Spain et Argentina • ✅ Score : 1-0",
-          "meteo": "🌡️ 14°C peu nuageux",
+          "meteo": "🌡️ 13°C ciel dégagé",
           "ligue": "Coupe du Monde 2026",
           "date": "2026-07-19"
         }
@@ -256,7 +263,7 @@
     {
       "code": "PL",
       "nom": "Premier League",
-      "meteo": "🌡️ 9°C pluie modérée",
+      "meteo": "🌡️ 10°C couvert",
       "classement": [
         {
           "pos": 1,
@@ -651,7 +658,7 @@
             "proba_favori": 69
           },
           "analyse": "🎯 Liverpool largement favori (69%) • 🔥 Crystal Palace : VDDDD (1 victoires) • 💪 Liverpool : VVDDV (3 victoires) • ✅ Score : 1-3",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -684,7 +691,7 @@
             "proba_favori": 66
           },
           "analyse": "🎯 Chelsea largement favori (66%) • 🔥 Sunderland : DDNDV (1 victoires) • 💪 Chelsea : VVDVD (3 victoires) • ✅ Score : 1-0",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -717,7 +724,7 @@
             "proba_favori": 52
           },
           "analyse": "⚖️ Très serré entre Ipswich Town et Bournemouth • 🔥 Ipswich Town : VDNND (1 victoires) • ✅ Score : 1-2",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -750,7 +757,7 @@
             "proba_favori": 57
           },
           "analyse": "⚡ Brighton Hove favori (57%) • ✅ Score : 2-0",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -783,7 +790,7 @@
             "proba_favori": 56
           },
           "analyse": "⚡ Aston Villa favori (56%) • ✅ Score : 4-4",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-08"
         },
@@ -816,7 +823,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Man City largement favori (63%)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -849,7 +856,7 @@
             "proba_favori": 63
           },
           "analyse": "🎯 Chelsea largement favori (63%) • 🔥 Chelsea : VVDVD (3 victoires)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -882,7 +889,7 @@
             "proba_favori": 59
           },
           "analyse": "⚡ Aston Villa favori (59%) • 💪 Sunderland : DDNDV (1 victoires)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -915,7 +922,7 @@
             "proba_favori": 61
           },
           "analyse": "🎯 Bournemouth largement favori (61%)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -948,7 +955,7 @@
             "proba_favori": 51
           },
           "analyse": "⚖️ Très serré entre Tottenham et Ipswich Town • 💪 Ipswich Town : VDNND (1 victoires)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         },
@@ -981,7 +988,7 @@
             "proba_favori": 55
           },
           "analyse": "⚖️ Très serré entre Coventry City et Crystal Palace • 💪 Crystal Palace : VDDDD (1 victoires)",
-          "meteo": "🌡️ 9°C pluie modérée",
+          "meteo": "🌡️ 10°C couvert",
           "ligue": "Premier League",
           "date": "2026-11-21"
         }
@@ -1000,7 +1007,7 @@
     {
       "code": "PD",
       "nom": "La Liga",
-      "meteo": "🌡️ 15°C couvert",
+      "meteo": "🌡️ 14°C ciel dégagé",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1009,7 +1016,7 @@
     {
       "code": "FL1",
       "nom": "Ligue 1",
-      "meteo": "🌡️ 12°C nuageux",
+      "meteo": "🌡️ 14°C légère pluie",
       "classement": [],
       "buteurs": [],
       "matchs": [],
@@ -1018,7 +1025,7 @@
     {
       "code": "CL",
       "nom": "Ligue des Champions",
-      "meteo": "🌡️ 9°C pluie modérée",
+      "meteo": "🌡️ 10°C couvert",
       "classement": [],
       "buteurs": [],
       "matchs": [],
