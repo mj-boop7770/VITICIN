@@ -1,5 +1,5 @@
 {
-  "total_matchs": 132,
+  "total_matchs": 137,
   "matchs": [
     {
       "id": 537408,
@@ -1870,6 +1870,76 @@
       "oracle_proba_dom": 44,
       "oracle_proba_ext": 56,
       "favori": "Aston Villa",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560644,
+      "domicile": "Aston Villa",
+      "exterieur": "Sunderland",
+      "score": "0-0",
+      "date": "2026-11-21",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Aston Villa",
+      "forme_dom": "VNDNN",
+      "forme_ext": "DNDVN"
+    },
+    {
+      "id": 560647,
+      "domicile": "Bournemouth",
+      "exterieur": "Nottingham",
+      "score": "2-0",
+      "date": "2026-11-21",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 70,
+      "oracle_proba_ext": 30,
+      "favori": "Bournemouth",
+      "forme_dom": "VVVVV",
+      "forme_ext": "DNDVD"
+    },
+    {
+      "id": 560648,
+      "domicile": "Tottenham",
+      "exterieur": "Ipswich Town",
+      "score": "2-0",
+      "date": "2026-11-21",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 70,
+      "oracle_proba_ext": 30,
+      "favori": "Tottenham",
+      "forme_dom": "VVVDV",
+      "forme_ext": ""
+    },
+    {
+      "id": 560650,
+      "domicile": "Coventry City",
+      "exterieur": "Crystal Palace",
+      "score": "3-2",
+      "date": "2026-11-21",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 61,
+      "oracle_proba_ext": 39,
+      "favori": "Coventry City",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560651,
+      "domicile": "Newcastle",
+      "exterieur": "Arsenal",
+      "score": "2-2",
+      "date": "2026-11-21",
+      "ligue": "Premier League",
+      "oracle_signal": "MOYEN",
+      "oracle_proba_dom": 43,
+      "oracle_proba_ext": 57,
+      "favori": "Arsenal",
       "forme_dom": "",
       "forme_ext": ""
     }
