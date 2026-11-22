@@ -1,5 +1,5 @@
 {
-  "total_matchs": 137,
+  "total_matchs": 139,
   "matchs": [
     {
       "id": 537408,
@@ -1940,6 +1940,34 @@
       "oracle_proba_dom": 43,
       "oracle_proba_ext": 57,
       "favori": "Arsenal",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560646,
+      "domicile": "Hull City",
+      "exterieur": "Brighton Hove",
+      "score": "2-0",
+      "date": "2026-11-22",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 45,
+      "oracle_proba_ext": 55,
+      "favori": "Brighton Hove",
+      "forme_dom": "",
+      "forme_ext": ""
+    },
+    {
+      "id": 560645,
+      "domicile": "Liverpool",
+      "exterieur": "Man United",
+      "score": "4-0",
+      "date": "2026-11-22",
+      "ligue": "Premier League",
+      "oracle_signal": "FORT",
+      "oracle_proba_dom": 67,
+      "oracle_proba_ext": 33,
+      "favori": "Liverpool",
       "forme_dom": "",
       "forme_ext": ""
     }
