@@ -1,5 +1,5 @@
 {
-  "total_matchs": 139,
+  "total_matchs": 140,
   "matchs": [
     {
       "id": 537408,
@@ -1970,7 +1970,21 @@
       "favori": "Liverpool",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560649,
+      "domicile": "Brentford",
+      "exterieur": "Everton",
+      "score": "4-0",
+      "date": "2026-11-23",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 55,
+      "oracle_proba_ext": 45,
+      "favori": "Brentford",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-11-23"
+  "derniere_maj": "2026-11-24"
 }
