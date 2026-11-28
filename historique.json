@@ -1,5 +1,5 @@
 {
-  "total_matchs": 140,
+  "total_matchs": 141,
   "matchs": [
     {
       "id": 537408,
@@ -1984,7 +1984,21 @@
       "favori": "Brentford",
       "forme_dom": "",
       "forme_ext": ""
+    },
+    {
+      "id": 560658,
+      "domicile": "Nottingham",
+      "exterieur": "Chelsea",
+      "score": "3-2",
+      "date": "2026-11-27",
+      "ligue": "Premier League",
+      "oracle_signal": "RISQUÉ",
+      "oracle_proba_dom": 47,
+      "oracle_proba_ext": 53,
+      "favori": "Chelsea",
+      "forme_dom": "",
+      "forme_ext": ""
     }
   ],
-  "derniere_maj": "2026-11-27"
+  "derniere_maj": "2026-11-28"
 }
